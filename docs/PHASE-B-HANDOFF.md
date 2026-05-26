@@ -64,6 +64,19 @@ These pieces go into the repo itself because they're small and essential for rep
 - `chapter3-graphrag/smoke-test/` — 10 representative documents (with OCR text + expected graph fragment) so reviewers can run the pipeline end-to-end without downloading Zenodo
 - `chapter3-graphrag/figures/` — Chapter 3 figures (3.1–3.7) as PNG/SVG
 
+### 4a. Grading workflow — important sequencing note
+
+At the time Phase A was committed, the user's Chapter 3 grading was **not yet complete**. The user will hand you a final grading Excel file (likely `chapter3_grading.xlsx` or similar). When that arrives:
+
+1. **Parse the Excel file** — confirm with the user which sheet/columns hold the per-query, per-system scores.
+2. **Regenerate every Chapter 3 figure** that depends on grading data — Figures 3.x that show per-system comparison, blind-grading results, tier breakdowns, etc. Save updates to `chapter3-graphrag/figures/`.
+3. **Update `chapter3-graphrag/results/`** — write the cleaned grading data as CSV/JSON; preserve the raw Excel alongside for provenance.
+4. **Update any numbers in `chapter3-graphrag/README.md`** that reference grading outcomes (e.g., "~10 unique documents per query vs. competitors' 4.2 average" — verify against final grades).
+5. **Update the thesis document** itself (`Masters Thesis Draft 3.docx` or whichever is current) with the final grades and figures — confirm with the user before editing the thesis.
+6. **Commit in one logical batch** with a message like `chapter 3: add final grading data, regenerate figures, update narrative`.
+
+Do **not** push Chapter 3 grading commits until the user confirms the grades are final and the thesis text has been updated to match.
+
 ### 5. Update placeholders
 
 Once Zenodo DOIs are minted (post-defense):
