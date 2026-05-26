@@ -1,0 +1,42 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Jacob Polay
+
+This license applies to all original data, annotations, transcriptions,
+evaluation outputs, and figures in this repository that are the work of the
+author — including but not limited to:
+
+  - chapter1-ocr/gold-standard/transcriptions/
+  - chapter2-ner/gold-standard/
+  - chapter1-ocr/results/, chapter2-ner/results/, chapter3-graphrag/results/
+  - All original figures in chapter*/figures/
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material for any purpose,
+          even commercially
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the
+                license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+Suggested citation:
+
+  Polay, Jacob. (2026). early-modern-pipeline: Datasets and evaluation
+  results from "Loud Yet Invisible: A Humanist-Designed Pipeline for
+  Unlocking the Early Modern Archive" [Data set]. GitHub.
+  https://github.com/polayj/early-modern-pipeline
+
+---
+
+THIRD-PARTY DATA: This repository references and, in some cases, includes
+data derived from third-party sources (Internet Archive, Early English Books
+Online, Old Bailey Online, PCEEC2, Royal Society Corpus, and others). Those
+sources retain their original licenses. See docs/data-provenance.md for a
+complete provenance and licensing table.

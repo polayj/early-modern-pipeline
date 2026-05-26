@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:39</Creator>
+        <Created>2025-10-02T01:43:00.658+02:00</Created>
+        <LastChange>2025-10-24T01:56:10.909+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051251" pageNr="10" tsid="258749350" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=NBNJDHMTIODKLRAOECXAIIBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HSBSOCFRLLJFOPROYESBSDUG" imageId="87046370" />
+    </Metadata>
+    <Page imageFilename="11168119_0010_104051251.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586534557" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_91" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1178,376 1342,376 1342,465 1178,465" />
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1187,453 1217,457 1226,449 1238,451 1254,466 1267,466 1280,453 1292,462 1327,464 1333,375 1267,367 1241,375 1232,367 1193,365" />
+                <Baseline points="1200,441 1244,432 1289,429 1334,432" />
+                <TextEquiv>
+                    <Unicode>[ 6 ]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_91" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="501,1962 508,482 2005,471 2003,1284 2000,1962 1988,2920 501,2920" />
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="548,535 2000,531 2000,470 1778,451 548,462" />
+                <Baseline points="558,513 570,513 615,516 659,513 704,513 749,513 794,513 838,510 883,510 928,510 973,510 1018,510 1062,507 1107,510 1152,507 1197,507 1241,507 1286,507 1331,507 1376,507 1421,507 1465,507 1510,507 1555,504 1600,504 1645,504 1689,507 1734,507 1779,507 1824,507 1868,507 1913,510 1958,510 2003,510" />
+                <TextEquiv>
+                    <Unicode>But the Bill says; factors shall no longer be traded to, than whilst under the Protection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="509,565 1998,565 1998,529 1866,518 509,513" />
+                <Baseline points="519,555 564,555 609,555 653,555 698,555 743,552 788,552 832,552 877,555 922,552 967,549 1012,549 1056,549 1101,549 1146,549 1191,552 1236,549 1280,549 1325,549 1370,549 1415,549 1459,549 1504,549 1549,549 1594,546 1639,546 1683,546 1728,546 1773,546 1818,546 1862,549 1907,549 1952,552 1997,555 2000,555" />
+                <TextEquiv>
+                    <Unicode>the Ambassador or Consuls: To this it is answered, That they must continue so for their own</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="513,611 1992,602 1981,559 513,561" />
+                <Baseline points="522,597 564,594 609,597 653,594 698,594 743,594 788,591 832,594 877,594 922,591 967,591 1012,591 1056,591 1101,588 1146,585 1191,588 1236,588 1280,588 1325,588 1370,585 1415,588 1459,588 1504,588 1549,588 1594,585 1639,585 1683,585 1728,585 1773,585 1818,585 1862,588 1907,588 1952,591 1997,591" />
+                <TextEquiv>
+                    <Unicode>Security, otherwise they must immediately fall into the State of Subjects of the Sultan, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="509,643 1992,652 1992,602 1920,598 509,611" />
+                <Baseline points="519,632 564,635 609,635 653,635 698,635 743,632 788,632 832,635 877,632 922,632 967,632 1012,629 1056,629 1101,626 1146,629 1191,629 1236,629 1280,626 1325,626 1370,626 1415,626 1459,626 1504,629 1549,629 1594,626 1639,623 1683,626 1728,623 1773,626 1818,629 1862,629 1907,629 1952,632 1997,629" />
+                <TextEquiv>
+                    <Unicode>must pay the Poll Tax; and as to the Regulations of the Company, they will be under small</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="509,682 1998,691 1998,654 1916,641 509,641" />
+                <Baseline points="519,674 564,674 609,674 653,674 698,671 743,674 788,671 832,674 877,671 922,671 967,671 1012,671 1056,671 1101,668 1146,668 1191,668 1236,668 1280,668 1325,665 1370,668 1415,668 1459,668 1504,668 1549,668 1594,668 1639,668 1683,665 1728,668 1773,668 1818,668 1862,668 1907,671 1952,671 1997,674 2000,674" />
+                <TextEquiv>
+                    <Unicode>Difficulty of submitting to them; for in a little time their Nation must have the forming them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="513,729 1983,729 1931,680 513,684" />
+                <Baseline points="522,716 567,716 612,713 656,713 701,713 746,716 791,713 835,713 880,713 925,710 970,710 1015,710 1059,710 1104,707 1149,707 1194,710 1238,707 1283,707 1328,707 1373,710 1418,707 1462,707 1507,710 1552,710 1597,707 1642,710 1686,707 1731,710 1776,710 1821,710 1865,710 1910,713 1955,713 1988,719" />
+                <TextEquiv>
+                    <Unicode>But this does not separate them from their own Nation, or exempt them from its Jurisdiction,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="509,768 934,787 964,760 1070,760 1148,787 1327,760 1327,721 509,725" />
+                <Baseline points="519,755 525,755 570,755 615,755 659,755 704,755 749,755 794,755 838,755 883,755 928,752 973,752 1018,749 1062,749 1107,749 1152,749 1197,749 1241,752 1286,752 1331,752" />
+                <TextEquiv>
+                    <Unicode>to which they are, by the strongest Motives, bound.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="548,841 1987,839 1987,783 1881,768 1346,807 548,783" />
+                <Baseline points="558,832 603,832 647,829 692,829 737,832 782,832 826,832 871,832 916,832 961,829 1006,829 1050,829 1095,829 1140,829 1185,829 1230,829 1274,826 1319,829 1364,829 1409,829 1453,829 1498,829 1543,829 1588,829 1633,829 1677,829 1722,829 1767,829 1812,829 1857,832 1901,829 1946,832 1991,832" />
+                <TextEquiv>
+                    <Unicode>It has been urged, that these English Jews are in no Connexion with those of Turkey, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="513,883 1987,887 1987,839 1744,828 513,835" />
+                <Baseline points="522,871 567,874 612,874 656,874 701,871 746,874 791,874 835,871 880,871 925,871 970,868 1015,868 1059,865 1104,868 1149,868 1194,868 1238,868 1283,868 1328,868 1373,868 1418,868 1462,868 1507,868 1552,868 1597,868 1642,865 1686,868 1731,868 1776,868 1821,868 1865,868 1910,868 1955,871 1991,871" />
+                <TextEquiv>
+                    <Unicode>will live separate as Englishmen: But it is known they are the very same People; for as well</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="518,921 1989,928 1989,889 1914,869 518,883" />
+                <Baseline points="528,913 573,916 618,913 662,910 707,910 752,913 797,913 841,913 886,907 931,913 976,913 1021,910 1065,910 1110,907 1155,907 1200,907 1244,907 1289,910 1334,907 1379,910 1424,910 1468,907 1513,907 1558,910 1603,904 1648,907 1692,904 1737,907 1782,910 1827,907 1871,910 1916,910 1961,910 1994,913" />
+                <TextEquiv>
+                    <Unicode>Those, as These, are generally Refugees from Italy or Spain. And those very Persons, who have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="505,964 1987,971 1987,926 1871,919 505,928" />
+                <Baseline points="516,952 561,955 606,952 650,952 695,952 740,952 785,952 829,952 874,952 919,952 964,949 1009,949 1053,949 1098,949 1143,949 1188,946 1233,946 1277,949 1322,949 1367,949 1412,949 1456,949 1501,949 1546,952 1591,949 1636,949 1680,949 1725,949 1770,949 1815,949 1859,952 1904,952 1949,952 1991,958" />
+                <TextEquiv>
+                    <Unicode>thought themselves most interested in the Event of this Bill, are no more Englishmen, than any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="503,997 751,1027 988,1027 1033,993 1359,1001 1359,967 1301,956 503,967" />
+                <Baseline points="513,994 558,997 603,994 647,994 692,994 737,994 782,994 826,994 871,991 916,991 961,994 1006,991 1050,991 1095,991 1140,991 1185,991 1230,988 1274,991 1319,991 1364,994" />
+                <TextEquiv>
+                    <Unicode>Constantinople Jew may be at any Time by Denization.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="544,1079 1972,1087 1987,1008 1854,1047 1672,1014 544,1029" />
+                <Baseline points="555,1068 600,1071 644,1071 689,1071 734,1071 779,1071 824,1071 868,1071 913,1071 958,1071 1003,1068 1047,1068 1092,1068 1137,1071 1182,1068 1227,1068 1271,1071 1316,1068 1361,1071 1406,1068 1450,1068 1495,1068 1540,1068 1585,1068 1630,1068 1674,1068 1719,1068 1764,1068 1809,1071 1854,1071 1898,1071 1943,1071 1988,1071 1991,1071" />
+                <TextEquiv>
+                    <Unicode>It is known to all who have lived at Aleppo, that the Leghorn Jews, who live there under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="509,1122 1992,1128 1959,1077 509,1072" />
+                <Baseline points="519,1113 564,1113 609,1113 653,1113 698,1113 743,1113 788,1113 832,1113 877,1113 922,1113 967,1110 1012,1110 1056,1110 1101,1110 1146,1110 1191,1110 1236,1107 1280,1107 1325,1107 1370,1110 1415,1107 1459,1107 1504,1110 1549,1107 1594,1107 1639,1104 1683,1107 1728,1110 1773,1110 1818,1110 1862,1107 1907,1110 1952,1110 1997,1113" />
+                <TextEquiv>
+                    <Unicode>French Protection, wear their Beards, and live and converse altogether with the Jews of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="503,1159 1998,1170 1998,1131 1923,1118 503,1116" />
+                <Baseline points="513,1152 558,1155 603,1152 647,1155 692,1152 737,1152 782,1152 826,1152 871,1149 916,1152 961,1149 1006,1152 1050,1152 1095,1152 1140,1146 1185,1149 1230,1146 1274,1146 1319,1146 1364,1146 1409,1149 1453,1149 1498,1149 1543,1146 1588,1146 1633,1149 1677,1146 1722,1149 1767,1146 1812,1146 1857,1149 1901,1149 1946,1149 1991,1152 2003,1152" />
+                <TextEquiv>
+                    <Unicode>Place, with whom they intermarry. The chief Partner of the Jew at Smyrna, who has been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="503,1200 1985,1206 1987,1165 505,1169" />
+                <Baseline points="516,1194 558,1194 603,1194 647,1194 692,1194 737,1191 782,1194 826,1191 871,1194 916,1191 961,1191 1006,1191 1050,1191 1095,1191 1140,1191 1185,1188 1230,1188 1274,1191 1319,1188 1364,1188 1409,1188 1453,1188 1498,1188 1543,1188 1588,1188 1633,1188 1677,1185 1722,1188 1767,1188 1812,1188 1857,1188 1901,1191 1946,1194 1991,1191" />
+                <TextEquiv>
+                    <Unicode>cited in a late Case, does the same at Smyrna; and it is known, that they all contribute, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="505,1243 1877,1254 1987,1245 1989,1206 507,1202" />
+                <Baseline points="516,1233 561,1233 606,1233 650,1233 695,1233 740,1233 785,1236 829,1233 874,1233 919,1230 964,1230 1009,1230 1053,1230 1098,1230 1143,1227 1188,1227 1233,1227 1277,1227 1322,1227 1367,1230 1412,1227 1456,1230 1501,1230 1546,1230 1591,1230 1636,1227 1680,1227 1725,1230 1770,1230 1815,1230 1859,1233 1904,1230 1949,1233 1991,1233" />
+                <TextEquiv>
+                    <Unicode>some Form or other, either by a Rate or free Gift, to the Maintenance of the national Poor;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="501,1292 1884,1286 1854,1238 503,1245" />
+                <Baseline points="513,1271 558,1274 603,1274 647,1274 692,1274 737,1274 782,1274 826,1274 871,1271 916,1274 961,1271 1006,1271 1050,1271 1095,1271 1140,1271 1185,1271 1230,1271 1274,1268 1319,1268 1364,1271 1409,1268 1453,1271 1498,1268 1543,1271 1588,1271 1633,1268 1677,1268 1722,1268 1767,1271 1812,1271 1857,1271 1889,1274" />
+                <TextEquiv>
+                    <Unicode>which is a heavy Charge, and many of them have been heard to complain of it as such.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:18;}">
+                <Coords points="542,1361 1996,1368 1970,1286 1638,1286 1562,1325 542,1308" />
+                <Baseline points="552,1349 597,1349 641,1352 686,1352 731,1352 776,1352 821,1355 865,1352 910,1352 955,1349 1000,1352 1044,1349 1089,1349 1134,1352 1179,1349 1224,1352 1268,1349 1313,1349 1358,1346 1403,1349 1447,1346 1492,1346 1537,1346 1582,1349 1627,1346 1671,1349 1716,1349 1761,1349 1806,1349 1851,1349 1895,1352 1940,1352 1985,1352 2000,1352" />
+                <TextEquiv>
+                    <Unicode>Several of the Jews now living at Constantinople, and elsewhere, are descended from such as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:19;}">
+                <Coords points="505,1400 1994,1409 1994,1368 1884,1357 505,1361" />
+                <Baseline points="516,1394 519,1391 564,1394 609,1394 653,1394 698,1394 743,1391 788,1394 832,1394 877,1391 922,1388 967,1388 1012,1388 1056,1388 1101,1388 1146,1388 1191,1388 1236,1388 1280,1391 1325,1391 1370,1388 1415,1388 1459,1388 1504,1385 1549,1388 1594,1391 1639,1388 1683,1388 1728,1388 1773,1388 1818,1391 1862,1391 1907,1391 1952,1391 1997,1391" />
+                <TextEquiv>
+                    <Unicode>came from Italy under some foreign Protection ; but, mixing there with their own People, the next</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:20;}">
+                <Coords points="503,1443 1989,1452 1974,1398 503,1402" />
+                <Baseline points="513,1433 558,1433 603,1433 647,1436 692,1433 737,1433 782,1436 826,1433 871,1433 916,1433 961,1433 1006,1430 1050,1430 1095,1430 1140,1430 1185,1430 1230,1430 1274,1430 1319,1430 1364,1430 1409,1430 1453,1430 1498,1430 1543,1430 1588,1427 1633,1427 1677,1427 1722,1430 1767,1430 1812,1430 1857,1430 1901,1430 1946,1433 1991,1433 1994,1433" />
+                <TextEquiv>
+                    <Unicode>Generation of them became Subjects of the Sultan: The same thing will no doubt happen with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:21;}">
+                <Coords points="498,1478 1981,1498 1981,1448 1916,1437 498,1443" />
+                <Baseline points="507,1471 552,1474 597,1474 641,1474 686,1474 731,1474 776,1471 821,1474 865,1471 910,1471 955,1471 1000,1471 1044,1471 1089,1471 1134,1471 1179,1471 1224,1468 1268,1468 1313,1468 1358,1471 1403,1471 1447,1471 1492,1468 1537,1468 1582,1468 1627,1468 1671,1468 1716,1468 1761,1471 1806,1471 1851,1471 1895,1471 1940,1471 1985,1474" />
+                <TextEquiv>
+                    <Unicode>the English Jews; and as to such of them as may not marry, there are not wanting Inducements</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:22;}">
+                <Coords points="499,1538 1439,1532 1409,1480 499,1484" />
+                <Baseline points="510,1516 546,1516 591,1516 635,1516 680,1516 725,1513 770,1513 815,1513 859,1516 904,1513 949,1513 994,1513 1038,1510 1083,1513 1128,1510 1173,1510 1218,1510 1262,1510 1307,1510 1352,1510 1397,1510 1442,1513" />
+                <TextEquiv>
+                    <Unicode>to their considering themselves as at Home in Turkey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:23;}">
+                <Coords points="542,1607 1981,1603 1981,1534 542,1543" />
+                <Baseline points="552,1582 597,1588 641,1588 686,1591 731,1591 776,1594 821,1591 865,1591 910,1591 955,1594 1000,1594 1044,1594 1089,1591 1134,1591 1179,1591 1224,1591 1268,1591 1313,1591 1358,1591 1403,1588 1447,1591 1492,1591 1537,1591 1582,1591 1627,1591 1671,1588 1716,1591 1761,1591 1806,1591 1851,1591 1895,1591 1940,1591 1985,1588" />
+                <TextEquiv>
+                    <Unicode>The Protection given to stranger Jews, by the Christian Ambassadors in Turkey, is very different</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:24;}">
+                <Coords points="499,1638 1989,1648 1989,1607 1802,1592 499,1595" />
+                <Baseline points="510,1633 513,1630 558,1633 603,1633 647,1633 692,1633 737,1633 782,1633 826,1633 871,1633 916,1633 961,1630 1006,1630 1050,1630 1095,1630 1140,1627 1185,1630 1230,1627 1274,1630 1319,1630 1364,1627 1409,1627 1453,1630 1498,1630 1543,1627 1588,1630 1633,1630 1677,1630 1722,1627 1767,1630 1812,1630 1857,1630 1901,1630 1946,1633 1991,1630" />
+                <TextEquiv>
+                    <Unicode>from what the English Jews are to have from this Bill; for those stranger Jews are not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:25;}">
+                <Coords points="503,1679 1983,1676 1925,1636 503,1640" />
+                <Baseline points="513,1671 555,1674 600,1671 644,1668 689,1671 734,1671 779,1671 824,1671 868,1668 913,1668 958,1668 1003,1668 1047,1668 1092,1668 1137,1668 1182,1671 1227,1668 1271,1668 1316,1668 1361,1668 1406,1671 1450,1668 1495,1668 1540,1665 1585,1668 1630,1668 1674,1668 1719,1668 1764,1668 1809,1671 1854,1668 1898,1668 1943,1671 1988,1668" />
+                <TextEquiv>
+                    <Unicode>considered as the Subjects of any one of the States by whom they are protected, but as Subjects</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:26;}">
+                <Coords points="499,1731 1989,1724 1989,1685 1853,1672 499,1676" />
+                <Baseline points="510,1716 516,1710 561,1710 606,1710 650,1710 695,1710 740,1710 785,1710 829,1710 874,1710 919,1710 964,1707 1009,1707 1053,1710 1098,1707 1143,1707 1188,1707 1233,1710 1277,1707 1322,1707 1367,1707 1412,1707 1456,1707 1501,1707 1546,1704 1591,1704 1636,1704 1680,1707 1725,1704 1770,1707 1815,1707 1859,1707 1904,1707 1949,1710 1994,1707" />
+                <TextEquiv>
+                    <Unicode>of States not in Amity with the Porte, and who are allowed to resort to Turkey, under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:27;}">
+                <Coords points="498,1759 1983,1769 1951,1717 498,1730" />
+                <Baseline points="507,1752 510,1752 555,1752 600,1749 644,1749 689,1749 734,1749 779,1749 824,1749 868,1749 913,1749 958,1746 1003,1749 1047,1746 1092,1743 1137,1746 1182,1746 1227,1746 1271,1746 1316,1743 1361,1746 1406,1746 1450,1743 1495,1746 1540,1743 1585,1743 1630,1743 1674,1746 1719,1746 1764,1743 1809,1746 1854,1746 1898,1746 1943,1749 1988,1749" />
+                <TextEquiv>
+                    <Unicode>the Protection of some one of the Nations established there: But they are not received into the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:28;}">
+                <Coords points="499,1800 1979,1804 1927,1752 499,1759" />
+                <Baseline points="510,1791 555,1794 600,1791 644,1791 689,1788 734,1788 779,1791 824,1788 868,1788 913,1788 958,1785 1003,1785 1047,1785 1092,1785 1137,1785 1182,1785 1227,1785 1271,1785 1316,1788 1361,1785 1406,1782 1450,1785 1495,1785 1540,1782 1585,1782 1630,1782 1674,1785 1719,1785 1764,1785 1809,1785 1854,1785 1898,1785 1943,1788 1982,1791" />
+                <TextEquiv>
+                    <Unicode>Community of any of the Nations they are under, or have a Place at their national Assemblies;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:29;}">
+                <Coords points="498,1847 1989,1849 1990,1799 499,1800" />
+                <Baseline points="507,1830 552,1833 597,1833 641,1830 686,1830 731,1830 776,1830 821,1827 865,1827 910,1827 955,1821 1000,1821 1044,1824 1089,1824 1134,1827 1179,1824 1224,1824 1268,1821 1313,1824 1358,1824 1403,1824 1447,1827 1492,1821 1537,1821 1582,1824 1627,1824 1671,1824 1716,1824 1761,1824 1806,1827 1851,1824 1895,1827 1940,1827 1985,1830 1994,1830" />
+                <TextEquiv>
+                    <Unicode>nor can those who are protected by France, who are the greater Number, trade to or from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:30;}">
+                <Coords points="499,1884 1979,1884 1948,1834 499,1845" />
+                <Baseline points="510,1871 549,1871 594,1871 638,1868 683,1868 728,1868 773,1865 818,1865 862,1865 907,1868 952,1865 997,1862 1041,1865 1086,1862 1131,1865 1176,1862 1221,1862 1265,1859 1310,1862 1355,1862 1400,1862 1444,1862 1489,1862 1534,1862 1579,1862 1624,1862 1668,1862 1713,1865 1758,1862 1803,1865 1848,1865 1892,1865 1937,1865 1982,1868" />
+                <TextEquiv>
+                    <Unicode>France; and, in case of any Difficulties, they are to be helped out at their own particular</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:31;}">
+                <Coords points="503,1927 1983,1936 1983,1882 1914,1873 503,1881" />
+                <Baseline points="513,1910 558,1910 603,1910 647,1910 692,1910 737,1910 782,1907 826,1907 871,1904 916,1904 961,1904 1006,1907 1050,1904 1095,1904 1140,1904 1185,1901 1230,1904 1274,1901 1319,1904 1364,1901 1409,1901 1453,1901 1498,1901 1543,1901 1588,1904 1633,1901 1677,1904 1722,1901 1767,1904 1812,1904 1857,1904 1901,1907 1946,1910 1988,1910" />
+                <TextEquiv>
+                    <Unicode>Expence; they pay their Consulage, and are exempted from being treated as Subjects of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:32;}">
+                <Coords points="499,1955 1860,1983 1860,1927 1731,1907 499,1929" />
+                <Baseline points="510,1949 522,1949 567,1952 612,1952 656,1949 701,1952 746,1949 791,1946 835,1946 880,1946 925,1946 970,1946 1015,1946 1059,1943 1104,1943 1149,1943 1194,1946 1238,1946 1283,1943 1328,1943 1373,1943 1418,1943 1462,1943 1507,1943 1552,1946 1597,1943 1642,1943 1686,1946 1731,1946 1776,1946 1821,1946 1865,1946" />
+                <TextEquiv>
+                    <Unicode>Country; and even in this, their Pretensions are to be treated with great Moderation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:33;}">
+                <Coords points="514,2022 1981,2043 1981,1990 1884,1972 514,1985" />
+                <Baseline points="525,2012 570,2021 615,2024 659,2027 704,2027 749,2030 794,2027 838,2027 883,2024 928,2024 973,2024 1018,2024 1062,2024 1107,2024 1152,2024 1197,2024 1241,2021 1286,2024 1331,2021 1376,2021 1421,2024 1465,2021 1510,2024 1555,2024 1600,2024 1645,2024 1689,2021 1734,2024 1779,2024 1824,2024 1868,2027 1913,2027 1958,2027 1985,2024" />
+                <TextEquiv>
+                    <Unicode>The Turks allow the Protection of their own Subjects by foreign Ambassadors, with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:34;}">
+                <Coords points="499,2078 1983,2076 1983,2043 1838,2028 499,2028" />
+                <Baseline points="510,2065 555,2071 600,2071 644,2071 689,2071 734,2068 779,2068 824,2068 868,2065 913,2065 958,2065 1003,2063 1047,2063 1092,2065 1137,2063 1182,2063 1227,2063 1271,2063 1316,2065 1361,2065 1406,2063 1450,2065 1495,2063 1540,2063 1585,2063 1630,2063 1674,2063 1719,2065 1764,2065 1809,2065 1854,2065 1898,2065 1943,2065 1988,2065" />
+                <TextEquiv>
+                    <Unicode>Commission of an Honorary Druggoman in the same Manner; and a Vizier, or other great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:35;}">
+                <Coords points="499,2123 1979,2117 1979,2074 499,2078" />
+                <Baseline points="510,2113 549,2110 594,2110 638,2110 683,2110 728,2110 773,2107 818,2107 862,2107 907,2107 952,2107 997,2107 1041,2104 1086,2104 1131,2107 1176,2107 1221,2107 1265,2104 1310,2104 1355,2104 1400,2104 1444,2104 1489,2104 1534,2104 1579,2104 1624,2104 1668,2104 1713,2104 1758,2104 1803,2107 1848,2104 1892,2107 1937,2107 1982,2104" />
+                <TextEquiv>
+                    <Unicode>Minister, will often ask this as a Favour, in Behalf of a Jew or Christian they may be disposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:36;}">
+                <Coords points="498,2179 578,2186 611,2177 630,2188 641,2179 665,2188 712,2179 757,2188 757,2117 701,2127 665,2112 650,2127 628,2128 621,2119 574,2117 529,2132 498,2123" />
+                <Baseline points="507,2158 537,2155 582,2152 626,2152 671,2152 716,2152 761,2152" />
+                <TextEquiv>
+                    <Unicode>to favour.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:37;}">
+                <Coords points="539,2240 1983,2244 1985,2164 540,2186" />
+                <Baseline points="549,2230 594,2230 638,2230 683,2230 728,2230 773,2230 818,2230 862,2227 907,2227 952,2224 997,2224 1041,2227 1086,2224 1131,2227 1176,2224 1221,2227 1265,2224 1310,2224 1355,2224 1400,2224 1444,2227 1489,2224 1534,2224 1579,2224 1624,2227 1668,2224 1713,2227 1758,2224 1803,2224 1848,2227 1892,2227 1937,2227 1982,2227 1988,2230" />
+                <TextEquiv>
+                    <Unicode>The other Reason against admitting the Jews into the Levant Company, is, that they will in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:38;}">
+                <Coords points="498,2279 1977,2281 1977,2244 1869,2233 498,2235" />
+                <Baseline points="507,2271 549,2271 594,2269 638,2271 683,2269 728,2271 773,2269 818,2269 862,2269 907,2266 952,2266 997,2266 1041,2266 1086,2266 1131,2266 1176,2266 1221,2266 1265,2263 1310,2266 1355,2263 1400,2266 1444,2266 1489,2263 1534,2263 1579,2263 1624,2263 1668,2266 1713,2263 1758,2266 1803,2263 1848,2266 1892,2266 1937,2266 1982,2269" />
+                <TextEquiv>
+                    <Unicode>time get all the Trade into their own Hands; but this is the least Inconveniency that can happen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:39;}">
+                <Coords points="499,2317 1974,2320 1974,2283 1787,2270 499,2279" />
+                <Baseline points="510,2313 546,2310 591,2310 635,2310 680,2307 725,2310 770,2307 815,2307 859,2307 904,2307 949,2307 994,2307 1038,2307 1083,2304 1128,2304 1173,2304 1218,2304 1262,2304 1307,2304 1352,2304 1397,2304 1442,2304 1486,2304 1531,2304 1576,2304 1621,2304 1665,2304 1710,2304 1755,2304 1800,2304 1845,2304 1889,2307 1934,2307 1979,2307" />
+                <TextEquiv>
+                    <Unicode>by this proposed Regulations: This Apprehension is founded solely on the Preference they will have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:40;}">
+                <Coords points="490,2354 1981,2363 1957,2315 1767,2307 490,2313" />
+                <Baseline points="501,2349 546,2352 591,2349 635,2349 680,2349 725,2346 770,2349 815,2349 859,2349 904,2346 949,2346 994,2343 1038,2343 1083,2346 1128,2343 1173,2346 1218,2346 1262,2346 1307,2343 1352,2346 1397,2346 1442,2346 1486,2346 1531,2343 1576,2343 1621,2343 1665,2343 1710,2343 1755,2343 1800,2343 1845,2346 1889,2346 1934,2349 1979,2349 1985,2349" />
+                <TextEquiv>
+                    <Unicode>from their Brethren in Turkey: The large Communities of Jews there, have a great Influence, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:41;}">
+                <Coords points="499,2401 1981,2406 1966,2356 499,2360" />
+                <Baseline points="510,2388 555,2391 600,2388 644,2391 689,2388 734,2388 779,2388 824,2388 868,2388 913,2385 958,2385 1003,2385 1047,2385 1092,2385 1137,2385 1182,2385 1227,2385 1271,2385 1316,2385 1361,2385 1406,2385 1450,2385 1495,2385 1540,2385 1585,2385 1630,2382 1674,2385 1719,2382 1764,2385 1809,2385 1854,2385 1898,2388 1943,2388 1985,2388" />
+                <TextEquiv>
+                    <Unicode>will be employed in favour of their Brethren against the King's Christian Subjects; and it must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:42;}">
+                <Coords points="498,2442 1968,2442 1968,2397 498,2404" />
+                <Baseline points="507,2430 552,2430 597,2430 641,2430 686,2430 731,2430 776,2427 821,2427 865,2427 910,2427 955,2427 1000,2427 1044,2427 1089,2424 1134,2427 1179,2421 1224,2424 1268,2424 1313,2424 1358,2424 1403,2424 1447,2424 1492,2424 1537,2424 1582,2424 1627,2424 1671,2424 1716,2424 1761,2424 1806,2424 1851,2427 1895,2427 1940,2430 1973,2430" />
+                <TextEquiv>
+                    <Unicode>and will bear them down in the End. They are not afraid of the Skill or Industry of the Jews;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:43;}">
+                <Coords points="494,2475 1974,2481 1974,2440 1810,2428 494,2440" />
+                <Baseline points="504,2469 549,2472 594,2469 638,2469 683,2469 728,2469 773,2469 818,2469 862,2466 907,2466 952,2463 997,2466 1041,2466 1086,2463 1131,2463 1176,2466 1221,2466 1265,2466 1310,2466 1355,2466 1400,2466 1444,2463 1489,2463 1534,2466 1579,2466 1624,2463 1668,2466 1713,2463 1758,2463 1803,2463 1848,2466 1892,2466 1937,2469 1976,2469" />
+                <TextEquiv>
+                    <Unicode>those are in every Man, as God has given him Talents, and he has employed them: Nor are they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:44;}">
+                <Coords points="503,2518 1974,2520 1974,2481 1901,2468 503,2483" />
+                <Baseline points="513,2507 558,2510 603,2510 647,2507 692,2507 737,2507 782,2507 826,2507 871,2507 916,2504 961,2504 1006,2504 1050,2504 1095,2504 1140,2504 1185,2504 1230,2504 1274,2504 1319,2504 1364,2504 1409,2504 1453,2504 1498,2504 1543,2504 1588,2504 1633,2504 1677,2504 1722,2504 1767,2504 1812,2504 1857,2507 1901,2507 1946,2507 1976,2507" />
+                <TextEquiv>
+                    <Unicode>apprehensive the Jews, by their Oeconomy, can go cheaper to Market than they; for they have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:45;}">
+                <Coords points="499,2561 1972,2568 1927,2514 499,2518" />
+                <Baseline points="510,2549 555,2549 600,2546 644,2549 689,2549 734,2549 779,2549 824,2549 868,2546 913,2543 958,2546 1003,2543 1047,2543 1092,2543 1137,2543 1182,2543 1227,2543 1271,2543 1316,2543 1361,2546 1406,2546 1450,2546 1495,2546 1540,2543 1585,2543 1630,2543 1674,2543 1719,2543 1764,2543 1809,2543 1854,2546 1898,2546 1943,2546 1976,2549" />
+                <TextEquiv>
+                    <Unicode>seen as many Instances of Vanity and Excess in Turkey, amongst them, as amongst any other Set</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:46;}">
+                <Coords points="499,2600 1963,2606 1912,2553 499,2561" />
+                <Baseline points="510,2591 534,2591 579,2588 623,2588 668,2588 713,2588 758,2585 803,2588 847,2585 892,2585 937,2585 982,2585 1027,2585 1071,2585 1116,2582 1161,2582 1206,2585 1250,2585 1295,2585 1340,2585 1385,2585 1430,2582 1474,2585 1519,2585 1564,2585 1609,2582 1653,2582 1698,2582 1743,2582 1788,2585 1833,2585 1877,2585 1922,2588 1967,2588" />
+                <TextEquiv>
+                    <Unicode>of People; and their national Expences there must be great. There have, indeed, been Suggestions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:47;}">
+                <Coords points="499,2641 1972,2639 1972,2604 1847,2591 499,2594" />
+                <Baseline points="510,2627 555,2627 600,2627 644,2627 689,2627 734,2627 779,2624 824,2627 868,2627 913,2627 958,2624 1003,2624 1047,2624 1092,2624 1137,2624 1182,2624 1227,2624 1271,2624 1316,2624 1361,2624 1406,2624 1450,2624 1495,2624 1540,2624 1585,2624 1630,2624 1674,2624 1719,2624 1764,2624 1809,2624 1854,2624 1898,2627 1943,2627 1976,2627" />
+                <TextEquiv>
+                    <Unicode>that they could do Business for less Commission: But this is an Abuse; and there was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:48;}">
+                <Coords points="498,2676 1968,2682 1968,2643 1892,2632 498,2645" />
+                <Baseline points="507,2669 552,2669 597,2666 641,2666 686,2666 731,2669 776,2666 821,2666 865,2666 910,2666 955,2666 1000,2663 1044,2663 1089,2666 1134,2666 1179,2663 1224,2663 1268,2663 1313,2663 1358,2663 1403,2663 1447,2663 1492,2663 1537,2663 1582,2663 1627,2663 1671,2663 1716,2663 1761,2663 1806,2663 1851,2663 1895,2666 1940,2669 1970,2669" />
+                <TextEquiv>
+                    <Unicode>lately a very flagrant Instance at Constantinople, of a Jew House, which had pretended to mighty</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:49;}">
+                <Coords points="498,2719 1963,2723 1963,2684 1890,2673 498,2674" />
+                <Baseline points="507,2707 552,2707 597,2707 641,2707 686,2707 731,2704 776,2707 821,2704 865,2704 910,2704 955,2704 1000,2704 1044,2704 1089,2704 1134,2704 1179,2704 1224,2701 1268,2704 1313,2704 1358,2701 1403,2704 1447,2704 1492,2704 1537,2704 1582,2701 1627,2704 1671,2704 1716,2704 1761,2701 1806,2704 1851,2704 1895,2704 1940,2707 1967,2710" />
+                <TextEquiv>
+                    <Unicode>Matters of this kind ; and a great Circulation was carried on for some time, but all ended in a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:50;}">
+                <Coords points="499,2760 1966,2749 1758,2706 499,2719" />
+                <Baseline points="510,2749 537,2749 582,2746 626,2746 671,2743 716,2746 761,2746 806,2743 850,2743 895,2743 940,2743 985,2743 1030,2743 1074,2743 1119,2743 1164,2743 1209,2743 1253,2743 1298,2746 1343,2743 1388,2743 1433,2743 1477,2743 1522,2743 1567,2743 1612,2743 1656,2743 1701,2743 1746,2743 1791,2743 1836,2743 1880,2746 1925,2746 1970,2746" />
+                <TextEquiv>
+                    <Unicode>scandalous Failure; the two partners disappeared; some of the Creditors upon the Place got somewhat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:51;}">
+                <Coords points="499,2794 1970,2799 1970,2751 499,2762" />
+                <Baseline points="510,2788 555,2788 600,2788 644,2788 689,2785 734,2785 779,2785 824,2785 868,2785 913,2785 958,2785 1003,2782 1047,2782 1092,2785 1137,2785 1182,2782 1227,2782 1271,2785 1316,2785 1361,2785 1406,2782 1450,2785 1495,2782 1540,2782 1585,2782 1630,2785 1674,2782 1719,2782 1764,2782 1809,2782 1854,2785 1898,2785 1943,2785 1973,2788" />
+                <TextEquiv>
+                    <Unicode>in a sort of Scramble, but for the foreign Correspondents, who were chiefly at Venice and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:52;}">
+                <Coords points="498,2838 1968,2842 1942,2794 1754,2786 498,2796" />
+                <Baseline points="507,2827 552,2830 597,2827 641,2824 686,2827 731,2824 776,2827 821,2824 865,2824 910,2821 955,2824 1000,2821 1044,2821 1089,2821 1134,2821 1179,2824 1224,2824 1268,2824 1313,2824 1358,2824 1403,2824 1447,2824 1492,2824 1537,2824 1582,2824 1627,2824 1671,2824 1716,2824 1761,2824 1806,2824 1851,2824 1895,2827 1940,2827 1970,2827" />
+                <TextEquiv>
+                    <Unicode>Holland, there was not any thing left. What, therefore, the King's Christian Subjects hope for,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:53;}">
+                <Coords points="494,2874 1964,2883 1964,2840 1907,2831 494,2838" />
+                <Baseline points="504,2866 549,2869 594,2869 638,2869 683,2866 728,2866 773,2866 818,2866 862,2866 907,2866 952,2866 997,2866 1041,2866 1086,2863 1131,2866 1176,2863 1221,2866 1265,2866 1310,2863 1355,2866 1400,2863 1444,2863 1489,2863 1534,2863 1579,2863 1624,2866 1668,2866 1713,2866 1758,2866 1803,2866 1848,2866 1892,2869 1937,2869 1967,2866" />
+                <TextEquiv>
+                    <Unicode>is, that they shall not, by this Bill, be put within the Reach of a most undue Influence and Preference;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:54;}">
+                <Coords points="490,2935 1625,2920 1586,2868 490,2874" />
+                <Baseline points="501,2907 546,2907 591,2907 635,2910 680,2907 725,2907 770,2907 815,2907 859,2907 904,2907 949,2907 994,2907 1038,2907 1083,2907 1128,2907 1173,2904 1218,2907 1262,2907 1307,2904 1352,2907 1397,2904 1442,2904 1486,2904 1531,2904 1576,2904 1621,2904 1630,2907" />
+                <TextEquiv>
+                    <Unicode>which must be the Case, if the Jews come at all into this Trade.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

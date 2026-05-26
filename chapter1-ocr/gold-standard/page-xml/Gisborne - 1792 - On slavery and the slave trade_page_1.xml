@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:23.248+02:00</Created>
+        <LastChange>2025-10-16T19:44:29.407+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051462" pageNr="67" tsid="258142991" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=RPWESBDWSUUKROGWNUIXEAGR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXFWFBMICVKGHGYLHFHTIHZU" imageId="87046340" />
+    </Metadata>
+    <Page imageFilename="11168119_0067_104051462.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586545974" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_1" />
+                <RegionRefIndexed index="2" regionRef="r_3" />
+                <RegionRefIndexed index="3" regionRef="r_4" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="898,165 1252,165 1252,286 898,286" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="966,243 1027,233 1039,243 1057,241 1076,261 1108,261 1146,224 1193,263 1213,265 1209,216 1179,216 1146,186 1037,176 1009,208 964,212" />
+                <Baseline points="976,241 1002,239 1029,238 1055,238 1082,240 1108,244 1135,246 1161,248 1188,251 1215,256" />
+                <TextEquiv>
+                    <Unicode>[ 13 ]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="301,1586 294,299 1889,299 1897,1586" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="299,374 1860,390 1860,323 744,336 552,295 299,356" />
+                <Baseline points="310,373 387,368 465,361 543,358 621,355 698,355 776,354 854,352 932,352 1009,352 1087,355 1165,355 1243,355 1320,355 1398,355 1476,358 1554,356 1631,358 1709,362 1787,364 1865,373" />
+                <TextEquiv>
+                    <Unicode>or exercised a power over the liberty of another,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="315,465 1866,449 1866,410 414,388 315,421" />
+                <Baseline points="325,456 402,452 479,447 556,441 633,441 710,441 787,441 865,440 942,441 1019,441 1096,441 1173,442 1250,444 1327,441 1405,441 1482,442 1559,444 1636,444 1713,444 1790,447 1868,444" />
+                <TextEquiv>
+                    <Unicode>without having made full and impartial enquiries whether</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="315,562 1882,554 1882,499 1478,465 1310,507 1173,469 315,512" />
+                <Baseline points="325,552 403,543 481,537 559,534 637,531 715,528 793,531 871,531 949,531 1027,531 1105,534 1183,534 1261,534 1339,536 1417,535 1495,537 1573,534 1651,537 1729,537 1807,538 1886,537" />
+                <TextEquiv>
+                    <Unicode>that liberty is justly forfeited, and is also justly at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="305,635 1872,643 1872,570 1039,602 708,552 305,604" />
+                <Baseline points="316,635 394,630 472,624 550,620 628,620 706,618 784,618 862,619 940,620 1018,620 1096,620 1174,620 1252,620 1330,620 1408,620 1486,623 1564,620 1642,623 1720,626 1798,626 1877,626" />
+                <TextEquiv>
+                    <Unicode>the disposal of the seller; or without being convinced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="315,730 1870,730 1838,657 1379,643 698,677 625,645 315,698" />
+                <Baseline points="325,725 402,719 479,713 557,711 634,710 712,710 789,708 867,708 944,708 1022,710 1099,711 1176,712 1254,710 1331,710 1409,710 1486,710 1564,710 1641,713 1719,713 1796,716 1874,716" />
+                <TextEquiv>
+                    <Unicode>in his conscience that the fact is so; whoever detains the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="323,843 511,805 677,837 742,797 1874,819 1874,754 323,762" />
+                <Baseline points="334,812 411,807 488,803 565,800 642,797 719,797 796,797 874,797 951,797 1028,797 1105,796 1182,800 1259,799 1336,800 1414,800 1491,798 1568,800 1645,803 1722,801 1799,803 1877,806" />
+                <TextEquiv>
+                    <Unicode>slave in bondage directly or indirectly a moment after</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="311,900 1872,906 1872,851 1439,873 1365,823 311,865" />
+                <Baseline points="322,898 399,892 477,887 555,885 633,883 710,883 788,883 866,883 944,883 1021,886 1099,885 1177,888 1255,886 1332,886 1410,886 1488,887 1566,889 1643,889 1721,889 1799,889 1877,889" />
+                <TextEquiv>
+                    <Unicode>that conviction has been done away; or a moment</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="311,983 1866,1011 1866,936 1706,918 366,922 311,956" />
+                <Baseline points="322,982 399,980 476,973 554,972 631,973 709,973 786,973 864,973 941,973 1019,975 1096,976 1173,976 1251,973 1328,973 1406,973 1483,976 1561,975 1638,976 1716,979 1793,976 1871,982" />
+                <TextEquiv>
+                    <Unicode>after the conclusion of the time for which the slavery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="311,1072 1872,1094 1872,1017 544,999 311,1047" />
+                <Baseline points="322,1071 399,1066 477,1059 554,1059 632,1059 710,1059 787,1061 865,1062 942,1059 1020,1059 1098,1062 1175,1062 1253,1062 1330,1061 1408,1062 1486,1062 1563,1062 1641,1062 1718,1064 1796,1062 1874,1071" />
+                <TextEquiv>
+                    <Unicode>may justly be continued; whoever does not faithfully</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="317,1164 1878,1164 1878,1114 724,1088 317,1122" />
+                <Baseline points="328,1155 405,1153 483,1151 561,1148 639,1146 716,1150 794,1152 872,1152 950,1152 1027,1152 1105,1152 1183,1149 1261,1152 1338,1152 1416,1152 1494,1149 1572,1148 1649,1152 1727,1152 1805,1152 1883,1155" />
+                <TextEquiv>
+                    <Unicode>discharge the duties of a master, or transfers his slave to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="315,1251 1882,1253 1882,1201 592,1177 315,1217" />
+                <Baseline points="325,1244 403,1238 481,1238 559,1236 637,1236 715,1236 793,1237 871,1236 949,1236 1027,1238 1105,1238 1183,1240 1261,1241 1339,1238 1417,1238 1495,1238 1573,1238 1651,1240 1729,1238 1807,1240 1886,1241" />
+                <TextEquiv>
+                    <Unicode>another whom he does not think likely to discharge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;}">
+                <Coords points="321,1346 1876,1348 1876,1286 1565,1262 1526,1296 1411,1260 1312,1296 1106,1262 1041,1304 989,1262 867,1302 691,1262 479,1314 321,1288" />
+                <Baseline points="331,1331 408,1329 485,1327 563,1325 640,1325 718,1325 795,1322 873,1322 950,1325 1028,1325 1105,1327 1182,1325 1260,1326 1337,1325 1415,1325 1492,1325 1570,1327 1647,1328 1725,1328 1802,1328 1880,1331" />
+                <TextEquiv>
+                    <Unicode>them, commits in each of these cases a flagrant sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;}">
+                <Coords points="317,1431 1878,1435 1842,1357 1340,1389 1049,1351 922,1389 809,1350 702,1391 485,1351 317,1395" />
+                <Baseline points="328,1421 405,1419 483,1414 561,1412 639,1412 716,1414 794,1415 872,1415 950,1415 1027,1415 1105,1415 1183,1415 1261,1418 1338,1417 1416,1415 1494,1415 1572,1417 1649,1418 1727,1418 1805,1418 1883,1421" />
+                <TextEquiv>
+                    <Unicode>against God; and in most of them as flagrant an act</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="315,1508 362,1524 396,1506 437,1539 491,1516 635,1506 716,1506 780,1532 801,1514 886,1516 886,1486 843,1452 635,1470 558,1441 487,1458 457,1439 437,1458 378,1446 315,1472" />
+                <Baseline points="325,1507 353,1507 381,1506 410,1504 438,1506 466,1507 495,1505 523,1504 551,1504 580,1504 608,1504 636,1504 665,1504 693,1504 721,1504 750,1504 778,1504 806,1504 835,1505 863,1507 892,1510" />
+                <TextEquiv>
+                    <Unicode>of injustice to man.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="304,2024 301,1586 1897,1586 1900,2024" />
+            <TextLine id="l_29" custom="readingOrder {index:0;}">
+                <Coords points="315,1757 507,1797 1399,1759 1448,1805 1878,1765 1815,1674 1415,1727 1344,1680 1264,1714 315,1702" />
+                <Baseline points="325,1764 402,1761 480,1758 558,1759 636,1761 714,1761 792,1758 870,1757 948,1758 1026,1756 1104,1755 1181,1755 1259,1758 1337,1755 1415,1760 1493,1761 1571,1761 1649,1761 1727,1763 1805,1758 1883,1755" />
+                <TextEquiv>
+                    <Unicode>The requisites necessary to reconcile a state of Slavery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:1;}">
+                <Coords points="384,1854 485,1892 546,1852 734,1892 1441,1854 1731,1894 1872,1858 1755,1795 1446,1828 1118,1791 974,1840 902,1785 736,1816 697,1781 384,1828" />
+                <Baseline points="394,1854 468,1854 542,1852 616,1854 690,1857 764,1854 838,1854 913,1854 987,1854 1061,1854 1135,1854 1209,1854 1283,1854 1357,1854 1432,1854 1506,1857 1580,1857 1654,1859 1728,1858 1802,1856 1877,1848" />
+                <TextEquiv>
+                    <Unicode>with justice, applied to the mode of purchasing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:2;}">
+                <Coords points="378,1951 479,1989 839,1951 1636,1987 1636,1896 1195,1913 1009,1880 946,1925 451,1878 378,1933" />
+                <Baseline points="388,1946 450,1952 513,1952 576,1955 638,1953 701,1955 764,1950 826,1950 889,1952 952,1952 1015,1952 1077,1952 1140,1952 1203,1952 1265,1954 1328,1955 1391,1953 1453,1955 1516,1955 1579,1957 1642,1961" />
+                <TextEquiv>
+                    <Unicode>Slaves on the Coast of Africa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1900,2024 1907,3120 310,3120 304,2024" />
+            <TextLine id="l_32" custom="readingOrder {index:0;}">
+                <Coords points="366,2127 746,2165 795,2131 879,2163 1878,2141 1878,2086 1809,2062 366,2082" />
+                <Baseline points="376,2128 451,2125 526,2128 601,2131 676,2128 752,2128 827,2128 902,2129 977,2130 1052,2131 1128,2131 1203,2133 1278,2134 1353,2131 1428,2128 1504,2130 1579,2131 1654,2131 1729,2128 1804,2131 1880,2131" />
+                <TextEquiv>
+                    <Unicode>Now are any of the indispensable requisites to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:1;}">
+                <Coords points="317,2222 732,2218 839,2260 942,2222 1872,2222 1848,2177 1621,2159 1175,2200 987,2159 317,2185" />
+                <Baseline points="328,2218 405,2217 482,2218 560,2218 637,2218 715,2218 792,2221 870,2221 947,2221 1025,2218 1102,2221 1179,2221 1257,2221 1334,2221 1412,2218 1489,2221 1567,2221 1644,2220 1722,2218 1799,2218 1877,2218" />
+                <TextEquiv>
+                    <Unicode>acquisition of a just title to a slave scrupulously attended</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:2;}">
+                <Coords points="321,2311 1882,2331 1882,2276 1688,2244 1615,2280 321,2262" />
+                <Baseline points="331,2304 408,2301 486,2304 564,2304 642,2304 719,2304 797,2305 875,2310 953,2307 1030,2307 1108,2308 1186,2310 1264,2310 1341,2310 1419,2309 1497,2307 1575,2308 1652,2307 1730,2307 1808,2310 1886,2313" />
+                <TextEquiv>
+                    <Unicode>to on the coast of Africa? Are any of them,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:3;}">
+                <Coords points="317,2396 1890,2404 1890,2359 1801,2337 1581,2341 1530,2384 1427,2333 317,2359" />
+                <Baseline points="328,2388 406,2393 484,2391 563,2392 641,2394 719,2397 798,2397 876,2400 954,2397 1033,2397 1111,2397 1189,2399 1268,2400 1346,2398 1424,2399 1503,2397 1581,2397 1659,2397 1738,2394 1816,2394 1895,2394" />
+                <TextEquiv>
+                    <Unicode>except the honest payment of the price, attended to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:4;}">
+                <Coords points="315,2481 823,2517 1882,2483 1668,2412 1369,2456 1063,2416 315,2448" />
+                <Baseline points="325,2475 403,2477 481,2478 559,2480 637,2480 715,2480 793,2480 871,2481 949,2483 1027,2483 1105,2483 1183,2483 1261,2483 1339,2483 1417,2482 1495,2480 1573,2480 1651,2478 1729,2478 1807,2480 1886,2477" />
+                <TextEquiv>
+                    <Unicode>at all? Does the purchaser make a conscientious inquiry,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:5;}">
+                <Coords points="321,2578 1888,2578 1872,2511 321,2529" />
+                <Baseline points="331,2570 409,2569 487,2570 565,2573 643,2573 721,2570 799,2572 877,2572 955,2570 1033,2570 1111,2570 1189,2570 1267,2570 1345,2568 1423,2567 1501,2567 1579,2570 1657,2570 1735,2570 1813,2570 1892,2570" />
+                <TextEquiv>
+                    <Unicode>or any inquiry whatever, into the fundamental</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:6;}">
+                <Coords points="311,2675 1894,2665 1894,2604 311,2620" />
+                <Baseline points="322,2648 400,2654 479,2657 558,2659 637,2660 716,2660 794,2658 873,2660 952,2660 1031,2660 1110,2662 1188,2660 1267,2660 1346,2657 1425,2657 1504,2659 1582,2660 1661,2660 1740,2657 1819,2654 1898,2657" />
+                <TextEquiv>
+                    <Unicode>points, whether the liberty of him who is exposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:7;}">
+                <Coords points="317,2750 1888,2756 1888,2701 1826,2679 1516,2725 1437,2681 1120,2727 1074,2685 317,2703" />
+                <Baseline points="328,2737 406,2742 484,2744 562,2747 640,2749 719,2749 797,2746 875,2746 953,2746 1031,2749 1110,2749 1188,2748 1266,2746 1344,2746 1422,2745 1501,2746 1579,2746 1657,2743 1735,2743 1813,2743 1892,2743" />
+                <TextEquiv>
+                    <Unicode>to sale be justly forfeited, and also be justly at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:8;}">
+                <Coords points="315,2832 394,2869 1900,2843 1779,2766 1312,2816 1239,2778 1076,2776 1033,2820 989,2774 780,2812 698,2774 315,2790" />
+                <Baseline points="325,2827 408,2833 491,2838 574,2838 657,2839 740,2841 823,2842 906,2839 989,2839 1072,2842 1156,2839 1239,2837 1322,2836 1405,2836 1488,2833 1571,2836 1654,2833 1737,2831 1820,2832 1904,2836" />
+                <TextEquiv>
+                    <Unicode>disposal of the seller? Can he, who has bought a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:9;}">
+                <Coords points="309,2915 841,2958 1890,2933 1890,2871 1811,2853 1739,2893 1520,2857 1450,2905 1330,2859 1015,2903 910,2865 807,2913 649,2861 309,2885" />
+                <Baseline points="319,2913 397,2918 476,2921 554,2922 633,2922 712,2924 790,2926 869,2925 948,2925 1026,2923 1105,2922 1184,2922 1262,2922 1341,2919 1420,2917 1498,2919 1577,2916 1656,2916 1734,2914 1813,2916 1892,2916" />
+                <TextEquiv>
+                    <Unicode>thousand slaves, point out any five of them with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:10;}">
+                <Coords points="305,3006 1896,3020 1896,2970 1785,2954 1065,2984 873,2950 825,2986 691,2952 615,2992 398,2940 305,2982" />
+                <Baseline points="316,3003 395,3009 474,3012 553,3012 632,3012 711,3015 790,3015 869,3016 948,3015 1027,3015 1107,3012 1186,3014 1265,3012 1344,3012 1423,3011 1502,3012 1581,3011 1660,3009 1739,3009 1818,3006 1898,3009" />
+                <TextEquiv>
+                    <Unicode>respect to whom he has sufficient reason to believe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:11;}">
+                <Coords points="1765,3097 1775,3097 1789,3109 1902,3109 1900,3061 1890,3061 1862,3033 1809,3031 1775,3059 1763,3059" />
+                <Baseline points="1776,3093 1802,3094 1828,3095 1854,3095 1880,3096 1907,3098" />
+                <TextEquiv>
+                    <Unicode>this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:40</Creator>
+        <Created>2025-10-02T01:42:13.649+02:00</Created>
+        <LastChange>2025-10-24T21:51:39.486+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051423" pageNr="27" tsid="258823956" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=CJUJMYOIBCMVMQUVPBLTXQHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YUDXQRQGPRILASMWNCIRSAND" imageId="87046275" />
+    </Metadata>
+    <Page imageFilename="11168119_0027_104051423.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586537994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_1" />
+                <RegionRefIndexed index="2" regionRef="tr_1" />
+                <RegionRefIndexed index="3" regionRef="r_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1068,17 1240,17 1240,134 1068,134" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1074,112 1126,112 1165,114 1225,117 1226,87 1167,84 1127,82 1074,82" />
+                <Baseline points="1074,112 1126,112 1165,114 1225,117" />
+                <TextEquiv>
+                    <Unicode>( 1 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="280,131 2034,185 2024,574 243,521" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="289,219 1995,283 1993,196 1734,253 1666,189 287,183" />
+                <Baseline points="301,220 390,223 479,223 569,223 658,232 748,235 837,235 926,238 1016,241 1105,247 1195,247 1284,250 1374,253 1463,256 1552,262 1642,265 1731,271 1821,274 1910,277 2000,280" />
+                <TextEquiv>
+                    <Unicode>Some Considerations Humbly Offered, against</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} place {offset:27; length:5;wikiData:Q207887;} place {offset:38; length:4; continued:true;wikiData:Q1520946;}">
+                <Coords points="380,312 631,359 799,321 1662,389 1836,361 1915,404 1995,370 1995,321 1717,280 1647,329 912,255 378,272" />
+                <Baseline points="391,310 471,313 551,316 632,316 712,317 793,319 873,322 954,328 1034,331 1115,335 1195,337 1275,342 1356,343 1436,346 1517,349 1597,358 1678,356 1758,360 1839,362 1919,367 2000,370" />
+                <TextEquiv>
+                    <Unicode>Granting the Sole Trade to Guiny from Cape</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} place {offset:0; length:6; continued:true;wikiData:Q1520946;} place {offset:10; length:10;wikiData:Q129030;}">
+                <Coords points="380,414 1436,436 1551,476 1978,468 1991,414 378,348" />
+                <Baseline points="391,406 471,406 551,409 631,412 712,414 792,414 872,414 953,416 1033,421 1113,426 1194,432 1274,432 1354,434 1434,438 1515,438 1595,441 1675,443 1756,445 1836,451 1916,453 1997,453" />
+                <TextEquiv>
+                    <Unicode>Blanco to Cape Lopez, to a Company with a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="370,533 555,497 710,540 808,504 950,548 1075,512 1124,548 1190,518 1422,540 1420,487 1303,448 1254,482 1162,448 1094,489 1012,440 801,489 718,434 676,465 608,427 557,459 425,421 368,448" />
+                <Baseline points="382,486 434,493 486,496 538,498 590,498 642,498 694,504 746,504 798,505 850,507 903,509 955,508 1007,510 1059,513 1111,517 1163,519 1215,519 1267,519 1319,522 1371,525 1424,525" />
+                <TextEquiv>
+                    <Unicode>Joint Stock, exclusive of others.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="236,579 198,3095 1936,3193 2006,631" />
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:0;}">
+                <Coords points="436,657 1964,716 1961,652 436,618" />
+                <Baseline points="296,735 436,739 447,647 523,649 599,650 675,650 751,655 827,659 903,663 979,665 1055,667 1131,672 1207,674 1283,677 1359,680 1435,680 1511,685 1587,686 1663,686 1739,694 1815,697 1891,698 1967,695" />
+                <TextEquiv>
+                    <Unicode>A Company with a Joint Stock Exclusive, is a Monopoly; which has always</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="461,712 1966,765 1964,716 459,672" />
+                <Baseline points="471,698 549,701 628,702 707,708 786,713 865,713 944,718 1023,720 1102,722 1181,728 1259,729 1338,729 1417,734 1496,737 1575,739 1654,740 1733,744 1812,749 1891,752 1970,758" />
+                <TextEquiv>
+                    <Unicode>been esteemed a great Grievance in matters of small Moment,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:2;}">
+                <Coords points="280,750 1957,820 1968,767 278,727" />
+                <Baseline points="460,749 544,754 628,756 712,759 796,765 880,767 964,770 1048,773 1132,776 1216,779 1300,782 1384,785 1468,788 1552,791 1636,791 1720,794 1804,797 1888,802 1973,806" />
+                <TextEquiv>
+                    <Unicode>and will be much more so in a Trade of so large Extent, and such vast</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="278,805 1940,876 1968,824 276,761" />
+                <Baseline points="289,797 373,800 457,805 541,803 625,808 710,811 794,816 878,818 962,821 1046,821 1131,826 1215,828 1299,831 1383,833 1467,838 1552,839 1636,841 1720,844 1804,849 1888,852 1973,856" />
+                <TextEquiv>
+                    <Unicode>Importance to this Nation, in the Export of its Woollen, and other Manufactures;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="274,858 1964,914 1961,858 272,831" />
+                <Baseline points="286,850 370,850 454,853 538,853 622,859 706,859 790,863 874,868 958,868 1042,874 1126,876 1210,879 1294,882 1378,886 1462,889 1546,889 1630,895 1714,898 1798,903 1882,904 1967,907" />
+                <TextEquiv>
+                    <Unicode>and to the Plantations, in furnishing them with Negroes, by whose strength and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="274,916 1955,971 1953,916 1898,912 274,863" />
+                <Baseline points="286,898 369,901 453,903 536,906 620,910 704,910 787,914 871,919 954,919 1038,924 1122,928 1205,930 1289,932 1372,935 1456,940 1540,940 1623,946 1707,948 1790,951 1874,956 1958,955" />
+                <TextEquiv>
+                    <Unicode>Labour all their Commodities which come from thence, as Sugar, Indigo, Cotton,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="268,956 1953,1020 1953,975 266,935" />
+                <Baseline points="280,949 363,952 447,954 531,960 615,961 699,964 783,964 867,970 951,973 1035,976 1119,979 1202,981 1286,983 1370,988 1454,989 1538,994 1622,997 1706,997 1790,1002 1874,1006 1958,1006" />
+                <TextEquiv>
+                    <Unicode>Ginger, Tobacco, &amp;c. are produced, and whereby the Navigation and Revenue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="274,1007 1222,1043 1220,992 1167,982 274,969" />
+                <Baseline points="286,997 333,997 380,1003 427,1003 474,1006 521,1007 568,1010 615,1012 662,1012 709,1012 756,1013 803,1017 850,1018 897,1020 944,1023 991,1024 1038,1026 1085,1027 1132,1030 1179,1030 1227,1032" />
+                <TextEquiv>
+                    <Unicode>of this Kingdom is so greatly Increased.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="323,1069 1959,1118 1957,1077 321,1033" />
+                <Baseline points="334,1056 415,1056 497,1056 578,1062 660,1062 741,1065 823,1065 904,1070 986,1074 1067,1075 1149,1081 1230,1083 1312,1086 1393,1089 1475,1092 1556,1096 1638,1095 1719,1101 1801,1103 1882,1109 1964,1110" />
+                <TextEquiv>
+                    <Unicode>And such a Company so established will have all the Mischiefs of a Monopoly.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="323,1111 1955,1173 1953,1128 321,1075" />
+                <Baseline points="334,1104 415,1105 496,1107 577,1108 658,1111 740,1116 821,1116 902,1121 983,1125 1064,1128 1146,1131 1227,1134 1308,1136 1389,1142 1470,1144 1552,1149 1633,1149 1714,1151 1795,1157 1876,1158 1958,1161" />
+                <TextEquiv>
+                    <Unicode>I. They will buy the Woollen, and other English Manufactures, proper for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;} place {offset:0; length:5;wikiData:Q207887;}">
+                <Coords points="268,1167 1953,1220 1951,1175 1779,1160 268,1124" />
+                <Baseline points="280,1155 363,1158 447,1158 531,1160 615,1164 699,1164 783,1167 867,1173 951,1176 1035,1182 1119,1182 1202,1182 1286,1189 1370,1192 1454,1194 1538,1197 1622,1203 1706,1203 1790,1206 1874,1209 1958,1206" />
+                <TextEquiv>
+                    <Unicode>Guiny, at their own Rates, having no Competitors, and will sell all the Commodities</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;} place {offset:36; length:7;wikiData:Q21;}">
+                <Coords points="266,1218 1726,1266 1692,1207 266,1184" />
+                <Baseline points="277,1206 349,1209 422,1210 494,1209 567,1212 639,1215 712,1217 784,1221 857,1221 929,1229 1002,1231 1075,1233 1147,1237 1220,1238 1292,1240 1365,1241 1437,1244 1510,1247 1582,1250 1655,1252 1728,1256" />
+                <TextEquiv>
+                    <Unicode>they import from thence into England, at what Prises they please.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="317,1271 1946,1324 1944,1271 317,1220" />
+                <Baseline points="328,1259 409,1261 490,1261 571,1264 652,1265 734,1268 815,1274 896,1276 977,1278 1058,1284 1140,1286 1221,1289 1302,1291 1383,1295 1464,1296 1546,1299 1627,1304 1708,1304 1789,1309 1870,1311 1952,1313" />
+                <TextEquiv>
+                    <Unicode>II. In such Case they alone can carry such Negroes to the West-Indies as are fit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:13;} place {offset:68; length:11; continued:true;wikiData:Q1520946;}">
+                <Coords points="261,1318 1910,1381 1940,1339 259,1279" />
+                <Baseline points="274,1310 357,1310 441,1312 524,1313 608,1317 692,1319 775,1323 859,1322 942,1331 1026,1334 1110,1336 1193,1339 1277,1343 1360,1346 1444,1346 1528,1352 1611,1352 1695,1355 1778,1360 1862,1361 1946,1364" />
+                <TextEquiv>
+                    <Unicode>for the English Plantations, which are only to be purchased between Cape Blanco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:14;} place {offset:4; length:10;wikiData:Q129030;}">
+                <Coords points="259,1368 1946,1428 1898,1371 259,1339" />
+                <Baseline points="271,1361 355,1361 439,1364 523,1364 607,1368 691,1371 775,1373 859,1379 943,1382 1027,1385 1111,1388 1195,1388 1279,1394 1363,1397 1447,1398 1531,1403 1615,1406 1699,1409 1783,1409 1867,1411 1952,1415" />
+                <TextEquiv>
+                    <Unicode>and Cape Lopez, and so will make their own Prizes for them, and Impose what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:15;}">
+                <Coords points="261,1420 1677,1481 1910,1479 1940,1434 259,1371" />
+                <Baseline points="274,1412 357,1412 441,1414 524,1417 608,1418 692,1422 775,1425 859,1433 942,1436 1026,1438 1110,1440 1193,1442 1277,1445 1360,1448 1444,1450 1528,1453 1611,1453 1695,1456 1778,1462 1862,1463 1946,1468" />
+                <TextEquiv>
+                    <Unicode>Terms they please on the Planters, as heretofore the African Company have done:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:16;} place {offset:40; length:10;wikiData:Q664609;}">
+                <Coords points="257,1473 1946,1528 1946,1481 1740,1468 257,1441" />
+                <Baseline points="268,1462 352,1465 436,1465 520,1468 604,1468 688,1472 772,1477 856,1480 940,1483 1024,1486 1108,1489 1192,1494 1276,1497 1360,1498 1444,1502 1528,1504 1612,1504 1696,1507 1780,1512 1864,1516 1949,1519" />
+                <TextEquiv>
+                    <Unicode>and by buying Negroes dear, less of the West-India Commodities have been, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:17;}">
+                <Coords points="261,1524 1917,1590 1932,1534 259,1485" />
+                <Baseline points="271,1513 354,1513 437,1516 521,1521 604,1525 688,1525 771,1526 855,1531 938,1534 1022,1537 1105,1542 1188,1544 1272,1549 1355,1550 1439,1552 1522,1552 1606,1557 1689,1560 1773,1563 1856,1567 1940,1564" />
+                <TextEquiv>
+                    <Unicode>will be produced, and at greater Charge; whereby other Nations have already</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:18;}">
+                <Coords points="257,1577 1891,1636 1946,1596 255,1524" />
+                <Baseline points="268,1567 352,1570 436,1569 520,1572 604,1574 689,1579 773,1580 857,1582 941,1588 1025,1588 1110,1593 1194,1597 1278,1600 1362,1601 1446,1604 1531,1604 1615,1609 1699,1609 1783,1614 1867,1620 1952,1624" />
+                <TextEquiv>
+                    <Unicode>had an Opportunity, and have too well made use of it, to Vye with us in those</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:19;}">
+                <Coords points="257,1628 1940,1683 1938,1634 255,1583" />
+                <Baseline points="268,1618 351,1621 435,1622 519,1623 603,1625 687,1631 771,1633 855,1636 939,1639 1023,1642 1107,1647 1190,1649 1274,1650 1358,1654 1442,1655 1526,1656 1610,1659 1694,1662 1778,1666 1862,1670 1946,1671" />
+                <TextEquiv>
+                    <Unicode>Commodities; to the great Abatement of the Advantage of this Kingdom; and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:20;}">
+                <Coords points="257,1679 1938,1732 1936,1681 1859,1674 257,1630" />
+                <Baseline points="268,1671 351,1668 435,1671 519,1673 603,1674 686,1678 770,1681 854,1686 938,1692 1021,1692 1105,1695 1189,1700 1273,1701 1356,1705 1440,1707 1524,1707 1608,1713 1691,1713 1775,1716 1859,1719 1943,1725" />
+                <TextEquiv>
+                    <Unicode>it may prove the Ruine of our Colonies: For if the Company have produced such</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:21;}">
+                <Coords points="257,1730 1927,1798 1936,1740 255,1683" />
+                <Baseline points="268,1719 351,1722 435,1722 519,1724 603,1726 686,1729 770,1734 854,1737 938,1740 1021,1743 1105,1746 1189,1750 1273,1752 1356,1756 1440,1758 1524,1761 1608,1764 1691,1764 1775,1767 1859,1772 1943,1782" />
+                <TextEquiv>
+                    <Unicode>Mischiefs by the Authority of a Charter only, What may be expected from them,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:22;}">
+                <Coords points="244,1781 1077,1806 1075,1755 244,1742" />
+                <Baseline points="256,1773 297,1773 338,1771 380,1772 421,1773 462,1773 504,1775 545,1776 586,1777 628,1779 669,1780 710,1782 752,1782 793,1785 834,1788 876,1788 917,1790 958,1791 1000,1791 1041,1793 1083,1797" />
+                <TextEquiv>
+                    <Unicode>if they should be established by a Law?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="298,1836 1936,1887 1934,1838 1842,1819 1706,1853 1577,1810 298,1785" />
+                <Baseline points="310,1818 391,1824 473,1824 554,1829 636,1831 717,1833 799,1839 880,1838 962,1842 1043,1846 1125,1849 1206,1851 1288,1851 1369,1854 1451,1858 1532,1861 1614,1863 1695,1868 1777,1868 1858,1871 1940,1871" />
+                <TextEquiv>
+                    <Unicode>III. Such a Company having no Competitors, will buy as Cheap, and sell as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="246,1887 1936,1940 1934,1885 244,1840" />
+                <Baseline points="256,1871 340,1874 424,1874 508,1876 592,1878 677,1883 761,1886 845,1889 929,1892 1013,1895 1098,1898 1182,1901 1266,1904 1350,1908 1434,1910 1519,1910 1603,1910 1687,1916 1771,1921 1855,1922 1940,1928" />
+                <TextEquiv>
+                    <Unicode>Dear as they please; and so will get as much by One Thousand Pounds, as would</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:25;}">
+                <Coords points="251,1942 1930,1989 1927,1942 1840,1930 249,1891" />
+                <Baseline points="262,1928 345,1925 429,1922 512,1927 596,1931 680,1934 763,1934 847,1940 930,1943 1014,1946 1098,1947 1181,1952 1265,1953 1348,1956 1432,1958 1516,1961 1599,1964 1683,1967 1766,1972 1850,1974 1934,1970" />
+                <TextEquiv>
+                    <Unicode>be good Profit to Private Persons trading with Three times as much; and therefore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:26;}">
+                <Coords points="242,1989 1930,2044 1927,2000 1721,1978 242,1953" />
+                <Baseline points="253,1979 337,1973 421,1978 505,1979 589,1982 673,1983 757,1986 841,1991 925,1994 1009,1997 1093,2000 1177,2005 1261,2006 1345,2009 1429,2012 1513,2015 1597,2015 1681,2021 1765,2021 1849,2029 1934,2030" />
+                <TextEquiv>
+                    <Unicode>it is not their Interest to enlarge the Trade, but to get as much as they can by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:27;}">
+                <Coords points="246,2044 1932,2093 1930,2046 244,2002" />
+                <Baseline points="256,2030 340,2030 424,2030 508,2032 592,2034 676,2037 760,2040 844,2042 928,2048 1012,2048 1096,2053 1180,2054 1264,2058 1348,2058 1432,2063 1516,2065 1600,2068 1684,2071 1768,2073 1852,2077 1937,2080" />
+                <TextEquiv>
+                    <Unicode>the small Stock they employ; whereas many Buyers would Enhance the Price of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:28;}">
+                <Coords points="244,2095 1936,2148 1917,2091 244,2046" />
+                <Baseline points="256,2083 340,2081 424,2080 508,2083 592,2086 677,2087 761,2092 845,2095 929,2098 1013,2104 1098,2104 1182,2107 1266,2109 1350,2112 1434,2114 1519,2117 1603,2122 1687,2122 1771,2125 1855,2130 1940,2131" />
+                <TextEquiv>
+                    <Unicode>English Manufactures at home, and occasion a great Exportation of them, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:29;} place {offset:37; length:7;wikiData:Q21;}">
+                <Coords points="232,2138 1936,2197 1934,2153 1685,2129 232,2104" />
+                <Baseline points="244,2134 328,2131 413,2131 498,2134 583,2137 668,2138 752,2141 837,2146 922,2149 1007,2152 1092,2155 1176,2160 1261,2161 1346,2163 1431,2166 1516,2168 1600,2171 1685,2176 1770,2179 1855,2182 1940,2185" />
+                <TextEquiv>
+                    <Unicode>lower the Price of Forreign Goods in England, and bring Negroes much cheaper to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:30;}">
+                <Coords points="234,2195 1538,2229 1538,2187 232,2161" />
+                <Baseline points="244,2185 312,2185 380,2185 449,2185 517,2188 585,2191 654,2191 722,2194 790,2197 859,2199 927,2201 996,2205 1064,2206 1132,2208 1201,2212 1269,2215 1337,2215 1406,2218 1474,2219 1543,2221" />
+                <TextEquiv>
+                    <Unicode>the Plantations, and thereby the Trade would greatly Increase.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:31;} place {offset:74; length:11; continued:true;wikiData:Q1520946;}">
+                <Coords points="227,2286 1921,2346 1919,2304 1823,2284 227,2265" />
+                <Baseline points="238,2283 322,2283 406,2285 491,2289 575,2294 659,2292 744,2294 828,2298 912,2304 997,2304 1081,2309 1165,2312 1250,2315 1334,2316 1418,2317 1503,2320 1587,2322 1671,2328 1756,2331 1840,2336 1925,2334" />
+                <TextEquiv>
+                    <Unicode>And though the Company now offer to content themselves to be limited from Cape Blanco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:32;} place {offset:3; length:10;wikiData:Q129030;}">
+                <Coords points="274,2338 1915,2397 1912,2346 274,2316" />
+                <Baseline points="286,2334 367,2336 449,2340 530,2344 612,2346 694,2346 775,2349 857,2354 939,2358 1020,2361 1102,2362 1184,2364 1265,2367 1347,2370 1429,2372 1510,2373 1592,2376 1674,2379 1755,2384 1837,2392 1919,2391" />
+                <TextEquiv>
+                    <Unicode>to Cape Lopez, and to leave out Angola, yet that does not at all help the matter, for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:33;}">
+                <Coords points="272,2388 348,2412 382,2399 474,2420 493,2401 559,2403 557,2361 540,2372 484,2354 453,2365 416,2348 387,2363 370,2348 321,2346 270,2369" />
+                <Baseline points="283,2385 308,2387 334,2388 359,2388 385,2389 410,2391 436,2391 461,2391 487,2393 512,2394 538,2396 564,2400" />
+                <TextEquiv>
+                    <Unicode>these Reasons:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:34;} place {offset:52; length:7;wikiData:Q21;}">
+                <Coords points="280,2497 1910,2556 1910,2505 278,2454" />
+                <Baseline points="292,2489 373,2489 454,2491 535,2493 616,2498 698,2504 779,2504 860,2506 941,2510 1022,2514 1104,2516 1185,2519 1266,2522 1347,2525 1428,2528 1510,2532 1591,2534 1672,2536 1753,2537 1834,2541 1916,2543" />
+                <TextEquiv>
+                    <Unicode>1. It is humbly conceived, That all the Subjects of England have an Equal Right</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:35;} place {offset:20; length:5;wikiData:Q207887;}">
+                <Coords points="223,2544 876,2567 873,2529 844,2512 799,2529 780,2510 223,2510" />
+                <Baseline points="235,2537 267,2539 299,2540 331,2540 364,2543 396,2543 428,2543 460,2543 493,2543 525,2546 557,2549 589,2549 622,2549 654,2550 686,2552 718,2552 751,2554 783,2555 815,2555 847,2555 880,2558" />
+                <TextEquiv>
+                    <Unicode>to all parts of the Guiny Trade.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:36;} place {offset:35; length:11; continued:true;wikiData:Q1520946;} place {offset:51; length:10;wikiData:Q129030;}">
+                <Coords points="274,2595 1638,2660 1902,2654 1908,2605 272,2565" />
+                <Baseline points="286,2591 367,2592 449,2594 530,2598 612,2600 693,2603 775,2606 856,2609 938,2612 1019,2613 1101,2619 1182,2621 1264,2624 1345,2627 1427,2628 1508,2634 1590,2636 1671,2639 1753,2639 1834,2641 1916,2645" />
+                <TextEquiv>
+                    <Unicode>2. The Extent of the Coast between Cape Blanco and Cape Lopez, is about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:37;}">
+                <Coords points="230,2652 1904,2709 1904,2654 1738,2644 230,2618" />
+                <Baseline points="241,2642 324,2642 407,2644 491,2648 574,2649 658,2655 741,2660 825,2660 908,2663 992,2666 1075,2669 1158,2672 1242,2678 1325,2679 1409,2681 1492,2683 1576,2686 1659,2686 1743,2689 1826,2693 1910,2695" />
+                <TextEquiv>
+                    <Unicode>3000 Miles, besides up the Rivers in the Inland Country; and includes the whole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:38;}">
+                <Coords points="227,2699 1908,2756 1864,2705 225,2652" />
+                <Baseline points="238,2692 321,2692 405,2695 488,2700 572,2701 656,2707 739,2710 823,2713 906,2713 990,2718 1074,2719 1157,2724 1241,2726 1324,2729 1408,2731 1492,2737 1575,2737 1659,2740 1742,2742 1826,2743 1910,2743" />
+                <TextEquiv>
+                    <Unicode>Trade for Gold, Teeth, Dying Wood, and for such Negroes as are fit for, and desired</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:39;}">
+                <Coords points="219,2754 1910,2799 1766,2750 217,2712" />
+                <Baseline points="229,2740 313,2746 397,2745 482,2748 566,2752 650,2754 735,2758 819,2761 903,2764 988,2770 1072,2772 1156,2775 1241,2778 1325,2780 1409,2785 1494,2785 1578,2788 1662,2791 1747,2794 1831,2796 1916,2794" />
+                <TextEquiv>
+                    <Unicode>at the English Plantations: For although there are Negroes to be had at Angola,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:40;}">
+                <Coords points="217,2820 1908,2858 1870,2803 217,2775" />
+                <Baseline points="229,2803 313,2797 397,2800 481,2802 565,2805 650,2809 734,2812 818,2813 902,2815 986,2821 1071,2824 1155,2826 1239,2830 1323,2831 1407,2836 1492,2839 1576,2839 1660,2842 1744,2842 1828,2846 1913,2851" />
+                <TextEquiv>
+                    <Unicode>and such as the Spaniards like, yet the English will not buy them, unless a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:41;}">
+                <Coords points="225,2860 1904,2907 1902,2867 223,2822" />
+                <Baseline points="235,2845 318,2845 402,2847 486,2850 570,2855 653,2859 737,2861 821,2863 905,2866 988,2871 1072,2875 1156,2878 1240,2881 1323,2884 1407,2887 1491,2887 1575,2887 1658,2891 1742,2894 1826,2898 1910,2898" />
+                <TextEquiv>
+                    <Unicode>few for their House Service; they being a lazy sort of Negro, and very rebellious:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:42;}">
+                <Coords points="223,2909 1908,2964 1906,2909 221,2860" />
+                <Baseline points="235,2895 318,2895 402,2901 486,2903 570,2907 654,2909 738,2914 822,2916 906,2916 990,2922 1074,2924 1157,2927 1241,2932 1325,2934 1409,2937 1493,2937 1577,2940 1661,2943 1745,2945 1829,2949 1913,2946" />
+                <TextEquiv>
+                    <Unicode>And the safety of the Plantations depends upon having Negroes from all parts of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:43;} place {offset:0; length:5;wikiData:Q207887;}">
+                <Coords points="221,2956 1904,3009 1902,2969 1796,2958 219,2911" />
+                <Baseline points="232,2946 315,2949 399,2949 483,2954 567,2958 650,2961 734,2964 818,2967 902,2970 985,2972 1069,2975 1153,2979 1237,2985 1320,2985 1404,2988 1488,2991 1572,2991 1655,2996 1739,2999 1823,3000 1907,2997" />
+                <TextEquiv>
+                    <Unicode>Guiny, who no: understanding each others languages and Customs, do not, and cannot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:44;}">
+                <Coords points="210,3003 1904,3068 1825,3009 210,2977" />
+                <Baseline points="223,3000 307,3000 391,3002 476,3005 560,3009 644,3012 729,3014 813,3018 897,3021 982,3024 1066,3027 1150,3030 1235,3035 1319,3039 1403,3040 1488,3045 1572,3045 1656,3048 1741,3051 1825,3051 1910,3054" />
+                <TextEquiv>
+                    <Unicode>agree to Rebel, as they would do, and has by sad Experience been found, when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:45;}">
+                <Coords points="208,3052 1160,3109 1184,3049 206,3024" />
+                <Baseline points="220,3048 268,3051 317,3054 365,3054 414,3055 462,3057 511,3058 559,3062 608,3063 656,3065 705,3066 754,3066 802,3072 851,3072 899,3075 948,3076 996,3078 1045,3079 1093,3081 1142,3083 1191,3087" />
+                <TextEquiv>
+                    <Unicode>there are too many Negroes from one Country.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:46;}">
+                <Coords points="1726,3158 1757,3173 1768,3173 1791,3149 1810,3164 1900,3164 1900,3117 1847,3111 1832,3096 1821,3094 1800,3113 1789,3111 1776,3120 1726,3120" />
+                <Baseline points="1737,3155 1764,3155 1792,3154 1820,3152 1848,3153 1876,3155 1904,3155" />
+                <TextEquiv>
+                    <Unicode>3. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

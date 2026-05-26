@@ -1,0 +1,214 @@
+{
+  "doc_id": "Harris - 1691 - Remarks on the affairs and trade of England and Ireland_page_45.xml",
+  "text": "(37)\nThat as to the Virginia Trade, which brings greatest Advantage to his\nMajesty, the Merchants of Ireland are in a manner wholly cut off from\nthat Trade, except they will drive it to the utter Ruin of the Kingdom.\n(which they resolve not to do) For neither Provision, nor Horses will\ngo off at Virginia, nor are Servants to be had to such numbers as to enable\nthat Trade; And the Export of their Manufacture is prohibited.\nSo that if they will drive that Trade, they must do it with Cash, and\nturn all the little Money they have into Smoak, or be at the excessive\ncharge, double hazard and expence of time, to come unto, and return\nthrough England with that (as all other Plantation Commodities)\nwhich hath occasioned frequent loss of Seasons, and of Ships and Cargo's\nto the loss of the Duty to his Majesty, and Ruin of many Merchants,\nas they made appear in very many deplorable Instances, too long to be\nhere inserted.\nThey say, That whereas by an Act of the 25. Car. 2. For better securing\nthe Plantation Trade, It is Enacted, That if any Ship or Vessel,\nwhich by Law may Trade in any of the Plantations, shall come to take\non board any Plantation Commodities, and that Bond shall not be first\ngiven, with sufficient Surety to bring them to England, Wales, or Barwick,\nThat there shall be paid there on white Sugars 5 s. per Cent. on\nMuscovados 8 d. per Cent. on Tobacco 1 d, per Pound, &c. which afforded\nsome ease to the distressed Merchants of Ireland in returning, without\nbeing necessitated to come to England to enter. Yet that door also\nhath been shut against Ireland by the Artifice of the Arbitrary Commissioners\nof the Customs in England. For contrary to the plain Import of that Law,\nThere was a Ship of England which paid that Duty in the Plantations, seized\nand condemned, under pretence that that Act was only intended for the Trade\nbetween Plantation and Plantation, although there is nothing in the Act that\ngives Countenance to that Construction.\nThat tho' the Manufactures of Ireland are few, and that the most considerable\nof them is Linnen, which interferes not with the Manufacture\nof England, and that the quantity exported in times of Free Trade to\nthe Plantations was but small, yet the Sustenance of a good number of\nthe most necessitious of their People depended wholly on that little, and\nthat they cannot subsist barely by Air, more than the People of England.\nThat by reason of the easiness to subsist in Ireland, the Restraints on\nTrade, the difficulty, if not impossibility (now) to grow rich by\nTrade, and the cheapness of Land; Merchants are inclined to purchase\nrather than Trade. That from hence; and the mean way of living of\nthe Natives, paucity of Inhabitants, little demand of the Native Commodities\nin Forreign Markets, the want of any peculiar Commodity,\nas",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 1316,
+      "end": 1322,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_2_tl_21"
+    },
+    {
+      "id": "e2",
+      "start": 1370,
+      "end": 1377,
+      "label": "COMMODITY",
+      "text": "Tobacco",
+      "line_id": "tr_2_tl_22"
+    },
+    {
+      "id": "e3",
+      "start": 643,
+      "end": 650,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_11"
+    },
+    {
+      "id": "e4",
+      "start": 1248,
+      "end": 1255,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_20"
+    },
+    {
+      "id": "e5",
+      "start": 1514,
+      "end": 1521,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_24"
+    },
+    {
+      "id": "e6",
+      "start": 1647,
+      "end": 1654,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_26"
+    },
+    {
+      "id": "e7",
+      "start": 1722,
+      "end": 1729,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_27"
+    },
+    {
+      "id": "e8",
+      "start": 2113,
+      "end": 2120,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_33"
+    },
+    {
+      "id": "e9",
+      "start": 2387,
+      "end": 2394,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_36"
+    },
+    {
+      "id": "e10",
+      "start": 101,
+      "end": 108,
+      "label": "TOPONYM",
+      "text": "Ireland",
+      "line_id": "tr_2_tl_3"
+    },
+    {
+      "id": "e11",
+      "start": 1454,
+      "end": 1461,
+      "label": "TOPONYM",
+      "text": "Ireland",
+      "line_id": "tr_2_tl_23"
+    },
+    {
+      "id": "e12",
+      "start": 1574,
+      "end": 1581,
+      "label": "TOPONYM",
+      "text": "Ireland",
+      "line_id": "tr_2_tl_25"
+    },
+    {
+      "id": "e13",
+      "start": 2001,
+      "end": 2008,
+      "label": "TOPONYM",
+      "text": "Ireland",
+      "line_id": "tr_2_tl_31"
+    },
+    {
+      "id": "e14",
+      "start": 2441,
+      "end": 2448,
+      "label": "TOPONYM",
+      "text": "Ireland",
+      "line_id": "tr_2_tl_38"
+    },
+    {
+      "id": "e15",
+      "start": 1257,
+      "end": 1262,
+      "label": "TOPONYM",
+      "text": "Wales",
+      "line_id": "tr_2_tl_20"
+    },
+    {
+      "id": "e16",
+      "start": 20,
+      "end": 28,
+      "label": "TOPONYM",
+      "text": "Virginia",
+      "line_id": "tr_2_tl_2"
+    },
+    {
+      "id": "e17",
+      "start": 275,
+      "end": 281,
+      "label": "COMMODITY",
+      "text": "Horses",
+      "line_id": "tr_2_tl_5"
+    },
+    {
+      "id": "e18",
+      "start": 297,
+      "end": 305,
+      "label": "TOPONYM",
+      "text": "Virginia",
+      "line_id": "tr_2_tl_6"
+    },
+    {
+      "id": "e19",
+      "start": 1267,
+      "end": 1274,
+      "label": "TOPONYM",
+      "text": "Barwick",
+      "line_id": "tr_2_tl_20"
+    },
+    {
+      "id": "e20",
+      "start": 1341,
+      "end": 1351,
+      "label": "COMMODITY",
+      "text": "Muscovados",
+      "line_id": "tr_2_tl_22"
+    },
+    {
+      "id": "e21",
+      "start": 2060,
+      "end": 2066,
+      "label": "COMMODITY",
+      "text": "Linnen",
+      "line_id": "tr_2_tl_32"
+    },
+    {
+      "start": 315,
+      "end": 323,
+      "text": "Servants",
+      "label": "COMMODITY",
+      "id": "e22",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e23",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Merchants of Ireland",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e24",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "his Majesty",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e25",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "the Arbitrary Commissioners of the Customs in England",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e26",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "the People of England",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

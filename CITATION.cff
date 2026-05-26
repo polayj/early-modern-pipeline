@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this repository or its datasets, please cite the thesis and this repository."
+type: software
+title: "early-modern-pipeline: OCR, NER, and GraphRAG for the Early Modern Archive"
+abstract: >
+  Code, datasets, and evaluation results accompanying the Master's thesis
+  "Loud Yet Invisible: A Humanist-Designed Pipeline for Unlocking the Early
+  Modern Archive". Includes a gold-standard OCR test corpus, the
+  EarlyModernNER model and training data, and the emgraphrag knowledge-graph
+  retrieval system for early modern British Atlantic documents (1614-1810).
+authors:
+  - family-names: Polay
+    given-names: Jacob
+    email: polayjacob@gmail.com
+repository-code: "https://github.com/polayj/early-modern-pipeline"
+url: "https://github.com/polayj/early-modern-pipeline"
+keywords:
+  - digital humanities
+  - early modern
+  - OCR
+  - named entity recognition
+  - GraphRAG
+  - knowledge graph
+  - retrieval-augmented generation
+  - historical text
+license: MIT
+license-url: "https://github.com/polayj/early-modern-pipeline/blob/main/LICENSE"
+version: "0.1.0-pre-defense"
+date-released: "2026-05-26"
+preferred-citation:
+  type: thesis
+  title: "Loud Yet Invisible: A Humanist-Designed Pipeline for Unlocking the Early Modern Archive"
+  authors:
+    - family-names: Polay
+      given-names: Jacob
+  thesis-type: "Master's thesis"
+  institution:
+    name: "University of Saskatchewan"
+  year: 2026

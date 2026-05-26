@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:43:48.796+02:00</Created>
+        <LastChange>2025-10-24T18:05:22.964+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051441" pageNr="56" tsid="258812781" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=VVAHHTPMJFLBIKNMDLMZUQHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMYQABISWWBWWNWQFKWLCTQW" imageId="87046361" />
+    </Metadata>
+    <Page imageFilename="11168119_0056_104051441.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586543925" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1446,284 1718,284 1718,451 1446,451" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1460,431 1529,431 1621,430 1696,430 1696,400 1621,400 1529,401 1460,401" />
+                <Baseline points="1460,431 1529,431 1621,430 1696,430" />
+                <TextEquiv>
+                    <Unicode>( 2 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="821,474 821,2882 2361,2882 2361,474" />
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="832,543 1005,537 1322,546 1580,535 1833,536 1990,531 2333,541 2334,511 1990,501 1833,506 1579,505 1322,516 1005,507 831,513" />
+                <Baseline points="832,543 1005,537 1322,546 1580,535 1833,536 1990,531 2333,541" />
+                <TextEquiv>
+                    <Unicode>ward Generall, which brings this welcome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="845,635 1064,627 1289,627 1519,628 1729,628 2038,636 2333,632 2333,602 2038,606 1729,598 1519,598 1289,597 1063,597 844,605" />
+                <Baseline points="845,635 1064,627 1289,627 1519,628 1729,628 2038,636 2333,632" />
+                <TextEquiv>
+                    <Unicode>&lt;obscured/&gt; from &lt;obscured/&gt; parts. &lt;obscured/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="846,740 1018,733 1261,723 1393,719 1830,725 2055,725 2332,737 2333,707 2056,695 1830,695 1393,689 1260,693 1017,703 845,710" />
+                <Baseline points="846,740 1018,733 1261,723 1393,719 1830,725 2055,725 2332,737" />
+                <TextEquiv>
+                    <Unicode>Ships named the Morstanmore, the Hector,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;}">
+                <Coords points="850,829 975,818 1125,816 1420,816 1616,816 1621,834 1775,821 2022,830 2112,828 2342,833 2343,803 2112,798 2022,800 1774,791 1642,803 1640,784 1420,786 1125,786 973,788 847,799" />
+                <Baseline points="850,829 975,818 1125,816 1420,816 1616,816 1621,834 1775,821 2022,830 2112,828 2342,833" />
+                <TextEquiv>
+                    <Unicode>and the Cagway, the last being a Prize</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;}">
+                <Coords points="833,847 1174,833 1926,833 2047,835 2200,843 2336,864 2336,941 2283,958 1393,949 833,926" />
+                <Baseline points="844,907 874,905 904,904 934,904 964,906 994,906 1024,904 1054,904 1084,904 1114,904 1144,904 1174,904 1204,904 1234,904 1264,904 1294,904 1324,906 1354,907 1384,907 1414,907 1444,907 1743,907 1772,907 1802,908 1832,910 1862,912 1892,912 1922,910 1951,910 1981,910 2011,910 2041,912 2071,913 2101,913 2131,913 2160,913 2190,913 2220,913 2250,913 2280,913 2310,913 2340,913" />
+                <TextEquiv>
+                    <Unicode>Vessell taken in those parts, these Ships</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="837,1032 2332,1036 2332,966 2145,920 837,947" />
+                <Baseline points="847,1006 921,1004 996,1000 1070,1000 1145,1002 1219,1003 1294,1003 1368,1004 1443,1002 1517,1000 1592,998 1666,1000 1741,1000 1815,1003 1890,1004 1964,1006 2039,1006 2113,1009 2188,1009 2262,1011 2337,1018" />
+                <TextEquiv>
+                    <Unicode>sailed from Jamaica over unto the Maine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="830,1104 1168,1098 1249,1145 1293,1102 1688,1149 1750,1102 2327,1119 2327,1055 2187,1024 1637,1053 1234,1017 1136,1053 958,1021 830,1057" />
+                <Baseline points="841,1098 915,1101 990,1100 1064,1101 1139,1099 1213,1098 1288,1101 1362,1101 1437,1101 1511,1101 1586,1099 1660,1100 1735,1098 1809,1100 1884,1102 1958,1104 2033,1104 2107,1104 2182,1107 2256,1106 2331,1104" />
+                <TextEquiv>
+                    <Unicode>and there fell upon two rich and considerable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="860,1223 1559,1211 2066,1259 2338,1228 2338,1126 2228,1115 1752,1102 1686,1151 1446,1106 1293,1102 1249,1147 1168,1100 860,1119" />
+                <Baseline points="871,1209 944,1201 1018,1199 1091,1197 1165,1197 1239,1197 1312,1197 1386,1198 1459,1198 1533,1197 1607,1194 1680,1194 1754,1197 1827,1198 1901,1203 1975,1203 2048,1200 2122,1203 2195,1205 2269,1206 2343,1206" />
+                <TextEquiv>
+                    <Unicode>Townes called Core, and Comena, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="854,1319 2342,1317 2342,1253 2302,1244 1465,1219 1368,1263 1213,1223 1155,1264 854,1227" />
+                <Baseline points="865,1298 939,1293 1013,1295 1087,1295 1161,1293 1235,1294 1309,1295 1383,1295 1457,1293 1531,1295 1605,1290 1679,1289 1753,1291 1827,1295 1901,1295 1975,1295 2049,1293 2123,1295 2197,1297 2271,1299 2346,1304" />
+                <TextEquiv>
+                    <Unicode>Townes they pillaged where they met</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="845,1416 2345,1416 2345,1315 2189,1370 2039,1308 1716,1297 1085,1349 1004,1306 845,1348" />
+                <Baseline points="856,1394 930,1391 1005,1391 1079,1391 1154,1391 1229,1391 1303,1391 1378,1389 1453,1390 1527,1388 1602,1387 1677,1386 1751,1388 1826,1388 1901,1389 1975,1391 2050,1391 2125,1394 2199,1394 2274,1396 2349,1397" />
+                <TextEquiv>
+                    <Unicode>with a great Booty and rich plunder, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="833,1503 1138,1535 1739,1484 2353,1531 2353,1442 2302,1404 2187,1442 1975,1402 1896,1442 1739,1406 1450,1448 1202,1404 1109,1442 833,1425" />
+                <Baseline points="844,1489 919,1489 995,1488 1070,1486 1146,1486 1221,1486 1297,1489 1372,1494 1448,1489 1523,1489 1599,1486 1675,1486 1750,1483 1826,1486 1901,1488 1977,1487 2052,1489 2128,1491 2203,1492 2279,1492 2355,1498" />
+                <TextEquiv>
+                    <Unicode>after the Pillaging of the Towne the English</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="839,1624 1542,1642 1625,1601 1858,1639 1933,1603 2005,1646 2121,1597 2353,1606 2353,1533 1739,1484 1108,1538 1007,1497 839,1542" />
+                <Baseline points="850,1594 925,1590 1000,1588 1076,1588 1151,1587 1227,1588 1302,1585 1377,1584 1453,1583 1528,1582 1604,1584 1679,1584 1754,1584 1830,1585 1905,1582 1981,1585 2056,1585 2131,1587 2207,1588 2282,1588 2358,1594" />
+                <TextEquiv>
+                    <Unicode>quickly resolved, the Enemy was such as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="845,1707 2351,1710 2351,1637 2277,1616 845,1635" />
+                <Baseline points="856,1683 934,1681 1013,1682 1092,1680 1171,1680 1250,1680 1329,1680 1408,1679 1487,1680 1566,1680 1644,1680 1723,1681 1802,1680 1881,1683 1960,1683 2039,1680 2118,1681 2197,1683 2276,1685 2355,1689" />
+                <TextEquiv>
+                    <Unicode>deserved no better a Farewell, then the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="843,1792 2344,1807 2344,1746 2225,1720 1824,1699 1758,1733 1631,1686 1569,1727 1404,1686 928,1739 843,1707" />
+                <Baseline points="853,1782 927,1782 1002,1781 1076,1779 1151,1779 1226,1779 1300,1779 1375,1776 1450,1774 1524,1776 1599,1776 1674,1776 1748,1776 1823,1776 1898,1779 1972,1776 2047,1779 2122,1779 2196,1779 2271,1781 2346,1785" />
+                <TextEquiv>
+                    <Unicode>burning of those Townes, which was immediately</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="845,1901 1202,1924 1300,1886 1374,1932 1550,1932 1769,1881 1918,1933 1994,1884 2166,1886 2240,1939 2332,1892 2332,1818 2206,1803 845,1814" />
+                <Baseline points="856,1880 930,1882 1004,1882 1078,1880 1152,1877 1226,1877 1300,1877 1374,1875 1448,1877 1522,1877 1596,1876 1670,1877 1744,1877 1818,1877 1892,1877 1966,1877 2040,1877 2114,1880 2188,1885 2262,1886 2337,1883" />
+                <TextEquiv>
+                    <Unicode>done to the great terror of the Spaniard;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="839,1981 2351,2007 2351,1918 2300,1886 1992,1882 1847,1935 1769,1882 1444,1933 1300,1886 1247,1926 1004,1901 839,1943" />
+                <Baseline points="850,1979 925,1976 1000,1976 1075,1979 1151,1976 1226,1976 1301,1975 1376,1973 1452,1973 1527,1973 1602,1973 1677,1976 1753,1973 1828,1972 1903,1970 1978,1971 2054,1971 2129,1973 2204,1972 2279,1973 2355,1976" />
+                <TextEquiv>
+                    <Unicode>At their returne from the Maine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="843,2094 2353,2109 2353,2011 2234,1990 1550,2024 1172,1983 962,2024 843,1983" />
+                <Baseline points="853,2074 928,2072 1003,2071 1078,2071 1154,2071 1229,2071 1304,2071 1379,2074 1455,2071 1530,2071 1605,2069 1680,2068 1756,2068 1831,2071 1906,2071 1981,2070 2057,2071 2132,2069 2207,2071 2282,2071 2358,2077" />
+                <TextEquiv>
+                    <Unicode>homeward they met with two Dutch Ships</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="849,2177 1117,2211 1179,2177 2351,2183 2351,2109 2032,2081 1775,2126 849,2096" />
+                <Baseline points="859,2170 933,2170 1008,2170 1083,2170 1158,2170 1233,2170 1307,2173 1382,2171 1457,2167 1532,2167 1607,2169 1681,2171 1756,2167 1831,2166 1906,2167 1981,2164 2055,2164 2130,2167 2205,2167 2280,2167 2355,2173" />
+                <TextEquiv>
+                    <Unicode>with Spanish Colours, who resisted the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="843,2291 2357,2294 2332,2185 2209,2226 1741,2177 1491,2208 1336,2174 1208,2223 843,2192" />
+                <Baseline points="853,2269 928,2269 1003,2270 1079,2269 1154,2269 1230,2269 1305,2266 1380,2266 1456,2266 1531,2263 1607,2265 1682,2266 1757,2266 1833,2269 1908,2267 1984,2266 2059,2263 2134,2263 2210,2266 2285,2266 2361,2269" />
+                <TextEquiv>
+                    <Unicode>English but was by the English taken and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="839,2381 2353,2378 2353,2293 1969,2287 1894,2338 1612,2291 839,2304" />
+                <Baseline points="850,2361 925,2366 1000,2368 1076,2370 1151,2367 1227,2366 1302,2364 1377,2364 1453,2366 1528,2364 1604,2364 1679,2366 1754,2367 1830,2367 1905,2365 1981,2361 2056,2361 2131,2363 2207,2364 2282,2364 2358,2370" />
+                <TextEquiv>
+                    <Unicode>brought into Poynt-Cagway, the creature</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="845,2478 1843,2463 2245,2504 2345,2472 2345,2389 2232,2376 1658,2408 1153,2364 1032,2412 845,2378" />
+                <Baseline points="856,2463 930,2460 1005,2460 1079,2463 1154,2463 1229,2463 1303,2461 1378,2460 1453,2460 1527,2460 1602,2460 1677,2463 1751,2460 1826,2460 1901,2460 1975,2460 2050,2457 2125,2460 2199,2457 2274,2459 2349,2457" />
+                <TextEquiv>
+                    <Unicode>taken is valued at the rate of three hundred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="845,2574 1142,2569 1183,2610 1359,2563 2347,2586 2347,2478 1737,2465 1459,2531 1355,2465 845,2480" />
+                <Baseline points="856,2558 930,2558 1005,2558 1080,2558 1155,2559 1230,2561 1304,2559 1379,2557 1454,2555 1529,2561 1604,2555 1678,2558 1753,2558 1828,2558 1903,2558 1978,2556 2052,2555 2127,2552 2202,2555 2277,2555 2352,2552" />
+                <TextEquiv>
+                    <Unicode>thousand pounds. There is likewise intelligence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="854,2669 932,2703 1062,2657 1438,2695 1520,2665 1682,2706 1826,2665 1881,2701 2345,2674 2345,2612 2211,2569 1574,2604 1361,2563 1187,2612 1081,2561 854,2574" />
+                <Baseline points="865,2654 939,2657 1013,2657 1087,2657 1161,2657 1236,2657 1310,2657 1384,2657 1458,2657 1532,2654 1607,2654 1681,2654 1755,2657 1829,2657 1903,2657 1978,2654 2052,2654 2126,2654 2200,2657 2274,2654 2349,2648" />
+                <TextEquiv>
+                    <Unicode>come from those parts, that the Diamond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:23;}">
+                <Coords points="839,2669 1060,2657 1520,2665 2311,2680 2349,2697 2347,2803 2287,2809 1841,2824 996,2829 839,2822" />
+                <Baseline points="850,2755 915,2755 980,2758 1045,2756 1111,2758 1176,2760 1241,2758 1306,2758 1372,2758 1437,2758 1502,2759 1567,2755 1633,2757 1698,2755 1763,2755 1828,2757 1894,2757 1959,2755 2024,2752 2089,2754 2155,2755 2191,2749 2217,2752 2244,2752 2271,2751 2298,2750 2325,2748 2352,2746" />
+                <TextEquiv>
+                    <Unicode>hath brought in a Prize laden with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:24;}">
+                <Coords points="2145,2867 2191,2865 2200,2875 2211,2867 2228,2878 2247,2878 2270,2860 2291,2869 2327,2850 2353,2854 2357,2816 2338,2818 2310,2799 2294,2810 2268,2797 2249,2799 2215,2776 2172,2799 2151,2792" />
+                <Baseline points="2158,2860 2183,2860 2208,2858 2233,2856 2258,2855 2283,2852 2308,2849 2333,2848 2358,2848" />
+                <TextEquiv>
+                    <Unicode>Coca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

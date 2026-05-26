@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:46:48.090+02:00</Created>
+        <LastChange>2025-10-27T18:12:09.548+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051519" pageNr="96" tsid="258992843" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=IFQHGRUBVYQTBFJGXHGCCHFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BNYSJCASXEXIBAQFKACUHJAG" imageId="87046418"/>
+    </Metadata>
+    <Page imageFilename="11168119_0096_104051519.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586551714" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="541,521 357,527 357,426 545,426"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="367,508 376,508 389,524 406,524 434,504 450,511 463,500 504,513 519,498 532,498 539,441 524,441 506,421 463,450 456,445 426,450 413,439 371,441"/>
+                <Baseline points="379,504 405,501 432,497 459,494 486,493 513,491 540,489"/>
+                <TextEquiv>
+                    <Unicode>506</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="757,428 1775,426 1775,527 753,515"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="750,491 808,521 902,487 1295,524 1729,508 1729,424 1219,448 1158,411 899,461 843,426 750,448"/>
+                <Baseline points="761,492 809,489 858,488 906,486 955,486 1004,487 1052,488 1101,488 1150,489 1198,489 1247,489 1296,489 1344,489 1393,492 1442,490 1490,492 1539,491 1588,490 1636,490 1685,491 1734,495"/>
+                <TextEquiv>
+                    <Unicode>Dr. WRIGHT'S Description, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="354,598 358,2390 2107,2385 2117,605"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="408,663 2068,676 2068,606 408,621"/>
+                <Baseline points="420,662 502,657 585,656 668,656 750,660 833,660 916,659 998,659 1081,659 1164,659 1247,659 1329,661 1412,659 1495,659 1577,659 1660,659 1743,662 1825,665 1908,665 1991,665 2074,665"/>
+                <TextEquiv>
+                    <Unicode>CINCHONA JAMAICENCIS, seu CARIBBEANA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="513,815 1947,821 1944,771 1884,756 513,763"/>
+                <Baseline points="525,806 596,806 667,804 739,806 810,806 881,806 953,806 1024,806 1095,808 1167,809 1238,809 1309,809 1381,809 1452,806 1523,809 1595,809 1666,810 1737,812 1809,814 1880,818 1952,815"/>
+                <TextEquiv>
+                    <Unicode>CINCHONA CARIBÆA, Linn. Spec. Plant. 245.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="358,954 1877,982 1877,919 1786,882 1599,928 1527,891 358,923"/>
+                <Baseline points="370,952 445,951 521,952 596,952 672,952 748,950 823,949 899,952 975,952 1050,952 1126,952 1202,955 1277,955 1353,955 1429,955 1504,955 1580,958 1656,958 1731,958 1807,958 1883,961"/>
+                <TextEquiv>
+                    <Unicode>FOL. ovata, integerrima, acuta, enervia, opposita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="358,1060 663,1086 1195,1067 1195,1021 1162,1002 1004,984 915,1019 743,991 689,1012 591,993 556,1028 358,1019"/>
+                <Baseline points="370,1050 411,1050 453,1050 494,1050 536,1052 577,1051 619,1052 660,1053 702,1053 743,1052 785,1050 826,1050 868,1050 909,1050 951,1053 992,1053 1034,1050 1075,1050 1117,1050 1158,1052 1200,1056"/>
+                <TextEquiv>
+                    <Unicode>FLOR. singulares, axillares.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="365,1160 2107,1162 2107,1123 1910,1095 1495,1097 1456,1138 1312,1097 365,1110"/>
+                <Baseline points="376,1152 462,1152 549,1152 636,1155 723,1155 810,1155 897,1153 983,1154 1070,1155 1157,1152 1244,1153 1331,1155 1418,1154 1505,1153 1591,1155 1678,1155 1765,1158 1852,1161 1939,1161 2026,1161 2113,1152"/>
+                <TextEquiv>
+                    <Unicode>CAL. Perianthium monophyllum, superum, quinquesidum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="441,1258 1899,1284 2101,1271 2101,1227 439,1214"/>
+                <Baseline points="453,1247 535,1251 618,1253 700,1253 783,1250 865,1251 948,1253 1030,1250 1113,1255 1195,1256 1278,1253 1361,1256 1443,1256 1526,1259 1608,1258 1691,1259 1773,1261 1856,1262 1938,1259 2021,1262 2104,1262"/>
+                <TextEquiv>
+                    <Unicode>minimum, persistens, campanulatum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="439,1367 1306,1367 1306,1327 1164,1301 730,1317 704,1290 439,1293"/>
+                <Baseline points="450,1352 493,1352 536,1352 579,1349 622,1352 665,1352 708,1350 751,1351 794,1350 837,1349 880,1351 923,1352 966,1352 1009,1352 1052,1352 1095,1352 1138,1352 1181,1352 1224,1352 1267,1353 1310,1355"/>
+                <TextEquiv>
+                    <Unicode>obsoletissimè quinquedentatum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="361,1460 2096,1486 2073,1412 1886,1397 361,1412"/>
+                <Baseline points="373,1453 459,1456 545,1456 632,1453 718,1453 805,1453 891,1451 977,1452 1064,1450 1150,1450 1237,1451 1323,1453 1409,1453 1496,1453 1582,1456 1669,1456 1755,1456 1841,1458 1928,1461 2014,1462 2101,1465"/>
+                <TextEquiv>
+                    <Unicode>COR. monopetala, infundibiliformis. Tubus cylindraceus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="428,1556 2088,1569 2088,1519 1894,1545 1816,1501 1708,1542 1571,1495 1156,1540 1058,1482 873,1532 428,1508"/>
+                <Baseline points="441,1555 523,1555 606,1554 688,1552 771,1553 853,1554 936,1555 1018,1555 1101,1555 1183,1554 1266,1558 1349,1558 1431,1558 1514,1558 1596,1558 1679,1558 1761,1556 1844,1558 1926,1558 2009,1561 2092,1558"/>
+                <TextEquiv>
+                    <Unicode>longissimus: Limbus quinquepartitus, tubo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="434,1675 2099,1675 2099,1619 1936,1599 1731,1642 1566,1586 1447,1640 1377,1588 1132,1636 1047,1592 891,1636 434,1603"/>
+                <Baseline points="447,1648 529,1656 612,1656 695,1656 778,1656 861,1654 944,1650 1026,1653 1109,1653 1192,1655 1275,1656 1358,1659 1441,1657 1524,1659 1606,1659 1689,1661 1772,1659 1855,1660 1938,1662 2021,1662 2104,1662"/>
+                <TextEquiv>
+                    <Unicode>equalis: Laciniis, ovatis, oblongis, reflexis, quandoque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="439,1777 484,1788 502,1773 576,1768 743,1773 743,1697 710,1708 654,1697 637,1714 587,1697 567,1714 441,1718"/>
+                <Baseline points="453,1761 479,1761 506,1759 533,1757 560,1756 587,1755 614,1755 641,1755 668,1755 695,1755 722,1756 749,1758"/>
+                <TextEquiv>
+                    <Unicode>pendulis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="352,1864 2090,1899 2060,1794 352,1831"/>
+                <Baseline points="364,1862 450,1859 537,1859 623,1859 710,1859 796,1859 883,1858 969,1857 1056,1857 1142,1859 1229,1857 1316,1858 1402,1857 1489,1859 1575,1859 1662,1859 1748,1859 1835,1859 1921,1859 2008,1861 2095,1868"/>
+                <TextEquiv>
+                    <Unicode>STAM. Filamenta quinque, filiformia, erecta e medio tubi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="432,1962 2083,1988 2083,1920 2027,1899 1225,1903 1180,1944 1019,1899 432,1914"/>
+                <Baseline points="444,1955 526,1961 608,1960 690,1958 773,1958 855,1958 937,1958 1019,1957 1102,1958 1184,1960 1266,1960 1348,1960 1431,1961 1513,1961 1595,1960 1677,1961 1760,1961 1842,1962 1924,1964 2006,1964 2089,1973"/>
+                <TextEquiv>
+                    <Unicode>longitudine corollæ. Antheræ longissimæ, obtusæ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="439,2060 2090,2077 2090,2023 2014,2005 1688,1994 1369,2038 965,1994 439,2033"/>
+                <Baseline points="450,2057 532,2062 614,2062 696,2060 779,2060 861,2060 943,2060 1025,2060 1108,2058 1190,2059 1272,2060 1354,2060 1437,2060 1519,2063 1601,2061 1683,2060 1766,2061 1848,2061 1930,2063 2012,2063 2095,2065"/>
+                <TextEquiv>
+                    <Unicode>erectæ supra basin exteriorem, affixæ in fauce corollæ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="358,2179 2094,2196 2020,2099 358,2133"/>
+                <Baseline points="370,2164 456,2162 542,2161 629,2161 715,2161 802,2158 888,2158 974,2158 1061,2161 1147,2161 1234,2163 1320,2162 1406,2161 1493,2161 1579,2161 1666,2161 1752,2163 1838,2164 1925,2164 2011,2164 2098,2161"/>
+                <TextEquiv>
+                    <Unicode>CAPS. bipartibilis in duas partes dissepimento paralello.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="426,2264 1173,2275 1238,2270 1240,2238 1086,2194 952,2194 919,2227 806,2196 769,2220 650,2196 626,2220 428,2222"/>
+                <Baseline points="438,2263 478,2263 518,2263 558,2261 598,2260 638,2260 678,2260 719,2260 759,2260 799,2260 839,2260 879,2260 919,2258 959,2259 1000,2260 1040,2259 1080,2258 1120,2260 1160,2260 1200,2260 1241,2263"/>
+                <TextEquiv>
+                    <Unicode>latere inferiore dehiscens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="345,2366 1621,2372 1768,2409 1768,2329 1595,2299 1141,2329 673,2296 345,2338"/>
+                <Baseline points="358,2364 428,2366 499,2367 570,2367 641,2364 711,2364 782,2364 853,2364 924,2363 994,2364 1065,2364 1136,2366 1207,2367 1277,2369 1348,2367 1419,2367 1490,2369 1560,2367 1631,2367 1702,2370 1773,2367"/>
+                <TextEquiv>
+                    <Unicode>SEM. plurima, compressa, marginata, oblonga.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:43:30.669+02:00</Created>
+        <LastChange>2025-10-24T18:02:12.603+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051457" pageNr="51" tsid="258812423" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=BAGKRGEVFUSIZMBMQCJTTWST&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRHXBRVGRJDXYHJPCBNTGTJQ" imageId="87046337" />
+    </Metadata>
+    <Page imageFilename="11168119_0051_104051457.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586543012" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="970,321 1283,321 1283,469 970,469" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="987,443 1017,443 1039,419 1076,421 1101,441 1117,436 1132,446 1160,443 1178,425 1214,427 1214,384 1191,384 1169,362 1146,362 1132,375 1112,364 1073,400 1060,400 1005,346 987,345" />
+                <Baseline points="997,432 1024,424 1052,421 1079,423 1107,425 1135,426 1162,426 1190,426 1218,426" />
+                <TextEquiv>
+                    <Unicode>( 43 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="406,484 406,2885 1836,2885 1836,484" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="396,559 1824,562 1822,500 903,496 789,534 732,486 396,496" />
+                <Baseline points="406,549 477,543 548,547 619,549 690,549 761,549 832,550 903,549 974,549 1045,552 1116,552 1187,551 1258,549 1329,551 1400,551 1471,551 1542,553 1613,555 1684,552 1755,552 1827,552" />
+                <TextEquiv>
+                    <Unicode>House Ladle, and another putting in a Quart at a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="407,621 1819,635 1819,585 1662,560 1465,594 627,568 587,607 407,566" />
+                <Baseline points="417,618 487,618 557,618 628,620 698,619 768,618 839,619 909,620 979,620 1050,620 1120,620 1190,620 1261,620 1331,620 1401,620 1472,620 1542,618 1612,619 1683,620 1753,618 1824,620" />
+                <TextEquiv>
+                    <Unicode>Time. Let the Heat of the Liquor be now raised to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="411,705 1810,716 1810,652 1498,634 411,655" />
+                <Baseline points="420,695 489,692 559,689 628,692 698,689 768,689 837,692 907,692 976,692 1046,695 1116,694 1185,695 1255,693 1324,692 1394,689 1464,689 1533,691 1603,691 1672,689 1742,692 1812,692" />
+                <TextEquiv>
+                    <Unicode>140 Degrees of the Common Pocket Thermometer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="403,780 1821,771 1797,726 1648,714 1421,755 1291,710 621,748 403,712" />
+                <Baseline points="414,770 484,764 555,766 625,767 696,767 766,767 837,767 907,767 978,767 1048,767 1119,765 1189,769 1260,770 1330,767 1401,767 1471,767 1542,767 1612,767 1683,764 1753,764 1824,764" />
+                <TextEquiv>
+                    <Unicode>let this Heat be continued one Hour. Skim it carefully.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="400,848 1828,850 1812,771 1760,810 400,798" />
+                <Baseline points="409,838 480,835 551,839 622,838 693,835 765,832 836,835 907,838 978,838 1049,838 1121,838 1192,838 1263,838 1334,838 1405,837 1477,838 1548,835 1619,836 1690,838 1761,837 1833,835" />
+                <TextEquiv>
+                    <Unicode>To five Gallons of Water put ten Ounces of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="402,910 1021,912 1105,950 1164,912 1822,910 1649,846 1319,898 1223,857 402,875" />
+                <Baseline points="412,901 482,909 553,910 624,910 695,910 765,910 836,910 907,913 978,913 1048,910 1119,912 1190,911 1261,913 1331,910 1402,907 1473,909 1544,907 1614,907 1685,907 1756,904 1827,904" />
+                <TextEquiv>
+                    <Unicode>white Marle, Tobacco Pipe Clay, or other white Bolar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="400,998 1826,996 1826,919 1442,960 1407,928 400,935" />
+                <Baseline points="409,988 480,988 551,988 622,988 693,988 764,984 835,984 906,986 977,988 1048,988 1119,988 1190,988 1261,988 1332,988 1403,987 1474,985 1545,982 1616,982 1687,984 1758,984 1830,985" />
+                <TextEquiv>
+                    <Unicode>Earth: if you have not any of these, ten Ounces of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="403,1067 1035,1057 1367,1100 1821,1067 1821,1001 1417,1034 866,1001 823,1044 760,1003 403,1019" />
+                <Baseline points="414,1059 484,1056 555,1056 625,1056 696,1056 766,1056 837,1056 907,1059 978,1056 1048,1058 1119,1060 1189,1062 1260,1059 1330,1059 1401,1059 1471,1059 1542,1056 1612,1057 1683,1056 1753,1056 1824,1056" />
+                <TextEquiv>
+                    <Unicode>Fuller's Earth. Let it be previously powdered, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="403,1139 1822,1141 1822,1085 1210,1076 1162,1119 1026,1071 403,1092" />
+                <Baseline points="414,1125 484,1131 555,1131 625,1129 696,1128 767,1128 837,1128 908,1131 979,1130 1049,1131 1120,1131 1191,1132 1261,1131 1332,1131 1403,1128 1473,1128 1544,1128 1615,1128 1685,1128 1756,1125 1827,1125" />
+                <TextEquiv>
+                    <Unicode>well mixed with the Water. Stir this in as the Lime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="403,1205 1817,1210 1817,1164 1669,1142 403,1167" />
+                <Baseline points="414,1194 484,1201 554,1198 625,1198 695,1199 765,1200 836,1200 906,1203 976,1200 1047,1201 1117,1201 1187,1203 1258,1203 1328,1203 1398,1203 1469,1203 1539,1203 1609,1203 1680,1202 1750,1197 1821,1197" />
+                <TextEquiv>
+                    <Unicode>and Water were directed to be; increase the Heat to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="411,1287 1822,1283 1806,1217 1612,1216 1558,1257 1467,1216 1339,1253 1039,1214 411,1246" />
+                <Baseline points="420,1277 490,1277 560,1274 631,1272 701,1271 771,1274 842,1274 912,1274 982,1274 1053,1274 1123,1274 1193,1274 1264,1274 1334,1271 1404,1269 1475,1271 1545,1269 1615,1269 1686,1271 1756,1270 1827,1271" />
+                <TextEquiv>
+                    <Unicode>160. Continue it half an Hour.—Skim.—Increase</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="402,1366 1822,1357 1746,1285 1630,1321 950,1287 892,1332 402,1303" />
+                <Baseline points="412,1349 482,1346 553,1341 624,1343 695,1343 765,1343 836,1343 907,1343 978,1346 1048,1346 1119,1346 1190,1346 1261,1346 1331,1343 1402,1341 1473,1340 1544,1341 1614,1339 1685,1340 1756,1338 1827,1343" />
+                <TextEquiv>
+                    <Unicode>your Heat to 190. Continue it half an Hour.—Skim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="402,1430 1819,1428 1819,1369 1180,1358 1076,1403 775,1357 402,1371" />
+                <Baseline points="412,1421 482,1418 553,1416 623,1414 694,1414 765,1415 835,1415 906,1415 976,1415 1047,1415 1118,1416 1188,1418 1259,1418 1329,1418 1400,1415 1471,1412 1541,1412 1612,1411 1682,1409 1753,1410 1824,1415" />
+                <TextEquiv>
+                    <Unicode>Increase the Fire to 200, and shut the Door of your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="411,1507 1822,1496 1796,1448 1598,1433 1283,1432 1237,1478 411,1440" />
+                <Baseline points="420,1489 490,1492 560,1490 631,1489 701,1489 771,1487 842,1489 912,1489 982,1492 1053,1492 1123,1489 1193,1492 1264,1492 1334,1492 1404,1490 1475,1489 1545,1487 1615,1486 1686,1486 1756,1486 1827,1486" />
+                <TextEquiv>
+                    <Unicode>Fire place, which puts it out. Let your Liquor remain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="402,1576 1814,1573 1814,1501 1539,1501 1505,1535 1349,1505 1239,1546 1196,1503 402,1533" />
+                <Baseline points="412,1567 482,1564 552,1562 622,1564 693,1564 763,1561 833,1561 904,1561 974,1561 1044,1563 1115,1564 1185,1564 1255,1564 1325,1561 1396,1563 1466,1561 1536,1561 1607,1561 1677,1558 1747,1556 1818,1558" />
+                <TextEquiv>
+                    <Unicode>four Hours undisturbed, and then draw it off</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="402,1648 1819,1644 1819,1596 1676,1614 1626,1573 1426,1606 1391,1573 1203,1606 1017,1576 953,1617 402,1590" />
+                <Baseline points="412,1636 482,1639 552,1636 623,1639 693,1638 764,1636 834,1637 905,1636 975,1638 1046,1636 1116,1636 1186,1639 1257,1639 1327,1636 1398,1633 1468,1633 1539,1633 1609,1633 1680,1633 1750,1633 1821,1636" />
+                <TextEquiv>
+                    <Unicode>into the Receiver: if your Process succeeds your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="396,1717 509,1748 614,1710 1565,1726 1565,1678 1474,1648 396,1664" />
+                <Baseline points="406,1710 464,1710 522,1710 580,1710 638,1709 697,1706 755,1705 813,1704 871,1707 929,1707 988,1710 1046,1710 1104,1710 1162,1710 1220,1710 1279,1710 1337,1710 1395,1707 1453,1707 1511,1707 1570,1713" />
+                <TextEquiv>
+                    <Unicode>Liquor will be as bright as Madeira Wine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="464,1790 1819,1812 1819,1733 1748,1719 1505,1755 1389,1719 1246,1756 464,1748" />
+                <Baseline points="474,1788 541,1783 608,1785 676,1782 743,1782 810,1781 878,1782 945,1782 1012,1782 1080,1782 1147,1782 1214,1782 1282,1782 1349,1779 1416,1782 1484,1781 1551,1782 1618,1779 1686,1779 1753,1779 1821,1782" />
+                <TextEquiv>
+                    <Unicode>I should observe that when you have done filling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="402,1858 1828,1867 1828,1817 1637,1790 1451,1839 1219,1799 1094,1835 696,1796 402,1824" />
+                <Baseline points="412,1857 482,1855 553,1854 624,1854 695,1851 766,1851 837,1849 908,1852 979,1854 1050,1854 1121,1854 1191,1854 1262,1854 1333,1856 1404,1854 1475,1848 1546,1853 1617,1851 1688,1853 1759,1854 1830,1851" />
+                <TextEquiv>
+                    <Unicode>one Clarifyer you go on to the next, repeating the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="396,1939 1828,1933 1805,1881 1551,1867 396,1897" />
+                <Baseline points="406,1931 477,1931 548,1928 620,1925 691,1925 762,1925 834,1927 905,1926 976,1925 1048,1928 1119,1928 1190,1928 1262,1925 1333,1925 1404,1925 1476,1925 1547,1925 1618,1925 1690,1923 1761,1922 1833,1922" />
+                <TextEquiv>
+                    <Unicode>same Process. From the Receiver your Liquor is to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="402,2006 1828,2012 1828,1933 1530,1944 1480,1988 1137,1940 992,1978 894,1944 402,1960" />
+                <Baseline points="412,2000 482,2000 553,2000 624,1997 695,1997 766,1998 837,2000 908,1998 979,1997 1050,2000 1121,2001 1191,2001 1262,2000 1333,2000 1404,2001 1475,2000 1546,1998 1617,2002 1688,1997 1759,1997 1830,1994" />
+                <TextEquiv>
+                    <Unicode>to be conducted into the first Copper. For fear of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="400,2074 596,2106 794,2071 1828,2083 1828,2024 1635,2008 655,2058 400,2021" />
+                <Baseline points="409,2074 480,2074 551,2073 622,2071 693,2069 765,2071 836,2070 907,2071 978,2071 1049,2072 1121,2071 1192,2073 1263,2073 1334,2071 1405,2068 1477,2068 1548,2068 1619,2068 1690,2068 1761,2068 1833,2071" />
+                <TextEquiv>
+                    <Unicode>burning, you may throw a Gallon into each Copper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="402,2160 1828,2156 1812,2101 1567,2081 402,2099" />
+                <Baseline points="412,2152 482,2149 553,2146 624,2143 695,2143 766,2146 837,2146 908,2146 979,2146 1050,2146 1121,2147 1191,2147 1262,2146 1333,2146 1404,2145 1475,2143 1546,2141 1617,2140 1688,2143 1759,2140 1830,2143" />
+                <TextEquiv>
+                    <Unicode>hung to the same Fire, but after let your Liquor run</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="402,2231 1828,2228 1828,2176 1710,2154 1640,2194 402,2169" />
+                <Baseline points="412,2221 482,2221 553,2218 624,2218 695,2218 766,2213 837,2215 908,2218 979,2221 1050,2217 1121,2218 1191,2218 1262,2219 1333,2218 1404,2217 1475,2215 1546,2216 1617,2214 1688,2212 1759,2215 1830,2215" />
+                <TextEquiv>
+                    <Unicode>into the first Copper: when full, by means of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="402,2290 1828,2299 1797,2226 1444,2269 1357,2231 1248,2272 1060,2231 402,2256" />
+                <Baseline points="412,2289 482,2292 553,2289 624,2292 695,2288 766,2289 837,2290 908,2292 979,2292 1050,2292 1121,2292 1191,2291 1262,2292 1333,2293 1404,2289 1475,2286 1546,2284 1617,2283 1688,2286 1759,2286 1830,2289" />
+                <TextEquiv>
+                    <Unicode>Groove it will fill the second; and so on to the last</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="403,2370 1822,2372 1824,2322 716,2310 646,2354 405,2324" />
+                <Baseline points="414,2364 484,2369 555,2370 625,2366 696,2364 767,2364 837,2365 908,2367 979,2367 1049,2367 1120,2365 1191,2367 1261,2367 1332,2367 1403,2364 1473,2364 1544,2363 1615,2361 1685,2360 1756,2361 1827,2364" />
+                <TextEquiv>
+                    <Unicode>Copper; when all are full let a small stream run into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="403,2442 873,2476 1291,2440 1364,2478 1462,2437 1696,2467 1822,2435 1789,2392 1612,2374 403,2410" />
+                <Baseline points="414,2436 484,2439 555,2439 625,2439 696,2439 767,2442 837,2439 908,2439 979,2436 1049,2436 1120,2439 1191,2439 1261,2436 1332,2436 1403,2436 1473,2433 1544,2433 1615,2433 1685,2433 1756,2433 1827,2433" />
+                <TextEquiv>
+                    <Unicode>the first Copper just sufficient to equal the Evaporation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="403,2515 751,2547 794,2511 1582,2547 1831,2517 1810,2463 1476,2451 403,2479" />
+                <Baseline points="414,2510 485,2513 556,2514 627,2513 698,2510 769,2512 840,2510 911,2513 982,2513 1053,2510 1125,2510 1196,2510 1267,2511 1338,2507 1409,2509 1480,2510 1551,2510 1622,2510 1693,2510 1764,2506 1836,2507" />
+                <TextEquiv>
+                    <Unicode>and keep them all full. By this Management as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="403,2595 1822,2579 1699,2520 1564,2565 1405,2522 403,2553" />
+                <Baseline points="414,2588 484,2588 555,2588 625,2585 696,2585 767,2585 837,2582 908,2582 979,2582 1049,2582 1120,2582 1191,2582 1261,2582 1332,2579 1403,2581 1473,2582 1544,2580 1615,2578 1685,2576 1756,2578 1827,2576" />
+                <TextEquiv>
+                    <Unicode>the first Copper receives the fresh Liquor, it's Contents</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="430,2676 1817,2667 1817,2606 430,2626" />
+                <Baseline points="440,2659 509,2663 578,2660 647,2659 716,2657 785,2660 854,2660 923,2660 992,2660 1061,2660 1130,2657 1199,2660 1268,2659 1337,2660 1406,2655 1475,2654 1544,2654 1613,2654 1682,2651 1751,2651 1821,2654" />
+                <TextEquiv>
+                    <Unicode>will be constantly diluted; the Contents of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="403,2745 1814,2744 1815,2679 403,2690" />
+                <Baseline points="414,2731 484,2730 554,2728 624,2726 694,2725 765,2728 835,2728 905,2730 975,2728 1045,2728 1116,2728 1186,2728 1256,2729 1326,2728 1396,2725 1467,2723 1537,2723 1607,2722 1677,2722 1747,2723 1818,2728" />
+                <TextEquiv>
+                    <Unicode>second will be more dilute than those of the third,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="400,2810 1822,2813 1822,2744 400,2774" />
+                <Baseline points="409,2809 479,2809 550,2809 621,2809 692,2806 763,2804 834,2806 905,2806 976,2806 1047,2809 1118,2806 1188,2804 1259,2803 1330,2806 1401,2803 1472,2803 1543,2800 1614,2797 1685,2797 1756,2797 1827,2800" />
+                <TextEquiv>
+                    <Unicode>and so on to the last Copper; where the Liquor will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:32;}">
+                <Coords points="1739,2870 1748,2870 1758,2883 1822,2883 1824,2826 1808,2824 1794,2831 1771,2808 1756,2811 1749,2819 1740,2819" />
+                <Baseline points="1749,2869 1775,2869 1801,2868 1827,2866" />
+                <TextEquiv>
+                    <Unicode>be</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

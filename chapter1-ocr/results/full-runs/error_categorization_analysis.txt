@@ -1,0 +1,159 @@
+================================================================================
+COMPREHENSIVE OCR ERROR ANALYSIS
+================================================================================
+
+Analyzing OlmOCRv2...
+  Documents: 12, Words: 5499
+  Total errors: 1119
+  Long s errors (s→f/l): 69 (6.2%)
+    - s→f: 63
+    - s→l: 6
+  Artifact errors: 381 (34.0%)
+    - Phantom: 216
+    - Duplicate: 49
+    - Punctuation: 116
+  Deletions: 454 (40.6%)
+  Other substitutions: 173 (15.5%)
+
+Analyzing OlmOCRv1...
+  Documents: 12, Words: 5499
+  Total errors: 1088
+  Long s errors (s→f/l): 71 (6.5%)
+    - s→f: 67
+    - s→l: 4
+  Artifact errors: 242 (22.2%)
+    - Phantom: 90
+    - Duplicate: 16
+    - Punctuation: 136
+  Deletions: 529 (48.6%)
+  Other substitutions: 186 (17.1%)
+
+Analyzing Tesseract...
+  Documents: 12, Words: 5499
+  Total errors: 11519
+  Long s errors (s→f/l): 506 (4.4%)
+    - s→f: 487
+    - s→l: 19
+  Artifact errors: 4073 (35.4%)
+    - Phantom: 2888
+    - Duplicate: 828
+    - Punctuation: 357
+  Deletions: 4589 (39.8%)
+  Other substitutions: 1018 (8.8%)
+
+Analyzing EasyOCR...
+  Documents: 12, Words: 5499
+  Total errors: 28296
+  Long s errors (s→f/l): 282 (1.0%)
+    - s→f: 174
+    - s→l: 108
+  Artifact errors: 9981 (35.3%)
+    - Phantom: 7397
+    - Duplicate: 1938
+    - Punctuation: 646
+  Deletions: 14275 (50.4%)
+  Other substitutions: 1154 (4.1%)
+
+Analyzing Kraken...
+  Documents: 12, Words: 5499
+  Total errors: 3315
+  Long s errors (s→f/l): 36 (1.1%)
+    - s→f: 33
+    - s→l: 3
+  Artifact errors: 1274 (38.4%)
+    - Phantom: 1061
+    - Duplicate: 166
+    - Punctuation: 47
+  Deletions: 652 (19.7%)
+  Other substitutions: 763 (23.0%)
+
+Analyzing MinerU...
+  Documents: 12, Words: 5499
+  Total errors: 5280
+  Long s errors (s→f/l): 455 (8.6%)
+    - s→f: 431
+    - s→l: 24
+  Artifact errors: 2435 (46.1%)
+    - Phantom: 1720
+    - Duplicate: 429
+    - Punctuation: 286
+  Deletions: 1404 (26.6%)
+  Other substitutions: 443 (8.4%)
+
+Analyzing DeepSeek...
+  Documents: 12, Words: 5499
+  Total errors: 4889
+  Long s errors (s→f/l): 533 (10.9%)
+    - s→f: 525
+    - s→l: 8
+  Artifact errors: 1144 (23.4%)
+    - Phantom: 724
+    - Duplicate: 172
+    - Punctuation: 248
+  Deletions: 2571 (52.6%)
+  Other substitutions: 341 (7.0%)
+
+Analyzing Gemini...
+  Documents: 12, Words: 5499
+  Total errors: 1780
+  Long s errors (s→f/l): 5 (0.3%)
+    - s→f: 3
+    - s→l: 2
+  Artifact errors: 408 (22.9%)
+    - Phantom: 267
+    - Duplicate: 23
+    - Punctuation: 118
+  Deletions: 262 (14.7%)
+  Other substitutions: 803 (45.1%)
+
+Analyzing Transkribus...
+  Documents: 12, Words: 5499
+  Total errors: 8593
+  Long s errors (s→f/l): 5 (0.1%)
+    - s→f: 4
+    - s→l: 1
+  Artifact errors: 3503 (40.8%)
+    - Phantom: 2415
+    - Duplicate: 813
+    - Punctuation: 275
+  Deletions: 3955 (46.0%)
+  Other substitutions: 110 (1.3%)
+
+Analyzing Chandra-Home...
+  Documents: 12, Words: 5499
+  Total errors: 1107
+  Long s errors (s→f/l): 29 (2.6%)
+    - s→f: 22
+    - s→l: 7
+  Artifact errors: 341 (30.8%)
+    - Phantom: 226
+    - Duplicate: 48
+    - Punctuation: 67
+  Deletions: 455 (41.1%)
+  Other substitutions: 184 (16.6%)
+
+================================================================================
+SUMMARY
+================================================================================
+
+Long s errors (s→f or s→l):
+  Average: 4.2%
+  Range: 0.1% - 10.9%
+
+Artifact-related errors:
+  Average: 32.9%
+  Range: 22.2% - 46.1%
+
+--------------------------------------------------------------------------------
+System            Long s %   Artifact %  Deletions %  Other Sub %
+--------------------------------------------------------------------------------
+DeepSeek             10.9%        23.4%        52.6%         7.0%
+MinerU                8.6%        46.1%        26.6%         8.4%
+OlmOCRv1              6.5%        22.2%        48.6%        17.1%
+OlmOCRv2              6.2%        34.0%        40.6%        15.5%
+Tesseract             4.4%        35.4%        39.8%         8.8%
+Chandra-Home          2.6%        30.8%        41.1%        16.6%
+Kraken                1.1%        38.4%        19.7%        23.0%
+EasyOCR               1.0%        35.3%        50.4%         4.1%
+Gemini                0.3%        22.9%        14.7%        45.1%
+Transkribus           0.1%        40.8%        46.0%         1.3%

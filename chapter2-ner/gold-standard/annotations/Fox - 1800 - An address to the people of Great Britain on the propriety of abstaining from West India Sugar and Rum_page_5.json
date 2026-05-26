@@ -1,0 +1,158 @@
+{
+  "doc_id": "Fox - 1800 - An address to the people of Great Britain on the propriety of abstaining from West India Sugar and Rum_page_5.xml",
+  "text": "[5\nour duty to contribute our share; and to act from conscience,\nas we should in similar cases from feeling and inclination.\nFor instance: Let us suppose the Algerines to establish sugar\nplantations, and resort to the banks of the Thames for slaves.\nSuppose our wives, our husbands, our children, our parents, our\nbrethren, swept away, and the fruit of their labour, produced\nwith agonizing hearts and trembling limbs, landed at the port of\nLondon. What would be our conduct? Should we say, \"Sugar\nis a necessary of life: I cannot do without it. Besides the quantity I\nuse is but small: and though it be very criminal in the Algerines to en\nslave others, I am not bound to look to the nature or consequence of the\ntransaction. Paying for the sugar, I have a right to consume it, how\never it may have been obtained.\" If such would be our language in\nthat case, be it so on the present occasion. For let us recollect that\nin both cases the enslaved are our brethren.\nAnd let us only suppose an Englishman were to receive injuries,\nthat bore but the slightest resemblance to those daily committed\nin our islands, the nation would be inflamed with resentment,\nand clamorous to avenge the injury. And can our pride\nsuggest, that the rights of men are limited to any nation, or to any\ncolour? Were any one to treat a fellow creature in this country\nas we do the unhappy Africans in the West-Indies; struck\nwith horror, we should be zealous to deliver the oppressed, and\npunish the oppressor. Are then the offices of humanity and functions\nof justice to be circumscribed by geographical boundaries?\nCan reason, can conscience justify this contrast in our conduct,\nbetween our promptitude, in the one case, and our torpor in the\nother?—Mr. Addison justly observes, that \"humanity to become\nestimable must be combined with justice.\" But we seem to\nact as if we thought, that the relief of our fellow creatures, and\nprotection from injuries, were works of supererogation; to be\ngranted or with-held, as caprice, or inclination may suggest.\nAfter the important considerations adduced, it might be reckoned\na degradation of the subject to mention the national dignity;\nor even that might induce us to counteract a powerful body\nof men, who are trampling under foot, the dictates of humanity,\nand the interest of the nation: men, who have received for\nsugar alone, above a million per ann. more than it would have\ncost at other markets. From Mr. Botham's evidence it appears,\nthat in Batavia, where labour is as high as in England, sugar equal\nto the best West-India, is sold at 1d 1/2 per pound. These are\nthe men who are calling on us to aid the operation of their whips\nby the terrors of our bayonets; and to misapply the public treasure\nto support individuals in violating every principle of law\nand justice, and to defend them in the most dreadful tyranny\nover half a million of persons, born in islands, which, when it\nserves their purpose they pretend to be ours; but of which they\nhave virtually usurped the sovereignty: and have the audacity\nto tell the British legislature, \"That they cannot abolish the slave\ntrade; for that if England refuses to furnish them with slaves,",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 181,
+      "end": 186,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_3"
+    },
+    {
+      "id": "e2",
+      "start": 492,
+      "end": 497,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_8"
+    },
+    {
+      "id": "e3",
+      "start": 742,
+      "end": 747,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_12"
+    },
+    {
+      "id": "e4",
+      "start": 2339,
+      "end": 2344,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_38"
+    },
+    {
+      "id": "e5",
+      "start": 2519,
+      "end": 2524,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_40"
+    },
+    {
+      "id": "e6",
+      "start": 441,
+      "end": 447,
+      "label": "TOPONYM",
+      "text": "London",
+      "line_id": "tr_1_tl_8"
+    },
+    {
+      "id": "e7",
+      "start": 2510,
+      "end": 2517,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_1_tl_40"
+    },
+    {
+      "id": "e8",
+      "start": 3126,
+      "end": 3133,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_1_tl_50"
+    },
+    {
+      "id": "e9",
+      "start": 1380,
+      "end": 1391,
+      "label": "TOPONYM",
+      "text": "West-Indies",
+      "line_id": "tr_1_tl_22"
+    },
+    {
+      "id": "e10",
+      "start": 2543,
+      "end": 2553,
+      "label": "TOPONYM",
+      "text": "West-India",
+      "line_id": "tr_1_tl_41"
+    },
+    {
+      "id": "e11",
+      "start": 181,
+      "end": 198,
+      "label": "TOPONYM",
+      "text": "sugar plantations",
+      "line_id": "tr_1_tl_3"
+    },
+    {
+      "id": "e12",
+      "start": 231,
+      "end": 237,
+      "label": "TOPONYM",
+      "text": "Thames",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e13",
+      "start": 2471,
+      "end": 2478,
+      "label": "TOPONYM",
+      "text": "Batavia",
+      "line_id": "tr_1_tl_40"
+    },
+    {
+      "start": 242,
+      "end": 248,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e14",
+      "line_id": "augmented"
+    },
+    {
+      "start": 3163,
+      "end": 3169,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e15",
+      "line_id": "augmented"
+    },
+    {
+      "start": 641,
+      "end": 646,
+      "text": "slave",
+      "label": "COMMODITY",
+      "id": "e16",
+      "line_id": "augmented"
+    },
+    {
+      "start": 3101,
+      "end": 3106,
+      "text": "slave",
+      "label": "COMMODITY",
+      "id": "e17",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e18",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Mr. Addison",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e19",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Mr. Botham",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:40</Creator>
+        <Created>2025-10-02T01:42:26.700+02:00</Created>
+        <LastChange>2025-10-24T02:22:52.535+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051426" pageNr="31" tsid="258750058" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=DIONBHHAPAQKOTBKYJZOPXBZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAILGHPSXIUMKGEMXBPWHCBF" imageId="87046352" />
+    </Metadata>
+    <Page imageFilename="11168119_0031_104051426.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586538816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_30" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1179,307 1460,307 1460,432 1179,432" />
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1259,418 1275,422 1299,411 1317,422 1324,416 1335,420 1353,409 1368,413 1368,318 1337,311 1331,315 1311,300 1295,306 1289,302 1273,316 1259,315" />
+                <Baseline points="1268,394 1313,394 1358,394 1373,394" />
+                <TextEquiv>
+                    <Unicode>( 18 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_30" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="579,1311 595,441 2043,442 2054,1311 2060,2296 2060,3049 603,3049 579,2305" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="589,411 1073,409 1650,411 1992,418 2037,426 2037,511 1099,542 589,535" />
+                <Baseline points="600,498 644,498 689,498 734,498 779,498 824,498 868,498 913,498 958,498 1003,498 1047,501 1092,501 1137,501 1182,501 1227,504 1238,501 1274,501 1319,498 1364,498 1409,498 1453,498 1498,498 1543,495 1588,495 1633,495 1677,498 1722,495 1767,498 1812,495 1857,495 1901,498 1946,498 1991,498 2036,501 2042,504" />
+                <TextEquiv>
+                    <Unicode>settled with their Wives and Families on the Island;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="589,584 1215,562 1302,611 1775,613 2028,566 1995,504 1741,495 1584,529 1259,493 1099,542 769,489 589,535" />
+                <Baseline points="600,564 644,561 689,561 734,561 779,561 824,561 868,561 913,564 958,564 1003,564 1047,564 1092,564 1137,564 1182,564 1227,561 1271,561 1316,564 1361,561 1406,561 1450,561 1495,561 1540,561 1585,561 1630,558 1674,561 1719,561 1764,558 1809,561 1854,558 1898,561 1943,561 1988,558 2033,555" />
+                <TextEquiv>
+                    <Unicode>much less to 1500, as there actually were, before the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="597,664 918,620 1084,657 1255,642 1255,571 1049,571 1009,597 948,566 873,591 773,560 695,593 597,580" />
+                <Baseline points="606,623 650,623 695,620 740,623 785,623 829,620 874,620 919,620 964,623 1009,626 1053,626 1098,626 1143,623 1188,623 1233,623 1259,626" />
+                <TextEquiv>
+                    <Unicode>English had the Assiento?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;} place {offset:44; length:3; continued:true;wikiData:Q766;}">
+                <Coords points="669,695 2022,693 2022,631 1328,604 1206,660 669,638" />
+                <Baseline points="680,677 725,677 770,683 815,683 859,686 904,686 949,686 994,686 1038,686 1083,686 1128,686 1173,683 1218,686 1262,683 1307,680 1352,680 1397,683 1442,680 1486,680 1531,683 1576,680 1621,680 1665,680 1710,680 1755,683 1800,683 1845,683 1889,683 1934,683 1979,680 2024,677 2027,677" />
+                <TextEquiv>
+                    <Unicode>When the Company purchased their Negroes in Jamaica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;} place {offset:0; length:5; continued:true;wikiData:Q766;}">
+                <Coords points="587,773 2026,769 2026,691 964,691 784,729 587,689" />
+                <Baseline points="597,743 641,746 686,746 731,749 776,749 821,746 865,746 910,749 955,746 1000,746 1044,746 1089,746 1134,746 1179,746 1224,743 1268,743 1313,746 1358,743 1403,743 1447,743 1492,743 1537,743 1582,743 1627,743 1671,743 1716,743 1761,743 1806,743 1851,743 1895,743 1940,743 1985,743 2030,746" />
+                <TextEquiv>
+                    <Unicode>great Numbers were brought to that Market,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="602,818 2012,817 2039,769 602,771" />
+                <Baseline points="612,806 656,806 701,806 746,809 791,809 835,809 880,806 925,806 970,809 1015,809 1059,806 1104,809 1149,809 1194,809 1238,809 1283,809 1328,809 1373,806 1418,803 1462,806 1507,806 1552,806 1597,803 1642,803 1686,803 1731,803 1776,806 1821,806 1865,803 1910,803 1955,803 2000,803 2042,809" />
+                <TextEquiv>
+                    <Unicode>which indeed occasion'd a Circulation of Money for a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="593,875 1188,908 1390,869 2037,880 2037,813 593,820" />
+                <Baseline points="603,868 647,865 692,868 737,868 782,868 826,868 871,871 916,871 961,871 1006,871 1050,871 1095,871 1140,871 1185,871 1230,868 1274,868 1319,871 1364,868 1409,868 1453,868 1498,868 1543,868 1588,868 1633,865 1677,865 1722,865 1767,865 1812,865 1857,865 1901,865 1946,862 1991,862 2036,868 2042,868" />
+                <TextEquiv>
+                    <Unicode>little time; but since they have fallen into the Method</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="593,951 2037,938 2037,882 1979,875 1390,869 1195,908 593,880" />
+                <Baseline points="603,928 609,928 653,928 698,931 743,931 788,931 832,934 877,934 922,934 967,934 1012,934 1056,934 1101,934 1146,934 1191,934 1236,931 1280,934 1325,931 1370,931 1415,931 1459,928 1504,928 1549,928 1594,928 1639,928 1683,928 1728,928 1773,928 1818,928 1862,928 1907,928 1952,928 1997,925 2042,925" />
+                <TextEquiv>
+                    <Unicode>of sending to Africa to purchase Slaves, they have drove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="593,1013 2037,998 2037,938 1086,942 997,986 891,944 593,951" />
+                <Baseline points="603,991 647,991 692,991 737,994 782,994 826,994 871,994 916,997 961,997 1006,997 1050,994 1095,994 1140,997 1185,994 1230,997 1274,994 1319,991 1364,991 1409,991 1453,991 1498,991 1543,991 1588,991 1633,991 1677,991 1722,991 1767,991 1812,991 1857,991 1901,988 1946,988 1991,988 2036,994 2039,994" />
+                <TextEquiv>
+                    <Unicode>several private Merchants out of the Trade; and if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="597,1066 2026,1073 2026,1020 1853,991 1209,1033 1131,998 1053,1033 597,1013" />
+                <Baseline points="606,1053 650,1053 695,1053 740,1053 785,1056 829,1053 874,1053 919,1053 964,1056 1009,1056 1053,1056 1098,1056 1143,1056 1188,1056 1233,1059 1277,1056 1322,1056 1367,1056 1412,1053 1456,1053 1501,1053 1546,1053 1591,1050 1636,1050 1680,1053 1725,1050 1770,1050 1815,1050 1859,1050 1904,1050 1949,1053 1994,1050 2030,1056" />
+                <TextEquiv>
+                    <Unicode>they pursue the same Measures, will, in a little time,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="593,1142 2037,1137 2037,1075 593,1080" />
+                <Baseline points="603,1116 647,1116 692,1116 737,1119 782,1116 826,1116 871,1116 916,1116 961,1119 1006,1119 1050,1119 1095,1119 1140,1119 1185,1119 1230,1119 1274,1119 1319,1116 1364,1113 1409,1113 1453,1113 1498,1113 1543,1113 1588,1113 1633,1113 1677,1113 1722,1113 1767,1113 1812,1113 1857,1113 1901,1113 1946,1113 1991,1113 2036,1119 2042,1122" />
+                <TextEquiv>
+                    <Unicode>engross it to themselves; this will be the same Thing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="593,1188 2041,1186 2041,1137 593,1142" />
+                <Baseline points="603,1176 647,1176 692,1176 737,1176 782,1176 826,1179 871,1179 916,1179 961,1179 1006,1182 1050,1182 1095,1182 1140,1182 1185,1182 1230,1179 1274,1179 1319,1179 1364,1179 1409,1176 1453,1176 1498,1173 1543,1173 1588,1173 1633,1173 1677,1176 1722,1176 1767,1176 1812,1176 1857,1176 1901,1176 1946,1173 1991,1173 2036,1176 2045,1176" />
+                <TextEquiv>
+                    <Unicode>in its Consequences, as if they obtained an exclusive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="598,1240 1068,1273 2044,1248 2044,1186 1979,1180 1171,1213 895,1184 849,1217 598,1186" />
+                <Baseline points="609,1238 615,1238 659,1236 704,1238 749,1238 794,1238 838,1241 883,1241 928,1241 973,1241 1018,1241 1062,1244 1107,1244 1152,1244 1197,1241 1241,1241 1286,1241 1331,1241 1376,1238 1421,1238 1465,1238 1510,1238 1555,1238 1600,1238 1645,1236 1689,1238 1734,1238 1779,1238 1824,1238 1868,1236 1913,1236 1958,1236 2003,1236 2048,1236" />
+                <TextEquiv>
+                    <Unicode>Charter, which has been so much dreaded and opposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:13;} place {offset:20; length:7;wikiData:Q23154;}">
+                <Coords points="598,1311 1480,1346 1661,1302 1775,1350 2037,1311 1997,1242 1131,1244 1060,1280 598,1240" />
+                <Baseline points="609,1298 653,1295 698,1298 743,1298 788,1298 832,1301 877,1298 922,1301 967,1304 1012,1304 1056,1304 1101,1304 1146,1304 1191,1304 1236,1304 1280,1304 1325,1304 1370,1304 1415,1301 1459,1301 1504,1301 1549,1301 1594,1301 1639,1301 1683,1301 1728,1298 1773,1301 1818,1301 1862,1298 1907,1298 1952,1301 1997,1298 2042,1298" />
+                <TextEquiv>
+                    <Unicode>by the Merchants of Bristol, and other trading Towns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:14;} place {offset:11; length:6;wikiData:Q84;}">
+                <Coords points="571,1379 638,1406 684,1370 762,1393 864,1371 918,1402 953,1371 1080,1390 1079,1304 966,1322 888,1311 864,1331 733,1306 647,1326 615,1308 569,1333" />
+                <Baseline points="579,1361 623,1361 668,1361 713,1361 758,1361 803,1364 847,1364 892,1364 937,1364 982,1364 1027,1364 1071,1367 1083,1364" />
+                <TextEquiv>
+                    <Unicode>as well as London.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:15;}">
+                <Coords points="658,1428 1149,1460 2032,1431 2032,1370 1986,1353 1331,1346 1235,1404 658,1370" />
+                <Baseline points="668,1421 713,1421 758,1421 803,1424 847,1427 892,1427 937,1427 982,1427 1027,1427 1071,1427 1116,1427 1161,1424 1206,1424 1250,1424 1295,1424 1340,1427 1385,1424 1430,1424 1474,1424 1519,1424 1564,1424 1609,1424 1653,1421 1698,1421 1743,1421 1788,1418 1833,1421 1877,1421 1922,1421 1967,1421 2012,1421 2036,1424" />
+                <TextEquiv>
+                    <Unicode>As to the Advantages, which the Island is said to receive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:16;} place {offset:48; length:7; continued:true;wikiData:Q766;}">
+                <Coords points="597,1497 1335,1493 1437,1530 1493,1488 2044,1499 2044,1430 1950,1422 1142,1459 597,1411" />
+                <Baseline points="606,1483 650,1480 695,1480 740,1480 785,1483 829,1486 874,1486 919,1486 964,1489 1009,1486 1053,1489 1098,1489 1143,1486 1188,1489 1233,1486 1277,1489 1322,1486 1367,1486 1412,1483 1456,1483 1501,1483 1546,1483 1591,1483 1636,1483 1680,1483 1725,1483 1770,1483 1815,1486 1859,1483 1904,1483 1949,1486 1994,1486 2039,1486 2048,1486" />
+                <TextEquiv>
+                    <Unicode>by the Shipping which import Negroes into Jamaica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:17;}">
+                <Coords points="597,1562 2041,1551 2041,1497 1979,1488 1493,1488 1340,1533 1286,1495 597,1497" />
+                <Baseline points="606,1543 650,1543 695,1543 740,1546 785,1546 829,1549 874,1549 919,1549 964,1549 1009,1549 1053,1549 1098,1552 1143,1552 1188,1549 1233,1549 1277,1549 1322,1549 1367,1549 1412,1546 1456,1546 1501,1546 1546,1546 1591,1546 1636,1546 1680,1543 1725,1543 1770,1546 1815,1543 1859,1546 1904,1546 1949,1546 1994,1546 2039,1543 2042,1546" />
+                <TextEquiv>
+                    <Unicode>for the South-Sea Company, are they any new Acquisitions,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:18;}">
+                <Coords points="602,1610 2046,1630 2046,1555 1815,1542 602,1564" />
+                <Baseline points="612,1606 656,1606 701,1609 746,1606 791,1609 835,1609 880,1609 925,1609 970,1609 1015,1609 1059,1609 1104,1612 1149,1609 1194,1609 1238,1609 1283,1609 1328,1609 1373,1609 1418,1606 1462,1606 1507,1606 1552,1609 1597,1606 1642,1606 1686,1606 1731,1606 1776,1606 1821,1606 1865,1609 1910,1606 1955,1609 2000,1606 2045,1609 2051,1606" />
+                <TextEquiv>
+                    <Unicode>or equal to what they formerly had even in that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:19;}">
+                <Coords points="597,1693 2050,1679 2050,1619 1928,1608 1217,1644 597,1606" />
+                <Baseline points="606,1665 650,1665 695,1668 740,1668 785,1668 829,1668 874,1668 919,1668 964,1671 1009,1671 1053,1671 1098,1671 1143,1671 1188,1671 1233,1671 1277,1671 1322,1671 1367,1668 1412,1671 1456,1668 1501,1668 1546,1668 1591,1665 1636,1665 1680,1665 1725,1668 1770,1668 1815,1668 1859,1668 1904,1668 1949,1668 1994,1668 2039,1668 2054,1668" />
+                <TextEquiv>
+                    <Unicode>Respect; were not Ships employ'd, before the South-Sea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:20;}">
+                <Coords points="602,1737 2046,1741 2046,1686 1937,1671 1299,1673 1239,1711 602,1684" />
+                <Baseline points="612,1725 656,1728 701,1731 746,1731 791,1731 835,1731 880,1731 925,1731 970,1734 1015,1734 1059,1734 1104,1731 1149,1734 1194,1734 1238,1734 1283,1734 1328,1734 1373,1734 1418,1734 1462,1731 1507,1731 1552,1731 1597,1728 1642,1728 1686,1731 1731,1728 1776,1731 1821,1731 1865,1734 1910,1731 1955,1731 2000,1731 2045,1734 2051,1731" />
+                <TextEquiv>
+                    <Unicode>Company obtained the Assiento Contract, to transport</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:21;}">
+                <Coords points="602,1811 2041,1806 2041,1741 1990,1735 1011,1773 602,1739" />
+                <Baseline points="612,1791 656,1791 701,1791 746,1794 791,1794 835,1794 880,1791 925,1794 970,1797 1015,1797 1059,1797 1104,1797 1149,1794 1194,1794 1238,1797 1283,1797 1328,1797 1373,1794 1418,1794 1462,1794 1507,1794 1552,1794 1597,1791 1642,1794 1686,1794 1731,1794 1776,1794 1821,1797 1865,1794 1910,1794 1955,1797 2000,1797 2045,1797 2048,1794" />
+                <TextEquiv>
+                    <Unicode>Negroes for the Spanish Trade, as well as for the Use of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:22;}">
+                <Coords points="598,1864 2044,1868 2019,1801 598,1811" />
+                <Baseline points="609,1851 653,1854 698,1857 743,1854 788,1857 832,1857 877,1857 922,1854 967,1857 1012,1857 1056,1857 1101,1857 1146,1857 1191,1857 1236,1857 1280,1857 1325,1857 1370,1857 1415,1857 1459,1854 1504,1854 1549,1854 1594,1854 1639,1854 1683,1854 1728,1854 1773,1854 1818,1857 1862,1857 1907,1859 1952,1857 1997,1859 2042,1857 2048,1857" />
+                <TextEquiv>
+                    <Unicode>the Island? It is evident, that not only those Ships, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:23;} place {offset:47; length:6;wikiData:Q84;}">
+                <Coords points="602,1922 2046,1950 2046,1875 2006,1862 602,1871" />
+                <Baseline points="612,1913 656,1913 701,1916 746,1916 791,1919 835,1916 880,1916 925,1916 970,1916 1015,1916 1059,1916 1104,1916 1149,1916 1194,1919 1238,1919 1283,1919 1328,1919 1373,1916 1418,1916 1462,1916 1507,1916 1552,1916 1597,1916 1642,1916 1686,1919 1731,1919 1776,1919 1821,1919 1865,1919 1910,1922 1955,1922 2000,1919 2045,1922 2051,1922" />
+                <TextEquiv>
+                    <Unicode>their Cargoes belong'd to private Merchants in London,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:24;} place {offset:0; length:7;wikiData:Q23154;} place {offset:13; length:9;wikiData:Q24826;}">
+                <Coords points="602,2004 2050,1995 1992,1924 1431,1919 1217,1961 1160,1922 829,1955 602,1922" />
+                <Baseline points="612,1979 656,1979 701,1979 746,1979 791,1979 835,1979 880,1979 925,1979 970,1979 1015,1979 1059,1982 1104,1982 1149,1982 1194,1979 1238,1979 1283,1979 1328,1979 1373,1979 1418,1979 1462,1979 1507,1979 1552,1979 1597,1979 1642,1979 1686,1979 1731,1979 1776,1979 1821,1979 1865,1979 1910,1982 1955,1982 2000,1982 2045,1982 2054,1982" />
+                <TextEquiv>
+                    <Unicode>Bristol, and Liverpool, who employ'd Factors settled in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:25;} place {offset:0; length:7; continued:true;wikiData:Q766;}">
+                <Coords points="607,2064 2044,2048 2013,1992 1797,1981 607,2002" />
+                <Baseline points="618,2045 659,2045 704,2042 749,2042 794,2042 838,2042 883,2042 928,2039 973,2042 1018,2042 1062,2042 1107,2042 1152,2045 1197,2045 1241,2042 1286,2042 1331,2042 1376,2039 1421,2042 1465,2042 1510,2039 1555,2039 1600,2042 1645,2042 1689,2042 1734,2042 1779,2042 1824,2042 1868,2042 1913,2042 1958,2045 2003,2042 2048,2039" />
+                <TextEquiv>
+                    <Unicode>Jamaica, and the supplying the private Traders with Negroes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:26;}">
+                <Coords points="598,2126 2044,2104 2030,2055 1822,2042 598,2081" />
+                <Baseline points="609,2107 615,2107 659,2104 704,2104 749,2101 794,2101 838,2101 883,2104 928,2104 973,2101 1018,2101 1062,2104 1107,2104 1152,2104 1197,2104 1241,2104 1286,2104 1331,2104 1376,2104 1421,2104 1465,2101 1510,2101 1555,2101 1600,2101 1645,2104 1689,2101 1734,2104 1779,2104 1824,2104 1868,2104 1913,2104 1958,2104 2003,2104 2048,2104" />
+                <TextEquiv>
+                    <Unicode>was very beneficial to them, as well as to the Inhabitants;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:27;}">
+                <Coords points="607,2190 2052,2168 2052,2122 607,2124" />
+                <Baseline points="618,2164 662,2164 707,2164 752,2164 797,2164 841,2164 886,2164 931,2164 976,2164 1021,2164 1065,2164 1110,2167 1155,2164 1200,2167 1244,2164 1289,2164 1334,2164 1379,2164 1424,2164 1468,2164 1513,2164 1558,2164 1603,2164 1648,2164 1692,2164 1737,2164 1782,2164 1827,2164 1871,2164 1916,2167 1961,2164 2006,2167 2051,2167 2054,2167" />
+                <TextEquiv>
+                    <Unicode>and those Factors not only employ'd a great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:28;}">
+                <Coords points="602,2250 2041,2233 2041,2188 1959,2162 1470,2162 1422,2203 1362,2168 602,2188" />
+                <Baseline points="612,2230 656,2227 701,2227 746,2227 791,2224 835,2227 880,2227 925,2227 970,2227 1015,2227 1059,2227 1104,2227 1149,2227 1194,2227 1238,2227 1283,2227 1328,2227 1373,2227 1418,2227 1462,2227 1507,2224 1552,2227 1597,2227 1642,2227 1686,2227 1731,2227 1776,2224 1821,2227 1865,2227 1910,2227 1955,2227 2000,2227 2045,2224" />
+                <TextEquiv>
+                    <Unicode>Number of People under them, but purchased the Product</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:29;}">
+                <Coords points="606,2286 1179,2293 1240,2328 1448,2288 2041,2303 2017,2248 1819,2228 606,2263" />
+                <Baseline points="615,2286 659,2286 704,2286 749,2286 794,2289 838,2286 883,2286 928,2286 973,2286 1018,2286 1062,2286 1107,2286 1152,2289 1197,2289 1241,2289 1286,2289 1331,2286 1376,2286 1421,2286 1465,2289 1510,2289 1555,2289 1600,2289 1645,2289 1689,2289 1734,2289 1779,2289 1824,2289 1868,2289 1913,2289 1958,2289 2003,2292 2045,2295" />
+                <TextEquiv>
+                    <Unicode>of the Island to load their Ships; and the Money</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:30;}">
+                <Coords points="609,2359 2053,2366 2019,2293 1450,2288 1240,2328 609,2288" />
+                <Baseline points="620,2349 665,2349 710,2349 755,2349 800,2349 844,2349 889,2349 934,2349 979,2349 1024,2349 1068,2349 1113,2349 1158,2349 1203,2349 1247,2349 1292,2349 1337,2346 1382,2346 1427,2349 1471,2349 1516,2346 1561,2346 1606,2346 1650,2346 1695,2346 1740,2346 1785,2349 1830,2349 1874,2349 1919,2349 1964,2349 2009,2349 2054,2352 2057,2352" />
+                <TextEquiv>
+                    <Unicode>laid out by those Means, as well as for Stores and Necessaries,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:31;}">
+                <Coords points="602,2432 2046,2444 2032,2353 602,2373" />
+                <Baseline points="612,2412 656,2412 701,2412 746,2412 791,2409 835,2409 880,2409 925,2409 970,2409 1015,2409 1059,2412 1104,2412 1149,2412 1194,2415 1238,2412 1283,2412 1328,2412 1373,2412 1418,2412 1462,2412 1507,2412 1552,2412 1597,2415 1642,2412 1686,2412 1731,2415 1776,2415 1821,2415 1865,2415 1910,2415 1955,2415 2000,2418 2045,2418 2051,2418" />
+                <TextEquiv>
+                    <Unicode>circulated in the Island, and occasioned a Life and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:32;}">
+                <Coords points="607,2501 669,2519 762,2490 871,2517 949,2499 1151,2514 1151,2446 1055,2441 1022,2417 917,2441 757,2439 737,2419 700,2441 607,2428" />
+                <Baseline points="618,2477 662,2475 707,2475 752,2475 797,2475 841,2475 886,2475 931,2475 976,2472 1021,2472 1065,2475 1110,2475 1155,2472" />
+                <TextEquiv>
+                    <Unicode>Spirit amongst them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:33;}">
+                <Coords points="664,2599 2053,2610 2053,2532 1975,2519 664,2517" />
+                <Baseline points="674,2588 719,2591 764,2591 809,2594 853,2594 898,2594 943,2594 988,2591 1032,2594 1077,2594 1122,2594 1167,2594 1212,2594 1256,2594 1301,2594 1346,2594 1391,2597 1436,2597 1480,2597 1525,2594 1570,2594 1615,2597 1659,2597 1704,2597 1749,2597 1794,2597 1839,2597 1883,2600 1928,2600 1973,2597 2018,2597 2057,2597" />
+                <TextEquiv>
+                    <Unicode>Fourthly, THAT there had been a greater private</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:34;} place {offset:22; length:7; continued:true;wikiData:Q766;} date {offset:46; length:4;wikiData:Q6921;}">
+                <Coords points="597,2657 1862,2664 1924,2704 2055,2672 2055,2610 1948,2601 597,2610" />
+                <Baseline points="606,2648 650,2654 695,2654 740,2657 785,2657 829,2657 874,2657 919,2657 964,2657 1009,2657 1053,2657 1098,2657 1143,2660 1188,2657 1233,2657 1277,2657 1322,2660 1367,2660 1412,2660 1456,2660 1501,2660 1546,2660 1591,2660 1636,2660 1680,2660 1725,2660 1770,2660 1815,2663 1859,2663 1904,2663 1949,2663 1994,2663 2039,2663 2060,2663" />
+                <TextEquiv>
+                    <Unicode>Trade carried on from Jamaica, since the Year 1723, than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:35;}">
+                <Coords points="602,2755 1892,2752 1875,2664 600,2659" />
+                <Baseline points="612,2719 656,2719 701,2719 746,2719 791,2719 835,2719 880,2719 925,2719 970,2719 1015,2719 1059,2719 1104,2719 1149,2719 1194,2719 1238,2719 1283,2719 1328,2719 1373,2722 1418,2722 1462,2722 1507,2719 1552,2722 1597,2722 1642,2722 1686,2722 1731,2722 1776,2725 1821,2722 1865,2725 1895,2722" />
+                <TextEquiv>
+                    <Unicode>in eighteen Years which he had known the Island.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:36;}">
+                <Coords points="660,2850 2050,2859 2048,2786 1944,2768 658,2759" />
+                <Baseline points="671,2836 716,2836 761,2839 806,2839 850,2839 895,2842 940,2842 985,2842 1030,2842 1074,2839 1119,2842 1164,2842 1209,2842 1253,2842 1298,2842 1343,2839 1388,2839 1433,2842 1477,2839 1522,2839 1567,2842 1612,2842 1656,2845 1701,2845 1746,2842 1791,2845 1836,2848 1880,2848 1925,2848 1970,2848 2015,2845 2054,2848" />
+                <TextEquiv>
+                    <Unicode>HERE I am at a Loss how to take that Gentleman's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:37;}">
+                <Coords points="593,2906 2046,2919 2046,2855 1359,2839 1289,2879 1255,2845 1031,2875 593,2835" />
+                <Baseline points="603,2898 647,2901 692,2901 737,2901 782,2901 826,2904 871,2904 916,2901 961,2901 1006,2904 1050,2904 1095,2904 1140,2901 1185,2901 1230,2901 1274,2904 1319,2904 1364,2904 1409,2904 1453,2904 1498,2904 1543,2904 1588,2904 1633,2904 1677,2904 1722,2907 1767,2907 1812,2907 1857,2907 1901,2907 1946,2907 1991,2907 2036,2910 2051,2907" />
+                <TextEquiv>
+                    <Unicode>Meaning; if he would be understood a Trade carried</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:38;} place {offset:34; length:7; continued:true;wikiData:Q766;}">
+                <Coords points="598,3015 888,2968 1370,3019 1533,2979 2026,2997 2050,2917 597,2906" />
+                <Baseline points="606,2967 650,2964 695,2964 740,2964 785,2967 829,2967 874,2967 919,2967 964,2967 1009,2967 1053,2967 1098,2967 1143,2967 1188,2967 1233,2967 1277,2967 1322,2967 1367,2967 1412,2967 1456,2970 1501,2970 1546,2970 1591,2970 1636,2970 1680,2970 1725,2970 1770,2973 1815,2970 1859,2970 1904,2970 1949,2970 1994,2970 2039,2967 2054,2967" />
+                <TextEquiv>
+                    <Unicode>on by the Merchants who reside in Jamaica, it is contrary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:39;}">
+                <Coords points="1917,3050 1944,3057 1981,3079 2008,3065 2028,3072 2048,3065 2044,2986 2035,2986 2026,2995 2013,2988 1992,2995 1961,2977 1944,2985 1913,2985" />
+                <Baseline points="1925,3033 1970,3033 2015,3036 2051,3039" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,86 @@
+{
+  "doc_id": "Anonymous - 1800 - Cushoo A dialogue between a negro and an english gentleman_page_7.xml",
+  "text": "7\npickaninny, — husband and wife, — broder and sister,\n— ah! me no bear tink; it break my heart.\nE. I thought you blacks had no such fine feelings.\nC. Me beg your pardon, Massa, dat be de whites ;\n— de blacks all feel.\nE. And they have a difficulty to part you sometimes\nI reckon?\nC. De curst wip do dat, Massa.\nE. You had the luck to meet with a good master,\nhowever.\nC. Dey say, my Massa good Massa.\nE. And what did he set you to do?\nC. De Overseer, after he mark us wid red hot iron,\nsend me and good many more to de gang to de seasoning.\nE. Seasoning! What's that?\nC. O dey call de two first years de seasoning, den\nif we live, dey call us good slave.\nE. Does it kill any of you then?\nC. Great many, Massa.\nE. What sort of work did they set you to?\nC. Me field-slave; me work in de field a-day, and\nsometimes tend de mills at night.\nE. Is your work very hard?\nC. Very hard, Massa, and work great many hours;\nbut Negro no mind dat, so use well and feede well.\nE. What do you live on?\nC. Rice, horsebeans, and sometimes stinking fish;\nwhat white no eat, he give blacke.\nE. Well; with all you hardships, your must acknowledge\nyou are better off than in your own barbarous\ncountry, full of lions and tygers.\nC. But there be no Negro driver, Massa!\nE. Keep in boundaries, Cushoo; you know in your own\ncountry you live under barbarous and petty tyrants, in\na wild uncivilized state; but in the West Indies you\nare brought to a civilized state, and live under the protection\nof our gracious Sovereign King George.",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 990,
+      "end": 994,
+      "label": "COMMODITY",
+      "text": "Rice",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "id": "e2",
+      "start": 996,
+      "end": 1006,
+      "label": "COMMODITY",
+      "text": "horsebeans",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "id": "e3",
+      "start": 1031,
+      "end": 1035,
+      "label": "COMMODITY",
+      "text": "fish",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "start": 649,
+      "end": 654,
+      "text": "slave",
+      "label": "COMMODITY",
+      "id": "e4",
+      "line_id": "augmented"
+    },
+    {
+      "start": 765,
+      "end": 770,
+      "text": "slave",
+      "label": "COMMODITY",
+      "id": "e5",
+      "line_id": "augmented"
+    },
+    {
+      "start": 916,
+      "end": 921,
+      "text": "Negro",
+      "label": "COMMODITY",
+      "id": "e6",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1227,
+      "end": 1232,
+      "text": "Negro",
+      "label": "COMMODITY",
+      "id": "e7",
+      "line_id": "augmented"
+    },
+    {
+      "start": 481,
+      "end": 485,
+      "text": "iron",
+      "label": "COMMODITY",
+      "id": "e8",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e9",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Massa",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e10",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "King George",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

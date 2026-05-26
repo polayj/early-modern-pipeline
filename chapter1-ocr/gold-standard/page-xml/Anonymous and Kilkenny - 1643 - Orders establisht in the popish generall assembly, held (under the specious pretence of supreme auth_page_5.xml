@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:42</Creator>
+        <Created>2025-10-02T01:43:28.460+02:00</Created>
+        <LastChange>2025-10-27T17:30:58.685+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051176" pageNr="50" tsid="258985520" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=TQKBOFMQBWHKBCPNCCNFAZUT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XISUFPQKXLZFVNODNQSSSXHP" imageId="87046358" />
+    </Metadata>
+    <Page imageFilename="11168119_0050_104051176.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586542852" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+                <RegionRefIndexed index="2" regionRef="r_3" />
+                <RegionRefIndexed index="3" regionRef="r_1" />
+                <RegionRefIndexed index="4" regionRef="tr_2" />
+                <RegionRefIndexed index="5" regionRef="r_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1024,114 1176,114 1176,188 1024,188" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1048,186 1083,185 1094,174 1109,171 1120,179 1156,176 1158,111 1141,108 1134,115 1128,111 1125,115 1107,115 1092,129 1078,111 1050,115" />
+                <Baseline points="1057,173 1083,169 1109,168 1135,168 1161,170" />
+                <TextEquiv>
+                    <Unicode>( 6 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="393,186 381,2137 1806,2219 1830,212" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="420,242 1734,259 1708,212 1473,186 420,212" />
+                <Baseline points="430,238 495,238 560,238 626,239 691,238 757,238 822,238 887,241 953,241 1018,238 1084,239 1149,241 1214,241 1280,241 1345,241 1411,244 1476,244 1541,244 1607,247 1672,247 1738,253" />
+                <TextEquiv>
+                    <Unicode>culture, and Husbandry bee maintained and duly kept.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="453,301 1804,331 1802,282 451,270" />
+                <Baseline points="462,301 529,301 596,301 664,301 731,301 798,301 866,301 933,303 1000,304 1068,304 1135,304 1202,304 1270,304 1337,304 1404,304 1472,304 1539,307 1606,309 1674,310 1741,315 1809,319" />
+                <TextEquiv>
+                    <Unicode>8. Item, In every County there shall be Corronors, high Sheriffs,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="418,367 1802,388 1802,347 416,327" />
+                <Baseline points="427,358 499,361 572,363 644,364 717,364 789,361 862,363 935,365 1007,367 1080,367 1152,365 1225,365 1297,364 1370,367 1443,367 1515,367 1588,367 1660,370 1733,373 1806,379" />
+                <TextEquiv>
+                    <Unicode>high Constables, petty Constables, and Goalors, who are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="420,421 1811,451 1811,387 1546,376 420,397" />
+                <Baseline points="430,421 499,423 568,424 637,424 707,424 776,424 845,424 914,424 984,427 1053,427 1122,427 1191,427 1261,427 1330,427 1399,427 1468,430 1538,428 1607,430 1676,432 1745,435 1815,442" />
+                <TextEquiv>
+                    <Unicode>to do their respective Offices as accustomed; the high Sheriffe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="423,482 1807,515 1807,463 1724,446 423,451" />
+                <Baseline points="433,480 505,483 578,483 650,483 723,483 795,483 868,486 941,486 1013,486 1086,488 1158,487 1231,487 1303,489 1376,489 1449,489 1521,489 1594,489 1666,494 1739,496 1812,501" />
+                <TextEquiv>
+                    <Unicode>to be confirmed or nominated by the Supreme Councell out</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="427,552 1809,571 1809,529 1719,505 427,517" />
+                <Baseline points="436,543 504,545 573,543 642,546 711,546 780,544 848,546 917,546 986,549 1055,549 1124,549 1192,549 1261,549 1330,549 1399,549 1468,549 1536,551 1605,552 1674,554 1743,559 1812,564" />
+                <TextEquiv>
+                    <Unicode>of three to be presented by the County Councell, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="427,613 1807,643 1806,590 1734,569 427,555" />
+                <Baseline points="436,606 504,606 573,606 642,606 711,609 780,608 848,609 917,609 986,610 1055,610 1124,610 1192,612 1261,612 1330,612 1399,612 1468,612 1536,612 1605,615 1674,615 1743,619 1812,633" />
+                <TextEquiv>
+                    <Unicode>high Sheriffe is required to execute the Commands, Orders,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="418,674 1670,683 1647,622 418,639" />
+                <Baseline points="427,663 489,667 551,669 614,669 676,669 739,669 801,669 863,669 926,669 988,671 1051,672 1113,672 1175,672 1238,672 1300,672 1363,672 1425,670 1487,672 1550,675 1612,675 1675,675" />
+                <TextEquiv>
+                    <Unicode>and Decrees of the Provinciall and County Councell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="470,738 1802,749 1800,707 576,674 468,705" />
+                <Baseline points="480,731 546,728 612,728 678,728 745,728 811,729 877,728 944,731 1010,731 1076,731 1143,731 1209,731 1275,731 1341,731 1408,731 1474,731 1540,733 1607,734 1673,734 1739,737 1806,740" />
+                <TextEquiv>
+                    <Unicode>9. Item, In Cities and Towns Corporate Justice is to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="420,789 1534,804 1511,747 420,752" />
+                <Baseline points="430,788 485,788 540,788 596,788 651,788 707,789 762,791 817,789 873,788 928,788 984,791 1039,791 1094,791 1150,791 1205,791 1261,793 1316,794 1371,791 1427,792 1482,795 1538,797" />
+                <TextEquiv>
+                    <Unicode>done, and the Lawes executed as is accustomed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="477,850 1807,874 1807,806 477,824" />
+                <Baseline points="486,848 552,849 618,851 684,851 751,851 817,848 883,848 950,851 1016,851 1082,854 1149,854 1215,854 1281,854 1347,854 1414,854 1480,856 1546,854 1613,854 1679,854 1745,858 1812,860" />
+                <TextEquiv>
+                    <Unicode>10. Item, In every County the high Sheriffe shall be Provost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="420,916 1802,932 1802,881 1553,864 1040,888 890,855 672,898 630,858 420,869" />
+                <Baseline points="430,907 498,909 567,910 636,910 705,910 774,910 842,910 911,910 980,913 1049,913 1118,913 1186,913 1255,913 1324,913 1393,913 1462,913 1530,913 1599,913 1668,916 1737,920 1806,919" />
+                <TextEquiv>
+                    <Unicode>Marshall, and shall have power to execute a lay man not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="427,979 1793,986 1793,945 1717,926 427,939" />
+                <Baseline points="436,967 504,969 572,970 640,970 708,970 776,970 844,973 912,973 980,973 1048,973 1117,976 1185,976 1253,973 1321,975 1389,976 1457,976 1525,976 1593,976 1661,979 1729,979 1798,979" />
+                <TextEquiv>
+                    <Unicode>worth five pounds, and none other, for murder, man-slaughter,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="418,1033 1804,1050 1804,999 1724,991 987,1015 418,977" />
+                <Baseline points="427,1024 496,1029 565,1030 634,1032 703,1033 772,1033 841,1033 910,1033 979,1034 1048,1033 1118,1036 1187,1036 1256,1036 1325,1036 1394,1036 1463,1039 1532,1036 1601,1039 1670,1039 1739,1040 1809,1042" />
+                <TextEquiv>
+                    <Unicode>burglary, theft, robbery, or other capitall offence, provided</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="423,1097 1799,1116 1799,1071 1680,1050 423,1053" />
+                <Baseline points="433,1087 501,1092 570,1090 638,1092 707,1093 775,1093 844,1093 912,1093 981,1094 1049,1096 1118,1096 1186,1096 1255,1097 1323,1099 1392,1099 1460,1096 1529,1097 1597,1096 1666,1098 1734,1099 1803,1102" />
+                <TextEquiv>
+                    <Unicode>the party to be executed may have foure and twenty houres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="418,1153 1797,1167 1755,1111 418,1116" />
+                <Baseline points="427,1146 495,1149 564,1149 633,1149 701,1149 770,1152 839,1152 907,1154 976,1156 1045,1156 1114,1155 1182,1155 1251,1158 1320,1158 1388,1158 1457,1158 1526,1158 1594,1158 1663,1158 1732,1161 1801,1161" />
+                <TextEquiv>
+                    <Unicode>time to prepare his soule; and that the Supreme or Provinciall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="418,1217 1797,1243 1797,1184 416,1182" />
+                <Baseline points="427,1206 495,1211 564,1212 633,1212 701,1212 770,1212 839,1212 907,1214 976,1215 1045,1215 1114,1217 1182,1218 1251,1218 1320,1218 1388,1218 1457,1218 1526,1220 1594,1221 1663,1221 1732,1221 1801,1224" />
+                <TextEquiv>
+                    <Unicode>Councell shall and may name more Provost Marshall's,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="420,1276 1793,1290 1740,1233 1503,1224 1461,1261 1208,1226 1090,1264 993,1226 420,1242" />
+                <Baseline points="430,1269 498,1269 566,1272 635,1272 703,1272 772,1272 840,1272 908,1275 977,1276 1045,1278 1114,1276 1182,1280 1250,1281 1319,1281 1387,1281 1456,1278 1524,1281 1592,1281 1661,1281 1729,1284 1798,1278" />
+                <TextEquiv>
+                    <Unicode>as they shall think expedient, quallified with the like authority.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="418,1334 432,1339 468,1337 488,1355 503,1353 522,1339 533,1339 531,1297 500,1295 488,1301 470,1283 458,1280 442,1297 416,1302" />
+                <Baseline points="427,1326 454,1328 482,1330 509,1332 537,1329" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="474,1402 1790,1412 1745,1348 1283,1349 1240,1384 1200,1348 474,1351" />
+                <Baseline points="483,1391 548,1391 613,1391 679,1392 744,1394 810,1394 875,1394 941,1397 1006,1397 1072,1397 1137,1398 1202,1400 1268,1400 1333,1400 1399,1400 1464,1400 1530,1400 1595,1400 1661,1400 1726,1400 1792,1397" />
+                <TextEquiv>
+                    <Unicode>11. Item, It is further ordered, that no temporall Government</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="418,1447 1793,1468 1792,1410 418,1419" />
+                <Baseline points="427,1445 495,1450 564,1451 632,1451 701,1451 769,1453 838,1454 906,1456 975,1457 1043,1457 1112,1460 1181,1460 1249,1460 1318,1463 1386,1463 1455,1463 1523,1462 1592,1460 1660,1463 1729,1460 1798,1463" />
+                <TextEquiv>
+                    <Unicode>or Jurisdiction shall be assumed, kept, or exercised</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="418,1513 1797,1539 1797,1471 416,1466" />
+                <Baseline points="427,1508 495,1511 564,1511 633,1513 701,1514 770,1514 839,1517 907,1517 976,1520 1045,1520 1114,1520 1182,1520 1251,1521 1320,1523 1388,1523 1457,1523 1526,1523 1594,1523 1663,1523 1732,1523 1801,1526" />
+                <TextEquiv>
+                    <Unicode>in this Kingdome, or within any County or Province thereof,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="418,1578 1792,1590 1792,1543 1628,1536 418,1541" />
+                <Baseline points="427,1568 495,1571 563,1574 632,1574 700,1574 769,1574 837,1577 905,1577 974,1579 1042,1579 1111,1579 1179,1579 1247,1580 1316,1582 1384,1582 1453,1582 1521,1582 1589,1582 1658,1582 1726,1582 1795,1582" />
+                <TextEquiv>
+                    <Unicode>during these troubles, other then is before expressed, except</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="423,1635 1790,1652 1788,1597 423,1585" />
+                <Baseline points="433,1627 504,1630 576,1631 647,1633 719,1633 790,1633 862,1636 933,1636 1005,1636 1076,1639 1148,1639 1219,1639 1291,1642 1362,1642 1434,1644 1505,1642 1577,1645 1648,1642 1720,1642 1792,1639" />
+                <TextEquiv>
+                    <Unicode>such Jurisdiction and Government as is, or shall be approved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="306,1710 1632,1717 1600,1651 306,1652" />
+                <Baseline points="316,1687 382,1684 448,1687 514,1690 580,1693 646,1693 712,1693 778,1694 844,1696 910,1696 976,1698 1042,1699 1108,1701 1174,1702 1240,1702 1306,1702 1372,1702 1438,1702 1504,1702 1570,1702 1636,1705" />
+                <TextEquiv>
+                    <Unicode>by this Generall Assembly, or the Supreme Councell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="467,1753 1790,1767 1692,1713 465,1715" />
+                <Baseline points="474,1750 540,1753 606,1753 672,1754 738,1756 804,1756 870,1756 936,1756 1002,1758 1068,1762 1134,1762 1200,1763 1266,1765 1332,1765 1398,1765 1464,1762 1530,1762 1596,1765 1662,1762 1728,1762 1795,1759" />
+                <TextEquiv>
+                    <Unicode>12. Item, It is further ordered, that whosoever hath</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:26;}">
+                <Coords points="414,1811 1708,1844 1790,1793 413,1774" />
+                <Baseline points="424,1806 492,1811 561,1812 629,1812 698,1815 766,1815 835,1815 903,1817 972,1818 1040,1818 1109,1819 1178,1824 1246,1824 1315,1824 1383,1824 1452,1821 1520,1823 1589,1824 1657,1824 1726,1824 1795,1818" />
+                <TextEquiv>
+                    <Unicode>entred, since the first day of October 1641. or shall hereafter, during</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:27;}">
+                <Coords points="406,1870 1790,1891 1790,1847 1720,1835 406,1839" />
+                <Baseline points="415,1869 484,1871 553,1872 622,1872 691,1873 760,1875 829,1875 898,1875 967,1878 1036,1878 1105,1881 1174,1881 1243,1884 1312,1884 1381,1884 1450,1884 1519,1884 1588,1884 1657,1884 1726,1883 1795,1878" />
+                <TextEquiv>
+                    <Unicode>the continuance of the warre in this Kingdom, enter into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:28;}">
+                <Coords points="406,1929 1773,1966 1783,1898 404,1900" />
+                <Baseline points="415,1929 483,1929 552,1932 621,1932 689,1935 758,1935 827,1935 895,1937 964,1938 1033,1940 1102,1941 1170,1941 1239,1943 1308,1944 1376,1944 1445,1944 1514,1944 1582,1947 1651,1947 1720,1944 1789,1944" />
+                <TextEquiv>
+                    <Unicode>the Lands, Tenements, or Hereditaments, at or immediately</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:29;}">
+                <Coords points="406,1995 1790,2011 1745,1955 406,1938" />
+                <Baseline points="415,1986 484,1992 553,1992 622,1994 691,1995 760,1995 829,1996 898,1998 967,1998 1036,2001 1105,2001 1174,2001 1243,2002 1312,2004 1381,2004 1450,2004 1519,2004 1588,2007 1657,2005 1726,2004 1795,2001" />
+                <TextEquiv>
+                    <Unicode>before the first day of October, either by himselfe or his under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:30;}">
+                <Coords points="406,2053 1788,2084 1788,2013 1363,2048 404,1999" />
+                <Baseline points="415,2048 483,2051 552,2051 621,2054 690,2054 759,2054 828,2055 896,2057 965,2060 1034,2060 1103,2063 1172,2063 1241,2066 1310,2066 1378,2066 1447,2066 1516,2068 1585,2069 1654,2067 1723,2066 1792,2069" />
+                <TextEquiv>
+                    <Unicode>Tenants, or by receiving the Rents, Issues, or Profits thereof,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:31;}">
+                <Coords points="399,2117 1348,2149 1734,2140 1799,2095 397,2083" />
+                <Baseline points="409,2111 478,2114 548,2114 617,2116 687,2117 757,2117 826,2120 896,2120 965,2123 1035,2123 1105,2126 1174,2126 1244,2128 1313,2129 1383,2129 1453,2132 1522,2132 1592,2132 1661,2129 1731,2126 1801,2123" />
+                <TextEquiv>
+                    <Unicode>shall immediately restore, upon demand, the said Possession</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:32;}">
+                <Coords points="1738,2192 1791,2189 1789,2159 1736,2162" />
+                <Baseline points="1738,2192 1791,2189" />
+                <TextEquiv>
+                    <Unicode>to</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="2617,137 2770,137 2770,217 2617,217" />
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2624,199 2635,200 2654,219 2671,219 2699,200 2711,211 2727,214 2737,204 2746,204 2744,127 2722,125 2692,155 2682,155 2657,139 2633,157 2622,158" />
+                <Baseline points="2634,197 2663,201 2692,202 2721,200 2750,200" />
+                <TextEquiv>
+                    <Unicode>( 7 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1977,216 1959,2165 3377,2241 3389,219" />
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1976,270 3364,287 3364,237 3287,219 1976,232" />
+                <Baseline points="1986,265 2055,265 2124,265 2193,262 2262,262 2331,262 2400,263 2470,265 2539,265 2608,265 2677,266 2746,268 2815,265 2884,268 2954,268 3023,268 3092,268 3161,269 3230,273 3299,274 3369,271" />
+                <TextEquiv>
+                    <Unicode>to the party or parties so put out, with such reasonable dammages,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1976,334 3373,364 3373,286 1976,301" />
+                <Baseline points="1986,328 2055,328 2125,325 2194,323 2264,322 2334,322 2403,325 2473,325 2542,326 2612,325 2682,325 2751,328 2821,325 2890,325 2960,327 3030,328 3099,331 3169,331 3238,334 3308,334 3378,337" />
+                <TextEquiv>
+                    <Unicode>as the Councell Provinciall or Supreme shall think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1980,395 3376,411 3376,366 3247,338 1980,355" />
+                <Baseline points="1989,388 2058,386 2128,385 2197,383 2267,382 2336,382 2406,385 2475,385 2545,388 2614,388 2684,388 2754,388 2823,386 2893,385 2962,387 3032,389 3101,393 3171,394 3240,394 3310,396 3380,397" />
+                <TextEquiv>
+                    <Unicode>fit; and if the party refuse to restore the said Possession as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1985,460 3371,484 3371,418 3218,400 1985,414" />
+                <Baseline points="1995,448 2064,448 2133,448 2202,446 2271,446 2340,448 2409,448 2478,448 2547,448 2616,448 2685,449 2754,450 2823,448 2892,448 2961,449 3030,453 3099,453 3168,455 3237,455 3306,457 3375,459" />
+                <TextEquiv>
+                    <Unicode>aforesaid, upon demand of the party so put out, his heires or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1980,517 3371,540 3371,484 3197,463 3073,496 2878,456 1980,475" />
+                <Baseline points="1989,507 2058,508 2127,507 2196,507 2266,507 2335,507 2404,510 2474,510 2543,510 2612,510 2682,510 2751,510 2820,511 2889,510 2959,510 3028,513 3097,513 3167,516 3236,516 3305,517 3375,519" />
+                <TextEquiv>
+                    <Unicode>assignes, made to the said possessor, his servants, or adherents</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1983,580 3371,590 3371,543 3314,528 1983,528" />
+                <Baseline points="1992,570 2061,570 2130,567 2199,567 2268,567 2337,569 2406,572 2476,572 2545,573 2614,573 2683,573 2752,573 2821,573 2890,573 2960,573 3029,576 3098,576 3167,577 3236,577 3305,580 3375,582" />
+                <TextEquiv>
+                    <Unicode>in the premises or publication of this Order within the parish</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1989,643 3355,660 3371,590 1987,602" />
+                <Baseline points="1998,630 2067,630 2136,630 2205,630 2274,631 2343,633 2412,633 2481,635 2550,636 2619,636 2688,636 2757,636 2826,634 2895,636 2964,636 3033,639 3102,639 3171,640 3240,642 3309,643 3378,648" />
+                <TextEquiv>
+                    <Unicode>where such land lieth, that upon his or their deniall thereof,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="1989,700 3373,728 3373,665 3134,646 1989,656" />
+                <Baseline points="1998,689 2067,689 2136,689 2205,691 2274,692 2343,692 2412,693 2481,695 2550,695 2619,695 2688,695 2757,695 2826,695 2895,695 2964,697 3033,698 3102,698 3171,701 3240,701 3309,702 3378,704" />
+                <TextEquiv>
+                    <Unicode>or default therein, he, his heires and assignes shall be for ever</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="1976,759 3362,782 3362,731 3287,709 1976,724" />
+                <Baseline points="1986,752 2055,750 2124,749 2193,749 2262,752 2331,752 2400,753 2469,755 2538,755 2607,755 2676,755 2745,758 2814,758 2883,758 2952,758 3021,758 3090,761 3159,762 3228,764 3297,764 3366,770" />
+                <TextEquiv>
+                    <Unicode>after debarred and secluded from all and every right, title,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="1994,820 3368,834 3366,782 1992,768" />
+                <Baseline points="2001,812 2069,812 2138,812 2206,812 2275,812 2343,815 2412,815 2480,815 2549,817 2617,817 2686,817 2755,818 2823,818 2892,821 2960,818 3029,818 3097,821 3166,821 3234,824 3303,824 3372,827" />
+                <TextEquiv>
+                    <Unicode>interest, and demand which he or they may make or pretend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="1985,883 3371,892 3357,832 1985,841" />
+                <Baseline points="1995,872 2064,872 2133,872 2202,872 2271,873 2340,875 2409,876 2478,878 2547,878 2616,878 2685,878 2754,878 2823,878 2892,878 2961,878 3030,881 3099,881 3168,884 3237,884 3306,884 3375,887" />
+                <TextEquiv>
+                    <Unicode>to all or any the said lands, tenements, or hereditaments; and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="1983,947 3368,965 3368,904 3232,888 1983,892" />
+                <Baseline points="1992,934 2061,934 2130,934 2199,934 2268,934 2337,936 2406,937 2475,937 2544,937 2613,937 2682,937 2751,940 2820,940 2889,940 2958,942 3027,940 3096,943 3165,944 3234,946 3303,946 3372,946" />
+                <TextEquiv>
+                    <Unicode>if after such deniall or default made, the said party, his heires</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="1985,1003 3364,1033 3364,968 3315,952 1985,963" />
+                <Baseline points="1995,994 2063,997 2132,997 2201,997 2269,997 2338,997 2407,998 2475,1000 2544,1000 2613,1000 2682,1001 2750,1000 2819,1003 2888,1003 2956,1003 3025,1003 3094,1003 3162,1006 3231,1006 3300,1009 3369,1009" />
+                <TextEquiv>
+                    <Unicode>or assignes shall not immediately restore the possession of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="1980,1067 3368,1085 3368,1031 3315,1017 2608,1012 2518,1048 1980,1010" />
+                <Baseline points="1989,1054 2058,1057 2127,1057 2196,1057 2265,1059 2334,1059 2403,1060 2473,1060 2542,1062 2611,1063 2680,1063 2749,1063 2818,1061 2887,1060 2957,1063 3026,1063 3095,1066 3164,1066 3233,1066 3302,1067 3372,1072" />
+                <TextEquiv>
+                    <Unicode>said lands, tenements, or hereditaments so gained to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="1983,1139 3364,1153 3362,1090 3267,1073 3167,1106 3073,1071 2814,1106 2692,1067 2547,1100 1983,1081" />
+                <Baseline points="1992,1114 2060,1115 2129,1117 2198,1117 2266,1117 2335,1120 2404,1120 2472,1122 2541,1122 2610,1122 2679,1123 2747,1126 2816,1123 2885,1123 2953,1123 3022,1123 3091,1126 3159,1128 3228,1128 3297,1128 3366,1128" />
+                <TextEquiv>
+                    <Unicode>party grieved, his heires or assignes, that he, they, and his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="1976,1182 3354,1188 3352,1154 3037,1132 1976,1151" />
+                <Baseline points="1986,1173 2054,1176 2123,1176 2191,1176 2260,1176 2328,1179 2397,1179 2465,1181 2534,1182 2602,1182 2671,1182 2740,1185 2808,1185 2877,1185 2945,1185 3014,1185 3082,1185 3151,1188 3219,1188 3288,1185 3357,1182" />
+                <TextEquiv>
+                    <Unicode>or their adherents in the premises, shall be declared and proceeded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="1983,1243 3326,1276 3362,1212 1982,1203" />
+                <Baseline points="1992,1236 2060,1236 2129,1236 2198,1238 2266,1239 2335,1239 2404,1242 2472,1242 2541,1242 2610,1242 2679,1245 2747,1242 2816,1244 2885,1242 2953,1244 3022,1242 3091,1245 3159,1245 3228,1247 3297,1248 3366,1248" />
+                <TextEquiv>
+                    <Unicode>with as enemies. Provided, and so it is meant, that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="1983,1306 3352,1330 3352,1275 3200,1264 1983,1250" />
+                <Baseline points="1992,1296 2060,1298 2128,1299 2196,1299 2265,1299 2333,1301 2401,1302 2469,1302 2538,1303 2606,1305 2674,1302 2742,1304 2811,1302 2879,1302 2947,1305 3015,1305 3084,1305 3152,1305 3220,1305 3288,1308 3357,1305" />
+                <TextEquiv>
+                    <Unicode>if any of the parties so put out be declared a Neuter or enemy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="1976,1363 3343,1379 3303,1315 1976,1308" />
+                <Baseline points="1986,1355 2054,1357 2122,1358 2190,1358 2258,1361 2326,1361 2394,1364 2462,1361 2530,1364 2598,1364 2667,1364 2735,1364 2803,1364 2871,1364 2939,1362 3007,1364 3075,1364 3143,1364 3211,1365 3279,1367 3348,1367" />
+                <TextEquiv>
+                    <Unicode>by the Supreme or Provincial Councell; then the party who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="1980,1442 3354,1435 3354,1393 3274,1372 1980,1384" />
+                <Baseline points="1989,1415 2057,1418 2125,1421 2194,1421 2262,1421 2331,1424 2399,1424 2467,1424 2536,1424 2604,1424 2673,1424 2741,1426 2809,1426 2878,1424 2946,1424 3015,1424 3083,1425 3151,1427 3220,1427 3288,1427 3357,1430" />
+                <TextEquiv>
+                    <Unicode>gained the possession, as aforesaid, shall give up the possession</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="1980,1491 3350,1499 3350,1443 3298,1435 1980,1442" />
+                <Baseline points="1989,1481 2057,1478 2125,1478 2193,1481 2262,1481 2330,1483 2398,1484 2466,1484 2535,1484 2603,1484 2671,1484 2739,1484 2808,1484 2876,1484 2944,1485 3012,1484 3081,1484 3149,1487 3217,1487 3285,1487 3354,1490" />
+                <TextEquiv>
+                    <Unicode>to such Person or Persons as shall be named either by the said</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="1983,1548 3348,1555 3348,1499 3301,1491 1983,1497" />
+                <Baseline points="1992,1538 2063,1540 2135,1541 2206,1541 2278,1542 2349,1544 2421,1544 2492,1547 2564,1547 2635,1547 2707,1544 2778,1546 2850,1547 2921,1546 2993,1545 3064,1547 3136,1547 3207,1547 3279,1547 3351,1547" />
+                <TextEquiv>
+                    <Unicode>Councell Provinciall, or Supreme Councell, to be disposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="1976,1605 3352,1623 3319,1555 1976,1571" />
+                <Baseline points="1986,1597 2054,1598 2123,1600 2191,1602 2260,1603 2328,1603 2397,1606 2465,1604 2534,1606 2602,1608 2671,1606 2740,1606 2808,1606 2877,1606 2945,1606 3014,1609 3082,1609 3151,1606 3219,1606 3288,1609 3357,1609" />
+                <TextEquiv>
+                    <Unicode>of towards the maintenance of the generall Cause, upon the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="1978,1686 2109,1663 2238,1691 2401,1665 2682,1680 2680,1642 2619,1618 2488,1633 2452,1614 2410,1639 2349,1618 1976,1626" />
+                <Baseline points="1986,1657 2020,1659 2055,1660 2090,1660 2125,1660 2160,1663 2194,1663 2229,1663 2264,1663 2299,1663 2334,1665 2368,1666 2403,1666 2438,1666 2473,1666 2508,1666 2542,1666 2577,1667 2612,1669 2647,1667 2682,1663" />
+                <TextEquiv>
+                    <Unicode>paine and penalty aforesaid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="2018,1727 3350,1746 3348,1705 3014,1665 2944,1699 2882,1663 2016,1692" />
+                <Baseline points="2028,1720 2094,1723 2160,1723 2226,1723 2293,1726 2359,1726 2425,1726 2492,1726 2558,1726 2624,1727 2691,1727 2757,1726 2823,1726 2889,1726 2956,1726 3022,1726 3088,1728 3155,1726 3221,1729 3287,1729 3354,1735" />
+                <TextEquiv>
+                    <Unicode>And as for the Rents and meane Profits of the said lands,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="1973,1787 3202,1793 3277,1827 3352,1795 3305,1738 1973,1745" />
+                <Baseline points="1983,1777 2051,1782 2120,1783 2189,1783 2257,1783 2326,1786 2395,1786 2463,1788 2532,1789 2601,1789 2670,1789 2738,1789 2807,1786 2876,1786 2944,1789 3013,1789 3082,1789 3150,1789 3219,1789 3288,1789 3357,1789" />
+                <TextEquiv>
+                    <Unicode>tenements, and hereditaments, and all kinde of Rents, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="1971,1858 3345,1860 3345,1811 3199,1793 1971,1799" />
+                <Baseline points="1980,1833 2048,1839 2116,1842 2185,1842 2253,1845 2322,1845 2390,1845 2458,1848 2527,1848 2595,1848 2664,1848 2732,1848 2800,1847 2869,1845 2937,1848 3006,1848 3074,1848 3142,1848 3211,1851 3279,1851 3348,1851" />
+                <TextEquiv>
+                    <Unicode>goods or chattels taken or detained from any Catholike, as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="1971,1905 3350,1931 3350,1872 3303,1858 1971,1868" />
+                <Baseline points="1980,1896 2048,1901 2117,1902 2186,1905 2254,1905 2323,1907 2392,1908 2460,1908 2529,1908 2598,1910 2667,1911 2735,1908 2804,1908 2873,1908 2941,1911 3010,1911 3079,1909 3147,1911 3216,1911 3285,1908 3354,1911" />
+                <TextEquiv>
+                    <Unicode>aforesaid; due satisfaction is to be made for the same to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="1971,1980 3355,1980 3355,1936 3122,1917 2864,1952 1971,1922" />
+                <Baseline points="1980,1956 2049,1961 2118,1962 2187,1964 2256,1965 2325,1967 2394,1968 2463,1970 2532,1968 2601,1971 2670,1971 2739,1971 2808,1969 2877,1971 2946,1969 3015,1971 3084,1968 3153,1968 3222,1968 3291,1971 3360,1971" />
+                <TextEquiv>
+                    <Unicode>parties from whom the Rents, Goods, or Chattels were or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="1968,2027 3352,2036 3352,2001 3171,1971 3025,2006 1968,1982" />
+                <Baseline points="1977,2016 2046,2022 2115,2022 2184,2027 2253,2028 2322,2029 2391,2030 2460,2030 2529,2030 2598,2033 2667,2030 2736,2030 2805,2030 2874,2030 2943,2030 3012,2030 3081,2030 3150,2030 3219,2029 3288,2030 3357,2028" />
+                <TextEquiv>
+                    <Unicode>shall be detained, since these troubles begun, as the Provincial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="1964,2083 3329,2107 3258,2039 1964,2051" />
+                <Baseline points="1974,2078 2045,2083 2117,2085 2188,2087 2260,2090 2331,2090 2403,2092 2474,2093 2546,2093 2617,2093 2689,2093 2760,2093 2832,2090 2903,2093 2975,2093 3046,2090 3118,2092 3189,2093 3261,2093 3333,2093" />
+                <TextEquiv>
+                    <Unicode>Councell, or County Councell shall respectively order.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="2018,2145 3350,2159 3350,2117 3211,2098 2018,2119" />
+                <Baseline points="2028,2144 2094,2147 2160,2150 2226,2151 2293,2153 2359,2153 2425,2153 2492,2154 2558,2156 2624,2155 2691,2153 2757,2153 2823,2153 2889,2153 2956,2153 3022,2153 3088,2153 3155,2153 3221,2153 3287,2153 3354,2153" />
+                <TextEquiv>
+                    <Unicode>13. Item, It is further ordered and established for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_34" custom="readingOrder {index:32;}">
+                <Coords points="3159,2213 3174,2220 3359,2218 3359,2161 3322,2163 3294,2180 3218,2175 3159,2184" />
+                <Baseline points="3168,2210 3195,2212 3223,2213 3251,2213 3279,2213 3307,2213 3335,2211 3363,2210" />
+                <TextEquiv>
+                    <Unicode>removeal</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:5;} structure {type:footer;}">
+            <Coords points="2644,2166 2749,2166 2749,2237 2644,2237" />
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2669,2221 2723,2221 2723,2191 2669,2191" />
+                <Baseline points="2669,2221 2723,2221" />
+                <TextEquiv>
+                    <Unicode>B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

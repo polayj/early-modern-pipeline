@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:43:40.000+02:00</Created>
+        <LastChange>2025-10-24T18:04:24.633+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051461" pageNr="55" tsid="258812766" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=GSWQJVHFYUAEZRWDAGRSKTJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FORMQACDRVMAKUFKYKQWMFNU" imageId="87046301" />
+    </Metadata>
+    <Page imageFilename="11168119_0055_104051461.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586543765" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1487,449 1720,449 1720,538 1487,538" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1489,535 1557,540 1585,530 1603,544 1646,511 1685,512 1682,432 1657,432 1626,412 1539,415 1521,404 1484,420" />
+                <Baseline points="1498,513 1525,509 1552,507 1579,507 1607,508 1634,510 1661,516 1689,522" />
+                <TextEquiv>
+                    <Unicode>( 62 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="916,549 925,2948 2248,2948 2240,534" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="916,610 2226,615 2226,506 2081,557 1877,499 1797,554 916,530" />
+                <Baseline points="925,597 990,597 1055,600 1120,602 1186,598 1251,594 1316,594 1381,594 1447,594 1512,594 1577,594 1642,594 1708,596 1773,594 1838,591 1903,591 1969,593 2034,591 2099,592 2164,594 2230,597" />
+                <TextEquiv>
+                    <Unicode>Point. Within this Point, to the westward,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="924,690 2229,679 2199,610 2125,651 2073,610 924,634" />
+                <Baseline points="934,677 1002,675 1070,674 1139,674 1207,674 1275,671 1344,671 1412,670 1480,671 1549,669 1617,670 1686,670 1754,668 1822,666 1891,665 1959,668 2027,668 2096,665 2164,668 2233,668" />
+                <TextEquiv>
+                    <Unicode>his Majesty's ship Raisonable was lost, off</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="916,794 1046,758 2232,755 2209,685 1249,689 1079,731 916,692" />
+                <Baseline points="925,749 990,749 1056,749 1121,749 1187,749 1252,749 1318,746 1383,746 1449,746 1514,746 1580,743 1646,743 1711,743 1777,743 1842,743 1908,743 1973,743 2039,743 2104,743 2170,741 2236,740" />
+                <TextEquiv>
+                    <Unicode>Fort and Point Gardie; this Point therefore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="916,830 1127,865 1194,830 2226,832 2226,750 1947,796 1557,753 1463,809 1405,769 916,794" />
+                <Baseline points="925,829 990,826 1055,826 1120,826 1186,824 1251,824 1316,824 1381,824 1447,824 1512,821 1577,821 1642,818 1708,818 1773,816 1838,818 1903,818 1969,818 2034,818 2099,821 2164,818 2230,818" />
+                <TextEquiv>
+                    <Unicode>must be avoided. Here we were informed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="919,921 1756,896 1951,946 2007,903 2229,916 2231,855 921,844" />
+                <Baseline points="928,901 993,901 1058,901 1123,903 1189,901 1254,898 1319,898 1384,895 1450,895 1515,895 1580,894 1645,895 1711,895 1776,895 1841,895 1906,895 1972,895 2037,895 2102,892 2167,893 2233,895" />
+                <TextEquiv>
+                    <Unicode>that the Admiral and Fleet were at anchor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="916,1013 1532,972 1598,1017 1657,982 1713,995 1715,908 1496,942 1231,913 1194,941 916,931" />
+                <Baseline points="925,979 964,979 1004,979 1043,976 1083,976 1122,976 1162,976 1201,976 1241,975 1280,973 1320,973 1360,973 1399,973 1439,971 1478,970 1518,972 1557,972 1597,971 1636,973 1676,973 1716,973" />
+                <TextEquiv>
+                    <Unicode>in Diamond Cove or Road.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="1007,1082 2094,1043 2232,1076 2234,987 1007,1005" />
+                <Baseline points="1015,1050 1076,1048 1137,1052 1198,1050 1259,1049 1320,1047 1381,1050 1442,1049 1503,1047 1564,1047 1625,1044 1686,1044 1747,1044 1808,1045 1869,1045 1930,1044 1991,1044 2052,1041 2113,1044 2174,1042 2236,1041" />
+                <TextEquiv>
+                    <Unicode>The Diamond Rock, which lay's more than a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="924,1145 2153,1135 2219,1127 2221,1068 924,1089" />
+                <Baseline points="934,1131 998,1129 1063,1128 1127,1126 1192,1125 1256,1125 1321,1125 1385,1124 1450,1122 1514,1125 1579,1123 1643,1122 1708,1122 1772,1122 1837,1119 1901,1119 1966,1121 2030,1119 2095,1116 2159,1116 2224,1113" />
+                <TextEquiv>
+                    <Unicode>mile from the shore, bears from Point Saline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="923,1209 2138,1226 2244,1191 2244,1142 2125,1129 2021,1180 1936,1132 923,1157" />
+                <Baseline points="931,1203 996,1203 1062,1201 1128,1200 1194,1199 1260,1197 1326,1197 1391,1197 1457,1200 1523,1200 1589,1200 1655,1198 1721,1196 1787,1194 1852,1194 1918,1196 1984,1197 2050,1194 2116,1191 2182,1191 2248,1188" />
+                <TextEquiv>
+                    <Unicode>W. N. W. distance 7 or 8 miles. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="928,1285 2214,1295 2229,1234 2091,1203 2008,1241 1962,1206 1704,1246 1526,1209 1471,1242 929,1239" />
+                <Baseline points="937,1277 1001,1280 1066,1277 1131,1277 1196,1277 1261,1276 1325,1276 1390,1276 1455,1274 1520,1274 1585,1273 1649,1271 1714,1271 1779,1271 1844,1269 1909,1271 1973,1270 2038,1270 2103,1268 2168,1265 2233,1268" />
+                <TextEquiv>
+                    <Unicode>aforesaid Rock is high and round, and to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="934,1364 2222,1366 2222,1321 2127,1282 2071,1315 1606,1285 1537,1320 1359,1287 1287,1336 1189,1287 934,1300" />
+                <Baseline points="943,1355 1007,1353 1071,1352 1135,1350 1199,1349 1264,1349 1328,1349 1392,1349 1456,1349 1520,1349 1585,1347 1649,1349 1713,1347 1777,1346 1841,1346 1906,1346 1970,1346 2034,1346 2098,1343 2162,1348 2227,1352" />
+                <TextEquiv>
+                    <Unicode>the N. W. of it is Diamond Cove or Bay,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="934,1458 1460,1425 1740,1466 1852,1420 2229,1425 2231,1394 2038,1353 1857,1392 1748,1359 1677,1394 1626,1354 1550,1389 1316,1358 936,1395" />
+                <Baseline points="943,1424 1007,1427 1072,1430 1136,1427 1201,1424 1265,1424 1330,1424 1394,1424 1459,1424 1523,1427 1588,1424 1652,1421 1717,1421 1781,1421 1846,1421 1910,1419 1975,1421 2039,1421 2104,1418 2168,1421 2233,1421" />
+                <TextEquiv>
+                    <Unicode>where we found his Majesty's Fleet at anchor,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="929,1529 2232,1511 2232,1451 2120,1428 1914,1468 1501,1435 931,1461" />
+                <Baseline points="940,1507 1004,1505 1069,1504 1134,1504 1199,1501 1264,1501 1328,1501 1393,1501 1458,1501 1523,1501 1588,1498 1652,1498 1717,1497 1782,1495 1847,1495 1912,1495 1976,1494 2041,1494 2106,1495 2171,1495 2236,1498" />
+                <TextEquiv>
+                    <Unicode>the 16th of January 1762, under the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="934,1605 1750,1577 2110,1615 2234,1582 2234,1511 2129,1501 1989,1559 1937,1512 1768,1504 934,1549" />
+                <Baseline points="943,1582 1007,1582 1072,1579 1136,1579 1201,1576 1266,1576 1330,1576 1395,1577 1460,1577 1524,1576 1589,1576 1654,1573 1718,1573 1783,1573 1848,1573 1912,1573 1977,1570 2042,1572 2106,1570 2171,1572 2236,1570" />
+                <TextEquiv>
+                    <Unicode>command of Rear Admiral Rodney, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="931,1664 2239,1651 2239,1605 1555,1587 1468,1619 1241,1577 931,1623" />
+                <Baseline points="940,1659 1005,1656 1070,1653 1135,1653 1200,1651 1265,1650 1330,1652 1395,1653 1460,1650 1525,1648 1591,1648 1656,1648 1721,1648 1786,1648 1851,1648 1916,1646 1981,1645 2046,1645 2111,1645 2176,1644 2242,1648" />
+                <TextEquiv>
+                    <Unicode>next day we landed his Majesty's Troops in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="934,1745 2226,1735 2226,1680 934,1685" />
+                <Baseline points="943,1731 1007,1731 1071,1731 1136,1728 1200,1728 1264,1725 1329,1725 1393,1728 1457,1724 1522,1725 1586,1725 1650,1722 1715,1722 1779,1722 1843,1722 1908,1722 1972,1722 2036,1720 2101,1719 2165,1724 2230,1725" />
+                <TextEquiv>
+                    <Unicode>Cass Navire Bay; but as the Antigua Brig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="937,1817 2237,1801 2237,1760 2117,1736 937,1751" />
+                <Baseline points="946,1806 1010,1806 1075,1803 1140,1803 1205,1803 1270,1803 1334,1805 1399,1803 1464,1801 1529,1800 1594,1800 1658,1797 1723,1797 1788,1797 1853,1797 1918,1797 1982,1795 2047,1795 2112,1794 2177,1797 2242,1797" />
+                <TextEquiv>
+                    <Unicode>was ordered to the northward, I chose to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="931,1914 2231,1886 2218,1806 2153,1840 2102,1807 2056,1842 1875,1812 932,1845" />
+                <Baseline points="940,1877 1004,1877 1069,1880 1134,1879 1199,1880 1264,1880 1328,1880 1393,1877 1458,1877 1523,1874 1588,1874 1652,1874 1717,1871 1782,1871 1847,1871 1912,1871 1976,1871 2041,1871 2106,1871 2171,1871 2236,1871" />
+                <TextEquiv>
+                    <Unicode>go with her, in order to go to Jamaica, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="931,1967 1074,1995 1117,1956 1171,1989 1746,1954 1820,1989 1921,1946 2227,1959 2229,1888 2127,1916 2003,1883 1911,1931 1707,1883 932,1914" />
+                <Baseline points="940,1958 1004,1955 1069,1955 1133,1955 1198,1955 1263,1955 1327,1955 1392,1952 1457,1952 1521,1952 1586,1949 1651,1949 1715,1948 1780,1946 1845,1946 1909,1946 1974,1943 2039,1943 2103,1943 2168,1943 2233,1946" />
+                <TextEquiv>
+                    <Unicode>so we proceeded to Guadaloupe, where we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="928,2054 2232,2031 2153,1961 2038,1992 1926,1946 1829,1990 928,1974" />
+                <Baseline points="937,2036 1005,2033 1073,2033 1142,2031 1210,2030 1278,2028 1347,2027 1415,2027 1483,2027 1552,2027 1620,2026 1689,2024 1757,2024 1825,2024 1894,2022 1962,2024 2030,2023 2099,2021 2167,2020 2236,2018" />
+                <TextEquiv>
+                    <Unicode>found a sloop from Lisbon, from Capt. Johnston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="934,2140 1059,2107 2234,2115 2201,2028 2002,2068 934,2064" />
+                <Baseline points="943,2107 1007,2107 1072,2107 1136,2106 1201,2104 1266,2101 1330,2101 1395,2101 1460,2101 1524,2104 1589,2101 1654,2098 1718,2098 1783,2098 1848,2096 1912,2098 1977,2098 2042,2098 2106,2095 2171,2098 2236,2098" />
+                <TextEquiv>
+                    <Unicode>of the Hornet, which gave us an account</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="937,2194 1989,2206 2120,2170 2237,2211 2239,2140 1928,2110 1722,2147 1598,2112 1458,2163 1392,2115 1145,2107 939,2150" />
+                <Baseline points="946,2182 1010,2183 1075,2182 1139,2182 1204,2179 1269,2176 1333,2176 1398,2176 1463,2176 1527,2176 1592,2173 1657,2176 1721,2176 1786,2173 1851,2173 1915,2173 1980,2173 2045,2173 2109,2167 2174,2170 2239,2173" />
+                <TextEquiv>
+                    <Unicode>of a Spanish War, and the Captain gave me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="928,2270 1629,2252 1699,2295 1804,2252 2227,2257 2227,2218 2140,2186 928,2227" />
+                <Baseline points="937,2257 1001,2259 1066,2260 1130,2260 1195,2257 1260,2254 1324,2252 1389,2251 1454,2253 1518,2251 1583,2252 1648,2251 1712,2250 1777,2248 1842,2247 1906,2245 1971,2248 2036,2248 2100,2248 2165,2248 2230,2248" />
+                <TextEquiv>
+                    <Unicode>a Copy of the King of Spain's Declaration.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="934,2349 2226,2346 2214,2265 936,2290" />
+                <Baseline points="943,2334 1007,2332 1071,2334 1136,2332 1200,2331 1264,2331 1329,2328 1393,2328 1457,2326 1522,2324 1586,2324 1650,2325 1715,2325 1779,2322 1843,2324 1908,2322 1972,2322 2036,2322 2101,2319 2165,2319 2230,2319" />
+                <TextEquiv>
+                    <Unicode>As the Lieutenant Governor sent the Brigantine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="928,2415 2194,2428 2226,2364 1944,2330 1745,2372 1147,2338 1018,2376 929,2344" />
+                <Baseline points="937,2406 1001,2409 1066,2406 1130,2409 1195,2409 1260,2406 1324,2406 1389,2403 1454,2403 1518,2403 1583,2403 1648,2400 1712,2400 1777,2400 1842,2399 1906,2399 1971,2400 2036,2400 2100,2397 2165,2397 2230,2394" />
+                <TextEquiv>
+                    <Unicode>back to Martinico, I thought it my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="937,2489 2222,2512 2224,2437 2165,2412 1982,2447 1877,2412 1832,2445 1511,2409 1272,2451 939,2422" />
+                <Baseline points="946,2480 1010,2483 1074,2480 1138,2480 1202,2480 1266,2481 1330,2483 1394,2480 1458,2480 1522,2477 1586,2476 1650,2475 1714,2475 1778,2475 1842,2475 1906,2475 1970,2475 2034,2475 2098,2475 2162,2475 2227,2475" />
+                <TextEquiv>
+                    <Unicode>best way to go back with her; but as a ship</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="934,2583 2226,2560 2227,2516 936,2498" />
+                <Baseline points="943,2558 1007,2558 1071,2558 1136,2558 1200,2558 1264,2558 1329,2558 1393,2555 1457,2555 1522,2555 1586,2555 1650,2552 1715,2552 1779,2552 1843,2549 1908,2549 1972,2547 2036,2549 2101,2549 2165,2548 2230,2546" />
+                <TextEquiv>
+                    <Unicode>then at Guadaloupe (the Alexander, Captain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="941,2646 2175,2638 2224,2634 2226,2585 1784,2559 1728,2595 941,2598" />
+                <Baseline points="949,2636 1012,2636 1076,2635 1140,2633 1204,2630 1268,2632 1332,2633 1396,2633 1460,2630 1524,2630 1588,2628 1651,2627 1715,2627 1779,2624 1843,2624 1907,2624 1971,2624 2035,2624 2099,2624 2163,2624 2227,2624" />
+                <TextEquiv>
+                    <Unicode>Atkinson) was ready, or would be in two or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="934,2722 1115,2713 1168,2750 1280,2707 1896,2699 1956,2736 2229,2699 2186,2657 1858,2667 1797,2631 1694,2671 1295,2641 936,2676" />
+                <Baseline points="943,2707 1007,2710 1072,2710 1136,2710 1201,2707 1265,2706 1330,2704 1394,2707 1459,2705 1523,2704 1588,2704 1652,2701 1717,2701 1781,2698 1846,2700 1910,2698 1975,2698 2039,2698 2104,2698 2168,2693 2233,2689" />
+                <TextEquiv>
+                    <Unicode>three days, I was determined to secure myself</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="936,2811 2237,2783 2237,2725 2196,2717 2017,2758 1901,2712 1112,2758 937,2728" />
+                <Baseline points="946,2788 1010,2785 1075,2785 1139,2785 1204,2785 1269,2785 1333,2783 1398,2782 1463,2782 1527,2782 1592,2779 1657,2776 1721,2775 1786,2776 1851,2776 1915,2776 1980,2775 2045,2775 2109,2776 2174,2776 2239,2773" />
+                <TextEquiv>
+                    <Unicode>a passage, and agreed with him, in case</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="931,2886 2239,2858 2239,2776 2081,2824 1877,2789 1306,2829 931,2804" />
+                <Baseline points="940,2863 1005,2863 1070,2863 1135,2863 1200,2861 1265,2862 1330,2860 1395,2860 1460,2858 1525,2857 1591,2857 1656,2857 1721,2857 1786,2857 1851,2856 1916,2854 1981,2854 2046,2854 2111,2854 2176,2851 2242,2848" />
+                <TextEquiv>
+                    <Unicode>I should be disappointed at Martinico, as it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="1934,2944 1974,2949 2017,2979 2076,2967 2110,2939 2246,2933 2242,2863 2183,2890 2124,2865 2073,2893 1992,2890 1969,2870 1936,2878" />
+                <Baseline points="1943,2928 1968,2930 1993,2931 2019,2931 2044,2930 2070,2928 2095,2928 2120,2928 2146,2928 2171,2928 2197,2928 2222,2927 2248,2925" />
+                <TextEquiv>
+                    <Unicode>happened</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

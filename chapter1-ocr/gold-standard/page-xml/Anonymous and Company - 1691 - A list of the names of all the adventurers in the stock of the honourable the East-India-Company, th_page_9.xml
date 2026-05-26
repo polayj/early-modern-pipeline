@@ -1,0 +1,640 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:43:26.451+02:00</Created>
+        <LastChange>2025-10-27T17:32:08.850+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051460" pageNr="54" tsid="258985716" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=QDIDCXOFQHGWGJRDZAHPTAWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXXKFZAXZMAXLEYLRFXGSXOY" imageId="87046357" />
+    </Metadata>
+    <Page imageFilename="11168119_0054_104051460.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586543599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+                <RegionRefIndexed index="2" regionRef="r_2" />
+                <RegionRefIndexed index="3" regionRef="r_1" />
+                <RegionRefIndexed index="4" regionRef="tr_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1022,154 1163,154 1163,226 1022,226" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1025,224 1079,224 1161,221 1160,191 1078,194 1025,194" />
+                <Baseline points="1025,224 1079,224 1161,221" />
+                <TextEquiv>
+                    <Unicode>( 2 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="604,239 598,2056 1592,2092 1588,224" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="644,255 1580,259 1580,219 1268,209 645,236" />
+                <Baseline points="651,256 697,262 744,262 790,261 837,259 883,258 930,256 976,255 1023,253 1069,253 1116,251 1163,250 1209,248 1256,247 1302,245 1349,246 1395,245 1442,244 1488,244 1535,244 1582,247" />
+                <TextEquiv>
+                    <Unicode>That the India Trade was encreased, before the War, to a very great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="621,304 1565,296 1565,260 1437,249 622,269" />
+                <Baseline points="627,298 674,298 721,298 768,298 815,295 862,294 909,291 956,289 1003,289 1050,288 1097,286 1144,284 1191,281 1238,280 1285,282 1332,281 1379,280 1426,280 1473,280 1520,280 1568,283" />
+                <TextEquiv>
+                    <Unicode>height, and their Manufactures in so great request, that they (from being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="623,338 1573,323 1572,293 1340,283 625,315" />
+                <Baseline points="630,334 677,334 724,331 772,331 819,328 866,328 914,327 961,324 1008,322 1056,322 1103,321 1150,319 1198,319 1245,317 1292,316 1340,316 1387,316 1434,316 1482,316 1529,316 1577,316" />
+                <TextEquiv>
+                    <Unicode>a Scandal to be worn a few years before) soon after became the general</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="623,364 1573,357 1566,330 1338,322 625,339" />
+                <Baseline points="630,364 677,367 724,367 772,367 819,367 866,364 914,363 961,361 1008,360 1056,357 1103,355 1150,354 1198,352 1245,352 1292,352 1340,352 1387,352 1434,350 1482,349 1529,349 1577,352" />
+                <TextEquiv>
+                    <Unicode>Wear of almost all sorts and degrees of Persons; by which means our own</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="626,409 1576,389 1567,356 627,371" />
+                <Baseline points="633,403 680,403 727,403 774,403 822,400 869,400 916,399 964,396 1011,394 1058,394 1106,393 1153,390 1200,388 1247,388 1295,388 1342,386 1389,385 1437,385 1484,385 1531,385 1579,385" />
+                <TextEquiv>
+                    <Unicode>Manufactures were neglected, and our Manufacturers thereby under great discouragement,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="623,441 1556,428 1575,390 623,420" />
+                <Baseline points="630,436 677,436 724,436 772,436 819,436 866,433 914,433 961,432 1008,430 1056,429 1103,427 1150,426 1198,424 1245,422 1292,421 1340,421 1387,419 1434,418 1482,421 1529,421 1577,418" />
+                <TextEquiv>
+                    <Unicode>being not able to carry on their Trades, many were forced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="617,475 1583,467 1583,426 618,458" />
+                <Baseline points="624,471 672,471 720,471 768,469 816,468 864,468 912,465 960,465 1008,465 1056,462 1104,461 1152,459 1200,458 1248,456 1296,456 1344,456 1392,454 1440,453 1488,453 1536,453 1585,456" />
+                <TextEquiv>
+                    <Unicode>to give over, whereby the Poor wanted Employment, the Price of Wool</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="621,504 1576,498 1577,468 621,496" />
+                <Baseline points="627,504 674,506 722,504 769,504 817,504 865,501 912,503 960,498 1007,498 1055,498 1103,497 1150,494 1198,492 1245,492 1293,492 1341,492 1388,492 1436,492 1483,489 1531,489 1579,489" />
+                <TextEquiv>
+                    <Unicode>reduced very low, and great quantities of Wool could not be Manufactured:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="621,541 1565,537 1548,498 1456,496 621,525" />
+                <Baseline points="627,540 674,537 721,540 768,537 815,539 862,537 909,536 956,534 1003,534 1050,533 1097,531 1144,529 1191,526 1238,527 1285,526 1332,525 1379,525 1426,525 1473,525 1520,525 1568,525" />
+                <TextEquiv>
+                    <Unicode>Whereupon the Parliament thought it necessary to make a Law for Burying</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="626,584 1494,578 1580,570 1581,539 626,553" />
+                <Baseline points="633,576 680,576 727,573 775,573 822,573 870,573 917,573 965,570 1012,569 1060,567 1107,567 1154,566 1202,564 1249,562 1297,561 1344,561 1392,561 1439,561 1487,561 1534,561 1582,558" />
+                <TextEquiv>
+                    <Unicode>in Woollen, thereby to consume some of the Wool that lay heavy upon the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="632,617 821,618 821,581 803,589 780,581 720,589 668,588 648,581 632,586" />
+                <Baseline points="639,612 665,609 691,609 718,609 744,609 771,609 797,609 824,609" />
+                <TextEquiv>
+                    <Unicode>Growers Hand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="666,650 1549,646 1586,612 1503,588 1436,616 1179,594 666,618" />
+                <Baseline points="672,645 717,645 763,643 809,642 855,642 901,640 946,637 992,636 1038,636 1084,636 1130,636 1175,634 1221,633 1267,631 1313,627 1359,630 1404,630 1450,630 1496,627 1542,627 1588,627" />
+                <TextEquiv>
+                    <Unicode>That the Indians have Provisions and Materials very cheap, and Wages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="623,679 1582,674 1582,635 623,669" />
+                <Baseline points="630,677 677,677 725,677 773,677 821,677 868,675 916,675 964,675 1012,672 1059,671 1107,669 1155,669 1203,669 1250,667 1298,666 1346,666 1394,666 1441,666 1489,663 1537,666 1585,663" />
+                <TextEquiv>
+                    <Unicode>at three Half-pence or two pence a Day; which disables us, and the rest of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="622,712 1580,706 1565,669 1451,667 623,700" />
+                <Baseline points="630,713 677,713 725,713 772,710 820,710 868,710 915,710 963,707 1010,706 1058,704 1106,704 1153,704 1201,703 1248,701 1296,701 1344,701 1391,701 1439,699 1486,701 1534,701 1582,698" />
+                <TextEquiv>
+                    <Unicode>the European Traders, to contend with them; and for this reason, their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="629,752 1578,747 1575,705 631,722" />
+                <Baseline points="636,740 683,746 730,746 777,746 825,746 872,746 919,743 967,742 1014,740 1061,740 1109,740 1156,739 1203,737 1250,737 1298,735 1345,734 1392,734 1440,734 1487,734 1534,734 1582,734" />
+                <TextEquiv>
+                    <Unicode>Trade did encrease apace, until this War; and unless restraint, will most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="617,782 1580,779 1559,746 1422,739 617,774" />
+                <Baseline points="624,782 671,784 719,783 767,782 815,782 863,782 911,779 959,779 1007,776 1055,776 1103,775 1150,773 1198,773 1246,773 1294,773 1342,771 1390,770 1438,770 1486,770 1534,770 1582,767" />
+                <TextEquiv>
+                    <Unicode>certainly encrease, to the ruining of our best Fabricks, and the vast number</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="629,824 1504,812 1505,781 631,793" />
+                <Baseline points="636,818 679,818 723,817 766,816 810,817 854,815 897,815 941,814 984,812 1028,811 1072,809 1115,809 1159,809 1202,809 1246,809 1290,806 1333,806 1377,806 1420,806 1464,806 1508,806" />
+                <TextEquiv>
+                    <Unicode>of People that have their Livelihood and Dependance thereupon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="660,854 1580,850 1580,813 1533,809 661,829" />
+                <Baseline points="666,851 711,854 757,854 803,852 849,851 895,849 940,848 986,846 1032,845 1078,845 1124,845 1169,843 1215,842 1261,842 1307,842 1353,839 1398,839 1444,839 1490,839 1536,839 1582,839" />
+                <TextEquiv>
+                    <Unicode>That since this War, the India Company have laboured under some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="623,888 1535,891 1586,853 623,869" />
+                <Baseline points="630,887 677,887 725,887 773,887 821,887 869,884 917,884 965,884 1013,881 1061,880 1109,878 1156,878 1204,878 1252,877 1300,875 1348,875 1396,875 1444,875 1492,875 1540,875 1588,875" />
+                <TextEquiv>
+                    <Unicode>Discouragements, and but small quantities of their Manufactured Goods, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="623,926 1580,922 1553,880 623,910" />
+                <Baseline points="630,925 677,920 725,922 772,922 820,919 868,919 915,919 963,916 1010,916 1058,915 1106,913 1153,913 1201,913 1248,911 1296,910 1344,910 1391,910 1439,910 1486,910 1534,913 1582,910" />
+                <TextEquiv>
+                    <Unicode>proportion to what they formerly brought in, have been Imported; by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="615,959 1494,961 1580,951 1581,923 615,950" />
+                <Baseline points="621,958 669,956 717,957 765,956 813,955 861,955 909,955 957,952 1005,952 1053,949 1101,949 1149,949 1197,949 1245,948 1293,946 1341,946 1389,946 1437,946 1485,946 1533,946 1582,946" />
+                <TextEquiv>
+                    <Unicode>reason thereof, great Encouragement hath been given to the Manufactures</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="632,996 1586,985 1586,953 633,972" />
+                <Baseline points="639,991 686,991 733,991 781,991 828,991 876,991 923,988 971,988 1018,988 1066,987 1113,985 1160,984 1208,982 1255,982 1303,982 1350,982 1398,982 1445,982 1493,982 1540,982 1588,982" />
+                <TextEquiv>
+                    <Unicode>of Silk, Half Silk, and Worsted, which have been very much improved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="626,1028 1578,1027 1580,988 627,1005" />
+                <Baseline points="633,1024 680,1027 727,1027 775,1027 822,1024 870,1024 917,1024 965,1021 1012,1021 1060,1021 1107,1021 1154,1020 1202,1018 1249,1016 1297,1015 1344,1017 1392,1016 1439,1017 1487,1018 1534,1018 1582,1018" />
+                <TextEquiv>
+                    <Unicode>in a great variety of Figured, Strip'd, and other sort of Stuffs, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="632,1067 1582,1058 1582,1029 632,1034" />
+                <Baseline points="639,1060 686,1060 733,1060 780,1063 828,1060 875,1060 922,1060 970,1059 1017,1057 1064,1057 1112,1056 1159,1054 1206,1054 1253,1052 1301,1051 1348,1051 1395,1051 1443,1051 1490,1051 1537,1051 1585,1051" />
+                <TextEquiv>
+                    <Unicode>have been made not only in London, Norwich and Canterbury, in much greater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="629,1102 1573,1097 1583,1058 629,1078" />
+                <Baseline points="636,1096 683,1096 730,1096 778,1096 825,1096 873,1096 920,1096 968,1093 1015,1092 1063,1091 1110,1092 1157,1090 1205,1088 1252,1087 1300,1087 1347,1087 1395,1087 1442,1087 1490,1087 1537,1087 1585,1087" />
+                <TextEquiv>
+                    <Unicode>quantities than ever; but this Manufacture has now spread it self to Bristol,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="626,1137 1584,1136 1565,1091 626,1108" />
+                <Baseline points="633,1131 680,1131 728,1131 776,1131 824,1131 871,1128 919,1128 967,1128 1015,1126 1062,1126 1110,1126 1158,1126 1206,1125 1253,1125 1301,1124 1349,1123 1397,1123 1444,1123 1492,1123 1540,1126 1588,1123" />
+                <TextEquiv>
+                    <Unicode>Newbury, and divers other Parts of the Kingdom; and will yet encrease, if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="623,1169 797,1183 1066,1172 1090,1170 1091,1131 623,1148" />
+                <Baseline points="630,1167 655,1164 681,1164 707,1164 732,1164 758,1166 784,1167 810,1165 835,1164 861,1164 887,1164 912,1164 938,1164 964,1164 990,1162 1015,1160 1041,1158 1067,1159 1093,1161" />
+                <TextEquiv>
+                    <Unicode>due Encouragement be given thereto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="646,1210 1580,1204 1577,1169 1305,1155 648,1191" />
+                <Baseline points="654,1203 700,1200 746,1200 793,1200 839,1200 886,1199 932,1198 978,1198 1025,1197 1071,1197 1118,1197 1164,1195 1210,1194 1257,1194 1303,1192 1350,1191 1396,1191 1442,1194 1489,1191 1535,1191 1582,1191" />
+                <TextEquiv>
+                    <Unicode>That since our Trade hath encreased, greater numbers of Poor have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="611,1232 1580,1239 1580,1203 611,1224" />
+                <Baseline points="618,1233 666,1233 714,1233 762,1233 810,1233 859,1230 907,1230 955,1227 1003,1227 1051,1227 1100,1227 1148,1226 1196,1224 1244,1225 1292,1225 1341,1224 1389,1224 1437,1224 1485,1226 1533,1227 1582,1224" />
+                <TextEquiv>
+                    <Unicode>employed, and greater quantities of English Wool consumed; so that the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="611,1270 1494,1275 1578,1268 1580,1239 611,1258" />
+                <Baseline points="618,1269 666,1269 714,1269 762,1269 810,1267 859,1266 907,1266 955,1263 1003,1263 1051,1263 1100,1263 1148,1263 1196,1262 1244,1261 1292,1261 1341,1260 1389,1258 1437,1262 1485,1261 1533,1260 1582,1260" />
+                <TextEquiv>
+                    <Unicode>Price of the Wool is advanced, and the Labour and Wages of the Poor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="617,1306 1580,1305 1552,1267 617,1290" />
+                <Baseline points="624,1305 671,1305 719,1303 767,1302 815,1302 863,1302 911,1302 959,1299 1007,1299 1055,1298 1103,1296 1150,1296 1198,1296 1246,1296 1294,1296 1342,1296 1390,1294 1438,1295 1486,1296 1534,1296 1582,1293" />
+                <TextEquiv>
+                    <Unicode>encreased; which enabled them to live comfortably, and consume the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="629,1346 1582,1339 1582,1304 629,1315" />
+                <Baseline points="636,1338 683,1338 730,1338 778,1338 825,1338 873,1338 920,1335 968,1332 1015,1332 1063,1332 1110,1332 1157,1332 1205,1332 1252,1332 1300,1332 1347,1330 1395,1329 1442,1331 1490,1332 1537,1332 1585,1332" />
+                <TextEquiv>
+                    <Unicode>Product of the Land, to support themselves and families; which is of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="623,1378 1580,1373 1555,1336 623,1357" />
+                <Baseline points="630,1376 677,1374 725,1373 772,1370 820,1370 868,1370 915,1370 963,1367 1010,1367 1058,1367 1106,1367 1153,1367 1201,1367 1248,1367 1296,1367 1344,1365 1391,1364 1439,1364 1486,1364 1534,1367 1582,1364" />
+                <TextEquiv>
+                    <Unicode>great Advantage to the Landlords and Tenants, and the Benefit of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="629,1417 690,1413 739,1419 746,1413 797,1419 807,1409 830,1414 830,1394 812,1385 779,1391 770,1383 763,1388 755,1379 736,1379 710,1388 700,1378 683,1389 667,1379 654,1389 629,1392" />
+                <Baseline points="636,1409 664,1409 692,1408 720,1406 748,1406 776,1406 804,1408 833,1409" />
+                <TextEquiv>
+                    <Unicode>whole Nation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="662,1454 1582,1443 1559,1402 662,1419" />
+                <Baseline points="669,1445 714,1440 760,1439 806,1441 852,1440 898,1439 943,1439 989,1437 1035,1436 1081,1436 1127,1436 1172,1436 1218,1434 1264,1435 1310,1436 1356,1433 1401,1436 1447,1436 1493,1436 1539,1436 1585,1436" />
+                <TextEquiv>
+                    <Unicode>That in case the East-India Stock should be enlarged, and that Trade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:35;}">
+                <Coords points="626,1482 1580,1479 1560,1443 1431,1436 627,1448" />
+                <Baseline points="633,1478 680,1478 727,1475 775,1475 822,1475 870,1475 917,1472 965,1472 1012,1472 1060,1471 1107,1469 1154,1470 1202,1470 1249,1469 1297,1469 1344,1469 1392,1469 1439,1469 1487,1469 1534,1469 1582,1469" />
+                <TextEquiv>
+                    <Unicode>settled by Act of Parliament, it will be in the power of that Company to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:36;}">
+                <Coords points="623,1513 1580,1514 1580,1476 623,1493" />
+                <Baseline points="630,1508 677,1511 725,1508 772,1509 820,1510 868,1508 915,1507 963,1505 1010,1506 1058,1506 1106,1505 1153,1505 1201,1505 1248,1505 1296,1505 1344,1502 1391,1502 1439,1505 1486,1505 1534,1505 1582,1508" />
+                <TextEquiv>
+                    <Unicode>ruine our Woollen and Silk Manufactures, and bring down the Price of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:37;}">
+                <Coords points="611,1544 1580,1550 1580,1515 611,1532" />
+                <Baseline points="618,1544 666,1544 714,1544 762,1543 810,1542 859,1544 907,1543 955,1541 1003,1541 1051,1541 1100,1541 1148,1541 1196,1541 1244,1538 1292,1538 1341,1538 1389,1538 1437,1539 1485,1541 1533,1541 1582,1544" />
+                <TextEquiv>
+                    <Unicode>Wool, and Work-mens Labour and Wages, as low, if not lower, than ever,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:38;}">
+                <Coords points="626,1580 1580,1594 1562,1545 626,1562" />
+                <Baseline points="633,1579 680,1579 727,1579 775,1579 822,1579 870,1579 917,1579 965,1578 1012,1577 1060,1577 1107,1577 1154,1577 1202,1575 1249,1574 1297,1576 1344,1574 1392,1574 1439,1574 1487,1577 1534,1577 1582,1582" />
+                <TextEquiv>
+                    <Unicode>unless the Wearing of the said Manufactured Goods be prohibited in England,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:39;}">
+                <Coords points="623,1616 643,1627 878,1621 878,1587 843,1594 830,1584 812,1592 793,1586 780,1598 765,1586 727,1594 678,1587 623,1605" />
+                <Baseline points="630,1615 655,1615 680,1615 705,1615 730,1614 755,1613 780,1612 805,1612 830,1613 855,1615 881,1615" />
+                <TextEquiv>
+                    <Unicode>and the Plantations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:40;}">
+                <Coords points="644,1651 1580,1658 1580,1627 644,1637" />
+                <Baseline points="651,1651 697,1650 744,1648 790,1648 837,1648 883,1648 930,1647 976,1645 1023,1645 1069,1645 1116,1645 1163,1643 1209,1642 1256,1644 1302,1643 1349,1642 1395,1644 1442,1645 1488,1645 1535,1645 1582,1648" />
+                <TextEquiv>
+                    <Unicode>That such Prohibition would not only encourage our own Manufactures,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:41;}">
+                <Coords points="623,1682 1576,1695 1560,1652 623,1669" />
+                <Baseline points="630,1681 677,1684 724,1684 772,1684 819,1684 867,1683 914,1682 962,1683 1009,1681 1057,1681 1104,1681 1151,1681 1199,1679 1246,1680 1294,1679 1341,1678 1389,1678 1436,1678 1484,1681 1531,1681 1579,1681" />
+                <TextEquiv>
+                    <Unicode>upon which the Value of Lands, and the Employment of our Poor depends,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:42;}">
+                <Coords points="623,1722 1580,1722 1580,1696 1482,1686 623,1694" />
+                <Baseline points="630,1717 677,1717 725,1717 772,1717 820,1717 868,1717 915,1717 963,1714 1010,1714 1058,1714 1106,1714 1153,1714 1201,1714 1248,1714 1296,1714 1344,1716 1391,1717 1439,1717 1486,1714 1534,1717 1582,1714" />
+                <TextEquiv>
+                    <Unicode>but prevents the Exportation of much of our Coin, which at this time can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:43;}">
+                <Coords points="623,1757 1573,1763 1567,1720 625,1722" />
+                <Baseline points="630,1750 677,1753 724,1750 772,1753 819,1753 866,1753 914,1752 961,1750 1008,1750 1056,1750 1103,1752 1150,1751 1198,1750 1245,1750 1292,1750 1340,1750 1387,1750 1434,1750 1482,1753 1529,1750 1577,1750" />
+                <TextEquiv>
+                    <Unicode>be very ill spared; and also prevent many of the Inconveniences feared</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:44;}">
+                <Coords points="617,1787 1084,1802 1084,1764 897,1753 795,1770 644,1757 617,1770" />
+                <Baseline points="624,1786 649,1786 675,1786 701,1786 726,1786 752,1786 778,1786 804,1786 829,1786 855,1786 881,1786 906,1786 932,1786 958,1786 984,1786 1009,1786 1035,1786 1061,1786 1087,1786" />
+                <TextEquiv>
+                    <Unicode>from the Scotch East-India Company.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:45;}">
+                <Coords points="654,1821 1580,1826 1580,1796 1485,1785 654,1798" />
+                <Baseline points="660,1821 706,1821 752,1822 798,1823 844,1821 890,1821 936,1821 982,1821 1028,1819 1074,1820 1121,1819 1167,1818 1213,1818 1259,1818 1305,1818 1351,1818 1397,1821 1443,1821 1489,1821 1535,1821 1582,1818" />
+                <TextEquiv>
+                    <Unicode>That since there is a Trade found out to the Indies, no Objection can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:46;}">
+                <Coords points="626,1859 1573,1866 1573,1835 1485,1825 626,1836" />
+                <Baseline points="633,1857 680,1857 727,1857 774,1857 821,1857 869,1854 916,1854 963,1854 1010,1854 1057,1854 1105,1854 1152,1854 1199,1854 1246,1854 1293,1854 1341,1854 1388,1856 1435,1857 1482,1854 1529,1854 1577,1854" />
+                <TextEquiv>
+                    <Unicode>well be made against their Trade in Spices, Drugs, Salt-petre, &amp;c. nor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:47;}">
+                <Coords points="617,1894 1582,1898 1583,1869 618,1872" />
+                <Baseline points="624,1893 672,1891 720,1890 768,1890 816,1892 864,1893 912,1890 960,1890 1008,1890 1056,1888 1104,1890 1152,1890 1200,1890 1248,1890 1296,1890 1344,1890 1392,1890 1440,1890 1488,1890 1536,1890 1585,1890" />
+                <TextEquiv>
+                    <Unicode>against the Manufactured Goods that are brought in, and again exported to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:48;}">
+                <Coords points="623,1929 1576,1933 1576,1899 1486,1893 623,1899" />
+                <Baseline points="630,1926 677,1926 724,1926 772,1926 819,1926 867,1926 914,1926 962,1926 1009,1926 1057,1926 1104,1926 1151,1926 1199,1926 1246,1926 1294,1926 1341,1926 1389,1926 1436,1926 1484,1926 1531,1926 1579,1923" />
+                <TextEquiv>
+                    <Unicode>Foreign Markets, because it will be carry'd on by others, if we should neglect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:49;}">
+                <Coords points="621,1963 1576,1968 1576,1932 621,1934" />
+                <Baseline points="627,1962 674,1962 722,1962 769,1962 817,1962 865,1961 912,1960 960,1962 1007,1961 1055,1961 1103,1960 1150,1959 1198,1961 1245,1960 1293,1962 1341,1962 1388,1962 1436,1962 1483,1962 1531,1962 1579,1962" />
+                <TextEquiv>
+                    <Unicode>it: But certainly it must be accounted very ill Husbandry, and will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_52" custom="readingOrder {index:50;}">
+                <Coords points="617,2002 1573,2001 1573,1967 617,1963" />
+                <Baseline points="624,1995 671,1995 719,1995 766,1995 814,1996 862,1997 909,1995 957,1995 1005,1995 1052,1995 1100,1995 1148,1995 1195,1995 1243,1995 1291,1998 1338,1998 1386,1998 1434,1998 1481,1998 1529,1998 1577,1998" />
+                <TextEquiv>
+                    <Unicode>be of fatal and ruinous consequence, to despise our own Manufactures, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_53" custom="readingOrder {index:51;}">
+                <Coords points="611,2039 1582,2042 1570,2012 1379,2000 611,2008" />
+                <Baseline points="618,2030 666,2030 714,2030 763,2030 811,2031 859,2033 908,2032 956,2032 1004,2033 1053,2031 1101,2030 1149,2030 1198,2030 1246,2030 1294,2030 1343,2031 1391,2032 1439,2031 1488,2033 1536,2033 1585,2033" />
+                <TextEquiv>
+                    <Unicode>send our Gold and Silver to the Indies, from whence it will never return,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:52;}">
+                <Coords points="1549,2072 1581,2072 1581,2042 1549,2042" />
+                <Baseline points="1549,2072 1581,2072" />
+                <TextEquiv>
+                    <Unicode>to</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="2351,141 2477,141 2477,206 2351,206" />
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2362,199 2405,201 2445,200 2472,202 2474,172 2446,170 2405,171 2363,169" />
+                <Baseline points="2362,199 2405,201 2445,200 2472,202" />
+                <TextEquiv>
+                    <Unicode>( 3 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1926,202 1930,1308 2910,1263 2906,202" />
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1940,230 2888,233 2888,194 1940,207" />
+                <Baseline points="1947,226 1994,224 2041,224 2088,224 2135,224 2183,224 2230,224 2277,224 2324,224 2371,224 2419,224 2466,224 2513,224 2560,222 2607,223 2655,224 2702,224 2749,224 2796,224 2843,224 2891,224" />
+                <TextEquiv>
+                    <Unicode>to purchase Manufactur'd Goods to be consumed at Home, when our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1938,260 2888,272 2888,234 2847,227 1938,241" />
+                <Baseline points="1944,259 1991,259 2038,259 2086,259 2133,259 2180,259 2228,258 2275,257 2322,259 2370,259 2417,259 2464,259 2512,259 2559,259 2606,259 2654,259 2701,256 2748,259 2796,259 2843,256 2891,259" />
+                <TextEquiv>
+                    <Unicode>Money may be kept here to circulate among our selves; and is so necessary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1932,300 2894,306 2894,270 1932,279" />
+                <Baseline points="1938,295 1988,295 2038,295 2089,295 2139,295 2190,295 2240,293 2291,292 2341,292 2392,292 2442,295 2493,295 2543,293 2594,294 2644,295 2695,295 2745,295 2796,295 2846,295 2897,295" />
+                <TextEquiv>
+                    <Unicode>to our Commerce, and payments of our Fleets and Armies, without</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1940,335 2428,339 2417,300 1940,309" />
+                <Baseline points="1947,328 1972,328 1997,328 2023,328 2048,328 2074,328 2099,329 2125,331 2150,329 2176,328 2201,328 2227,328 2252,328 2278,329 2303,331 2329,329 2354,328 2380,328 2405,330 2431,334" />
+                <TextEquiv>
+                    <Unicode>which, we can neither be rich or safe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1977,364 2897,371 2897,346 2790,322 1977,341" />
+                <Baseline points="1983,364 2028,364 2074,364 2120,364 2166,364 2212,364 2258,364 2303,364 2349,364 2395,364 2441,363 2487,361 2533,361 2579,362 2624,364 2670,364 2716,364 2762,364 2808,364 2854,364 2900,364" />
+                <TextEquiv>
+                    <Unicode>That the great Argument that is used in favour of the East-India Company,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1940,412 2884,414 2864,371 1940,384" />
+                <Baseline points="1947,406 1994,400 2041,400 2088,400 2135,400 2182,400 2229,400 2276,399 2323,398 2370,399 2417,398 2464,400 2511,400 2558,398 2605,397 2652,397 2699,397 2746,400 2793,400 2840,400 2888,400" />
+                <TextEquiv>
+                    <Unicode>is, That although they Export great Quantities of Bullion, yet they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1926,434 2888,442 2888,413 1926,425" />
+                <Baseline points="1932,433 1982,433 2032,435 2083,433 2133,433 2184,433 2234,433 2285,433 2335,433 2386,433 2436,433 2487,433 2537,433 2588,433 2638,433 2689,433 2739,433 2790,433 2840,435 2891,433" />
+                <TextEquiv>
+                    <Unicode>bring in much more for the Goods they sell in Foreign Markets. Supposing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1932,469 2894,475 2894,442 1932,460" />
+                <Baseline points="1938,468 1988,468 2038,468 2089,468 2139,468 2190,466 2240,467 2291,465 2341,468 2392,468 2442,466 2493,468 2543,468 2594,468 2644,466 2695,468 2745,468 2796,468 2846,468 2897,468" />
+                <TextEquiv>
+                    <Unicode>their Assertion to be true, this can be no Argument against the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1932,509 2894,513 2895,481 1933,488" />
+                <Baseline points="1938,507 1988,504 2038,504 2089,504 2139,504 2190,503 2240,502 2291,504 2341,502 2392,501 2442,501 2493,501 2543,501 2594,503 2644,501 2695,502 2745,504 2796,504 2846,504 2897,504" />
+                <TextEquiv>
+                    <Unicode>prohibiting their Manufactures to be worn in England, and our Plantations,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1932,543 2890,552 2890,515 2824,509 1932,522" />
+                <Baseline points="1938,534 1985,537 2033,537 2081,537 2129,537 2177,537 2224,537 2272,537 2320,537 2368,537 2416,537 2463,537 2511,537 2559,537 2607,537 2655,537 2702,537 2750,537 2798,539 2846,538 2894,540" />
+                <TextEquiv>
+                    <Unicode>but rather an Argument for it; for what is consumed at Home,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1938,578 2882,587 2863,546 1938,547" />
+                <Baseline points="1944,573 1991,573 2038,573 2085,573 2132,573 2179,573 2226,573 2273,573 2320,573 2367,573 2414,573 2461,571 2508,572 2555,571 2602,570 2649,572 2696,573 2743,573 2790,573 2837,573 2885,570" />
+                <TextEquiv>
+                    <Unicode>brings in no Bullion; and if none be consumed at Home, more may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1934,616 2894,618 2894,580 2860,578 1934,581" />
+                <Baseline points="1941,609 1988,609 2036,609 2084,609 2132,609 2180,609 2227,608 2275,607 2323,609 2371,607 2419,608 2466,607 2514,606 2562,606 2610,606 2658,606 2705,606 2753,606 2801,609 2849,609 2897,609" />
+                <TextEquiv>
+                    <Unicode>be sent Abroad: for it will make the Company more industrious to find</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1932,643 2888,657 2888,618 2850,614 1932,631" />
+                <Baseline points="1938,639 1985,642 2033,642 2080,641 2128,639 2176,639 2223,640 2271,642 2319,642 2366,640 2414,641 2462,642 2509,640 2557,639 2605,642 2652,642 2700,639 2748,642 2795,639 2843,643 2891,642" />
+                <TextEquiv>
+                    <Unicode>out either New Commodities to deal in, or Markets for the vending</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1934,682 2894,683 2867,649 2682,642 1934,655" />
+                <Baseline points="1941,677 1988,677 2036,677 2084,677 2132,677 2180,677 2227,677 2275,677 2323,677 2371,677 2419,677 2466,677 2514,675 2562,675 2610,675 2658,675 2705,677 2753,677 2801,677 2849,677 2897,677" />
+                <TextEquiv>
+                    <Unicode>thereof, whereby they may make their Trade more Profitable to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1932,717 1955,723 1977,723 1983,718 1994,723 2012,723 2016,719 2040,723 2040,690 2017,691 2004,683 1993,683 1984,691 1976,684 1956,683 1944,683 1932,690" />
+                <Baseline points="1938,710 1964,710 1990,710 2016,712 2042,713" />
+                <TextEquiv>
+                    <Unicode>Nation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1977,752 2894,755 2894,716 2711,706 2675,729 1977,718" />
+                <Baseline points="1983,746 2028,746 2074,746 2120,743 2165,743 2211,746 2257,746 2302,743 2348,743 2394,744 2440,746 2485,745 2531,743 2577,744 2622,746 2668,746 2714,746 2759,746 2805,746 2851,746 2897,746" />
+                <TextEquiv>
+                    <Unicode>It is also alledged, in favour of the East-India Trade, That there have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1932,786 2888,798 2888,764 2754,747 1932,770" />
+                <Baseline points="1938,785 1985,782 2033,779 2080,782 2128,782 2176,782 2223,782 2271,782 2319,782 2366,782 2414,780 2462,779 2509,779 2557,779 2605,779 2652,779 2700,779 2748,779 2795,779 2843,780 2891,785" />
+                <TextEquiv>
+                    <Unicode>of late years been great Quantities of English Cloth Exported by the Company.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1920,813 2894,826 2894,787 1920,804" />
+                <Baseline points="1926,812 1974,815 2023,815 2071,817 2120,816 2168,818 2217,818 2265,816 2314,815 2362,817 2411,818 2460,818 2508,815 2557,815 2605,815 2654,815 2702,815 2751,815 2799,815 2848,817 2897,815" />
+                <TextEquiv>
+                    <Unicode>To which this Answer is to be given, That the Cloth by them Exported</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1926,858 2897,859 2866,823 1926,840" />
+                <Baseline points="1932,851 1980,854 2028,851 2077,851 2125,851 2174,851 2222,851 2270,851 2319,851 2367,851 2416,851 2464,851 2512,848 2561,851 2609,851 2658,851 2706,851 2754,851 2803,851 2851,851 2900,851" />
+                <TextEquiv>
+                    <Unicode>more than formerly, is not consumed in India, but sent thence to Persia;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1938,891 2894,899 2877,855 1938,868" />
+                <Baseline points="1944,887 1991,887 2039,887 2086,887 2134,887 2182,887 2229,887 2277,887 2325,887 2372,887 2420,885 2468,886 2515,887 2563,885 2611,884 2658,884 2706,887 2754,887 2801,887 2849,887 2897,887" />
+                <TextEquiv>
+                    <Unicode>which hinders the Turkey Merchants, who formerly used to supply those</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1938,931 2882,928 2871,893 1938,891" />
+                <Baseline points="1944,922 1991,922 2038,922 2085,919 2132,919 2179,920 2226,922 2273,922 2320,921 2367,919 2414,919 2461,919 2508,919 2555,919 2602,919 2649,919 2696,919 2743,919 2790,922 2837,922 2885,922" />
+                <TextEquiv>
+                    <Unicode>Markets. So that the East-India Company sending away our Cloth,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1943,972 2895,963 2895,931 1943,938" />
+                <Baseline points="1950,955 1997,958 2044,958 2092,957 2139,955 2186,955 2234,955 2281,956 2328,958 2376,956 2423,955 2470,955 2518,955 2565,955 2612,955 2660,955 2707,955 2754,955 2802,958 2849,958 2897,958" />
+                <TextEquiv>
+                    <Unicode>proves no Advantage to us, and is only done to gain a good Opinion, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1932,995 2655,1011 2890,1002 2892,971 1932,981" />
+                <Baseline points="1938,994 1985,994 2033,994 2081,991 2129,994 2177,991 2224,991 2272,991 2320,992 2368,993 2416,991 2463,991 2511,991 2559,991 2607,991 2655,991 2702,991 2750,991 2798,994 2846,991 2894,991" />
+                <TextEquiv>
+                    <Unicode>make the Nation believe that their Trade is not so prejudicial to us as has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1934,1041 2368,1042 2437,1034 2439,1004 1935,1008" />
+                <Baseline points="1941,1030 1967,1030 1993,1030 2019,1030 2046,1029 2072,1027 2098,1027 2124,1027 2151,1029 2177,1030 2203,1030 2229,1029 2256,1027 2282,1027 2308,1027 2334,1027 2361,1027 2387,1027 2413,1029 2440,1030" />
+                <TextEquiv>
+                    <Unicode>been represented, or as in reality it is.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1979,1074 2897,1074 2876,1025 1979,1036" />
+                <Baseline points="1986,1066 2031,1063 2077,1063 2123,1063 2168,1063 2214,1063 2260,1063 2305,1063 2351,1063 2397,1063 2443,1063 2488,1063 2534,1063 2580,1060 2625,1063 2671,1063 2717,1060 2762,1060 2808,1060 2854,1063 2900,1060" />
+                <TextEquiv>
+                    <Unicode>That the sending our Money to the East-Indies, to purchase Goods</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1946,1112 2884,1109 2867,1068 1946,1075" />
+                <Baseline points="1953,1099 1999,1099 2046,1099 2093,1099 2140,1099 2186,1099 2233,1099 2280,1099 2327,1099 2373,1099 2420,1098 2467,1096 2514,1096 2560,1096 2607,1096 2654,1098 2701,1097 2747,1096 2794,1096 2841,1098 2888,1102" />
+                <TextEquiv>
+                    <Unicode>perfectly Manufactured there, may Advance Lands, Enrich the People</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1938,1147 2903,1138 2903,1103 1938,1113" />
+                <Baseline points="1944,1134 1992,1134 2040,1131 2088,1133 2136,1131 2184,1132 2232,1133 2280,1131 2328,1131 2376,1131 2425,1131 2473,1131 2521,1131 2569,1131 2617,1131 2665,1131 2713,1131 2761,1131 2809,1131 2857,1132 2906,1134" />
+                <TextEquiv>
+                    <Unicode>Employ the Poor in India: But such as are spent here, in the room of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1938,1172 2824,1172 2824,1142 1938,1152" />
+                <Baseline points="1944,1170 1988,1169 2032,1167 2076,1167 2120,1167 2164,1167 2208,1168 2252,1169 2296,1167 2340,1167 2384,1167 2428,1167 2472,1167 2516,1164 2560,1164 2604,1167 2648,1164 2692,1164 2736,1164 2780,1164 2825,1167" />
+                <TextEquiv>
+                    <Unicode>our own Manufactures, must have the quite contrary effect with us.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1983,1208 2894,1209 2880,1172 1983,1175" />
+                <Baseline points="1989,1203 2034,1202 2079,1203 2125,1203 2170,1203 2216,1203 2261,1203 2306,1203 2352,1200 2397,1203 2443,1200 2488,1200 2533,1203 2579,1203 2624,1203 2670,1200 2715,1200 2760,1200 2806,1200 2851,1200 2897,1200" />
+                <TextEquiv>
+                    <Unicode>Whether it be for the Interest of England, to Settle the East-India</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1943,1249 2903,1242 2893,1205 1943,1215" />
+                <Baseline points="1950,1239 1997,1239 2045,1239 2093,1239 2141,1239 2189,1240 2236,1242 2284,1241 2332,1239 2380,1239 2428,1239 2475,1239 2523,1237 2571,1236 2619,1236 2667,1236 2714,1236 2762,1236 2810,1236 2858,1236 2906,1239" />
+                <TextEquiv>
+                    <Unicode>Trade, without Restrictions, is humbly submitted to the Consideration of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1946,1282 2152,1283 2153,1254 2143,1251 2079,1254 2059,1245 2036,1256 2021,1245 1996,1256 1970,1247 1948,1249" />
+                <Baseline points="1953,1278 1978,1278 2003,1278 2028,1277 2053,1276 2078,1275 2103,1275 2128,1275 2153,1275" />
+                <TextEquiv>
+                    <Unicode>the Parliament.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

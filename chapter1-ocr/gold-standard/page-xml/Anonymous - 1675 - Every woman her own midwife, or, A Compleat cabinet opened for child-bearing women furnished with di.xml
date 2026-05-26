@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:39</Creator>
+        <Created>2025-10-02T01:42:00.557+02:00</Created>
+        <LastChange>2025-10-24T18:44:22.071+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051162" pageNr="1" tsid="258815042" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=TAJBOSTYXSQLREDQCGTIOEJV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TVDRISPOCZKFAPYVQXDRTIBH" imageId="87046174" />
+    </Metadata>
+    <Page imageFilename="11168119_0001_104051162.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586532866" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_5" />
+                <RegionRefIndexed index="1" regionRef="r" />
+                <RegionRefIndexed index="2" regionRef="r_1" />
+                <RegionRefIndexed index="3" regionRef="r_2" />
+                <RegionRefIndexed index="4" regionRef="r_4" />
+                <RegionRefIndexed index="5" regionRef="r_3" />
+                <RegionRefIndexed index="6" regionRef="r_6" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_5" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="215,215 313,206 326,267 217,280" />
+            <TextLine id="l_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="220,273 304,278 309,211 292,206 286,211 284,207 266,222 261,220 248,229 224,229" />
+                <Baseline points="229,265 256,265 283,263 310,259" />
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="477,268 478,183 1307,138 1313,215" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="472,251 578,276 811,224 864,260 1095,204 1219,237 1299,207 1301,180 1123,142 816,198 722,171 668,206 597,175 475,191" />
+                <Baseline points="483,235 524,241 565,240 606,238 647,237 688,234 729,232 770,229 811,226 852,224 894,224 935,222 976,219 1017,216 1058,214 1099,211 1140,208 1181,205 1222,203 1263,203 1305,200" />
+                <TextEquiv>
+                    <Unicode>Preservatives against the Plague.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1536,213 1691,2294 326,2333 190,290" />
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="225,349 1521,276 1523,237 227,307" />
+                <Baseline points="235,334 299,332 364,328 428,324 493,319 557,315 622,311 686,309 751,305 815,301 880,298 945,295 1009,289 1074,286 1138,282 1203,275 1267,273 1332,269 1396,265 1461,260 1526,265" />
+                <TextEquiv>
+                    <Unicode>perficiall parts, and there to apply the rumps of Chickens,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="233,392 1517,331 1520,278 237,356" />
+                <Baseline points="244,388 311,382 378,376 445,373 513,372 580,367 647,361 715,358 782,355 849,352 917,349 984,346 1051,339 1119,334 1186,333 1253,328 1321,321 1388,319 1455,315 1523,313" />
+                <TextEquiv>
+                    <Unicode>as before is taught you, and so apply to the place some strong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="238,449 1115,411 1525,371 1528,335 240,408" />
+                <Baseline points="247,436 311,434 375,432 439,426 503,424 567,422 631,418 695,414 759,410 823,405 888,403 952,400 1016,395 1080,391 1144,387 1208,382 1272,380 1336,374 1400,370 1464,365 1529,361" />
+                <TextEquiv>
+                    <Unicode>maturative, and atractive plaister, or Cataplasme, as hereafter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="238,491 1526,434 1530,395 240,455" />
+                <Baseline points="247,489 311,487 375,482 439,478 504,474 568,471 632,468 696,464 761,460 825,458 889,454 953,450 1018,446 1082,442 1146,438 1210,434 1275,429 1339,427 1403,421 1467,419 1532,418" />
+                <TextEquiv>
+                    <Unicode>shall be shewed you. If the greif be in the head or throte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="247,553 1510,483 1530,436 250,513" />
+                <Baseline points="256,546 319,537 383,536 447,527 511,525 575,523 638,519 702,515 766,513 830,509 894,505 957,500 1021,498 1085,492 1149,489 1213,486 1276,480 1340,478 1404,474 1468,469 1532,462" />
+                <TextEquiv>
+                    <Unicode>then apply Ventoses to the neck: If it be in the emunctuaries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="243,594 702,596 1533,501 245,566" />
+                <Baseline points="253,594 317,592 381,585 445,583 509,579 573,577 637,573 701,568 765,564 829,560 894,556 958,552 1022,549 1086,546 1150,542 1214,535 1278,530 1342,528 1406,525 1470,520 1535,513" />
+                <TextEquiv>
+                    <Unicode>of the heart, then apply them to the shoulders: If in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="255,660 1500,588 1533,540 258,614" />
+                <Baseline points="265,642 328,642 392,638 455,633 519,629 582,627 646,624 709,621 773,618 836,612 900,609 963,607 1027,600 1090,597 1154,592 1217,588 1281,584 1344,580 1408,578 1471,574 1535,567" />
+                <TextEquiv>
+                    <Unicode>emunctuaries of the liver, then apply them to the buttocks or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="250,700 1347,660 1541,602 251,671" />
+                <Baseline points="259,698 323,693 387,689 451,685 516,680 580,677 644,675 708,671 773,667 837,665 901,661 965,657 1030,652 1094,648 1158,644 1222,640 1287,635 1351,633 1415,627 1479,624 1544,618" />
+                <TextEquiv>
+                    <Unicode>thighs, now when this is done, either by Phlebetomy, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="250,749 1510,699 1553,629 251,722" />
+                <Baseline points="259,749 323,747 388,743 453,739 517,734 582,731 647,729 711,724 776,717 841,716 906,711 970,710 1035,706 1100,699 1164,697 1229,693 1294,688 1358,684 1423,680 1488,676 1553,672" />
+                <TextEquiv>
+                    <Unicode>Ventoses, then within an hour or two at the most after it, you must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="258,821 1538,731 1539,691 261,769" />
+                <Baseline points="268,797 331,797 395,794 458,791 522,787 586,785 649,782 713,777 777,770 840,769 904,765 968,760 1031,756 1095,752 1159,751 1222,746 1286,740 1350,738 1413,734 1477,729 1541,722" />
+                <TextEquiv>
+                    <Unicode>give the sick some good Cordiall Medicine, which hath power</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="264,862 1345,811 1548,787 1551,749 266,828" />
+                <Baseline points="274,857 341,851 408,847 475,842 543,838 610,836 677,832 745,827 812,823 879,818 947,814 1014,812 1081,805 1149,803 1216,799 1283,794 1351,790 1418,785 1485,781 1553,773" />
+                <TextEquiv>
+                    <Unicode>to comfort the heart, resist the venomous matter, and also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="269,929 1273,875 1556,846 1559,798 271,878" />
+                <Baseline points="280,899 347,901 414,898 481,893 549,893 616,887 683,884 751,878 818,877 885,872 953,869 1020,866 1087,862 1155,854 1222,851 1289,848 1357,844 1424,839 1491,835 1559,830" />
+                <TextEquiv>
+                    <Unicode>procure sweet, whereof out of the following you may make</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="273,966 472,957 488,973 522,955 624,955 645,947 648,904 597,896 558,916 429,927 309,916 274,931" />
+                <Baseline points="283,961 309,957 335,955 361,953 388,952 414,950 440,948 467,946 493,946 519,946 545,944 572,942 598,941 624,939 651,937" />
+                <TextEquiv>
+                    <Unicode>choice as you list.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;}">
+                <Coords points="326,1068 1566,997 1543,958 1376,948 1255,994 330,1033" />
+                <Baseline points="337,1063 398,1061 460,1053 522,1049 583,1048 645,1042 707,1040 768,1036 830,1032 892,1027 954,1026 1015,1022 1077,1021 1139,1017 1200,1013 1262,1009 1324,1005 1385,1003 1447,996 1509,992 1571,985" />
+                <TextEquiv>
+                    <Unicode>An excellent good Powder to expell the Plague, which also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;}">
+                <Coords points="382,1115 473,1131 491,1115 531,1123 560,1105 656,1107 658,1077 633,1064 604,1071 586,1064 575,1076 558,1058 522,1068 504,1058 470,1077 442,1066 418,1084 384,1086" />
+                <Baseline points="391,1114 417,1112 444,1110 471,1106 498,1104 525,1102 552,1100 579,1099 606,1099 633,1099 660,1099" />
+                <TextEquiv>
+                    <Unicode>provoketh sweat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;}">
+                <Coords points="343,1228 1590,1151 1570,1097 1180,1157 1110,1125 346,1179" />
+                <Baseline points="352,1218 414,1213 476,1209 538,1208 600,1204 662,1199 724,1197 786,1194 848,1190 910,1186 973,1185 1035,1180 1097,1176 1159,1172 1221,1168 1283,1167 1345,1161 1407,1159 1469,1152 1531,1149 1594,1149" />
+                <TextEquiv>
+                    <Unicode>Rx. Roots of Gentian, Bittanie, Petasitis, ana, ʒ. i. Roots of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;}">
+                <Coords points="289,1277 1564,1213 1585,1167 291,1231" />
+                <Baseline points="298,1272 362,1270 427,1269 491,1264 556,1260 620,1256 685,1251 749,1248 814,1246 878,1242 943,1237 1007,1233 1072,1229 1136,1224 1201,1218 1265,1216 1330,1214 1394,1210 1459,1206 1523,1201 1588,1200" />
+                <TextEquiv>
+                    <Unicode>Tormentill, Dittander, ana, ʒ iii. Red Sanders ʒ. ß. Fine Pearle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;}">
+                <Coords points="292,1324 1597,1255 1337,1216 294,1293" />
+                <Baseline points="301,1323 369,1323 437,1320 506,1315 574,1311 642,1309 711,1304 779,1299 847,1295 916,1291 984,1286 1053,1282 1121,1277 1189,1275 1258,1269 1326,1266 1394,1263 1463,1260 1531,1256 1600,1254" />
+                <TextEquiv>
+                    <Unicode>of both sorts, ana, ℈. i. Fine Bolarmoniack prepared, fine Terra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="305,1397 1437,1332 1597,1314 1600,1275 309,1342" />
+                <Baseline points="316,1376 380,1373 444,1373 509,1368 573,1364 637,1358 702,1353 766,1353 830,1348 895,1343 959,1339 1023,1335 1088,1334 1152,1329 1216,1325 1281,1321 1345,1316 1409,1314 1474,1311 1538,1306 1603,1302" />
+                <TextEquiv>
+                    <Unicode>sigillata, ana, ʒ. vi. Rindes of Citrons, red Corrall, Roots</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;}">
+                <Coords points="304,1437 1484,1381 1600,1332 305,1397" />
+                <Baseline points="313,1427 377,1428 442,1424 506,1419 571,1415 635,1413 700,1409 764,1405 829,1399 893,1397 958,1392 1022,1388 1087,1384 1151,1382 1216,1378 1280,1374 1345,1370 1409,1368 1474,1364 1538,1359 1603,1352" />
+                <TextEquiv>
+                    <Unicode>of Zedoiar, shaving of Ebony, bone of a Stags heart, ana, sixteen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;}">
+                <Coords points="304,1486 1469,1435 1608,1379 305,1445" />
+                <Baseline points="313,1481 377,1478 442,1475 507,1471 572,1466 637,1465 701,1459 766,1457 831,1453 896,1448 961,1445 1025,1439 1090,1438 1155,1433 1220,1429 1285,1425 1349,1421 1414,1419 1479,1417 1544,1410 1609,1406" />
+                <TextEquiv>
+                    <Unicode>graines: Fragments of the five pretious stones, ana, ℈. ß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:21;}">
+                <Coords points="305,1544 1618,1461 1603,1409 1131,1471 309,1495" />
+                <Baseline points="316,1535 381,1532 446,1530 511,1525 577,1521 642,1517 707,1514 772,1511 838,1506 903,1502 968,1499 1033,1494 1099,1490 1164,1488 1229,1486 1294,1480 1360,1474 1425,1470 1490,1466 1555,1461 1621,1460" />
+                <TextEquiv>
+                    <Unicode>Shaving of a Unicorns horn, Succini, ana, ℈. ß. Leaves of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:22;}">
+                <Coords points="315,1593 1188,1556 1259,1541 1262,1499 937,1507 761,1549 318,1548" />
+                <Baseline points="325,1585 371,1582 418,1582 465,1579 512,1579 559,1576 606,1573 653,1570 700,1568 747,1567 794,1563 840,1560 887,1557 934,1554 981,1551 1028,1548 1075,1545 1122,1541 1169,1538 1216,1535 1263,1535" />
+                <TextEquiv>
+                    <Unicode>Gold and Silver, ana, one and half in number,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:23;}">
+                <Coords points="367,1642 1603,1582 1592,1521 1484,1513 994,1584 371,1595" />
+                <Baseline points="376,1636 437,1633 499,1629 560,1625 622,1624 684,1620 745,1616 807,1612 869,1608 930,1603 992,1600 1054,1596 1115,1591 1177,1590 1239,1584 1300,1582 1362,1578 1424,1574 1485,1570 1547,1568 1609,1568" />
+                <TextEquiv>
+                    <Unicode>Make all these in fine powder, every one severall by himself,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:24;}">
+                <Coords points="318,1699 1086,1675 1613,1628 1615,1597 320,1662" />
+                <Baseline points="328,1693 392,1691 457,1687 521,1682 586,1678 650,1674 715,1672 779,1668 844,1664 908,1660 973,1655 1037,1651 1102,1647 1166,1642 1231,1638 1295,1634 1360,1630 1424,1628 1489,1626 1553,1619 1618,1618" />
+                <TextEquiv>
+                    <Unicode>and then mix them all together, and give thereof ℈.i. or ℈. iiii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:25;}">
+                <Coords points="325,1755 1611,1691 1613,1649 326,1712" />
+                <Baseline points="334,1744 398,1742 462,1738 526,1734 590,1732 654,1727 718,1723 782,1719 846,1717 910,1713 974,1709 1038,1705 1102,1702 1166,1696 1230,1692 1294,1688 1358,1683 1422,1681 1486,1678 1550,1673 1615,1675" />
+                <TextEquiv>
+                    <Unicode>more or lesse as occasion requireth, either in Sorrell, Scabios,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:26;}">
+                <Coords points="330,1802 1615,1732 1616,1690 333,1758" />
+                <Baseline points="340,1798 403,1795 467,1791 531,1787 595,1783 659,1778 723,1777 787,1773 851,1768 915,1764 979,1760 1042,1756 1106,1751 1170,1750 1234,1746 1298,1741 1362,1737 1426,1733 1490,1729 1554,1724 1618,1720" />
+                <TextEquiv>
+                    <Unicode>or Carduus benedictus water two or three ounces, whereunto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:27;}">
+                <Coords points="330,1872 1512,1804 1621,1779 1624,1732 333,1815" />
+                <Baseline points="340,1842 404,1845 468,1842 533,1837 597,1833 661,1830 726,1827 790,1823 854,1821 919,1817 983,1813 1047,1809 1112,1803 1176,1801 1240,1797 1305,1793 1369,1788 1433,1786 1498,1782 1562,1775 1627,1771" />
+                <TextEquiv>
+                    <Unicode>you must adde a little Sirrup of Lemons, or sour Citrons, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:28;}">
+                <Coords points="335,1923 1632,1835 1634,1796 338,1874" />
+                <Baseline points="346,1905 410,1897 475,1893 539,1888 604,1884 668,1880 733,1878 797,1875 862,1873 926,1869 991,1864 1055,1860 1120,1856 1184,1851 1249,1848 1313,1846 1378,1841 1442,1837 1507,1833 1571,1828 1636,1827" />
+                <TextEquiv>
+                    <Unicode>give it warm, the Bolarmoniack must be pounded small, then</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:29;}">
+                <Coords points="336,1959 1138,1917 1139,1882 1104,1863 338,1923" />
+                <Baseline points="346,1953 385,1952 425,1947 465,1947 504,1942 544,1941 584,1939 623,1937 663,1934 703,1931 743,1929 782,1929 822,1926 862,1924 901,1921 941,1918 981,1916 1020,1914 1060,1913 1100,1908 1140,1908" />
+                <TextEquiv>
+                    <Unicode>washed in Scabios water, and so dryed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:30;}">
+                <Coords points="782,2031 808,2044 919,2032 963,2046 1002,2028 1200,2019 1202,1987 1149,1961 1122,1982 1035,1969 1012,1990 900,1985 857,2005 824,1987 784,2008" />
+                <Baseline points="791,2030 816,2030 842,2030 868,2029 894,2028 920,2026 946,2024 972,2023 998,2022 1024,2022 1050,2019 1076,2016 1102,2014 1128,2013 1154,2013 1180,2010 1206,2007" />
+                <TextEquiv>
+                    <Unicode>Another good Powder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:31;}">
+                <Coords points="392,2161 1415,2124 1649,2091 1654,2031 935,2114 395,2112" />
+                <Baseline points="403,2156 465,2156 528,2153 590,2147 653,2145 715,2141 778,2140 840,2136 903,2131 965,2127 1028,2126 1091,2122 1153,2118 1216,2113 1278,2109 1341,2105 1403,2101 1466,2097 1528,2092 1591,2087 1654,2081" />
+                <TextEquiv>
+                    <Unicode>Rx. Leaves of Dittander, called Dictami cretici, Roots of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:32;}">
+                <Coords points="349,2220 1649,2142 1613,2091 1420,2143 1304,2112 353,2176" />
+                <Baseline points="358,2213 422,2212 487,2210 552,2207 617,2202 682,2198 746,2196 811,2191 876,2187 941,2183 1006,2180 1070,2177 1135,2173 1200,2171 1265,2166 1330,2160 1394,2158 1459,2153 1524,2147 1589,2141 1654,2138" />
+                <TextEquiv>
+                    <Unicode>Tormentil, Bittanie, Pimpernell, Gentian, Zedoiar, ana, ʒ. i.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:33;}">
+                <Coords points="353,2271 1664,2204 1580,2148 356,2223" />
+                <Baseline points="361,2269 426,2266 491,2264 556,2259 622,2255 687,2252 752,2249 817,2246 883,2241 948,2240 1013,2233 1078,2228 1144,2225 1209,2223 1274,2218 1339,2213 1405,2209 1470,2204 1535,2198 1600,2192 1666,2195" />
+                <TextEquiv>
+                    <Unicode>Terra lemnia, Alloes Cicatrina, fine Myrrh, Rinds of sour Citrons,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:34;}">
+                <Coords points="1553,2253 1577,2259 1590,2253 1628,2250 1636,2254 1637,2259 1655,2259 1657,2215 1632,2212 1628,2206 1601,2206 1593,2212 1584,2210 1564,2228 1553,2228" />
+                <Baseline points="1562,2246 1594,2246 1627,2245 1660,2243" />
+                <TextEquiv>
+                    <Unicode>ana,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="2000,163 2000,84 2818,70 2825,145" />
+            <TextLine id="l_38" custom="readingOrder {index:0;}">
+                <Coords points="2021,162 2117,180 2174,149 2349,145 2406,171 2615,124 2723,155 2808,132 2810,96 2677,62 2597,93 2491,65 2361,113 2263,83 2215,109 2024,91" />
+                <Baseline points="2030,146 2069,147 2108,149 2147,149 2186,146 2225,146 2264,146 2304,144 2343,141 2382,139 2421,137 2460,137 2499,134 2538,131 2578,129 2617,126 2656,124 2695,121 2734,119 2773,119 2813,116" />
+                <TextEquiv>
+                    <Unicode>Preservatives against the Plague.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:4;} structure {type:page-number;}">
+            <Coords points="3003,54 3120,60 3128,134 3003,133" />
+            <TextLine id="l_37" custom="readingOrder {index:0;}">
+                <Coords points="3010,114 3018,113 3028,118 3041,116 3056,131 3066,131 3079,116 3087,116 3082,62 3058,62 3053,69 3038,64 3025,75 3009,77" />
+                <Baseline points="3019,110 3055,110 3091,116" />
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="3195,146 3195,2198 1818,2198 1818,170" />
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+                <Coords points="1809,230 3102,188 3103,144 1810,204" />
+                <Baseline points="1818,226 1882,226 1946,224 2011,224 2075,221 2140,221 2204,221 2268,218 2333,218 2397,214 2462,210 2526,206 2590,203 2655,197 2719,193 2784,189 2848,187 2912,183 2977,182 3041,182 3106,182" />
+                <TextEquiv>
+                    <Unicode>ana ʒ i. Mastick, Saffron, ana, half a drachm. Bosarmoniack</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+                <Coords points="1824,299 2026,274 2134,289 2410,276 2411,238 2235,227 2197,245 2096,227 2026,247 2001,225 1825,250" />
+                <Baseline points="1833,277 1862,277 1891,277 1920,277 1949,277 1978,276 2007,274 2037,274 2066,273 2095,271 2124,271 2153,271 2182,271 2211,270 2241,268 2270,268 2299,268 2328,268 2357,266 2386,265 2416,265" />
+                <TextEquiv>
+                    <Unicode>prepared as beforesaid, ʒ ii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:2;}">
+                <Coords points="1868,338 3081,291 3082,247 1869,295" />
+                <Baseline points="1878,322 1938,328 1998,326 2059,325 2119,324 2179,322 2240,322 2300,321 2360,317 2421,313 2481,311 2541,310 2602,303 2662,301 2722,298 2783,294 2843,292 2903,289 2964,286 3024,284 3085,286" />
+                <TextEquiv>
+                    <Unicode>All these must be made in fine pouder, and so mixt together,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:3;}">
+                <Coords points="1819,400 3033,362 3105,341 3108,268 3025,307 1820,354" />
+                <Baseline points="1827,379 1891,381 1955,382 2019,378 2083,376 2147,376 2211,376 2275,375 2339,371 2403,369 2468,365 2532,364 2596,359 2660,355 2724,351 2788,349 2852,345 2916,341 2980,340 3044,335 3109,334" />
+                <TextEquiv>
+                    <Unicode>you may give two scruples, or one drachm thereof with any of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:4;}">
+                <Coords points="1815,436 1879,451 2259,436 2259,397 2222,390 2108,408 2090,387 2059,387 2034,408 1954,393 1815,403" />
+                <Baseline points="1824,436 1849,436 1875,436 1901,436 1927,436 1953,434 1978,433 2004,433 2030,433 2056,433 2082,433 2108,433 2133,431 2159,428 2185,425 2211,427 2237,430 2263,427" />
+                <TextEquiv>
+                    <Unicode>the aforesaid waters.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:5;}">
+                <Coords points="1992,547 2872,524 2984,508 2986,469 2818,451 2312,513 2206,488 1992,511" />
+                <Baseline points="2001,540 2050,537 2099,534 2149,534 2198,533 2248,531 2297,529 2346,528 2396,526 2445,522 2495,519 2544,519 2593,516 2643,512 2692,509 2742,508 2791,508 2840,505 2890,502 2939,498 2989,495" />
+                <TextEquiv>
+                    <Unicode>A good Opiat to expell venome, and provoke sweat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:6;}">
+                <Coords points="1881,646 2640,643 3097,611 3112,573 1882,614" />
+                <Baseline points="1890,645 1951,645 2012,643 2073,639 2135,639 2196,639 2257,636 2318,635 2380,631 2441,627 2502,627 2563,625 2625,621 2686,620 2747,616 2808,612 2870,610 2931,606 2992,604 3053,600 3115,594" />
+                <TextEquiv>
+                    <Unicode>Conserve of the floures of Burrage, Bugloss, Violets,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:7;}">
+                <Coords points="1837,712 2940,686 3113,633 1838,669" />
+                <Baseline points="1845,698 1908,698 1972,698 2035,695 2099,694 2163,692 2226,689 2290,689 2354,686 2417,683 2481,678 2545,676 2608,672 2672,669 2736,668 2799,666 2863,662 2927,660 2990,657 3054,654 3118,654" />
+                <TextEquiv>
+                    <Unicode>Bittanie, ana, ℥. ii. Venus Triacle ℥. ii. Red Terra sigillata,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:8;}">
+                <Coords points="1827,756 3007,723 3123,709 3125,666 2494,686 2380,726 1828,712" />
+                <Baseline points="1836,752 1900,750 1965,749 2029,746 2094,746 2158,743 2223,743 2287,742 2352,740 2416,737 2481,733 2546,728 2610,724 2675,722 2739,718 2804,714 2868,712 2933,710 2997,709 3062,702 3127,701" />
+                <TextEquiv>
+                    <Unicode>Terra lemnia, Mithridate, ana ℥. i. Shaving of Ebonie, And</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:9;}">
+                <Coords points="1825,806 3113,764 3108,709 2419,769 1827,764" />
+                <Baseline points="1836,800 1900,801 1964,797 2028,797 2092,797 2156,795 2220,791 2284,791 2348,791 2412,788 2477,786 2541,779 2605,776 2669,773 2733,772 2797,767 2861,764 2925,762 2989,761 3053,756 3118,752" />
+                <TextEquiv>
+                    <Unicode>Harts-horn, Orient Pearls, Roots of Tormentill, ana 3 i.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:10;}">
+                <Coords points="1830,859 2744,844 3123,813 3125,774 1832,818" />
+                <Baseline points="1839,854 1903,854 1967,851 2032,848 2096,848 2161,848 2225,848 2289,844 2354,842 2418,839 2483,837 2547,833 2611,830 2676,827 2740,824 2805,822 2869,820 2933,816 2998,812 3062,807 3127,803" />
+                <TextEquiv>
+                    <Unicode>Shaving of Unicorns horn, Root of Angelica, ana half a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:11;}">
+                <Coords points="1841,916 3125,875 3090,806 1843,875" />
+                <Baseline points="1851,907 1918,904 1985,903 2052,901 2120,900 2187,899 2254,896 2322,896 2389,892 2456,890 2524,886 2591,881 2658,880 2726,875 2793,872 2860,869 2928,866 2995,863 3062,862 3130,860" />
+                <TextEquiv>
+                    <Unicode>drachm. Sirrup of the Juice of small Sorrell and Bugloss,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:12;}">
+                <Coords points="1840,963 1928,978 2008,957 2444,957 2460,913 2217,906 2188,927 2109,906 1840,942" />
+                <Baseline points="1848,961 1878,961 1909,959 1939,957 1970,955 2001,955 2031,955 2062,955 2093,953 2123,952 2154,952 2185,949 2215,949 2246,949 2277,949 2307,947 2338,946 2369,946 2399,944 2430,942 2461,940" />
+                <TextEquiv>
+                    <Unicode>ana, so much as shall suffice.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:13;}">
+                <Coords points="1894,1019 2849,996 3131,973 3133,929 1895,971" />
+                <Baseline points="1902,1006 1963,1006 2025,1005 2087,1003 2148,1003 2210,1002 2272,1000 2333,997 2395,997 2457,994 2519,990 2580,986 2642,982 2704,981 2765,979 2827,976 2889,972 2950,967 3012,966 3074,964 3136,961" />
+                <TextEquiv>
+                    <Unicode>Mix all these together in the form of an Opiat, then take</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:14;}">
+                <Coords points="1848,1068 3139,1019 3141,980 2238,1042 1850,1030" />
+                <Baseline points="1857,1063 1921,1061 1985,1060 2049,1058 2114,1057 2178,1057 2242,1054 2306,1051 2371,1049 2435,1047 2499,1043 2563,1042 2628,1037 2692,1036 2756,1032 2820,1028 2885,1023 2949,1021 3013,1018 3077,1016 3142,1012" />
+                <TextEquiv>
+                    <Unicode>of the same Opiat, one drachm and half. Scabios water, Balm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:15;}">
+                <Coords points="1848,1117 1974,1131 2000,1117 2059,1123 2088,1110 2108,1128 2147,1110 2202,1115 2202,1074 2176,1066 2026,1079 2001,1102 1974,1081 1848,1079" />
+                <Baseline points="1857,1114 1882,1116 1907,1116 1932,1114 1957,1114 1982,1114 2007,1114 2032,1113 2057,1110 2082,1109 2107,1110 2132,1111 2157,1111 2182,1110 2207,1108" />
+                <TextEquiv>
+                    <Unicode>water, ana ℥ ii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:16;}">
+                <Coords points="1902,1177 3069,1141 3138,1125 3139,1084 1903,1130" />
+                <Baseline points="1911,1167 1972,1164 2034,1163 2095,1161 2157,1161 2218,1158 2280,1153 2341,1152 2403,1150 2464,1149 2526,1148 2588,1144 2649,1140 2711,1137 2772,1135 2834,1131 2895,1127 2957,1126 3018,1125 3080,1121 3142,1120" />
+                <TextEquiv>
+                    <Unicode>Dissolve the Opiat in the waters, and drink it warm, then</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:17;}">
+                <Coords points="1851,1221 2978,1187 2956,1143 2870,1138 1853,1185" />
+                <Baseline points="1860,1218 1916,1220 1972,1218 2028,1216 2084,1212 2140,1212 2196,1211 2253,1209 2309,1209 2365,1205 2421,1203 2477,1201 2533,1200 2589,1196 2646,1193 2702,1189 2758,1185 2814,1184 2870,1181 2926,1179 2983,1176" />
+                <TextEquiv>
+                    <Unicode>walk a little upon it, and then goe to bed and sweat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:18;}">
+                <Coords points="1905,1327 3144,1285 3146,1239 2986,1231 2903,1272 1957,1273 1907,1309" />
+                <Baseline points="1914,1323 1975,1321 2037,1319 2099,1319 2160,1317 2222,1316 2284,1314 2345,1314 2407,1310 2469,1308 2531,1304 2592,1300 2654,1296 2716,1292 2777,1288 2839,1287 2901,1286 2962,1281 3024,1278 3086,1276 3148,1275" />
+                <TextEquiv>
+                    <Unicode>Another excellent good means to expell the venom, and procure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:19;}">
+                <Coords points="1987,1389 2001,1388 2013,1379 2052,1381 2091,1376 2108,1381 2109,1352 2103,1352 2083,1335 2073,1335 2060,1348 2054,1342 2028,1342 2011,1327 1988,1332" />
+                <Baseline points="1995,1373 2024,1373 2054,1373 2084,1372 2114,1370" />
+                <TextEquiv>
+                    <Unicode>sweat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_59" custom="readingOrder {index:20;}">
+                <Coords points="1923,1487 3115,1443 3154,1393 1925,1430" />
+                <Baseline points="1932,1475 1993,1475 2054,1475 2115,1473 2176,1472 2238,1470 2299,1469 2360,1466 2421,1464 2482,1460 2544,1459 2605,1455 2666,1451 2727,1448 2788,1445 2850,1442 2911,1439 2972,1436 3033,1433 3094,1431 3156,1424" />
+                <TextEquiv>
+                    <Unicode>Take a great white Onyon, and pick out the coar or middle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:21;}">
+                <Coords points="1869,1538 3156,1494 3157,1450 1871,1497" />
+                <Baseline points="1878,1532 1942,1530 2006,1529 2070,1529 2134,1529 2198,1527 2262,1523 2326,1522 2390,1520 2454,1516 2518,1512 2582,1508 2646,1506 2710,1502 2774,1498 2838,1496 2902,1492 2966,1490 3030,1487 3094,1484 3159,1484" />
+                <TextEquiv>
+                    <Unicode>of him, then fill the hole with good Venus Triacle, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:22;}">
+                <Coords points="1868,1593 3151,1549 3154,1499 1869,1567" />
+                <Baseline points="1878,1585 1941,1582 2005,1582 2069,1582 2133,1579 2197,1578 2261,1577 2325,1576 2389,1571 2453,1570 2517,1566 2580,1562 2644,1557 2708,1556 2772,1552 2836,1547 2900,1544 2964,1542 3028,1538 3092,1536 3156,1532" />
+                <TextEquiv>
+                    <Unicode>Andromachus Triacle, and Aqua vitae, then stop or cover the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:23;}">
+                <Coords points="1869,1652 3157,1567 1871,1595" />
+                <Baseline points="1878,1636 1942,1636 2006,1633 2070,1633 2134,1630 2198,1630 2262,1627 2326,1626 2390,1624 2454,1620 2518,1616 2582,1612 2646,1607 2710,1606 2774,1602 2838,1600 2902,1596 2966,1594 3030,1591 3094,1588 3159,1582" />
+                <TextEquiv>
+                    <Unicode>hole of the Onyon again, and rost him in the hot ashes untill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_63" custom="readingOrder {index:24;}">
+                <Coords points="1871,1699 3071,1667 3162,1652 3165,1595 1872,1655" />
+                <Baseline points="1881,1690 1945,1688 2009,1687 2073,1687 2137,1687 2202,1683 2266,1681 2330,1678 2394,1676 2458,1672 2523,1670 2587,1666 2651,1661 2715,1657 2779,1656 2844,1652 2908,1650 2972,1648 3036,1648 3100,1643 3165,1642" />
+                <TextEquiv>
+                    <Unicode>he be soft, then strein it strongly through a cloth, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:25;}">
+                <Coords points="1869,1752 3170,1698 3170,1660 1869,1721" />
+                <Baseline points="1878,1738 1942,1741 2007,1741 2072,1740 2137,1738 2202,1737 2266,1733 2331,1731 2396,1727 2461,1723 2526,1721 2590,1717 2655,1713 2720,1711 2785,1708 2850,1706 2914,1705 2979,1703 3044,1699 3109,1696 3174,1696" />
+                <TextEquiv>
+                    <Unicode>give it the sick to drinke, and the rest that remains, pound it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_65" custom="readingOrder {index:26;}">
+                <Coords points="1874,1801 2947,1763 2906,1711 1876,1761" />
+                <Baseline points="1884,1795 1937,1795 1990,1793 2043,1792 2097,1792 2150,1791 2203,1786 2257,1786 2310,1784 2363,1780 2417,1780 2470,1776 2523,1773 2576,1769 2630,1768 2683,1765 2736,1762 2790,1761 2843,1759 2896,1757 2950,1753" />
+                <TextEquiv>
+                    <Unicode>small, and apply it to the sore, and sweet upon it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:27;}">
+                <Coords points="1926,1850 3169,1806 3161,1747 2723,1797 1928,1802" />
+                <Baseline points="1935,1845 1996,1843 2058,1842 2120,1840 2182,1839 2244,1836 2305,1834 2367,1830 2429,1829 2491,1825 2553,1821 2614,1819 2676,1815 2738,1814 2800,1810 2862,1809 2923,1805 2985,1803 3047,1800 3109,1798 3171,1795" />
+                <TextEquiv>
+                    <Unicode>Now when he hath taken any of the aforesaid Cordials, if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_67" custom="readingOrder {index:28;}">
+                <Coords points="1881,1915 3136,1859 3174,1817 1882,1856" />
+                <Baseline points="1890,1902 1954,1900 2018,1898 2082,1896 2146,1890 2211,1887 2275,1887 2339,1883 2403,1879 2467,1877 2532,1875 2596,1872 2660,1869 2724,1866 2788,1863 2853,1858 2917,1856 2981,1854 3045,1851 3109,1846 3174,1845" />
+                <TextEquiv>
+                    <Unicode>he chance to vomit it up again, then wash his mouth with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:29;}">
+                <Coords points="1884,1962 3177,1907 3121,1855 2130,1933 1886,1913" />
+                <Baseline points="1893,1953 1957,1951 2021,1950 2086,1947 2150,1944 2214,1941 2279,1938 2343,1935 2407,1935 2472,1931 2536,1927 2600,1923 2665,1919 2729,1917 2793,1913 2858,1911 2922,1907 2986,1905 3051,1902 3115,1897 3180,1896" />
+                <TextEquiv>
+                    <Unicode>Rosewater and Vinegar, and then give him more of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_69" custom="readingOrder {index:30;}">
+                <Coords points="1881,2015 3005,1980 3175,1956 3177,1915 1882,1969" />
+                <Baseline points="1890,2010 1954,2005 2019,2004 2083,1999 2148,1995 2212,1994 2277,1992 2341,1989 2406,1987 2470,1983 2535,1979 2599,1974 2664,1970 2728,1968 2793,1965 2857,1963 2922,1962 2986,1960 3051,1953 3115,1950 3180,1950" />
+                <TextEquiv>
+                    <Unicode>same again, which must be proportioned according to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:31;}">
+                <Coords points="1886,2063 2940,2036 3178,2008 3180,1966 1887,2029" />
+                <Baseline points="1896,2057 1960,2058 2024,2054 2089,2049 2153,2045 2217,2044 2282,2042 2346,2038 2410,2036 2475,2035 2539,2029 2603,2025 2668,2024 2732,2022 2796,2018 2861,2016 2925,2015 2989,2011 3054,2007 3118,2002 3183,1998" />
+                <TextEquiv>
+                    <Unicode>quantitie vomited, for if all were vomited, then give so much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_71" custom="readingOrder {index:32;}">
+                <Coords points="1895,2116 3105,2075 3178,2059 3182,2008 1897,2083" />
+                <Baseline points="1905,2111 1968,2108 2032,2105 2096,2103 2160,2099 2224,2097 2288,2096 2352,2092 2416,2090 2480,2087 2544,2085 2607,2081 2671,2076 2735,2075 2799,2071 2863,2066 2927,2066 2991,2062 3055,2060 3119,2054 3183,2051" />
+                <TextEquiv>
+                    <Unicode>more: (if lesse) then according to the quantity vomited, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_72" custom="readingOrder {index:33;}">
+                <Coords points="1890,2168 3192,2116 3193,2065 1894,2126" />
+                <Baseline points="1899,2165 1963,2164 2028,2159 2093,2156 2158,2153 2223,2152 2287,2148 2352,2146 2417,2142 2482,2141 2547,2136 2611,2132 2676,2129 2741,2126 2806,2125 2871,2123 2935,2119 3000,2115 3065,2110 3130,2105 3195,2102" />
+                <TextEquiv>
+                    <Unicode>if he vomit that also, then give him more, and so continue it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_73" custom="readingOrder {index:34;}">
+                <Coords points="3100,2160 3112,2163 3120,2161 3121,2165 3141,2165 3175,2157 3177,2132 3169,2132 3156,2119 3144,2126 3139,2121 3123,2124 3116,2119 3112,2124 3103,2124" />
+                <Baseline points="3109,2159 3144,2155 3180,2153" />
+                <TextEquiv>
+                    <Unicode>to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:35;}">
+                <Coords points="2532,2196 2583,2196 2591,2188 2599,2196 2628,2196 2640,2184 2653,2196 2671,2188 2689,2189 2690,2160 2664,2139 2648,2140 2632,2153 2615,2139 2534,2147" />
+                <Baseline points="2541,2186 2566,2186 2592,2184 2617,2183 2643,2183 2668,2182 2694,2180" />
+                <TextEquiv>
+                    <Unicode>H h h</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

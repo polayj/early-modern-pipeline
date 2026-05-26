@@ -1,0 +1,110 @@
+{
+  "doc_id": "Spire - 1698 - The natures, uses, & doses of several approved and experienced medicines, faithfully prepared by Joh_page_7.xml",
+  "text": "(10)\nthis Medicine. Price four Shillings the Bottle.\nVI. Pulvis Antifebriticus Noster:\nOr, our General Febrifuge.\nAN admirable pouder against Fevers of\nall sorts: A few Doses thereof (with the\nuse of the other Medicines) takes off the Fever beyond\nExpectation. 2. It is something Sudorifick,\nbut for the most part works downwards first, and afterwards\nprovokes Sweat; it is a prevalent remedy\nagainst putrid Fevers, Measles, Small-pox, Calenture,\nSpoted-fever, and other venemous Diseases.\n3. It is good against the Green-sickness, Dropsie,\nMelancholly, Scurvy, Jaundice, and its profitable\nin Hectick Fevers. 4. It resists Putrifaction,\nfortifies the Stomach, corrects Crudities, purifies the\nblood, cleanses the Bowels of filth and viscous\nHumours, by a gentle Purging way.\nThe Dose and manner of Using it.\nLEt the Patient drink plenty of our Aq.\nVitæ Mag. according to the directions\nin its place: give a Dose of pouder in the Morning,\nand at Evening for 8, 12, or 16, days as you see\noccasion, more or less; you may give it in form of\na Bolus in a little Marmalade of Quinces, or pulp of\nPruens, Jelly of Harts-horn; or it may be exhibited\nin a Glass of Canary, or a spoonful of Syr. of Saffron,\nor Clove-Gillyflowers.\nVII. Aqua\n(11)\nVII. Aqua Ruba Mineralis.\nIS an excellent Medicine of a preservative Nature,\nof great benefit in the plague, and other contagious\ndistempers; particularly against the burning\nthirst in Fevers: Good against Coughs, Shortness\nof Breath, Prysick, the diseases of Throat and\nMouth; as Angimas, Strumas, Inflammations of\nthe Pallate, or Uvula of the Mouth, Thrush in\nChildren, Quinsies, and such like Inflammations; as\nalso for an unsavory Breath.\nIt's Use and Dose.\nFor Thrushes or sore Mouths in sucking Children,\nor any foulness of the Tongue, or Throat, 2,\n3, or 4 drops dropped into a little White-wine, or\nPlantain-water, sweetned with a little Honey of\nRoses, and so drink it, and wash their Mouthes\nwith the same; for People of riper Years, they must\nGargle their Mouths with it; it being composed to\na Gargarism with White-wine, or Plantain-water,\nand dulcified with Syrup of Mulberries, or Honey\nof Roses; often taking from 6 drops to 40, or 50, in\nBeer, White-wine, or Plantain-water. For the\nburning Thirst in Fevers, give from 6 drops to 40\nor 50, or half a Spoonful in so much Beer, or Ale,\nthat it may tast sharpish of the Medicine; if the\nFever be violent, it may be given 3 or 4 times in 5\nor 6 hours space; but in continual Fevers it may be\ngiven as often as the party desires to drink, observing\nin such cases to take often to procure Sweat, of\nmy Elix. Magnum Cordialis, and at Night to take\na\nB 3",
+  "entities": [
+    {
+      "id": "e2",
+      "start": 1109,
+      "end": 1119,
+      "label": "COMMODITY",
+      "text": "Harts-horn",
+      "line_id": "l_52"
+    },
+    {
+      "id": "e3",
+      "start": 1191,
+      "end": 1198,
+      "label": "COMMODITY",
+      "text": "Saffron",
+      "line_id": "l_53"
+    },
+    {
+      "id": "e4",
+      "start": 1830,
+      "end": 1840,
+      "label": "COMMODITY",
+      "text": "White-wine",
+      "line_id": "l_15"
+    },
+    {
+      "id": "e5",
+      "start": 1845,
+      "end": 1859,
+      "label": "COMMODITY",
+      "text": "Plantain-water",
+      "line_id": "l_16"
+    },
+    {
+      "id": "e6",
+      "start": 1884,
+      "end": 1889,
+      "label": "COMMODITY",
+      "text": "Honey",
+      "line_id": "l_16"
+    },
+    {
+      "id": "e7",
+      "start": 2059,
+      "end": 2069,
+      "label": "COMMODITY",
+      "text": "White-wine",
+      "line_id": "l_20"
+    },
+    {
+      "id": "e8",
+      "start": 2074,
+      "end": 2088,
+      "label": "COMMODITY",
+      "text": "Plantain-water",
+      "line_id": "l_20"
+    },
+    {
+      "id": "e9",
+      "start": 2133,
+      "end": 2138,
+      "label": "COMMODITY",
+      "text": "Honey",
+      "line_id": "l_21"
+    },
+    {
+      "id": "e10",
+      "start": 2192,
+      "end": 2196,
+      "label": "COMMODITY",
+      "text": "Beer",
+      "line_id": "l_23"
+    },
+    {
+      "id": "e11",
+      "start": 2198,
+      "end": 2208,
+      "label": "COMMODITY",
+      "text": "White-wine",
+      "line_id": "l_23"
+    },
+    {
+      "id": "e12",
+      "start": 2213,
+      "end": 2227,
+      "label": "COMMODITY",
+      "text": "Plantain-water",
+      "line_id": "l_23"
+    },
+    {
+      "id": "e13",
+      "start": 2324,
+      "end": 2328,
+      "label": "COMMODITY",
+      "text": "Beer",
+      "line_id": "l_25"
+    },
+    {
+      "start": 2333,
+      "end": 2336,
+      "text": "Ale",
+      "label": "COMMODITY",
+      "id": "e14",
+      "line_id": "augmented"
+    }
+  ]
+}

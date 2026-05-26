@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:19.114+02:00</Created>
+        <LastChange>2025-10-16T20:23:35.084+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051466" pageNr="71" tsid="258145695" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=OPJDGPKPRPFBLFTCUCAPBKEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDFVIMFETACTCDZAULIXIFHF" imageId="87046365" />
+    </Metadata>
+    <Page imageFilename="11168119_0071_104051466.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586546726" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1908,303 2011,303 2011,393 1908,393" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1915,388 1991,388 1991,358 1915,358" />
+                <Baseline points="1915,388 1991,388" />
+                <TextEquiv>
+                    <Unicode>[5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="459,341 459,3186 2003,3186 2003,341" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="448,379 1970,389 1970,291 448,322" />
+                <Baseline points="459,367 534,367 610,367 686,364 761,366 837,367 913,367 988,365 1064,365 1140,364 1216,367 1291,364 1367,364 1443,364 1518,364 1594,364 1670,364 1745,364 1821,366 1897,368" />
+                <TextEquiv>
+                    <Unicode>our duty to contribute our share; and to act from conscience,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="451,453 1974,446 1974,392 1886,370 451,379" />
+                <Baseline points="462,426 537,425 613,424 689,423 765,423 841,423 917,423 992,423 1068,423 1144,422 1220,420 1296,420 1372,420 1448,420 1523,422 1599,421 1675,423 1751,423 1827,423 1903,421 1979,423" />
+                <TextEquiv>
+                    <Unicode>as we should in similar cases from feeling and inclination.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="520,491 1975,491 1928,429 520,432" />
+                <Baseline points="531,477 603,480 675,480 748,480 820,481 893,480 965,480 1037,480 1110,480 1182,478 1255,480 1327,480 1399,479 1472,477 1544,480 1617,479 1689,477 1761,478 1834,480 1906,478 1979,483" />
+                <TextEquiv>
+                    <Unicode>For instance: Let us suppose the Algerines to establish sugar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="467,547 1979,562 1979,490 467,499" />
+                <Baseline points="477,534 552,539 627,539 702,537 778,537 853,537 928,537 1003,537 1079,540 1154,534 1229,537 1304,537 1380,537 1455,537 1530,534 1605,534 1681,537 1756,537 1831,535 1906,537 1982,543" />
+                <TextEquiv>
+                    <Unicode>plantations, and resort to the banks of the Thames for slaves.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="457,606 1979,602 1979,562 1808,543 457,541" />
+                <Baseline points="468,591 543,594 619,596 695,594 770,594 846,594 922,594 997,596 1073,597 1149,596 1225,594 1300,595 1376,594 1452,594 1527,594 1603,594 1679,594 1754,592 1830,592 1906,594 1982,594" />
+                <TextEquiv>
+                    <Unicode>Suppose our wives, our husbands, our children, our parents, our</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="455,669 1972,659 1972,600 455,608" />
+                <Baseline points="465,647 540,652 616,653 691,650 767,650 842,650 918,653 993,653 1069,653 1144,650 1220,650 1296,650 1371,650 1447,650 1522,650 1598,650 1673,650 1749,650 1824,650 1900,647 1976,647" />
+                <TextEquiv>
+                    <Unicode>brethren, swept away, and the fruit of their labour, produced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="463,714 1979,714 1966,657 463,671" />
+                <Baseline points="474,707 549,710 625,708 700,710 776,710 851,710 927,707 1002,710 1078,707 1153,708 1229,707 1305,707 1380,709 1456,707 1531,707 1607,707 1682,707 1758,707 1833,706 1909,707 1985,704" />
+                <TextEquiv>
+                    <Unicode>with agonizing hearts and trembling limbs, landed at the port of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="461,777 1977,772 1977,716 1894,712 461,712" />
+                <Baseline points="471,764 546,766 622,767 697,764 773,767 848,767 924,767 999,767 1075,766 1150,767 1226,767 1302,765 1377,764 1453,764 1528,765 1604,764 1679,764 1755,764 1830,763 1906,764 1982,764" />
+                <TextEquiv>
+                    <Unicode>London. What would be our conduct? Should we say, "Sugar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="461,817 676,850 1974,832 1974,775 461,777" />
+                <Baseline points="471,809 546,821 621,824 697,824 772,824 848,824 923,824 998,826 1074,824 1149,821 1225,821 1300,823 1375,824 1451,824 1526,821 1602,821 1677,821 1752,821 1828,820 1903,818 1979,818" />
+                <TextEquiv>
+                    <Unicode>is a necessary of life: I cannot do without it. Besides the quantity I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="461,884 1974,892 1974,836 1924,832 461,832" />
+                <Baseline points="471,865 546,875 621,880 696,880 772,882 847,880 922,880 997,880 1073,880 1148,880 1223,879 1298,880 1374,880 1449,880 1524,880 1599,880 1675,880 1750,877 1825,877 1900,877 1976,877" />
+                <TextEquiv>
+                    <Unicode>use is but small: and though it be very criminal in the Algerines to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="463,951 1979,947 1979,897 1901,884 463,892" />
+                <Baseline points="474,925 549,936 625,940 700,937 776,939 851,940 927,940 1002,937 1078,937 1153,937 1229,937 1305,937 1380,938 1456,937 1531,937 1607,937 1682,934 1758,934 1833,937 1909,934 1985,937" />
+                <TextEquiv>
+                    <Unicode>enslave others, I am not bound to look to the nature or consequence of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="461,1002 1974,1010 1974,947 1905,941 461,947" />
+                <Baseline points="471,985 546,994 621,997 696,997 772,997 847,997 922,997 997,995 1073,997 1148,994 1223,994 1298,997 1374,997 1449,997 1524,996 1599,994 1675,994 1750,994 1825,994 1900,994 1976,991" />
+                <TextEquiv>
+                    <Unicode>transaction. Paying for the sugar, I have a right to consume it, how</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="461,1044 749,1080 1989,1067 1989,1010 1882,1000 1215,1002 1179,1038 461,1000" />
+                <Baseline points="471,1041 547,1052 623,1053 699,1053 775,1053 851,1053 927,1053 1004,1053 1080,1053 1156,1052 1232,1050 1308,1050 1384,1051 1460,1053 1537,1051 1613,1050 1689,1050 1765,1050 1841,1050 1917,1048 1994,1050" />
+                <TextEquiv>
+                    <Unicode>ever it may have been obtained." If such would be our language in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="461,1124 1989,1139 1974,1059 461,1067" />
+                <Baseline points="471,1110 547,1110 623,1111 699,1110 775,1110 851,1110 927,1110 1004,1110 1080,1108 1156,1106 1232,1107 1308,1107 1384,1107 1460,1110 1537,1108 1613,1107 1689,1107 1765,1107 1841,1107 1917,1107 1994,1110" />
+                <TextEquiv>
+                    <Unicode>that case, be it so on the present occasion. For let us recollect that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="463,1179 1541,1179 1541,1128 1486,1120 463,1118" />
+                <Baseline points="474,1170 527,1167 581,1167 634,1167 688,1167 742,1167 795,1167 849,1167 902,1167 956,1167 1010,1167 1063,1164 1117,1166 1170,1164 1224,1164 1278,1164 1331,1164 1385,1164 1438,1164 1492,1166 1546,1170" />
+                <TextEquiv>
+                    <Unicode>in both cases the enslaved are our brethren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="518,1234 1979,1229 1979,1168 518,1179" />
+                <Baseline points="528,1224 600,1224 673,1223 746,1224 819,1224 892,1224 965,1223 1037,1221 1110,1221 1183,1221 1256,1221 1329,1221 1402,1224 1475,1221 1547,1221 1620,1221 1693,1221 1766,1221 1839,1222 1912,1221 1985,1218" />
+                <TextEquiv>
+                    <Unicode>And let us only suppose an Englishman were to receive injuries,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="461,1295 1979,1288 1979,1229 461,1231" />
+                <Baseline points="471,1280 546,1280 622,1280 698,1280 773,1280 849,1280 925,1280 1000,1277 1076,1278 1152,1277 1228,1277 1303,1277 1379,1280 1455,1280 1530,1280 1606,1280 1682,1279 1757,1277 1833,1278 1909,1277 1985,1277" />
+                <TextEquiv>
+                    <Unicode>that bore but the slightest resemblance to those daily committed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="461,1364 1979,1353 1979,1303 1894,1288 461,1297" />
+                <Baseline points="471,1337 546,1337 622,1337 698,1337 773,1337 849,1337 925,1337 1000,1337 1076,1335 1152,1334 1228,1334 1303,1334 1379,1334 1455,1335 1530,1337 1606,1335 1682,1334 1757,1334 1833,1334 1909,1334 1985,1334" />
+                <TextEquiv>
+                    <Unicode>in our islands, the nation would be inflamed with resentment,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="461,1400 1987,1408 1949,1341 461,1364" />
+                <Baseline points="471,1394 547,1396 623,1397 699,1394 775,1394 851,1394 927,1393 1003,1394 1079,1394 1155,1392 1231,1391 1307,1391 1383,1394 1459,1394 1535,1394 1611,1394 1687,1394 1763,1391 1839,1394 1915,1394 1991,1391" />
+                <TextEquiv>
+                    <Unicode>and clamorous to avenge the injury. And can our pride</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="469,1469 1981,1467 1981,1414 1907,1402 469,1408" />
+                <Baseline points="480,1450 555,1447 630,1449 705,1450 781,1450 856,1450 931,1450 1006,1450 1082,1447 1157,1447 1232,1450 1307,1450 1383,1450 1458,1450 1533,1450 1608,1450 1684,1449 1759,1450 1834,1450 1909,1450 1985,1444" />
+                <TextEquiv>
+                    <Unicode>suggest, that the rights of men are limited to any nation, or to any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="467,1524 1989,1509 1937,1457 467,1474" />
+                <Baseline points="477,1507 552,1507 628,1507 704,1507 779,1504 855,1507 931,1507 1006,1507 1082,1507 1158,1507 1234,1507 1309,1506 1385,1507 1461,1507 1536,1507 1612,1507 1688,1507 1763,1507 1839,1507 1915,1507 1991,1504" />
+                <TextEquiv>
+                    <Unicode>colour? Were any one to treat a fellow creature in this country</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="469,1581 1993,1574 1993,1520 469,1528" />
+                <Baseline points="480,1567 555,1565 631,1564 707,1564 783,1564 859,1564 935,1567 1010,1567 1086,1565 1162,1564 1238,1564 1314,1564 1390,1564 1466,1564 1541,1564 1617,1564 1693,1564 1769,1562 1845,1562 1921,1564 1997,1567" />
+                <TextEquiv>
+                    <Unicode>as we do the unhappy Africans in the West-Indies; struck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="476,1640 1989,1638 1989,1574 476,1583" />
+                <Baseline points="486,1621 561,1621 636,1621 712,1621 787,1624 863,1621 938,1621 1013,1621 1089,1621 1164,1621 1240,1621 1315,1621 1390,1621 1466,1621 1541,1621 1617,1622 1692,1621 1767,1619 1843,1621 1918,1621 1994,1624" />
+                <TextEquiv>
+                    <Unicode>with horror, we should be zealous to deliver the oppressed, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="478,1703 1983,1688 1958,1625 478,1640" />
+                <Baseline points="489,1674 567,1680 646,1680 725,1678 804,1680 883,1677 962,1680 1041,1679 1120,1677 1199,1677 1277,1676 1356,1676 1435,1677 1514,1677 1593,1677 1672,1677 1751,1677 1830,1677 1909,1677 1988,1677" />
+                <TextEquiv>
+                    <Unicode>punish the oppressor. Are then the offices of humanity and functions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="476,1745 1983,1743 1983,1690 476,1703" />
+                <Baseline points="486,1737 561,1736 636,1737 711,1737 786,1737 861,1736 936,1734 1011,1734 1086,1734 1161,1734 1237,1734 1312,1734 1387,1734 1462,1734 1537,1736 1612,1734 1687,1734 1762,1734 1837,1734 1912,1734 1988,1737" />
+                <TextEquiv>
+                    <Unicode>of justice to be circumscribed by geographical boundaries?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="478,1800 1987,1812 1968,1741 478,1743" />
+                <Baseline points="489,1791 564,1794 639,1794 714,1794 789,1794 864,1792 939,1794 1014,1792 1089,1792 1164,1791 1240,1791 1315,1791 1390,1791 1465,1792 1540,1794 1615,1791 1690,1791 1765,1791 1840,1791 1915,1791 1991,1800" />
+                <TextEquiv>
+                    <Unicode>Can reason, can conscience justify this contrast in our conduct,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="469,1878 1993,1861 1934,1796 469,1798" />
+                <Baseline points="480,1848 555,1850 631,1851 707,1851 783,1851 859,1851 935,1848 1010,1848 1086,1848 1162,1848 1238,1848 1314,1848 1390,1849 1466,1851 1541,1849 1617,1848 1693,1848 1769,1848 1845,1848 1921,1848 1997,1851" />
+                <TextEquiv>
+                    <Unicode>between our promptitude, in the one case, and our torpor in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="467,1913 1989,1913 1972,1855 467,1869" />
+                <Baseline points="477,1907 552,1907 628,1906 704,1905 780,1907 856,1905 932,1905 1007,1907 1083,1905 1159,1904 1235,1904 1311,1904 1387,1906 1463,1904 1538,1907 1614,1904 1690,1904 1766,1901 1842,1904 1918,1904 1994,1904" />
+                <TextEquiv>
+                    <Unicode>other?—Mr. Addison justly observes, that "humanity to become</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="469,1972 1995,1974 1995,1916 469,1924" />
+                <Baseline points="480,1961 556,1964 632,1964 708,1964 784,1964 860,1964 936,1963 1012,1961 1088,1962 1164,1961 1240,1958 1316,1961 1392,1961 1468,1961 1544,1961 1620,1961 1696,1961 1772,1961 1848,1961 1924,1961 2000,1961" />
+                <TextEquiv>
+                    <Unicode>estimable must be combined with justice." But we seem to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="472,2031 1998,2035 1998,1974 472,1974" />
+                <Baseline points="483,2018 559,2021 635,2018 711,2021 787,2020 863,2020 939,2021 1015,2021 1091,2021 1167,2018 1243,2018 1319,2018 1395,2019 1471,2018 1547,2018 1623,2018 1699,2018 1775,2015 1851,2018 1927,2018 2003,2018" />
+                <TextEquiv>
+                    <Unicode>act as if we thought, that the relief of our fellow creatures, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="478,2103 1987,2092 1987,2035 478,2042" />
+                <Baseline points="489,2080 564,2077 639,2076 714,2076 789,2077 864,2077 939,2080 1014,2079 1089,2077 1164,2074 1240,2074 1315,2074 1390,2076 1465,2077 1540,2077 1615,2074 1690,2074 1765,2074 1840,2074 1915,2074 1991,2074" />
+                <TextEquiv>
+                    <Unicode>protection from injuries, were works of supererogation; to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="488,2166 1947,2145 1947,2088 488,2103" />
+                <Baseline points="498,2137 570,2137 643,2134 716,2131 788,2134 861,2134 934,2134 1006,2134 1079,2134 1152,2134 1225,2134 1297,2134 1370,2134 1443,2134 1515,2134 1588,2134 1661,2134 1733,2134 1806,2130 1879,2131 1952,2137" />
+                <TextEquiv>
+                    <Unicode>granted or with-held, as caprice, or inclination may suggest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="530,2206 1985,2195 1949,2137 530,2151" />
+                <Baseline points="540,2194 612,2191 684,2191 757,2191 829,2193 902,2191 974,2194 1046,2191 1119,2191 1191,2191 1264,2188 1336,2190 1408,2191 1481,2191 1553,2191 1626,2191 1698,2188 1770,2189 1843,2191 1915,2191 1988,2194" />
+                <TextEquiv>
+                    <Unicode>After the important considerations adduced, it might be reckoned</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="472,2271 1979,2269 1979,2208 1924,2198 472,2204" />
+                <Baseline points="483,2248 558,2248 633,2248 708,2249 783,2248 858,2251 933,2249 1008,2248 1083,2248 1158,2248 1234,2248 1309,2248 1384,2248 1459,2248 1534,2248 1609,2248 1684,2248 1759,2248 1834,2248 1909,2249 1985,2242" />
+                <TextEquiv>
+                    <Unicode>a degradation of the subject to mention the national dignity;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="478,2318 1993,2324 1993,2265 1895,2252 478,2256" />
+                <Baseline points="489,2304 564,2307 639,2304 715,2304 790,2307 866,2307 941,2307 1016,2305 1092,2304 1167,2304 1243,2304 1318,2304 1393,2307 1469,2307 1544,2307 1620,2307 1695,2304 1770,2301 1846,2302 1921,2304 1997,2304" />
+                <TextEquiv>
+                    <Unicode>or even that might induce us to counteract a powerful body</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="482,2379 1987,2372 1970,2313 482,2318" />
+                <Baseline points="492,2364 570,2361 649,2364 728,2364 807,2364 886,2364 965,2364 1044,2361 1123,2361 1202,2364 1280,2361 1359,2361 1438,2363 1517,2364 1596,2363 1675,2361 1754,2361 1833,2361 1912,2361 1991,2358" />
+                <TextEquiv>
+                    <Unicode>of men, who are trampling under foot, the dictates of humanity,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="482,2431 1995,2440 1995,2385 1943,2372 482,2381" />
+                <Baseline points="492,2421 567,2421 642,2421 718,2421 793,2421 869,2421 944,2421 1019,2421 1095,2421 1170,2421 1246,2421 1321,2421 1396,2421 1472,2421 1547,2421 1623,2420 1698,2418 1773,2418 1849,2418 1924,2418 2000,2424" />
+                <TextEquiv>
+                    <Unicode>and the interest of the nation: men, who have received for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="476,2497 1995,2494 1995,2440 1882,2427 476,2436" />
+                <Baseline points="486,2477 561,2477 637,2477 713,2477 788,2479 864,2479 940,2477 1015,2479 1091,2477 1167,2477 1243,2477 1318,2477 1394,2478 1470,2480 1545,2477 1621,2476 1697,2475 1772,2475 1848,2476 1924,2475 2000,2477" />
+                <TextEquiv>
+                    <Unicode>sugar alone, above a million per ann. more than it would have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="478,2551 1995,2558 1995,2494 1915,2486 478,2499" />
+                <Baseline points="489,2537 564,2534 640,2534 715,2534 791,2534 866,2534 942,2534 1017,2534 1093,2534 1168,2534 1244,2531 1320,2534 1395,2534 1471,2534 1546,2534 1622,2534 1697,2534 1773,2534 1848,2537 1924,2537 2000,2540" />
+                <TextEquiv>
+                    <Unicode>cost at other markets. From Mr. Botham's evidence it appears,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="478,2606 1987,2614 1987,2555 1943,2547 478,2551" />
+                <Baseline points="489,2594 564,2594 639,2592 714,2592 789,2591 864,2591 939,2591 1014,2591 1089,2591 1164,2593 1240,2591 1315,2591 1390,2593 1465,2593 1540,2591 1615,2591 1690,2591 1765,2594 1840,2592 1915,2592 1991,2591" />
+                <TextEquiv>
+                    <Unicode>that in Batavia, where labour is as high as in England, sugar equal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="478,2671 2000,2659 2000,2612 1804,2597 478,2602" />
+                <Baseline points="489,2654 564,2651 640,2651 716,2648 791,2648 867,2648 943,2648 1018,2648 1094,2648 1170,2650 1246,2648 1321,2648 1397,2651 1473,2650 1548,2651 1624,2648 1700,2648 1775,2648 1851,2648 1927,2648 2003,2651" />
+                <TextEquiv>
+                    <Unicode>to the best West-India, is sold at 1d 1/2 per pound. These are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="478,2715 2000,2717 2000,2657 478,2669" />
+                <Baseline points="489,2707 564,2704 640,2705 716,2704 791,2704 867,2705 943,2707 1018,2707 1094,2704 1170,2704 1246,2704 1321,2706 1397,2705 1473,2707 1548,2704 1624,2702 1700,2701 1775,2701 1851,2704 1927,2707 2003,2704" />
+                <TextEquiv>
+                    <Unicode>the men who are calling on us to aid the operation of their whips</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="472,2787 1995,2772 1995,2724 1886,2715 472,2718" />
+                <Baseline points="483,2761 558,2764 634,2763 710,2761 785,2764 861,2762 937,2764 1012,2764 1088,2764 1164,2764 1240,2764 1315,2764 1391,2764 1467,2764 1542,2766 1618,2764 1694,2761 1769,2762 1845,2761 1921,2764 1997,2764" />
+                <TextEquiv>
+                    <Unicode>by the terrors of our bayonets; and to misapply the public treasure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="476,2829 1995,2833 1995,2770 476,2781" />
+                <Baseline points="486,2821 561,2821 637,2821 713,2821 788,2821 864,2821 940,2821 1015,2821 1091,2821 1167,2821 1243,2821 1318,2821 1394,2821 1470,2821 1545,2821 1621,2820 1697,2821 1772,2821 1848,2818 1924,2818 2000,2821" />
+                <TextEquiv>
+                    <Unicode>to support individuals in violating every principle of law</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="478,2899 1983,2880 1958,2827 478,2844" />
+                <Baseline points="489,2878 567,2881 646,2881 725,2881 804,2881 883,2878 962,2878 1041,2880 1120,2881 1199,2878 1277,2878 1356,2879 1435,2881 1514,2878 1593,2878 1672,2875 1751,2875 1830,2878 1909,2878 1988,2878" />
+                <TextEquiv>
+                    <Unicode>and justice, and to defend them in the most dreadful tyranny</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="482,2949 1998,2962 1998,2898 1871,2886 482,2899" />
+                <Baseline points="492,2937 567,2934 643,2937 718,2937 794,2934 869,2934 945,2934 1020,2937 1096,2936 1171,2934 1247,2934 1323,2937 1398,2937 1474,2937 1549,2934 1625,2934 1700,2934 1776,2934 1851,2934 1927,2934 2003,2937" />
+                <TextEquiv>
+                    <Unicode>over half a million of persons, born in islands, which, when it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="480,3006 1979,3016 1995,2957 482,2949" />
+                <Baseline points="492,2994 567,2994 642,2994 717,2994 793,2994 868,2993 943,2994 1018,2991 1094,2991 1169,2994 1244,2991 1319,2991 1395,2994 1470,2994 1545,2994 1620,2991 1696,2991 1771,2991 1846,2989 1921,2991 1997,2994" />
+                <TextEquiv>
+                    <Unicode>serves their purpose they pretend to be ours; but of which they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="478,3061 1995,3071 1956,3000 478,3004" />
+                <Baseline points="489,3048 564,3049 640,3052 715,3051 791,3051 866,3051 942,3051 1017,3050 1093,3048 1168,3051 1244,3048 1320,3051 1395,3051 1471,3051 1546,3051 1622,3050 1697,3048 1773,3048 1848,3048 1924,3048 2000,3051" />
+                <TextEquiv>
+                    <Unicode>have virtually usurped the sovereignty: and have the audacity</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="472,3124 1998,3115 1998,3065 472,3067" />
+                <Baseline points="483,3104 559,3109 635,3108 711,3107 787,3107 863,3107 939,3107 1015,3107 1091,3107 1167,3104 1243,3104 1319,3107 1395,3108 1471,3107 1547,3107 1623,3106 1699,3104 1775,3101 1851,3104 1927,3104 2003,3110" />
+                <TextEquiv>
+                    <Unicode>to tell the British legislature, "That they cannot abolish the slave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="467,3197 1989,3189 1989,3118 467,3130" />
+                <Baseline points="477,3167 552,3167 628,3169 704,3167 780,3167 856,3167 932,3167 1007,3167 1083,3167 1159,3166 1235,3167 1311,3167 1387,3167 1463,3167 1538,3167 1614,3166 1690,3164 1766,3164 1842,3166 1918,3165 1994,3173" />
+                <TextEquiv>
+                    <Unicode>trade; for that if England refuses to furnish them with slaves,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

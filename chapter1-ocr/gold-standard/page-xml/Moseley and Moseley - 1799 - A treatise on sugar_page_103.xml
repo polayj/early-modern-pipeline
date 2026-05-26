@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:45:18.943+02:00</Created>
+        <LastChange>2025-10-27T17:53:50.934+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051474" pageNr="81" tsid="258989660" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=LBWLCFMYJRLFFJQEDVJYRQBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXDYABJAFEYPEVXPWOZMTODK" imageId="87046410" />
+    </Metadata>
+    <Page imageFilename="11168119_0081_104051474.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586548549" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+                <RegionRefIndexed index="2" regionRef="r_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1021,230 1406,230 1406,345 1021,345" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1133,330 1145,330 1177,360 1194,344 1216,344 1230,330 1254,330 1266,340 1310,320 1308,244 1296,246 1248,203 1232,195 1218,205 1131,199" />
+                <Baseline points="1143,298 1171,298 1199,297 1228,295 1256,297 1284,299 1313,301" />
+                <TextEquiv>
+                    <Unicode>( 101 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="420,376 412,3036 1997,3127 1992,370" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="423,455 1431,481 1596,447 1666,485 1984,449 1984,348 423,354" />
+                <Baseline points="435,438 512,435 590,435 667,433 745,430 823,429 900,429 978,429 1056,429 1133,429 1211,429 1289,429 1366,429 1444,432 1522,432 1599,433 1677,432 1755,435 1832,433 1910,432 1988,432" />
+                <TextEquiv>
+                    <Unicode>used by those who wish to prolong life; because</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="423,558 1997,572 1978,449 1862,487 1596,447 423,473" />
+                <Baseline points="435,537 513,534 591,531 670,528 748,528 827,525 905,525 983,525 1062,525 1140,525 1219,525 1297,526 1375,525 1454,528 1532,528 1611,528 1689,528 1767,531 1846,531 1924,528 2003,531" />
+                <TextEquiv>
+                    <Unicode>it will not suffer the humours, nor the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="423,672 698,640 1363,658 1415,638 1417,556 1234,543 1133,588 1073,556 425,558" />
+                <Baseline points="435,629 484,626 533,626 582,626 631,626 680,626 729,626 779,624 828,626 877,623 926,620 975,623 1024,622 1073,620 1123,621 1172,623 1221,621 1270,620 1319,618 1368,620 1418,626" />
+                <TextEquiv>
+                    <Unicode>food, in the body to putrify.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="503,743 876,751 996,712 1113,763 1222,719 1995,761 1995,668 1866,628 1600,668 503,660" />
+                <Baseline points="513,719 587,721 661,722 736,722 810,719 884,719 959,711 1033,706 1107,713 1182,714 1256,714 1330,716 1405,718 1479,719 1553,719 1628,716 1702,719 1776,719 1851,719 1925,718 2000,716" />
+                <TextEquiv>
+                    <Unicode>POMET says, "The white and red sugar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="417,839 1995,851 1995,761 1928,747 1771,785 1689,745 417,737" />
+                <Baseline points="429,821 507,819 586,818 664,818 743,818 821,813 900,815 978,815 1057,812 1135,812 1214,814 1293,815 1371,815 1450,815 1528,815 1607,817 1685,815 1764,818 1842,818 1921,819 2000,824" />
+                <TextEquiv>
+                    <Unicode>candy are better for rheums, coughs, colds,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="417,920 956,964 1093,924 1995,950 1976,837 417,855" />
+                <Baseline points="429,913 507,914 586,912 664,911 743,910 821,913 900,913 978,912 1057,907 1135,907 1214,910 1293,909 1371,907 1450,910 1528,907 1607,907 1685,907 1764,910 1842,910 1921,910 2000,910" />
+                <TextEquiv>
+                    <Unicode>catarrhs, asthmas, wheezings, than common</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="417,1026 1991,1028 1952,938 417,942" />
+                <Baseline points="429,1009 507,1009 585,1009 664,1005 742,1006 821,1006 899,1006 977,1006 1056,1006 1134,1006 1213,1006 1291,1006 1369,1006 1448,1006 1526,1006 1605,1006 1683,1006 1761,1004 1840,1006 1918,1006 1997,1003" />
+                <TextEquiv>
+                    <Unicode>sugar; because, being harder, they take longer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="415,1123 1997,1119 1997,1026 1952,1018 1904,1057 1817,1016 521,1059 415,1026" />
+                <Baseline points="426,1098 504,1101 583,1101 662,1101 741,1101 820,1101 899,1101 977,1100 1056,1098 1135,1098 1214,1098 1293,1100 1372,1101 1451,1098 1529,1098 1608,1098 1687,1101 1766,1098 1845,1098 1924,1098 2003,1101" />
+                <TextEquiv>
+                    <Unicode>time to melt in the mouth, and keep the throat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="411,1198 950,1244 1995,1220 1995,1131 1872,1115 1819,1163 1552,1115 1359,1159 1230,1115 1177,1149 411,1121" />
+                <Baseline points="423,1197 501,1197 580,1194 659,1195 738,1197 817,1197 896,1194 974,1196 1053,1194 1132,1194 1211,1194 1290,1195 1369,1194 1448,1197 1526,1197 1605,1197 1684,1197 1763,1197 1842,1196 1921,1194 2000,1197" />
+                <TextEquiv>
+                    <Unicode>and stomach moister than sugar does. Put</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="415,1302 731,1344 1198,1300 1997,1318 1997,1222 1564,1220 1493,1266 1405,1204 1346,1240 415,1240" />
+                <Baseline points="426,1292 504,1292 583,1289 662,1290 741,1289 820,1292 899,1292 977,1289 1056,1289 1135,1290 1214,1291 1293,1291 1372,1292 1451,1292 1529,1289 1608,1292 1687,1289 1766,1289 1845,1289 1924,1289 2003,1292" />
+                <TextEquiv>
+                    <Unicode>into the eyes, in fine powder, it takes away</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="411,1387 632,1431 926,1395 1991,1419 1991,1318 1809,1310 463,1312 411,1350" />
+                <Baseline points="423,1382 501,1385 580,1386 659,1388 737,1388 816,1388 895,1388 973,1388 1052,1385 1131,1388 1210,1385 1288,1386 1367,1385 1446,1385 1524,1388 1603,1387 1682,1385 1760,1385 1839,1385 1918,1383 1997,1388" />
+                <TextEquiv>
+                    <Unicode>their dimness, and heals them being bloodshot;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="405,1518 2003,1512 2003,1425 405,1431" />
+                <Baseline points="417,1480 496,1480 575,1482 655,1483 734,1483 814,1480 893,1482 973,1480 1052,1483 1132,1483 1211,1482 1290,1483 1370,1480 1449,1480 1529,1480 1608,1480 1688,1478 1767,1480 1847,1480 1926,1480 2006,1480" />
+                <TextEquiv>
+                    <Unicode>it cleanses old sores, being strewed gently on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="415,1602 702,1578 1308,1636 1409,1574 1576,1650 1789,1584 1995,1626 1968,1497 415,1522" />
+                <Baseline points="426,1576 504,1576 583,1577 662,1579 740,1576 819,1576 898,1576 976,1579 1055,1582 1134,1580 1213,1579 1291,1579 1370,1576 1449,1573 1527,1575 1606,1577 1685,1579 1763,1576 1842,1576 1921,1573 2000,1576" />
+                <TextEquiv>
+                    <Unicode>them." Histoire général des Drogues, Lib. II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="417,1713 477,1731 519,1709 648,1711 682,1739 763,1699 843,1743 1010,1695 1075,1703 1075,1622 1002,1594 843,1622 660,1578 584,1636 515,1598 417,1616" />
+                <Baseline points="429,1671 461,1673 494,1675 526,1677 559,1674 591,1676 624,1676 656,1674 689,1674 721,1674 754,1674 787,1674 819,1674 852,1673 884,1671 917,1671 949,1673 982,1675 1014,1677 1047,1677 1080,1677" />
+                <TextEquiv>
+                    <Unicode>cap. 38, anno 1694.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="481,1882 1999,1890 1999,1783 1944,1777 1586,1813 1387,1751 1286,1811 481,1763" />
+                <Baseline points="492,1859 567,1862 643,1862 718,1862 794,1862 869,1862 945,1865 1020,1862 1096,1865 1171,1862 1247,1865 1323,1863 1398,1862 1474,1862 1549,1862 1625,1862 1700,1859 1776,1859 1851,1857 1927,1857 2003,1862" />
+                <TextEquiv>
+                    <Unicode>LEMERY gives nearly a similar account of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="405,1984 2003,1980 2003,1888 1960,1884 1830,1924 1765,1876 405,1888" />
+                <Baseline points="417,1964 496,1962 575,1964 655,1959 734,1958 814,1961 893,1961 973,1958 1052,1958 1132,1958 1211,1958 1290,1958 1370,1955 1449,1955 1529,1955 1608,1955 1688,1955 1767,1955 1847,1955 1926,1955 2006,1958" />
+                <TextEquiv>
+                    <Unicode>sugar; but says it is hurtful to the teeth, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="417,2099 1989,2099 1989,2001 1747,1972 417,1999" />
+                <Baseline points="429,2054 507,2057 585,2057 663,2054 742,2054 820,2054 898,2056 976,2059 1055,2057 1133,2057 1211,2057 1289,2056 1368,2054 1446,2054 1524,2053 1602,2054 1681,2054 1759,2051 1837,2051 1915,2054 1994,2048" />
+                <TextEquiv>
+                    <Unicode>causes vapours. Traité Universel des Drogues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="401,2186 477,2222 537,2220 727,2164 775,2170 835,2226 882,2190 912,2218 1039,2210 1039,2105 962,2079 841,2079 680,2125 620,2079 481,2073 401,2105" />
+                <Baseline points="412,2155 443,2155 475,2154 506,2152 538,2152 570,2152 601,2152 633,2152 664,2152 696,2152 728,2152 759,2152 791,2152 822,2152 854,2152 886,2152 917,2153 949,2155 980,2155 1012,2156 1044,2158" />
+                <TextEquiv>
+                    <Unicode>Simples, anno 1693.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="485,2341 972,2387 1091,2333 1242,2389 1429,2353 1980,2377 1962,2238 1779,2282 1662,2240 1584,2280 1475,2224 1348,2282 1179,2246 656,2284 485,2230" />
+                <Baseline points="495,2340 569,2338 644,2337 718,2337 793,2337 867,2337 942,2337 1016,2337 1091,2337 1165,2337 1240,2340 1314,2338 1389,2337 1463,2337 1538,2336 1612,2337 1687,2337 1761,2337 1836,2334 1910,2334 1985,2337" />
+                <TextEquiv>
+                    <Unicode>HERMANN says, "Sugar consists of a sweet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="405,2466 1978,2466 1978,2377 1914,2359 1262,2401 1099,2349 580,2399 505,2351 405,2369" />
+                <Baseline points="417,2436 495,2433 573,2433 651,2434 730,2436 808,2436 886,2436 964,2436 1043,2433 1121,2433 1199,2433 1277,2436 1356,2436 1434,2436 1512,2433 1590,2433 1669,2433 1747,2435 1825,2435 1903,2433 1982,2439" />
+                <TextEquiv>
+                    <Unicode>soft mucilage, and an agreeable sharpness;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="403,2580 1139,2536 1986,2562 1986,2466 403,2476" />
+                <Baseline points="414,2528 492,2528 571,2528 650,2528 729,2528 808,2525 887,2528 965,2525 1044,2525 1123,2527 1202,2526 1281,2528 1360,2528 1439,2528 1517,2528 1596,2528 1675,2528 1754,2528 1833,2525 1912,2526 1991,2525" />
+                <TextEquiv>
+                    <Unicode>from whence it becomes an aliment as well as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="403,2639 1984,2649 1984,2562 1163,2540 1107,2578 403,2594" />
+                <Baseline points="414,2627 492,2625 571,2624 650,2624 728,2624 807,2624 886,2623 964,2624 1043,2624 1122,2624 1201,2624 1279,2621 1358,2621 1437,2623 1515,2622 1594,2622 1673,2624 1751,2621 1830,2621 1909,2619 1988,2624" />
+                <TextEquiv>
+                    <Unicode>a medicine. The Indians boil it in water with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="409,2745 1980,2743 1980,2653 409,2671" />
+                <Baseline points="420,2725 498,2720 576,2724 654,2722 733,2722 811,2724 889,2722 967,2722 1046,2722 1124,2719 1202,2721 1280,2720 1359,2719 1437,2722 1515,2722 1593,2720 1672,2719 1750,2720 1828,2719 1906,2720 1985,2722" />
+                <TextEquiv>
+                    <Unicode>a small quantity of flower for nourishment.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="405,2842 1980,2844 1980,2751 1894,2741 405,2747" />
+                <Baseline points="417,2818 495,2818 573,2821 652,2821 730,2818 809,2821 887,2821 965,2821 1044,2821 1122,2821 1201,2820 1279,2819 1357,2821 1436,2821 1514,2818 1593,2818 1671,2818 1749,2820 1828,2821 1906,2822 1985,2824" />
+                <TextEquiv>
+                    <Unicode>It promotes urine, and is specific in coughs,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="401,2926 976,2969 1671,2943 1874,2989 1986,2932 1986,2842 401,2842" />
+                <Baseline points="412,2913 495,2916 578,2916 661,2919 744,2919 827,2919 910,2919 993,2919 1076,2919 1159,2919 1243,2919 1326,2919 1409,2919 1492,2919 1575,2919 1658,2919 1741,2917 1824,2917 1907,2916 1991,2913" />
+                <TextEquiv>
+                    <Unicode>hoarseness, sharp humours, and other diseases</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="405,3061 461,3067 493,3049 614,3067 660,3047 714,3069 743,3043 863,3063 863,2961 797,2943 666,2936 622,2961 586,2938 531,2969 497,2945 405,2959" />
+                <Baseline points="417,3012 442,3014 467,3015 492,3015 517,3015 542,3015 567,3015 592,3015 617,3015 642,3015 667,3015 692,3015 717,3015 742,3015 767,3015 792,3015 817,3015 842,3015 868,3015" />
+                <TextEquiv>
+                    <Unicode>of the lungs."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="1823,3120 1838,3124 1852,3114 1882,3126 1898,3120 1916,3136 1932,3134 1952,3148 1982,3144 1970,3015 1894,3013 1888,3023 1870,3023 1854,3041 1840,3029 1813,3033" />
+                <Baseline points="1830,3090 1855,3092 1880,3093 1906,3094 1931,3097 1956,3102 1982,3107" />
+                <TextEquiv>
+                    <Unicode>It</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:footer;}">
+            <Coords points="1128,3047 1295,3059 1293,3145 1124,3130" />
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:0;}">
+                <Coords points="1113,3140 1206,3134 1272,3186 1296,3188 1282,3037 1240,3057 1177,3025 1143,3041 1103,3039" />
+                <Baseline points="1119,3110 1144,3110 1169,3110 1194,3112 1219,3115 1244,3120 1269,3122 1295,3122" />
+                <TextEquiv>
+                    <Unicode>H 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

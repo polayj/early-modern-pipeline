@@ -1,0 +1,115 @@
+[
+  {
+    "model_name": "GLiNER Large v2.1",
+    "model_type": "gliner",
+    "model_id": "urchade/gliner_large-v2.1",
+    "load_time": 5.848831653594971,
+    "documents": [
+      {
+        "file": "Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml",
+        "type": "political_narrative",
+        "total_entities": 35,
+        "commodities": 0,
+        "products": 0,
+        "entity_breakdown": {
+          "event": 1,
+          "organization": 5,
+          "location": 11,
+          "person": 15,
+          "quantity": 3
+        },
+        "ner_time": 2.2551968097686768
+      },
+      {
+        "file": "Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml",
+        "type": "recipe",
+        "total_entities": 0,
+        "commodities": 0,
+        "products": 0,
+        "entity_breakdown": {},
+        "ner_time": 1.1872150897979736
+      }
+    ]
+  },
+  {
+    "model_name": "GLiNER-X Base",
+    "model_type": "gliner",
+    "model_id": "knowledgator/gliner-x-base",
+    "error": "Stanza model for 'en' and fallback 'en' could not be loaded."
+  },
+  {
+    "model_name": "NuNER Zero",
+    "model_type": "gliner",
+    "model_id": "numind/NuNER_Zero",
+    "load_time": 4.915122032165527,
+    "documents": [
+      {
+        "file": "Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml",
+        "type": "political_narrative",
+        "total_entities": 76,
+        "commodities": 0,
+        "products": 0,
+        "entity_breakdown": {
+          "event": 4,
+          "organization": 5,
+          "location": 24,
+          "date": 3,
+          "person": 39,
+          "currency": 1
+        },
+        "ner_time": 2.11708402633667
+      },
+      {
+        "file": "Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml",
+        "type": "recipe",
+        "total_entities": 3,
+        "commodities": 0,
+        "products": 0,
+        "entity_breakdown": {
+          "organization": 3
+        },
+        "ner_time": 1.1873865127563477
+      }
+    ]
+  },
+  {
+    "model_name": "spaCy Transformer",
+    "model_type": "spacy",
+    "model_id": "en_core_web_trf",
+    "load_time": 1.347461462020874,
+    "documents": [
+      {
+        "file": "Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml",
+        "type": "political_narrative",
+        "total_entities": 57,
+        "commodities": 0,
+        "products": 0,
+        "entity_breakdown": {
+          "person": 26,
+          "date": 6,
+          "location": 7,
+          "organization": 7,
+          "quantity": 9,
+          "nationality": 1,
+          "currency": 1
+        },
+        "ner_time": 0.5510106086730957
+      },
+      {
+        "file": "Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml",
+        "type": "recipe",
+        "total_entities": 16,
+        "commodities": 0,
+        "products": 5,
+        "entity_breakdown": {
+          "quantity": 6,
+          "location": 1,
+          "product": 5,
+          "organization": 3,
+          "date": 1
+        },
+        "ner_time": 0.3968067169189453
+      }
+    ]
+  }
+]

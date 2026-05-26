@@ -1,0 +1,70 @@
+{
+  "doc_id": "Moseley and Moseley - 1799 - A treatise on sugar_page_103.xml",
+  "text": "( 101 )\nused by those who wish to prolong life; because\nit will not suffer the humours, nor the\nfood, in the body to putrify.\nPOMET says, \"The white and red sugar-\ncandy are better for rheums, coughs, colds,\ncatarrhs, asthmas, wheezings, than common\nsugar; because, being harder, they take longer\ntime to melt in the mouth, and keep the throat\nand stomach moister than sugar does. Put\ninto the eyes, in fine powder, it takes away\ntheir dimness, and heals them being bloodshot;\nit cleanses old sores, being strewed gently on\nthem.\" Histoire général des Drogues, Lib. II.\ncap. 38, anno 1694.\nLEMERY gives nearly a similar account of\nsugar; but says it is hurtful to the teeth, and\ncauses vapours. Traité Universel des Drogues\nSimples, anno 1693.\nHERMANN says, \"Sugar consists of a sweet\nsoft mucilage, and an agreeable sharpness;\nfrom whence it becomes an aliment as well as\na medicine. The Indians boil it in water with\na small quantity of flower for nourishment.\nIt promotes urine, and is specific in coughs,\nhoarseness, sharp humours, and other diseases\nof the lungs.\"\nIt\nH 3",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 157,
+      "end": 162,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_5"
+    },
+    {
+      "id": "e2",
+      "start": 250,
+      "end": 255,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_8"
+    },
+    {
+      "id": "e3",
+      "start": 369,
+      "end": 374,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e4",
+      "start": 631,
+      "end": 636,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e5",
+      "start": 759,
+      "end": 764,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_20"
+    },
+    {
+      "id": "e6",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "POMET",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e7",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "LEMERY",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e8",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "HERMANN",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

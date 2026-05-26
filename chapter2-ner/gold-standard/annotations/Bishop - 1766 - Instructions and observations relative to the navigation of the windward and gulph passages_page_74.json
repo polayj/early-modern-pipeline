@@ -1,0 +1,182 @@
+{
+  "doc_id": "Bishop - 1766 - Instructions and observations relative to the navigation of the windward and gulph passages_page_74.xml",
+  "text": "( 62 )\nPoint. Within this Point, to the westward,\nhis Majesty's ship Raisonable was lost, off\nFort and Point Gardie; this Point therefore\nmust be avoided. Here we were informed\nthat the Admiral and Fleet were at anchor\nin Diamond Cove or Road.\nThe Diamond Rock, which lay's more than a\nmile from the shore, bears from Point Saline\nW. N. W. distance 7 or 8 miles. The\naforesaid Rock is high and round, and to\nthe N. W. of it is Diamond Cove or Bay,\nwhere we found his Majesty's Fleet at anchor,\nthe 16th of January 1762, under the\ncommand of Rear Admiral Rodney, and the\nnext day we landed his Majesty's Troops in\nCass Navire Bay; but as the Antigua Brig.\nwas ordered to the northward, I chose to\ngo with her, in order to go to Jamaica, and\nso we proceeded to Guadaloupe, where we\nfound a sloop from Lisbon, from Capt. Johnston\nof the Hornet, which gave us an account\nof a Spanish War, and the Captain gave me\na Copy of the King of Spain's Declaration.\nAs the Lieutenant Governor sent the Brigantine\nback to Martinico, I thought it my\nbest way to go back with her; but as a ship\nthen at Guadaloupe (the Alexander, Captain\nAtkinson) was ready, or would be in two or\nthree days, I was determined to secure myself\na passage, and agreed with him, in case\nI should be disappointed at Martinico, as it\nhappened",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 94,
+      "end": 115,
+      "label": "TOPONYM",
+      "text": "Fort and Point Gardie",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e2",
+      "start": 222,
+      "end": 234,
+      "label": "TOPONYM",
+      "text": "Diamond Cove",
+      "line_id": "tr_1_tl_7"
+    },
+    {
+      "id": "e3",
+      "start": 318,
+      "end": 330,
+      "label": "TOPONYM",
+      "text": "Point Saline",
+      "line_id": "tr_1_tl_9"
+    },
+    {
+      "id": "e4",
+      "start": 427,
+      "end": 439,
+      "label": "TOPONYM",
+      "text": "Diamond Cove",
+      "line_id": "tr_1_tl_12"
+    },
+    {
+      "id": "e5",
+      "start": 613,
+      "end": 628,
+      "label": "TOPONYM",
+      "text": "Cass Navire Bay",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e6",
+      "start": 641,
+      "end": 648,
+      "label": "TOPONYM",
+      "text": "Antigua",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e7",
+      "start": 727,
+      "end": 734,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_1_tl_19"
+    },
+    {
+      "id": "e8",
+      "start": 759,
+      "end": 769,
+      "label": "TOPONYM",
+      "text": "Guadaloupe",
+      "line_id": "tr_1_tl_20"
+    },
+    {
+      "id": "e9",
+      "start": 799,
+      "end": 805,
+      "label": "TOPONYM",
+      "text": "Lisbon",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e10",
+      "start": 931,
+      "end": 936,
+      "label": "TOPONYM",
+      "text": "Spain",
+      "line_id": "tr_1_tl_24"
+    },
+    {
+      "id": "e11",
+      "start": 1007,
+      "end": 1016,
+      "label": "TOPONYM",
+      "text": "Martinico",
+      "line_id": "tr_1_tl_26"
+    },
+    {
+      "id": "e12",
+      "start": 1086,
+      "end": 1096,
+      "label": "TOPONYM",
+      "text": "Guadaloupe",
+      "line_id": "tr_1_tl_28"
+    },
+    {
+      "id": "e13",
+      "start": 1278,
+      "end": 1287,
+      "label": "TOPONYM",
+      "text": "Martinico",
+      "line_id": "tr_1_tl_32"
+    },
+    {
+      "id": "e14",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "his Majesty",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e15",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Rear Admiral Rodney",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e16",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Capt. Johnston",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e17",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "King of Spain",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e18",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Lieutenant Governor",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e19",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Captain Atkinson",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e20",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Diamond Rock",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e21",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Antigua Brig",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e22",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Alexander",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

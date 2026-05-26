@@ -1,0 +1,62 @@
+# Table OCR Performance - Narrative Statistics
+Generated: 2025-11-29 11:51:29
+
+## Overall Performance
+
+We evaluated 9 OCR systems on 2 historical table documents (dated 1682 and 1807).
+
+**Best Overall System (CER):** OlmOCRv2 achieved the lowest character 
+error rate of 0.128, demonstrating superior accuracy in 
+transcribing tabular data from historical documents.
+
+**Best Word Accuracy:** OlmOCRv2 achieved the lowest word error 
+rate of 0.205, indicating strong performance at the word level.
+
+**Best Semantic Similarity:** OlmOCRv2 achieved the highest BLEU 
+score of 0.713, showing the best semantic preservation 
+of the original tabular content.
+
+## Performance Range
+
+Character error rates ranged from 0.128 
+(OlmOCRv2) to 
+0.598 (Kraken), 
+representing a span of 0.470 or 47.0% across systems.
+
+## Document-Specific Analysis
+
+### Anonymous 1682
+
+- **Best:** Transkribus (CER: 0.147)
+- **Worst:** Kraken (CER: 0.447)
+- **Range:** 0.300 (30.0%)
+
+### Young 1807
+
+- **Best:** Gemini (CER: 0.000)
+- **Worst:** Kraken (CER: 0.749)
+- **Range:** 0.749 (74.9%)
+
+## Perfect Scores
+
+The following systems achieved perfect character-level accuracy on specific documents:
+
+- **Gemini** on Young 1807 (CER: 0.000, BLEU: 1.000)
+- **MinerU** on Young 1807 (CER: 0.000, BLEU: 1.000)
+
+## Top 3 Systems by CER
+
+1. **OlmOCRv2**: CER=0.128, WER=0.205, BLEU=0.713
+2. **MinerU**: CER=0.163, WER=0.222, BLEU=0.702
+3. **Deepseek**: CER=0.171, WER=0.255, BLEU=0.576
+
+## Key Insights
+
+- The text-heavy table (Anonymous 1682) proved significantly more challenging 
+  than the numerical table (Young 1807), with an average CER of 0.306 
+  compared to 0.156.
+
+- The best-performing system (OlmOCRv2) exhibited an error 
+  distribution of 20.5% insertions, 
+  29.9% deletions, and 
+  49.6% substitutions.

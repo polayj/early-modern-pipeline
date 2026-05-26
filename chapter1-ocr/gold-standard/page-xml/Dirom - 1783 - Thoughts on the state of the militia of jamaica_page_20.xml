@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:01.631+02:00</Created>
+        <LastChange>2025-10-24T18:10:00.874+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051448" pageNr="64" tsid="258813235" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=NBRUXQLYCFCQOTULIJVBRZLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NDLSYJOYYJXARCRPEIACMTXW" imageId="87046363" />
+    </Metadata>
+    <Page imageFilename="11168119_0064_104051448.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586545443" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_21" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1308,629 1575,629 1575,729 1308,729" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1312,714 1347,731 1358,721 1372,727 1420,718 1435,706 1474,716 1497,698 1514,696 1518,623 1487,629 1431,606 1414,619 1375,608 1318,616" />
+                <Baseline points="1325,704 1352,703 1379,701 1406,698 1434,695 1461,695 1488,696 1516,698" />
+                <TextEquiv>
+                    <Unicode>[ 20 ]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="684,744 2221,740 2217,1520 663,1544" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="675,806 2203,816 2203,710 2095,696 1685,693 1531,743 1229,696 675,718" />
+                <Baseline points="686,794 762,791 838,791 914,788 990,788 1066,788 1142,788 1218,791 1294,791 1370,791 1446,791 1522,793 1598,791 1674,794 1750,794 1826,796 1902,791 1978,794 2054,794 2130,797 2206,797" />
+                <TextEquiv>
+                    <Unicode>can be considered only as reformed Officers, without any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="669,871 2210,881 2210,818 2039,798 669,812" />
+                <Baseline points="680,850 756,850 833,850 910,850 987,850 1063,850 1140,850 1217,850 1294,853 1370,853 1447,853 1524,853 1601,853 1677,855 1754,856 1831,855 1908,853 1984,853 2061,856 2138,856 2215,859" />
+                <TextEquiv>
+                    <Unicode>Command in their Parish, unless in Martial Law, when they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="679,923 2197,935 2197,879 2012,862 1914,900 1764,862 679,881" />
+                <Baseline points="689,910 764,908 840,908 915,910 991,910 1066,910 1142,910 1217,910 1293,910 1368,910 1444,910 1520,910 1595,913 1671,913 1746,913 1822,914 1897,913 1973,913 2048,916 2124,916 2200,913" />
+                <TextEquiv>
+                    <Unicode>might be appointed on the Staff: the Colonels, when promoted,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="675,993 2203,983 2203,931 675,945" />
+                <Baseline points="686,973 762,970 838,971 914,970 990,970 1066,970 1142,970 1218,970 1294,970 1370,973 1446,973 1522,973 1598,973 1674,973 1750,976 1826,976 1902,976 1978,976 2054,976 2130,974 2206,976" />
+                <TextEquiv>
+                    <Unicode>should therefore preserve the Command of their Regiments,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="681,1058 2201,1052 2201,983 681,998" />
+                <Baseline points="692,1027 767,1031 843,1032 919,1032 994,1032 1070,1031 1146,1032 1221,1032 1297,1032 1373,1032 1449,1032 1524,1032 1600,1032 1676,1035 1751,1035 1827,1034 1903,1035 1978,1035 2054,1036 2130,1038 2206,1038" />
+                <TextEquiv>
+                    <Unicode>and they need not be recommended to the Commander-in-Chief,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="675,1129 1306,1093 2203,1137 2166,1045 675,1064" />
+                <Baseline points="686,1092 762,1092 838,1089 914,1092 990,1092 1066,1092 1142,1092 1218,1092 1294,1092 1370,1093 1446,1095 1522,1092 1598,1093 1674,1095 1750,1095 1826,1096 1902,1098 1978,1095 2054,1096 2130,1098 2206,1092" />
+                <TextEquiv>
+                    <Unicode>as he will be the best Judge of their Merits,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="681,1187 2112,1200 2112,1123 1958,1097 681,1129" />
+                <Baseline points="692,1155 763,1155 834,1155 905,1153 976,1154 1048,1155 1119,1155 1190,1152 1261,1153 1332,1155 1404,1155 1475,1157 1546,1155 1617,1155 1688,1156 1760,1158 1831,1157 1902,1158 1973,1158 2044,1158 2116,1161" />
+                <TextEquiv>
+                    <Unicode>from their Conduct and Character in their Parishes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:7;}">
+                <Coords points="744,1200 2031,1195 2132,1206 2213,1256 2213,1286 2132,1289 744,1275" />
+                <Baseline points="755,1271 824,1271 893,1271 962,1271 1031,1271 1100,1271 1169,1271 1238,1271 1307,1273 1376,1271 1446,1272 1515,1274 1584,1274 1653,1274 1722,1277 1791,1277 1860,1277 1929,1277 1998,1277 2067,1278 2137,1280 2158,1286 2213,1286" />
+                <TextEquiv>
+                    <Unicode>Could such Alteration be effected in the Promotion of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:8;}">
+                <Coords points="687,1256 2078,1285 2128,1293 2212,1317 2213,1347 2128,1354 687,1349" />
+                <Baseline points="698,1331 769,1331 841,1331 912,1333 984,1333 1056,1331 1127,1331 1199,1331 1271,1333 1342,1334 1414,1334 1486,1335 1557,1334 1629,1336 1701,1337 1772,1337 1844,1337 1916,1337 1987,1337 2059,1338 2131,1337 2147,1350 2213,1347" />
+                <TextEquiv>
+                    <Unicode>the Militia, then would the Exertions of a free People be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="685,1425 2212,1404 2212,1345 1920,1385 1839,1345 685,1349" />
+                <Baseline points="695,1394 771,1392 847,1391 923,1394 999,1394 1075,1394 1151,1392 1227,1391 1303,1394 1379,1394 1455,1394 1531,1397 1607,1398 1683,1397 1759,1397 1835,1398 1911,1400 1987,1397 2063,1398 2139,1398 2215,1400" />
+                <TextEquiv>
+                    <Unicode>distinguished in this Part of the Constitution, System be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="673,1476 2218,1501 2216,1402 673,1418" />
+                <Baseline points="683,1462 759,1454 836,1453 913,1453 990,1456 1067,1453 1144,1453 1221,1453 1298,1454 1375,1456 1452,1459 1528,1456 1605,1459 1682,1459 1759,1459 1836,1457 1913,1459 1990,1459 2067,1459 2144,1459 2221,1462" />
+                <TextEquiv>
+                    <Unicode>preserved, and Men be led and commanded by Officers of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:11;}">
+                <Coords points="690,1522 818,1524 952,1526 1181,1528 1181,1498 952,1496 818,1494 690,1492" />
+                <Baseline points="690,1522 818,1524 952,1526 1181,1528" />
+                <TextEquiv>
+                    <Unicode>their own Choice!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+{
+  "project_name": "Caribbean Commodity Trade Manual NER",
+  "start_date": "2025-11-05",
+  "total_documents": 100,
+  "documents_per_batch": 5,
+  "total_batches": 20,
+  "current_batch": 1,
+  "batches_completed": [],
+  "batches_in_progress": [],
+  "documents_completed": 1,
+  "batches": {
+    "batch_01": {
+      "status": "in_progress",
+      "documents": ["Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml"],
+      "started": "2025-11-05",
+      "completed": null,
+      "entity_count": 56
+    },
+    "batch_02": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_03": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_04": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_05": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_06": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_07": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_08": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_09": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_10": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_11": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_12": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_13": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_14": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_15": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_16": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_17": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_18": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_19": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0},
+    "batch_20": {"status": "pending", "documents": [], "started": null, "completed": null, "entity_count": 0}
+  },
+  "notes": "Processing 5 documents per session (20 batches total). Read PROJECT_CONTEXT.md and ENTITY_GUIDELINES.md before each batch."
+}

@@ -1,0 +1,25 @@
+services:
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: emgraphrag-chromadb
+    restart: unless-stopped
+    ports:
+      - "8000:8000"   # ChromaDB HTTP API
+    volumes:
+      - /mnt/user/appdata/chromadb:/chroma/chroma
+    environment:
+      # Persist data to the mounted volume
+      IS_PERSISTENT: "TRUE"
+      PERSIST_DIRECTORY: /chroma/chroma
+      ANONYMIZED_TELEMETRY: "FALSE"
+
+# Usage:
+#   docker compose -f chromadb.compose.yml up -d
+#   docker compose -f chromadb.compose.yml down
+#
+# API endpoint: http://<unraid-ip>:8000
+# Health check: curl http://<unraid-ip>:8000/api/v1/heartbeat
+#
+# Connect from Python:
+#   import chromadb
+#   client = chromadb.HttpClient(host="<unraid-ip>", port=8000)

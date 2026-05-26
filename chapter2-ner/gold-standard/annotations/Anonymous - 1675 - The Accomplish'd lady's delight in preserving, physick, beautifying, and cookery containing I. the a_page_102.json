@@ -1,0 +1,190 @@
+{
+  "doc_id": "Anonymous - 1675 - The Accomplish'd lady's delight in preserving, physick, beautifying, and cookery containing I. the a_page_102.xml",
+  "text": "196\nBeautifying Waters,\nall Cankers, and Cure a stinking Breath,\nand preserve the Teeth from rottenness.\n56. To procure an excellent Colour\nand Complexion in the Face, used\nby the C. of S.\nTake the juice of Hyssop, and drink it\nin a Morning Fasting, half a dozen spoonfuls\nin Ale, warm, it will procure an excellent\nColour, is good for the eye-sight,\ndestroyeth Worms, and is good for the\nStomack, Liver, and Lungs.\n57. To keep the Teeth white, and\nkill Worms.\nTake a little Salt in a Morning Fasting,\nand hold it under your Tongue till it be\nmelted, and then rub your Teeth with\nit.\n58. To procure Beauty, an\nexcellent wash.\nTake four Ounces of Sublimate, and\none Ounce of crude Mercury, and beat\nthem together exceeding well in a wooden\nMortar, and wooden Pestle; you must\ndo\nOyls, and Powders.\n197\ndo it at least six, or eight hours, then\nwith often change of cold water, take\naway the salts from the Sublimate, change\nyour water twice every day at least, and\nin seven or eight days it will be dulcified,\nand then it is prepared; lay it on with Oyl\nof white Poppy.\n59. A Beauty-water for the Face, by\nMadam G.\nTake Lye that is not too strong, and put\ntwo peels of Oranges, and as much Citron-peel,\nBlossoms of Camomile, Bay-\nleaves, and Maiden-hair, of each a handful,\nof Agrimony two or three Ounces,\nof Barley-straw chopt in pieces, a handful\nas much Fenugreek, a pint of Vine-\nleaves, two or three handfuls of Broom-\nblossoms; put all these into the Lye, and\nmingle them together, and so wash the\nHead therewith, put to it a little Cinamon\nand Myrrh, let it stand, and wash your\nface therewith every Evening: It is good\nto wash the Head, and to comfort the\nBrain and Memory.\nK 3\n60. Against",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 207,
+      "end": 213,
+      "label": "COMMODITY",
+      "text": "Hyssop",
+      "line_id": "l_20"
+    },
+    {
+      "id": "e2",
+      "start": 276,
+      "end": 279,
+      "label": "COMMODITY",
+      "text": "Ale",
+      "line_id": "l_24"
+    },
+    {
+      "id": "e3",
+      "start": 475,
+      "end": 479,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l_37"
+    },
+    {
+      "id": "e4",
+      "start": 646,
+      "end": 655,
+      "label": "COMMODITY",
+      "text": "Sublimate",
+      "line_id": "l_51"
+    },
+    {
+      "id": "e5",
+      "start": 674,
+      "end": 687,
+      "label": "COMMODITY",
+      "text": "crude Mercury",
+      "line_id": "l_52"
+    },
+    {
+      "id": "e6",
+      "start": 904,
+      "end": 913,
+      "label": "COMMODITY",
+      "text": "Sublimate",
+      "line_id": "l_12"
+    },
+    {
+      "id": "e7",
+      "start": 1048,
+      "end": 1066,
+      "label": "COMMODITY",
+      "text": "Oyl of white Poppy",
+      "line_id": "l_17"
+    },
+    {
+      "id": "e8",
+      "start": 1118,
+      "end": 1121,
+      "label": "COMMODITY",
+      "text": "Lye",
+      "line_id": "l_26"
+    },
+    {
+      "id": "e9",
+      "start": 1167,
+      "end": 1174,
+      "label": "COMMODITY",
+      "text": "Oranges",
+      "line_id": "l_28"
+    },
+    {
+      "id": "e10",
+      "start": 1188,
+      "end": 1199,
+      "label": "COMMODITY",
+      "text": "Citron-peel",
+      "line_id": "l_28"
+    },
+    {
+      "id": "e11",
+      "start": 1213,
+      "end": 1221,
+      "label": "COMMODITY",
+      "text": "Camomile",
+      "line_id": "l_30"
+    },
+    {
+      "id": "e12",
+      "start": 1223,
+      "end": 1234,
+      "label": "COMMODITY",
+      "text": "Bay-leaves",
+      "line_id": "l_30"
+    },
+    {
+      "id": "e13",
+      "start": 1240,
+      "end": 1251,
+      "label": "COMMODITY",
+      "text": "Maiden-hair",
+      "line_id": "l_31"
+    },
+    {
+      "id": "e14",
+      "start": 1275,
+      "end": 1283,
+      "label": "COMMODITY",
+      "text": "Agrimony",
+      "line_id": "l_33"
+    },
+    {
+      "id": "e15",
+      "start": 1308,
+      "end": 1320,
+      "label": "COMMODITY",
+      "text": "Barley-straw",
+      "line_id": "l_35"
+    },
+    {
+      "id": "e16",
+      "start": 1356,
+      "end": 1365,
+      "label": "COMMODITY",
+      "text": "Fenugreek",
+      "line_id": "l_36"
+    },
+    {
+      "id": "e17",
+      "start": 1377,
+      "end": 1389,
+      "label": "COMMODITY",
+      "text": "Vine-leaves",
+      "line_id": "l_36"
+    },
+    {
+      "id": "e18",
+      "start": 1416,
+      "end": 1431,
+      "label": "COMMODITY",
+      "text": "Broom-blossoms",
+      "line_id": "l_38"
+    },
+    {
+      "id": "e19",
+      "start": 1456,
+      "end": 1459,
+      "label": "COMMODITY",
+      "text": "Lye",
+      "line_id": "l_40"
+    },
+    {
+      "id": "e20",
+      "start": 1538,
+      "end": 1545,
+      "label": "COMMODITY",
+      "text": "Cinamon",
+      "line_id": "l_44"
+    },
+    {
+      "id": "e21",
+      "start": 1550,
+      "end": 1555,
+      "label": "COMMODITY",
+      "text": "Myrrh",
+      "line_id": "l_45"
+    },
+    {
+      "start": 778,
+      "end": 782,
+      "text": "Oyls",
+      "label": "COMMODITY",
+      "id": "e22",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e23",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Madam G",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

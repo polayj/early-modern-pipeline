@@ -1,0 +1,70 @@
+{
+  "doc_id": "Anonymous - 1716 - A True Account of the late pyracies of Jamaica_page_19.xml",
+  "text": "( 19 )\nsome way or other be link'd to a few\nFishing-Boats, who went out a Bobbing\nfor Grigs some time before, in\na certain Water that did not belong to\n'em, would overturn our Adversaries,\nand make Sport enough: --- But\nthere happened to be a Rub i’th Way ;\nfor the Boats Crew, who stole these\nPigs and Poultry, did belong to a Member\nof our Council; and the President\nand his Brother were said to have had\nPart of the Pigs, and to have made an\nEntertainment for the Board out of\nthe Product of the Hen-roost; and\nthese Boats were also gone a Fishing\nwith the others --- This made the\nProject lie dormant for the present;\nbut some little Time after, two of the\nFishers returned with Pailfuls of Grigs,\nand other small Fry, and happened not\nto be the Boats concern'd in stealing\nthe Poultry.—Now was the Time\nto digest the Affair; — Proper Measures\nwere to be taken for advancing\nthe Cause: Therefore the Council\nwere ordered to be summoned to meet\nat the President's House the next Day,\nbeing February 24. at 5 in the Evening,\n--- who met accordingly.\nC 2\nCOPY",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 294,
+      "end": 298,
+      "label": "COMMODITY",
+      "text": "Pigs",
+      "line_id": "tr_2_tl_11"
+    },
+    {
+      "id": "e2",
+      "start": 419,
+      "end": 423,
+      "label": "COMMODITY",
+      "text": "Pigs",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e5",
+      "start": 86,
+      "end": 91,
+      "label": "COMMODITY",
+      "text": "Grigs",
+      "line_id": "tr_2_tl_4"
+    },
+    {
+      "id": "e6",
+      "start": 695,
+      "end": 700,
+      "label": "COMMODITY",
+      "text": "Grigs",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e7",
+      "start": 718,
+      "end": 721,
+      "label": "COMMODITY",
+      "text": "Fry",
+      "line_id": "tr_1_tl_11"
+    },
+    {
+      "id": "e8",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "President",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e9",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Council",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e10",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Board",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

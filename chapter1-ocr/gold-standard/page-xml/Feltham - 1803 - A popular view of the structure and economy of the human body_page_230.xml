@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:10.211+02:00</Created>
+        <LastChange>2025-10-24T18:11:35.411+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051450" pageNr="66" tsid="258813355" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=VRXYCZRNTPLRFUTDXCIVCTXR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULYIFRLKNFMPFJTLPAHODOUL" imageId="87046304" />
+    </Metadata>
+    <Page imageFilename="11168119_0066_104051450.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586545775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_38" />
+                <RegionRefIndexed index="2" regionRef="r_5" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1319,171 1527,171 1527,269 1319,269" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1329,279 1397,281 1424,293 1450,281 1518,289 1518,180 1495,168 1454,176 1426,156 1383,170 1358,154 1329,172" />
+                <Baseline points="1340,244 1366,242 1392,241 1418,241 1444,241 1470,241 1496,242 1522,244" />
+                <TextEquiv>
+                    <Unicode>210</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_38" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="633,343 2205,349 2212,2447 629,2447" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="656,434 1073,401 1149,451 2208,455 2171,305 2067,354 1495,352 1411,307 656,344" />
+                <Baseline points="668,397 745,400 822,399 899,397 976,394 1054,396 1131,397 1208,397 1285,396 1362,398 1440,398 1517,403 1594,403 1671,402 1748,403 1826,406 1903,404 1980,406 2057,409 2134,410 2212,409" />
+                <TextEquiv>
+                    <Unicode>principle of irritability in a much greater degree</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="649,555 742,518 1760,555 1760,440 649,434" />
+                <Baseline points="659,495 714,495 769,495 824,495 880,495 935,492 990,492 1045,494 1101,492 1156,495 1211,495 1266,495 1322,495 1377,495 1432,495 1487,495 1543,495 1598,495 1653,499 1708,502 1764,501" />
+                <TextEquiv>
+                    <Unicode>than any other muscle of the body.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:2;}">
+                <Coords points="727,729 2186,719 2147,631 725,627" />
+                <Baseline points="737,692 809,691 882,693 955,692 1027,691 1100,689 1173,691 1245,691 1318,692 1391,690 1464,690 1536,695 1609,695 1682,698 1754,696 1827,695 1900,695 1972,695 2045,695 2118,695 2191,695" />
+                <TextEquiv>
+                    <Unicode>The pulse is quicker in young than in old subjects,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:3;}">
+                <Coords points="649,821 2196,821 2167,727 649,733" />
+                <Baseline points="659,785 736,785 813,786 890,788 967,788 1044,788 1121,786 1198,788 1275,788 1352,789 1429,793 1506,794 1583,794 1660,794 1737,794 1814,794 1891,794 1968,794 2045,794 2122,797 2200,794" />
+                <TextEquiv>
+                    <Unicode>because the former are more irritable than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:4;}">
+                <Coords points="639,903 2192,920 2192,838 2091,821 639,826" />
+                <Baseline points="650,877 727,879 804,880 882,880 959,880 1036,883 1114,883 1191,880 1268,883 1346,884 1423,886 1500,889 1578,886 1655,886 1732,886 1810,889 1887,889 1964,891 2042,889 2119,889 2197,889" />
+                <TextEquiv>
+                    <Unicode>the latter; upon which principle it is, that the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:5;}">
+                <Coords points="645,1014 2180,1016 2180,918 645,944" />
+                <Baseline points="656,973 732,976 808,976 885,976 961,976 1038,976 1114,977 1191,979 1267,982 1344,980 1420,982 1496,982 1573,980 1649,982 1726,985 1802,985 1879,986 1955,985 2032,988 2108,988 2185,991" />
+                <TextEquiv>
+                    <Unicode>pulse is continually quicker in weak than in robust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:6;}">
+                <Coords points="641,1010 725,1008 1110,1010 2176,1022 2208,1032 2210,1116 643,1110" />
+                <Baseline points="653,1071 678,1071 704,1071 730,1071 755,1072 781,1074 807,1074 833,1074 858,1074 884,1074 910,1074 935,1074 961,1074 987,1073 1013,1071 1038,1071 1064,1073 1090,1078 1116,1083 1164,1077 1216,1077 1268,1075 1321,1077 1373,1077 1426,1077 1478,1077 1530,1079 1583,1077 1635,1079 1688,1080 1740,1083 1792,1083 1845,1083 1897,1083 1950,1085 2002,1086 2054,1086 2107,1083 2159,1086 2212,1086" />
+                <TextEquiv>
+                    <Unicode>persons*. In a new-born infant the pulse-is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:7;}">
+                <Coords points="637,1184 2198,1215 2196,1108 635,1114" />
+                <Baseline points="647,1167 724,1170 802,1171 880,1173 958,1176 1036,1171 1113,1173 1191,1176 1269,1176 1347,1176 1425,1175 1502,1176 1580,1177 1658,1179 1736,1179 1814,1179 1891,1182 1969,1179 2047,1182 2125,1179 2203,1182" />
+                <TextEquiv>
+                    <Unicode>about 134 in a minute; in middle age from 60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:8;}">
+                <Coords points="643,1299 2198,1336 2198,1233 2153,1205 643,1231" />
+                <Baseline points="653,1265 730,1268 808,1268 885,1269 963,1271 1040,1271 1118,1271 1195,1274 1273,1271 1350,1271 1428,1272 1505,1274 1583,1273 1660,1274 1738,1275 1815,1277 1893,1277 1970,1278 2048,1280 2125,1277 2203,1280" />
+                <TextEquiv>
+                    <Unicode>to 80; in extreme old age from 50 to 24. In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:9;}">
+                <Coords points="643,1391 2186,1411 2186,1327 2091,1303 643,1305" />
+                <Baseline points="653,1361 729,1361 806,1364 883,1364 960,1367 1037,1364 1114,1367 1191,1367 1268,1367 1345,1369 1422,1367 1498,1370 1575,1373 1652,1373 1729,1373 1806,1373 1883,1374 1960,1377 2037,1376 2114,1378 2191,1385" />
+                <TextEquiv>
+                    <Unicode>Greenland, the body is exposed, during long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:10;}">
+                <Coords points="643,1469 2194,1499 2192,1411 641,1403" />
+                <Baseline points="653,1456 730,1456 807,1460 884,1462 961,1459 1039,1461 1116,1462 1193,1462 1270,1462 1347,1462 1425,1465 1502,1465 1579,1467 1656,1469 1733,1471 1811,1471 1888,1471 1965,1472 2042,1471 2119,1474 2197,1474" />
+                <TextEquiv>
+                    <Unicode>winters, to such cold, that the pulse is reduced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:11;}">
+                <Coords points="629,1610 715,1571 928,1565 1094,1594 1373,1575 1649,1618 1647,1528 1557,1497 1407,1528 1288,1487 627,1524" />
+                <Baseline points="638,1558 688,1558 739,1558 790,1558 841,1558 891,1558 942,1558 993,1558 1044,1561 1094,1561 1145,1561 1196,1561 1247,1561 1297,1563 1348,1564 1399,1564 1450,1564 1500,1564 1551,1564 1602,1566 1653,1570" />
+                <TextEquiv>
+                    <Unicode>to 40 or 50 strokes in a minute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:12;}">
+                <Coords points="717,1792 993,1762 1366,1809 2186,1794 2153,1700 717,1690" />
+                <Baseline points="728,1749 801,1749 874,1750 947,1752 1020,1752 1093,1755 1166,1755 1240,1755 1313,1755 1386,1755 1459,1756 1532,1758 1605,1757 1678,1759 1752,1761 1825,1764 1898,1767 1971,1764 2044,1767 2117,1767 2191,1770" />
+                <TextEquiv>
+                    <Unicode>To the circulation of the blood, rightly and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:13;}">
+                <Coords points="627,1872 2180,1889 2149,1794 627,1794" />
+                <Baseline points="638,1851 715,1851 792,1849 870,1853 947,1851 1024,1851 1102,1852 1179,1854 1256,1856 1334,1857 1411,1858 1488,1857 1566,1858 1643,1859 1720,1857 1798,1859 1875,1859 1952,1860 2030,1862 2107,1864 2185,1871" />
+                <TextEquiv>
+                    <Unicode>equally performed, we are indebted for life,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:14;}">
+                <Coords points="633,1975 2184,1983 2182,1911 2122,1893 631,1872" />
+                <Baseline points="641,1943 718,1944 795,1944 873,1946 950,1946 1027,1946 1105,1950 1182,1952 1259,1955 1337,1956 1414,1955 1491,1955 1569,1957 1646,1956 1723,1958 1801,1955 1878,1955 1955,1956 2033,1958 2110,1961 2188,1967" />
+                <TextEquiv>
+                    <Unicode>health, and at last gradual decay. But if by any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:15;}">
+                <Coords points="617,2077 2190,2079 2188,2007 2120,1989 617,1977" />
+                <Baseline points="629,2045 707,2043 785,2042 863,2042 941,2042 1019,2042 1097,2045 1175,2048 1253,2051 1331,2053 1410,2052 1488,2054 1566,2057 1644,2055 1722,2054 1800,2054 1878,2054 1956,2054 2034,2054 2112,2054 2191,2060" />
+                <TextEquiv>
+                    <Unicode>means the blood in its rotatory motion should be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:16;}">
+                <Coords points="625,2167 2176,2182 2176,2079 625,2079" />
+                <Baseline points="635,2134 712,2137 789,2139 867,2139 944,2140 1021,2140 1099,2144 1176,2146 1253,2146 1331,2146 1408,2147 1485,2149 1563,2147 1640,2149 1717,2149 1795,2149 1872,2149 1949,2149 2027,2149 2104,2152 2182,2155" />
+                <TextEquiv>
+                    <Unicode>impeded or disturbed, it will become the fruitful</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:17;}">
+                <Coords points="631,2270 2165,2280 2182,2180 629,2171" />
+                <Baseline points="641,2236 718,2233 795,2233 872,2233 949,2236 1027,2239 1104,2242 1181,2242 1258,2242 1335,2243 1413,2243 1490,2245 1567,2245 1644,2248 1721,2248 1799,2248 1876,2248 1953,2248 2030,2248 2107,2248 2185,2245" />
+                <TextEquiv>
+                    <Unicode>cause of diseases and death. So long as the blood</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:18;}">
+                <Coords points="621,2362 2100,2382 2176,2358 2175,2296 619,2282" />
+                <Baseline points="632,2328 709,2328 787,2328 864,2331 942,2331 1019,2332 1097,2332 1174,2334 1252,2337 1329,2339 1407,2340 1484,2340 1562,2341 1639,2340 1717,2343 1794,2343 1872,2346 1949,2344 2027,2346 2104,2346 2182,2343" />
+                <TextEquiv>
+                    <Unicode>and humours of the body are in circulation, life</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:2;} structure {type:footer;}">
+            <Coords points="2212,2447 2212,3132 629,3132 629,2447" />
+            <TextLine id="l_9" custom="readingOrder {index:0;}">
+                <Coords points="684,2561 2178,2585 2176,2518 2022,2481 1436,2522 684,2473" />
+                <Baseline points="695,2531 769,2544 843,2550 918,2552 992,2552 1066,2553 1141,2555 1215,2554 1289,2555 1364,2555 1438,2558 1512,2558 1587,2561 1661,2561 1735,2562 1810,2561 1884,2561 1958,2561 2033,2561 2107,2563 2182,2558" />
+                <TextEquiv>
+                    <Unicode>* The pulse is not affected by electricity, unless by the impulse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:1;}">
+                <Coords points="627,2663 2178,2663 2178,2587 627,2589" />
+                <Baseline points="638,2630 715,2630 792,2628 869,2630 946,2633 1024,2633 1101,2633 1178,2636 1255,2638 1332,2639 1410,2639 1487,2639 1564,2638 1641,2639 1718,2639 1796,2639 1873,2638 1950,2639 2027,2639 2104,2639 2182,2639" />
+                <TextEquiv>
+                    <Unicode>of shocks, or the irritation of sparks; yet Cavallo and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:2;}">
+                <Coords points="625,2737 2018,2763 2171,2729 2171,2688 2008,2663 625,2663" />
+                <Baseline points="635,2707 712,2707 789,2705 866,2707 943,2707 1020,2707 1097,2710 1174,2710 1251,2715 1328,2716 1405,2716 1482,2716 1559,2716 1636,2717 1713,2716 1790,2718 1867,2718 1944,2719 2021,2716 2098,2719 2176,2716" />
+                <TextEquiv>
+                    <Unicode>others have asserted to the contrary; but later and more accurate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:3;}">
+                <Coords points="617,2792 2182,2815 2182,2763 2079,2745 617,2737" />
+                <Baseline points="629,2785 711,2785 793,2787 875,2785 957,2788 1039,2791 1121,2791 1203,2794 1285,2794 1367,2794 1449,2795 1531,2797 1613,2797 1695,2795 1777,2796 1859,2796 1941,2795 2023,2797 2105,2800 2188,2800" />
+                <TextEquiv>
+                    <Unicode>experiments have decided that the pulse is not in the least</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:4;}">
+                <Coords points="621,2886 2173,2895 2173,2825 2003,2808 621,2821" />
+                <Baseline points="632,2869 709,2866 786,2866 863,2866 940,2869 1018,2869 1095,2869 1172,2872 1249,2871 1326,2872 1404,2874 1481,2872 1558,2875 1635,2875 1712,2875 1790,2872 1867,2877 1944,2875 2021,2875 2098,2872 2176,2869" />
+                <TextEquiv>
+                    <Unicode>influenced either by negative or positive electricity. Mr. Wilkinson,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:5;}">
+                <Coords points="623,2978 2032,2958 2176,2999 2175,2895 621,2888" />
+                <Baseline points="632,2943 709,2945 786,2946 864,2946 941,2946 1018,2949 1096,2946 1173,2946 1250,2951 1328,2951 1405,2950 1482,2952 1560,2952 1637,2952 1714,2952 1792,2952 1869,2955 1946,2955 2024,2955 2101,2955 2179,2952" />
+                <TextEquiv>
+                    <Unicode>from repeated trials, never observed any increase in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:6;}">
+                <Coords points="621,3071 1889,3063 1889,2985 1747,2970 621,2974" />
+                <Baseline points="632,3021 695,3024 758,3026 821,3024 884,3026 947,3027 1010,3027 1073,3030 1136,3028 1199,3030 1262,3027 1325,3031 1388,3033 1451,3031 1514,3033 1577,3033 1640,3033 1703,3030 1766,3034 1829,3036 1892,3033" />
+                <TextEquiv>
+                    <Unicode>circulation, See Note to page 199. on this subject.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:7;}">
+                <Coords points="1962,3114 2018,3114 2057,3136 2106,3126 2137,3146 2176,3146 2173,3032 2135,3052 2124,3044 2106,3050 2063,3030 2044,3050 2022,3028 1960,3030" />
+                <Baseline points="1973,3104 1998,3104 2024,3104 2050,3106 2076,3107 2101,3107 2127,3108 2153,3110 2179,3110" />
+                <TextEquiv>
+                    <Unicode>exists,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

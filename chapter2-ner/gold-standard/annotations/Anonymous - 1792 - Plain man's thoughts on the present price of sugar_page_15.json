@@ -1,0 +1,70 @@
+{
+  "doc_id": "Anonymous - 1792 - Plain man's thoughts on the present price of sugar_page_15.xml",
+  "text": "[ 11 ]\nto act consistently, to return to the unpolished and\nuncomfortable state of their savage ancestors. On\nthis occasion it has indeed been shrewdly suggested,\nthat conscience and worldly prudence are for once\nbrought to go hand in hand: so that the man who\nin reality grudges his family the expence of sugar,\nenjoys a snug opportunity of hiding his parsimony\nunder the specious and popular cloak of humanity.\nBut, for my own part, I will continue to suppose,\nthat much the greater part of our present philanthropists\nare actuated by purer motives. Let that,\nhowever, be as it may, as their superior feelings\nurge them so strongly to shake off every convenience\nof life, which in the slightest degree partakes\nof the essence of slavery, the Rights of Man most\ncertainly leaves them at liberty to follow their own\ninclinations, not only in leaving off the use of Sugar,\nbut likewise in making bonfires of their mahogany\nchairs and tables, and lighting them up\nwith the cotton paraphernalia of their wives and\ndaughters; and even in emptying their bags of\ngold and silver into the sea. And, in fact, until\nthese tender-hearted Anti-saccharites have brought\nthemselves to this enviable pitch of self-denial, they\ncan have no right to expect credit from the world,\neither for their sincerity or their consistency.\nC 2\nSUGAR",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 306,
+      "end": 311,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_7"
+    },
+    {
+      "id": "e2",
+      "start": 865,
+      "end": 870,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "id": "e3",
+      "start": 913,
+      "end": 921,
+      "label": "COMMODITY",
+      "text": "mahogany",
+      "line_id": "tr_1_tl_19"
+    },
+    {
+      "id": "e4",
+      "start": 971,
+      "end": 977,
+      "label": "COMMODITY",
+      "text": "cotton",
+      "line_id": "tr_1_tl_21"
+    },
+    {
+      "id": "e5",
+      "start": 1057,
+      "end": 1061,
+      "label": "COMMODITY",
+      "text": "gold",
+      "line_id": "tr_1_tl_23"
+    },
+    {
+      "id": "e6",
+      "start": 1066,
+      "end": 1072,
+      "label": "COMMODITY",
+      "text": "silver",
+      "line_id": "tr_1_tl_23"
+    },
+    {
+      "id": "e3",
+      "start": 1317,
+      "end": 1322,
+      "label": "COMMODITY",
+      "text": "SUGAR",
+      "line_id": "tr_1_tl_28"
+    },
+    {
+      "start": 1186,
+      "end": 1191,
+      "text": "pitch",
+      "label": "COMMODITY",
+      "id": "e7",
+      "line_id": "augmented"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:45:09.613+02:00</Created>
+        <LastChange>2025-10-27T17:55:45.126+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051476" pageNr="83" tsid="258989811" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=HXPKSLKQIDPPNPBSJKNGZQWT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEIEBGKECGSCQCXTTLBLMYEE" imageId="87046306" />
+    </Metadata>
+    <Page imageFilename="11168119_0083_104051476.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586548934" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_2" />
+                <RegionRefIndexed index="2" regionRef="tr_1" />
+                <RegionRefIndexed index="3" regionRef="r_1" />
+                <RegionRefIndexed index="4" regionRef="tr_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="739,369 1452,376 1448,445 736,439" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="731,434 1091,453 1458,434 1447,370 731,367" />
+                <Baseline points="740,420 776,420 812,420 848,421 884,422 920,420 956,422 992,423 1028,423 1064,423 1101,423 1137,420 1173,420 1209,419 1245,417 1281,417 1317,420 1353,420 1389,421 1425,423 1462,423" />
+                <TextEquiv>
+                    <Unicode>of the Iland of Barbadoes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1868,395 1954,400 1958,463 1868,463" />
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1857,492 1871,487 1892,489 1895,485 1950,487 1947,389 1923,386 1900,393 1890,384 1871,400 1856,403" />
+                <Baseline points="1865,450 1894,448 1923,449 1952,453" />
+                <TextEquiv>
+                    <Unicode>33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="428,476 401,3010 1778,3046 1794,467" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="425,521 1784,527 1784,432 425,437" />
+                <Baseline points="435,510 502,510 570,510 637,510 705,507 773,510 840,507 908,507 976,507 1043,507 1111,507 1179,507 1246,507 1314,509 1382,510 1449,510 1517,513 1585,512 1652,513 1720,513 1788,513" />
+                <TextEquiv>
+                    <Unicode>a gallon, the people drink much of it, indeed too much; for it often</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="424,568 1778,580 1777,525 422,525" />
+                <Baseline points="432,558 499,558 567,558 634,558 702,558 769,558 837,558 904,556 972,555 1039,558 1107,558 1174,556 1242,555 1309,558 1377,561 1444,561 1512,561 1579,561 1647,564 1714,566 1782,564" />
+                <TextEquiv>
+                    <Unicode>layes them asleep on the ground, and that is accounted a very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="425,647 475,616 571,623 593,614 624,629 653,614 671,628 686,621 708,631 708,566 561,573 528,564 478,583 460,568 425,578" />
+                <Baseline points="435,606 460,606 485,606 510,606 536,606 561,606 586,606 611,606 637,606 662,606 687,608 713,609" />
+                <TextEquiv>
+                    <Unicode>unwholsome lodging.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="480,669 1784,671 1768,607 480,617" />
+                <Baseline points="489,653 557,653 625,653 694,656 762,653 830,653 899,653 967,653 1035,653 1104,651 1172,653 1241,653 1309,653 1377,655 1446,657 1514,656 1582,656 1651,656 1719,660 1788,665" />
+                <TextEquiv>
+                    <Unicode>The eighth sort of drink is Beveridge, made of spring water, white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="417,713 647,753 1775,720 1775,671 1720,664 417,660" />
+                <Baseline points="426,707 493,707 561,707 628,706 696,707 764,706 831,707 899,707 967,707 1034,707 1102,704 1170,704 1237,704 1305,706 1373,707 1440,709 1508,710 1576,710 1643,710 1711,710 1779,713" />
+                <TextEquiv>
+                    <Unicode>sugar, and juyce of Orenges, and this is not onely pleasant but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="422,765 487,765 509,758 516,763 542,763 542,722 528,717 521,724 496,722 472,732 449,713 422,713" />
+                <Baseline points="432,755 460,753 489,753 517,755 546,755" />
+                <TextEquiv>
+                    <Unicode>wholsome.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="480,809 1778,820 1748,748 480,763" />
+                <Baseline points="489,800 553,801 618,800 682,802 747,800 812,800 876,800 941,803 1006,800 1070,803 1135,801 1200,800 1264,800 1329,802 1394,803 1458,805 1523,806 1588,806 1652,809 1717,809 1782,806" />
+                <TextEquiv>
+                    <Unicode>The last and best sort of drinke that this Iland or the world affords,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="413,870 1552,882 1778,868 1778,825 412,827" />
+                <Baseline points="423,847 494,850 566,850 637,848 709,849 780,850 852,850 923,850 995,849 1066,848 1138,850 1209,847 1281,847 1352,850 1424,851 1495,853 1567,855 1638,856 1710,856 1782,859" />
+                <TextEquiv>
+                    <Unicode>is the incomparable wine of Pines; And is certainly the Nectar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="422,909 1784,916 1749,864 422,864" />
+                <Baseline points="432,901 499,901 567,898 635,898 703,898 771,900 838,901 906,901 974,901 1042,901 1110,901 1177,899 1245,898 1313,898 1381,899 1449,901 1516,901 1584,903 1652,905 1720,905 1788,907" />
+                <TextEquiv>
+                    <Unicode>which the Gods drunke; for on earth there is none like it; and that is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="413,960 1780,964 1780,918 1658,906 413,916" />
+                <Baseline points="423,946 491,949 559,946 627,949 695,949 763,948 831,949 899,949 967,946 1035,948 1104,948 1172,946 1240,946 1308,946 1376,949 1444,949 1512,950 1580,950 1648,952 1716,952 1785,955" />
+                <TextEquiv>
+                    <Unicode>made of the pure juyce of the fruit it selfe, without commixture of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="417,1007 1784,1014 1754,962 417,966" />
+                <Baseline points="426,994 494,997 562,997 630,997 698,997 766,997 834,997 902,997 970,997 1038,997 1107,997 1175,997 1243,997 1311,997 1379,999 1447,997 1515,1000 1583,1000 1651,1002 1719,1003 1788,1003" />
+                <TextEquiv>
+                    <Unicode>water, or any other creature, having in it selfe, a naturall compound</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="410,1051 1789,1062 1758,1010 410,1014" />
+                <Baseline points="420,1044 488,1044 557,1044 625,1044 694,1044 762,1044 831,1044 899,1044 968,1044 1036,1044 1105,1045 1174,1045 1242,1044 1311,1044 1379,1047 1448,1044 1516,1047 1585,1047 1653,1050 1722,1050 1791,1050" />
+                <TextEquiv>
+                    <Unicode>of all tastes excellent, that the world can yield. This drink is too</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="420,1113 1790,1111 1760,1056 1425,1044 420,1068" />
+                <Baseline points="429,1092 497,1095 565,1095 633,1095 702,1095 770,1093 838,1095 906,1095 975,1092 1043,1092 1111,1092 1179,1092 1248,1091 1316,1091 1384,1093 1452,1092 1521,1095 1589,1095 1657,1098 1725,1098 1794,1098" />
+                <TextEquiv>
+                    <Unicode>pure to keep long; in three or four dayes it will be fine; 'tis made</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="417,1156 592,1192 1772,1159 1772,1116 1588,1098 417,1111" />
+                <Baseline points="426,1143 493,1144 561,1143 628,1143 696,1143 763,1142 831,1143 898,1143 966,1143 1033,1143 1101,1143 1168,1141 1236,1140 1303,1143 1371,1143 1438,1143 1506,1146 1573,1146 1641,1149 1708,1149 1776,1152" />
+                <TextEquiv>
+                    <Unicode>by pressing the fruite and strayning the liquor, and it is kept in bottles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="417,1200 437,1204 463,1200 468,1206 480,1199 509,1202 509,1173 501,1173 487,1163 484,1166 456,1164 442,1154 415,1156" />
+                <Baseline points="426,1191 455,1191 484,1192 513,1194" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="456,1245 1772,1257 1758,1188 456,1202" />
+                <Baseline points="465,1238 530,1241 596,1244 661,1243 727,1241 792,1241 858,1241 923,1241 989,1239 1054,1238 1120,1239 1186,1238 1251,1239 1317,1241 1382,1238 1448,1241 1513,1241 1579,1244 1644,1244 1710,1246 1776,1247" />
+                <TextEquiv>
+                    <Unicode>Having given you a taste of the Bread, and Drinke this Iland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="410,1295 1775,1298 1775,1255 410,1235" />
+                <Baseline points="420,1289 491,1287 563,1288 634,1286 706,1286 777,1286 849,1285 920,1286 992,1286 1063,1286 1135,1283 1206,1283 1278,1283 1349,1286 1421,1286 1492,1286 1564,1288 1635,1289 1707,1291 1779,1295" />
+                <TextEquiv>
+                    <Unicode>affords, which will serve any mans palate, that is not over curious; I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="408,1353 1780,1350 1751,1295 408,1303" />
+                <Baseline points="417,1340 485,1340 553,1337 622,1340 690,1337 759,1337 827,1337 895,1337 964,1334 1032,1334 1101,1337 1169,1335 1237,1334 1306,1334 1374,1335 1443,1337 1511,1337 1579,1340 1648,1340 1716,1343 1785,1343" />
+                <TextEquiv>
+                    <Unicode>could tell you what we have of both sorts that is brought to us from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="408,1408 1775,1399 1775,1351 408,1355" />
+                <Baseline points="417,1388 485,1386 553,1388 621,1386 689,1388 757,1385 825,1385 893,1385 961,1385 1029,1385 1098,1384 1166,1382 1234,1383 1302,1385 1370,1385 1438,1387 1506,1388 1574,1388 1642,1389 1710,1391 1779,1391" />
+                <TextEquiv>
+                    <Unicode>other parts of the world; as Biskets, both fine and course, Barrels of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="410,1446 1775,1442 1775,1398 410,1408" />
+                <Baseline points="420,1436 491,1436 563,1433 634,1433 706,1435 777,1433 849,1433 920,1433 992,1431 1063,1430 1135,1427 1206,1430 1278,1430 1349,1430 1421,1433 1492,1433 1564,1434 1635,1436 1707,1435 1779,1436" />
+                <TextEquiv>
+                    <Unicode>meale close put up; which comes to us very sweet from England, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="408,1492 1775,1504 1737,1442 408,1446" />
+                <Baseline points="417,1483 485,1483 553,1483 621,1483 689,1483 757,1483 825,1483 893,1483 961,1480 1029,1480 1098,1480 1166,1480 1234,1480 1302,1480 1370,1480 1438,1482 1506,1483 1574,1483 1642,1486 1710,1483 1779,1489" />
+                <TextEquiv>
+                    <Unicode>Holland; of which we make Bread, Pye-crust, and Puddings. And for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="408,1540 1775,1547 1775,1504 1696,1492 408,1490" />
+                <Baseline points="417,1531 485,1531 553,1531 621,1533 689,1534 757,1532 825,1531 893,1531 961,1528 1029,1530 1098,1528 1166,1528 1234,1528 1302,1528 1370,1528 1438,1528 1506,1531 1574,1531 1642,1534 1710,1534 1779,1534" />
+                <TextEquiv>
+                    <Unicode>drink good English Beer, French and Spanish Wines, with others, some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="403,1605 1773,1595 1746,1545 403,1545" />
+                <Baseline points="412,1582 480,1582 548,1582 616,1581 684,1582 753,1582 821,1582 889,1579 957,1579 1025,1577 1094,1576 1162,1576 1230,1576 1298,1578 1366,1579 1435,1579 1503,1579 1571,1579 1639,1579 1707,1582 1776,1585" />
+                <TextEquiv>
+                    <Unicode>from the Maderas, some from Fiall, one of the Ilands of Asores; So we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="405,1641 1772,1641 1772,1595 405,1605" />
+                <Baseline points="414,1627 482,1630 550,1627 618,1629 686,1627 754,1628 822,1627 890,1627 958,1627 1026,1624 1095,1624 1163,1624 1231,1627 1299,1625 1367,1627 1435,1627 1503,1628 1571,1630 1639,1630 1707,1630 1776,1633" />
+                <TextEquiv>
+                    <Unicode>cannot justly complaine of want, either of bread or drink, and, from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="405,1686 1772,1693 1760,1638 405,1640" />
+                <Baseline points="414,1674 482,1677 550,1677 618,1677 686,1677 754,1677 822,1677 890,1674 958,1674 1026,1671 1095,1671 1163,1671 1231,1671 1299,1671 1367,1674 1435,1674 1503,1674 1571,1674 1639,1676 1707,1674 1776,1683" />
+                <TextEquiv>
+                    <Unicode>England, spirits, some of Anniseeds, some of Mint, some of Wormwood,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="405,1741 1766,1742 1766,1691 1518,1677 405,1686" />
+                <Baseline points="414,1728 481,1728 549,1725 617,1725 685,1725 753,1725 820,1725 888,1725 956,1725 1024,1722 1092,1722 1159,1722 1227,1719 1295,1722 1363,1723 1431,1725 1498,1725 1566,1725 1634,1728 1702,1728 1770,1728" />
+                <TextEquiv>
+                    <Unicode>&amp;c. And from France, Brandy, which is extreame strong, but accounted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="400,1782 490,1772 547,1780 563,1796 581,1777 671,1778 767,1797 801,1784 803,1736 629,1734 585,1749 516,1746 494,1729 401,1739" />
+                <Baseline points="409,1773 435,1773 461,1772 487,1771 514,1770 540,1770 566,1770 592,1770 619,1772 645,1773 671,1773 697,1772 724,1770 750,1770 776,1771 803,1773" />
+                <TextEquiv>
+                    <Unicode>very wholsome.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="456,1833 1772,1832 1772,1778 456,1780" />
+                <Baseline points="465,1824 530,1824 596,1827 661,1827 727,1824 792,1824 858,1822 923,1820 989,1818 1054,1818 1120,1821 1186,1821 1251,1819 1317,1818 1382,1821 1448,1818 1513,1818 1579,1818 1644,1819 1710,1821 1776,1827" />
+                <TextEquiv>
+                    <Unicode>Having given you a just account, as neere as my memory will serve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="403,1878 1760,1883 1749,1832 403,1835" />
+                <Baseline points="412,1871 479,1872 547,1871 614,1871 682,1874 750,1871 817,1871 885,1868 952,1871 1020,1868 1088,1871 1155,1866 1223,1868 1290,1870 1358,1868 1425,1868 1493,1868 1561,1871 1628,1871 1696,1873 1764,1874" />
+                <TextEquiv>
+                    <Unicode>of the bread and drinke of this Iland: The next thing is the several</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="403,1941 1766,1933 1766,1883 403,1878" />
+                <Baseline points="412,1922 479,1920 547,1919 615,1920 683,1922 751,1919 819,1919 887,1919 955,1916 1023,1916 1091,1915 1158,1913 1226,1916 1294,1918 1362,1918 1430,1916 1498,1916 1566,1918 1634,1919 1702,1919 1770,1922" />
+                <TextEquiv>
+                    <Unicode>sortes of meat we have there; and because Hogges flesh is the most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="405,1995 1763,1979 1763,1929 405,1941" />
+                <Baseline points="414,1979 481,1970 549,1970 616,1972 684,1970 752,1970 819,1970 887,1967 955,1967 1022,1964 1090,1964 1158,1967 1225,1967 1293,1967 1361,1967 1428,1967 1496,1967 1564,1967 1631,1967 1699,1970 1767,1967" />
+                <TextEquiv>
+                    <Unicode>generall meat, and indeed the best the Iland affords, I will begin with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="405,2027 1766,2027 1766,1988 405,1993" />
+                <Baseline points="414,2021 481,2018 549,2018 617,2018 685,2018 753,2018 820,2018 888,2018 956,2015 1024,2015 1092,2015 1159,2015 1227,2015 1295,2015 1363,2015 1431,2015 1498,2015 1566,2017 1634,2016 1702,2018 1770,2021" />
+                <TextEquiv>
+                    <Unicode>that, which is (without question) as good, as any can be of that kind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:32;}">
+                <Coords points="405,2089 1772,2080 1753,2025 405,2029" />
+                <Baseline points="414,2068 482,2065 550,2065 618,2065 686,2067 754,2065 822,2065 890,2067 958,2065 1026,2065 1095,2065 1163,2064 1231,2063 1299,2064 1367,2063 1435,2064 1503,2065 1571,2065 1639,2065 1707,2065 1776,2065" />
+                <TextEquiv>
+                    <Unicode>for their feeding being as good, as can grow any where, the flesh must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:33;}">
+                <Coords points="403,2132 1760,2133 1760,2077 403,2092" />
+                <Baseline points="412,2116 479,2116 547,2116 614,2118 682,2116 750,2116 817,2116 885,2115 952,2113 1020,2113 1088,2113 1155,2113 1223,2113 1290,2113 1358,2116 1425,2115 1493,2113 1561,2116 1628,2116 1696,2116 1764,2119" />
+                <TextEquiv>
+                    <Unicode>needs be answerable; fruit, the nuts of Locust, Pompians of a rare kind,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:34;}">
+                <Coords points="400,2180 1770,2181 1724,2125 400,2145" />
+                <Baseline points="409,2164 477,2167 545,2167 613,2167 681,2167 750,2167 818,2164 886,2166 954,2164 1022,2164 1091,2163 1159,2163 1227,2164 1295,2164 1363,2164 1432,2164 1500,2166 1568,2167 1636,2164 1704,2167 1773,2167" />
+                <TextEquiv>
+                    <Unicode>almost as sweet as Milions, the bodies of the Plantines, and Bonanoes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:35;}">
+                <Coords points="396,2226 1333,2224 1319,2171 396,2176" />
+                <Baseline points="406,2215 452,2215 499,2215 545,2215 592,2215 638,2215 685,2215 731,2215 778,2215 824,2214 871,2212 918,2212 964,2212 1011,2212 1057,2212 1104,2212 1150,2212 1197,2212 1243,2212 1290,2212 1337,2215" />
+                <TextEquiv>
+                    <Unicode>Sugar-canes, and Mayes, being their dayly food.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:36;}">
+                <Coords points="456,2269 1766,2278 1739,2217 456,2233" />
+                <Baseline points="465,2260 530,2261 595,2263 660,2263 726,2263 791,2263 856,2263 921,2263 987,2261 1052,2260 1117,2260 1182,2263 1248,2260 1313,2260 1378,2260 1443,2260 1509,2258 1574,2260 1639,2260 1704,2260 1770,2263" />
+                <TextEquiv>
+                    <Unicode>When we came first upon the Iland, I perceiv'd the sties they made</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:37;}">
+                <Coords points="396,2312 1763,2324 1763,2279 1706,2272 396,2284" />
+                <Baseline points="406,2310 474,2313 542,2313 610,2313 678,2310 746,2310 814,2310 882,2310 950,2310 1018,2310 1086,2307 1154,2307 1222,2308 1290,2310 1358,2310 1426,2310 1494,2310 1562,2310 1630,2310 1698,2310 1767,2310" />
+                <TextEquiv>
+                    <Unicode>to hold them, were trees, with the ends lying crosse upon one another,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:38;}">
+                <Coords points="403,2380 1766,2372 1742,2319 1597,2315 403,2339" />
+                <Baseline points="412,2361 479,2361 547,2361 615,2363 683,2361 751,2358 819,2360 887,2358 955,2358 1023,2358 1091,2358 1158,2356 1226,2358 1294,2360 1362,2358 1430,2358 1498,2358 1566,2358 1634,2361 1702,2359 1770,2358" />
+                <TextEquiv>
+                    <Unicode>and the inclosure they made, was not large enough to hold the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:39;}">
+                <Coords points="400,2428 1763,2428 1722,2367 400,2380" />
+                <Baseline points="409,2409 476,2412 544,2412 612,2412 680,2412 748,2409 816,2409 884,2408 952,2406 1020,2406 1088,2406 1155,2406 1223,2408 1291,2406 1359,2406 1427,2406 1495,2406 1563,2406 1631,2407 1699,2409 1767,2409" />
+                <TextEquiv>
+                    <Unicode>numbers of Hogges were in them, with convenient distance to play</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:40;}">
+                <Coords points="396,2463 1766,2468 1766,2427 1598,2413 396,2423" />
+                <Baseline points="406,2460 474,2460 542,2460 610,2460 678,2460 747,2460 815,2457 883,2457 951,2457 1019,2457 1088,2455 1156,2457 1224,2457 1292,2457 1360,2455 1429,2457 1497,2455 1565,2454 1633,2457 1701,2457 1770,2460" />
+                <TextEquiv>
+                    <Unicode>and stirre themselves for their health, and pleasure; so that they were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:41;}">
+                <Coords points="405,2519 1763,2514 1763,2468 405,2471" />
+                <Baseline points="414,2510 481,2507 549,2509 616,2507 684,2509 752,2507 819,2507 887,2507 955,2507 1022,2504 1090,2504 1158,2504 1225,2504 1293,2502 1361,2501 1428,2504 1496,2504 1564,2504 1631,2504 1699,2504 1767,2504" />
+                <TextEquiv>
+                    <Unicode>in a manner pesterd, and choakt up, with their own stinke, which is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:42;}">
+                <Coords points="405,2566 1758,2560 1758,2514 405,2519" />
+                <Baseline points="414,2558 481,2556 548,2558 616,2558 683,2558 750,2556 818,2555 885,2555 952,2555 1020,2555 1087,2552 1154,2552 1222,2555 1289,2554 1356,2552 1424,2552 1491,2552 1558,2552 1626,2552 1693,2552 1761,2552" />
+                <TextEquiv>
+                    <Unicode>sure the most noysome of any other beast, and by reason of the Suns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:43;}">
+                <Coords points="400,2615 1756,2610 1756,2562 400,2572" />
+                <Baseline points="409,2603 476,2606 544,2606 611,2606 679,2606 747,2606 814,2603 882,2603 949,2603 1017,2603 1085,2600 1152,2603 1220,2600 1287,2600 1355,2600 1422,2600 1490,2603 1558,2603 1625,2603 1693,2603 1761,2603" />
+                <TextEquiv>
+                    <Unicode>heat much worse ; I have smelt the stinke of one of those sties downe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:44;}">
+                <Coords points="396,2665 1758,2660 1758,2612 396,2631" />
+                <Baseline points="406,2654 473,2654 541,2656 609,2657 677,2655 744,2654 812,2654 880,2654 948,2651 1015,2653 1083,2651 1151,2651 1219,2651 1286,2650 1354,2651 1422,2649 1490,2648 1557,2651 1625,2651 1693,2649 1761,2648" />
+                <TextEquiv>
+                    <Unicode>the wind, neer a mile, through all the wood: and the crouding and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:45;}">
+                <Coords points="396,2703 1758,2715 1734,2662 396,2665" />
+                <Baseline points="406,2701 473,2704 541,2704 609,2706 677,2704 744,2704 812,2701 880,2701 948,2701 1015,2701 1083,2701 1151,2699 1219,2698 1286,2698 1354,2700 1422,2698 1490,2698 1557,2698 1625,2698 1693,2698 1761,2701" />
+                <TextEquiv>
+                    <Unicode>thrusting them so close together, was certainly the cause of their want</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:46;}">
+                <Coords points="391,2761 1756,2763 1736,2706 391,2732" />
+                <Baseline points="400,2749 468,2752 536,2754 604,2755 672,2752 740,2752 808,2752 876,2751 944,2749 1012,2749 1080,2749 1148,2749 1216,2749 1284,2749 1352,2746 1420,2748 1488,2749 1556,2746 1624,2746 1692,2748 1761,2746" />
+                <TextEquiv>
+                    <Unicode>of health, which much hindred their growth; So that they were neither</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:47;}">
+                <Coords points="396,2806 1751,2804 1741,2754 396,2765" />
+                <Baseline points="406,2800 473,2800 540,2803 608,2803 675,2803 743,2803 810,2803 878,2802 945,2800 1013,2799 1080,2800 1147,2800 1215,2800 1282,2800 1350,2800 1417,2799 1485,2797 1552,2797 1620,2797 1687,2797 1755,2794" />
+                <TextEquiv>
+                    <Unicode>so large, nor their flesh so sweet, as when they were wild, and at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:48;}">
+                <Coords points="403,2861 1199,2867 1199,2811 403,2809" />
+                <Baseline points="412,2848 451,2851 491,2851 530,2853 570,2854 609,2853 649,2851 688,2851 728,2851 767,2851 807,2851 847,2851 886,2851 926,2850 965,2848 1005,2848 1044,2848 1084,2848 1123,2848 1163,2850 1203,2851" />
+                <TextEquiv>
+                    <Unicode>their own liberty, and choyce of feeding.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:49;}">
+                <Coords points="446,2912 1765,2912 1765,2845 446,2861" />
+                <Baseline points="456,2895 521,2898 587,2901 652,2898 718,2898 783,2898 849,2898 914,2897 980,2895 1045,2895 1111,2897 1177,2898 1242,2895 1308,2895 1373,2895 1439,2895 1504,2894 1570,2892 1635,2892 1701,2892 1767,2901" />
+                <TextEquiv>
+                    <Unicode>For I have heard Major Hilliard say: that at their first comming</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_52" custom="readingOrder {index:50;}">
+                <Coords points="396,2962 1754,2952 1696,2900 521,2929 396,2895" />
+                <Baseline points="406,2946 473,2949 541,2949 608,2948 676,2949 744,2949 811,2949 879,2947 946,2946 1014,2946 1082,2946 1149,2946 1217,2946 1284,2945 1352,2943 1419,2943 1487,2943 1555,2942 1622,2943 1690,2940 1758,2943" />
+                <TextEquiv>
+                    <Unicode>there, they found Hogges, that one of them weighed (the intrals being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_53" custom="readingOrder {index:51;}">
+                <Coords points="396,3005 473,3036 1772,3003 1772,2948 396,2962" />
+                <Baseline points="406,3000 474,2997 543,2997 611,3000 680,2997 748,2997 817,2997 885,2997 954,2997 1022,2997 1091,2995 1159,2995 1228,2995 1296,2994 1365,2994 1433,2994 1502,2994 1570,2994 1639,2991 1707,2991 1776,2991" />
+                <TextEquiv>
+                    <Unicode>taken out, and the head off) 400 weight. And now at the time of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_54" custom="readingOrder {index:52;}">
+                <Coords points="1676,3075 1693,3072 1698,3075 1722,3072 1727,3077 1737,3077 1742,3072 1765,3075 1768,3001 1739,3008 1724,3005 1717,3012 1708,3003 1679,3000" />
+                <Baseline points="1686,3039 1714,3039 1742,3038 1770,3036" />
+                <TextEquiv>
+                    <Unicode>my</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:footer;}">
+            <Coords points="1025,3005 1085,3005 1085,3063 1025,3063" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1031,3054 1078,3052 1077,3022 1030,3024" />
+                <Baseline points="1031,3054 1078,3052" />
+                <TextEquiv>
+                    <Unicode>K</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:4;} structure {type:marginalia;}">
+            <Coords points="1804,481 1800,1909 2006,1909 2022,474" />
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1809,689 1835,683 1852,665 1878,683 1905,676 1912,683 1957,688 1996,667 1995,609 1967,607 1957,597 1943,611 1902,614 1892,624 1873,609 1808,609" />
+                <Baseline points="1818,656 1844,656 1870,656 1896,656 1922,656 1948,656 1974,657 2000,659" />
+                <TextEquiv>
+                    <Unicode>Beveridge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="1801,839 1811,839 1833,818 1850,833 1859,827 1868,832 1873,825 1893,830 1904,825 1926,840 1943,833 1941,770 1921,763 1911,767 1905,761 1849,768 1837,761 1823,777 1797,785" />
+                <Baseline points="1809,809 1836,811 1863,813 1891,815 1918,815 1946,812" />
+                <TextEquiv>
+                    <Unicode>Wine of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1809,883 1830,880 1838,871 1864,890 1876,887 1885,892 1900,876 1907,883 1921,882 1919,828 1907,828 1902,835 1890,832 1885,839 1866,839 1840,828 1808,830" />
+                <Baseline points="1818,862 1844,862 1871,862 1898,862 1925,865" />
+                <TextEquiv>
+                    <Unicode>Pines.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1797,1852 1828,1852 1847,1864 1857,1856 1888,1859 1917,1883 1938,1880 1950,1868 2003,1880 2000,1799 1979,1806 1935,1794 1924,1804 1892,1808 1857,1797 1797,1808" />
+                <Baseline points="1806,1845 1831,1845 1856,1845 1881,1847 1906,1848 1931,1848 1956,1849 1981,1851 2006,1848" />
+                <TextEquiv>
+                    <Unicode>Meat of all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1794,1917 1811,1923 1820,1917 1830,1923 1840,1911 1856,1923 1871,1916 1892,1926 1907,1923 1902,1864 1883,1859 1869,1859 1864,1866 1861,1862 1847,1864 1832,1852 1820,1857 1804,1852 1797,1861 1789,1862" />
+                <Baseline points="1800,1889 1827,1893 1855,1896 1882,1898 1910,1898" />
+                <TextEquiv>
+                    <Unicode>kinds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

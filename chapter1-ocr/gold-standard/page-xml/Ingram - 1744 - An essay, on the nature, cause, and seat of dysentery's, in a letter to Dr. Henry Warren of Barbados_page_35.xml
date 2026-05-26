@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:45.103+02:00</Created>
+        <LastChange>2025-10-16T20:05:19.365+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051464" pageNr="69" tsid="258144198" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=HHKOQAOWYQSTOZZBNZZMOADH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OIKFWMGIXKIRDDLHKKUFPIJB" imageId="87046281" />
+    </Metadata>
+    <Page imageFilename="11168119_0069_104051464.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586546394" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1031,224 1344,224 1344,380 1031,380" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1107,350 1135,350 1151,338 1187,348 1208,338 1220,348 1248,350 1292,384 1310,388 1302,294 1252,284 1212,260 1189,280 1171,272 1159,284 1111,246 1099,248" />
+                <Baseline points="1116,334 1143,332 1171,331 1199,331 1226,332 1254,335 1282,345 1310,352" />
+                <TextEquiv>
+                    <Unicode>[ 21 ]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="400,421 380,3513 2033,3510 2010,433" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="403,564 668,501 883,523 946,580 1099,505 1980,551 1980,405 1652,475 1377,413 403,465" />
+                <Baseline points="414,510 492,507 571,504 649,503 728,501 806,501 885,502 963,501 1042,504 1120,504 1199,506 1278,507 1356,507 1435,504 1513,501 1592,504 1670,504 1749,507 1827,510 1906,510 1985,519" />
+                <TextEquiv>
+                    <Unicode>comes to be removed, it flowes copiously</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="413,682 2000,674 2000,586 1892,632 1189,624 1149,584 1073,624 978,588 413,624" />
+                <Baseline points="423,668 502,665 581,663 660,662 739,662 818,662 897,662 976,662 1055,665 1134,668 1213,670 1292,670 1371,668 1450,665 1529,667 1608,666 1687,668 1766,668 1845,671 1924,674 2003,671" />
+                <TextEquiv>
+                    <Unicode>into the Bowels, insomuch that in some of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="409,847 1998,841 1996,779 1823,807 1729,753 1250,787 407,751" />
+                <Baseline points="420,826 499,824 578,824 657,824 736,824 815,822 894,824 974,821 1053,824 1132,829 1211,832 1290,832 1369,826 1448,826 1528,827 1607,829 1686,829 1765,829 1844,829 1923,828 2003,824" />
+                <TextEquiv>
+                    <Unicode>the first Days we generally find the new</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="409,982 1340,988 1534,1071 1733,998 2006,998 1986,918 1513,948 1391,894 1061,964 966,910 409,924" />
+                <Baseline points="420,982 499,984 578,985 658,985 737,985 817,982 896,985 976,986 1055,988 1135,988 1214,988 1293,987 1373,988 1452,985 1532,988 1611,988 1691,991 1770,991 1850,991 1929,988 2009,991" />
+                <TextEquiv>
+                    <Unicode>born Babe to be much Griped, and have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="415,1161 1046,1155 1137,1210 1238,1155 1399,1153 1453,1208 1538,1157 1868,1157 1994,1254 2010,1087 413,1083" />
+                <Baseline points="423,1146 502,1144 582,1143 661,1142 741,1143 821,1146 900,1145 980,1148 1059,1146 1139,1146 1219,1146 1298,1147 1378,1149 1457,1146 1537,1149 1617,1149 1696,1151 1776,1152 1855,1152 1935,1150 2015,1155" />
+                <TextEquiv>
+                    <Unicode>frequently greenish Bilious Stooles, (called</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="407,1314 1141,1316 1358,1397 1656,1312 1998,1308 1966,1250 1847,1242 1638,1286 1360,1226 1246,1264 1137,1220 920,1262 407,1236" />
+                <Baseline points="417,1301 496,1301 575,1301 654,1301 734,1304 813,1305 892,1304 972,1304 1051,1307 1130,1307 1210,1307 1289,1307 1368,1307 1447,1307 1527,1307 1606,1305 1685,1307 1765,1307 1844,1310 1923,1308 2003,1310" />
+                <TextEquiv>
+                    <Unicode>by Nurses Loosness) which are owing to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="415,1465 600,1505 1232,1471 1362,1586 1976,1519 1976,1407 1936,1391 415,1421" />
+                <Baseline points="426,1465 503,1462 581,1462 659,1462 737,1462 815,1462 892,1463 970,1465 1048,1465 1126,1468 1204,1471 1281,1471 1359,1471 1437,1469 1515,1470 1593,1468 1670,1471 1748,1473 1826,1474 1904,1474 1982,1471" />
+                <TextEquiv>
+                    <Unicode>the great irritation of that stimulating Liquor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="415,1660 465,1688 505,1668 553,1715 632,1731 696,1699 731,1729 751,1713 817,1725 932,1668 932,1578 875,1550 714,1578 576,1521 529,1568 467,1560 415,1586" />
+                <Baseline points="426,1627 451,1625 477,1624 502,1626 528,1626 553,1625 579,1624 604,1624 630,1624 655,1624 681,1624 707,1624 732,1624 758,1625 783,1627 809,1625 834,1624 860,1626 885,1628 911,1629 937,1636" />
+                <TextEquiv>
+                    <Unicode>the Bile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="501,1821 857,1870 946,1827 1024,1904 1246,1938 1437,1833 2010,1858 1988,1743 1892,1783 1350,1749 1270,1797 1119,1743 501,1757" />
+                <Baseline points="513,1818 588,1815 663,1818 738,1818 813,1819 888,1821 963,1821 1038,1824 1113,1825 1188,1821 1264,1826 1339,1825 1414,1827 1489,1829 1564,1830 1639,1830 1714,1830 1789,1834 1864,1836 1939,1836 2015,1839" />
+                <TextEquiv>
+                    <Unicode>Another Argument of proof of what I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="419,1994 2010,2029 2008,1926 1785,1962 1604,1906 1439,1946 417,1906" />
+                <Baseline points="429,1976 508,1974 587,1973 666,1976 746,1976 825,1976 904,1979 984,1979 1063,1982 1142,1982 1222,1985 1301,1988 1380,1994 1459,1991 1539,1992 1618,1992 1697,1992 1777,1994 1856,1994 1935,1994 2015,2000" />
+                <TextEquiv>
+                    <Unicode>have Advanced concerning the force of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="421,2137 652,2149 819,2226 1354,2159 1517,2224 1994,2242 1992,2095 1256,2069 944,2115 843,2063 626,2097 419,2063" />
+                <Baseline points="432,2134 510,2137 588,2139 666,2137 745,2137 823,2135 901,2138 979,2143 1058,2146 1136,2145 1214,2144 1292,2146 1371,2149 1449,2148 1527,2150 1605,2154 1684,2155 1762,2158 1840,2159 1918,2162 1997,2170" />
+                <TextEquiv>
+                    <Unicode>Bile, may be taken from what is notoriously</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="419,2292 574,2339 1179,2316 1244,2379 1449,2308 2021,2393 2017,2256 1946,2224 1741,2274 1435,2232 419,2248" />
+                <Baseline points="429,2292 508,2297 588,2300 668,2301 748,2301 827,2301 907,2303 987,2304 1067,2304 1146,2307 1226,2307 1306,2307 1386,2308 1465,2310 1545,2313 1625,2318 1705,2319 1784,2320 1864,2325 1944,2327 2024,2331" />
+                <TextEquiv>
+                    <Unicode>observed in many old People of both</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="415,2463 2023,2516 2021,2391 1817,2433 413,2395" />
+                <Baseline points="426,2460 506,2459 586,2462 666,2464 746,2466 826,2466 906,2466 986,2469 1066,2470 1146,2469 1226,2472 1306,2472 1386,2471 1466,2472 1546,2475 1626,2477 1706,2482 1786,2483 1866,2486 1946,2486 2027,2495" />
+                <TextEquiv>
+                    <Unicode>Sexes, for it is certain that all the Juices of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="413,2618 2013,2703 2010,2572 1300,2558 1141,2604 1057,2550 411,2566" />
+                <Baseline points="423,2615 502,2616 582,2618 661,2621 741,2621 821,2624 900,2626 980,2627 1059,2628 1139,2627 1219,2632 1298,2635 1378,2633 1457,2633 1537,2636 1617,2638 1696,2639 1776,2645 1855,2645 1935,2647 2015,2651" />
+                <TextEquiv>
+                    <Unicode>such are commonly ranker and more acrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="409,2787 682,2799 843,2868 990,2795 1193,2862 1996,2850 1994,2737 407,2723" />
+                <Baseline points="417,2776 496,2779 575,2781 654,2783 733,2785 812,2790 891,2791 971,2791 1050,2788 1129,2791 1208,2796 1287,2799 1366,2797 1445,2797 1525,2797 1604,2800 1683,2801 1762,2803 1841,2805 1920,2808 2000,2818" />
+                <TextEquiv>
+                    <Unicode>than in younger People, as appears by their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="390,3011 789,2950 1135,3023 1264,2966 1831,2974 2006,3043 2002,2924 1938,2896 656,2904 445,2813 386,2858" />
+                <Baseline points="400,2937 480,2942 560,2945 641,2949 721,2946 802,2946 882,2949 963,2949 1043,2953 1124,2958 1204,2958 1284,2963 1365,2964 1445,2967 1526,2967 1606,2967 1687,2972 1767,2973 1848,2973 1928,2976 2009,2973" />
+                <TextEquiv>
+                    <Unicode>Spitle, Sweat, Urine, Fæces &amp;c. And consequently</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="400,3152 576,3144 737,3214 1366,3210 1471,3131 1594,3129 1968,3198 1998,3083 1845,3037 1467,3077 1280,3033 396,3043" />
+                <Baseline points="409,3101 488,3100 568,3104 648,3104 728,3107 808,3107 888,3109 967,3113 1047,3114 1127,3116 1207,3117 1287,3118 1367,3120 1447,3123 1526,3125 1606,3127 1686,3129 1766,3132 1846,3134 1926,3140 2006,3152" />
+                <TextEquiv>
+                    <Unicode>in such the Bile must be sharper,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="394,3292 992,3284 1208,3393 1976,3347 1972,3202 1686,3252 1157,3198 890,3192 831,3252 505,3188 392,3214" />
+                <Baseline points="406,3266 484,3268 563,3271 641,3272 720,3272 799,3275 877,3274 956,3276 1035,3281 1113,3283 1192,3284 1271,3288 1349,3287 1428,3289 1507,3293 1585,3294 1664,3296 1743,3296 1821,3299 1900,3297 1979,3299" />
+                <TextEquiv>
+                    <Unicode>and more Vellicating (Cæteris paribus)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:18;}">
+                <Coords points="1830,3490 2010,3482 2009,3452 1829,3460" />
+                <Baseline points="1830,3490 2010,3482" />
+                <TextEquiv>
+                    <Unicode>than</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

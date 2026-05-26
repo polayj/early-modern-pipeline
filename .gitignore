@@ -1,0 +1,74 @@
+# Secrets — NEVER commit
+.env
+.env.*
+!.env.example
+api.txt
+api*.txt
+*api*key*
+*credentials*
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+env/
+
+# Build / dist
+build/
+dist/
+*.so
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Claude Code / agent state
+.claude/
+CLAUDE.md
+
+# Large artifacts — route to Zenodo
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.tflite
+*.onnx
+
+# Database dumps (go to Zenodo)
+*.dump
+*.cypher.gz
+neo4j_data/
+chroma_db/
+
+# Large media
+*.mp4
+*.mov
+*.avi
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

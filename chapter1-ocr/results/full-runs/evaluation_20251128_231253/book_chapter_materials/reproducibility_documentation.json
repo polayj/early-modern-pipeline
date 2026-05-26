@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "evaluation_date": "2025-11-29T00:33:30.486106",
+    "evaluation_dir": "Z:\\OCR Evaluation\\results\\evaluation_20251128_231253",
+    "num_systems_evaluated": 10,
+    "num_documents_per_system": 100,
+    "gold_standard_location": "Z:/Corpus/Corpus_Gold/page"
+  },
+  "evaluation_parameters": {
+    "similarity_threshold": 0.6,
+    "strip_markdown_headers": true,
+    "metrics_calculated": [
+      "Character Error Rate (CER)",
+      "Word Error Rate (WER)",
+      "Character Accuracy",
+      "Word Accuracy",
+      "Significant Word Accuracy",
+      "Capitalized Word Accuracy",
+      "Number Group Accuracy",
+      "BLEU Score",
+      "Hallucination Rate"
+    ]
+  },
+  "ocr_systems_evaluated": [
+    {
+      "OCR System": "Tesseract",
+      "Num Documents": 100
+    },
+    {
+      "OCR System": "EasyOCR",
+      "Num Documents": 100
+    },
+    {
+      "OCR System": "Kraken",
+      "Num Documents": 99
+    },
+    {
+      "OCR System": "Gemini",
+      "Num Documents": 99
+    },
+    {
+      "OCR System": "MinerU",
+      "Num Documents": 100
+    },
+    {
+      "OCR System": "OlmOCRv1",
+      "Num Documents": 99
+    },
+    {
+      "OCR System": "OlmOCRv2",
+      "Num Documents": 100
+    },
+    {
+      "OCR System": "Transkribus",
+      "Num Documents": 100
+    },
+    {
+      "OCR System": "DeepSeek",
+      "Num Documents": 100
+    },
+    {
+      "OCR System": "Chandra-Home",
+      "Num Documents": 100
+    }
+  ],
+  "summary_statistics": {
+    "mean_cer_across_systems": 0.11344749999999999,
+    "std_cer_across_systems": 0.10156731791745043,
+    "mean_wer_across_systems": 0.23624240000000002,
+    "mean_bleu_across_systems": 0.6781065999999999
+  }
+}

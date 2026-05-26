@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:41</Creator>
+        <Created>2025-10-02T01:42:35.218+02:00</Created>
+        <LastChange>2025-10-24T02:33:37.642+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051434" pageNr="42" tsid="258750741" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=ZFZTRHJPQJEQKYDLBLFYDREM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZEIIBXRRZCHMSPURKTBUNZHO" imageId="87046354" />
+    </Metadata>
+    <Page imageFilename="11168119_0042_104051434.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586540975" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3" />
+                <RegionRefIndexed index="1" regionRef="r" />
+                <RegionRefIndexed index="2" regionRef="tr_2" />
+                <RegionRefIndexed index="3" regionRef="r_1" />
+                <RegionRefIndexed index="4" regionRef="tr_3" />
+                <RegionRefIndexed index="5" regionRef="r_2" />
+                <RegionRefIndexed index="6" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_3" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="160,105 268,105 268,183 160,183" />
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="162,176 174,178 188,188 212,188 235,169 240,174 250,174 264,88 245,88 219,109 209,100 195,109 174,105" />
+                <Baseline points="176,170 214,158 259,155" />
+                <TextEquiv>
+                    <Unicode>30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="647,82 1584,76 1582,166 643,170" />
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="640,166 968,133 1013,174 1056,140 1241,174 1310,140 1576,152 1576,102 1543,88 1407,100 1329,69 863,100 825,76 796,105 706,69 640,95" />
+                <Baseline points="653,149 686,143 731,143 776,143 821,143 865,143 910,140 955,140 1000,140 1044,143 1089,143 1134,143 1179,143 1224,143 1268,140 1313,137 1358,137 1403,137 1447,137 1492,140 1537,140 1582,143" />
+                <TextEquiv>
+                    <Unicode>The ART of making SUGAR.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="177,198 2081,186 2078,1181 183,1183" />
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="159,250 2054,269 2054,200 1876,181 159,193" />
+                <Baseline points="173,235 217,235 262,241 307,241 352,241 397,238 441,235 486,235 531,238 576,238 620,235 665,235 710,232 755,232 800,235 844,235 889,235 934,235 979,232 1024,235 1068,235 1113,232 1158,232 1203,235 1247,232 1292,232 1337,235 1382,235 1427,235 1471,235 1516,235 1561,235 1606,235 1650,235 1695,235 1740,235 1785,235 1830,235 1874,235 1919,235 1964,238 2009,238 2054,244 2060,244" />
+                <TextEquiv>
+                    <Unicode>texture, a shining snowy whiteness, and so transparent that common print may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="164,311 1322,311 1322,254 164,257" />
+                <Baseline points="176,295 220,301 265,298 310,295 355,298 400,298 444,298 489,298 534,298 579,301 623,301 668,301 713,301 758,301 803,301 847,301 892,301 937,298 982,298 1027,298 1071,298 1116,298 1161,298 1206,298 1250,298 1295,298 1328,298" />
+                <TextEquiv>
+                    <Unicode>be read through the thickest part of a large loaf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="240,340 399,314 599,311 2016,309 2066,380 335,397 240,380" />
+                <Baseline points="253,364 298,367 343,367 388,370 432,370 477,367 522,367 567,367 606,364 635,361 680,367 725,364 770,367 815,364 859,364 904,364 949,361 994,364 1038,364 1083,361 1128,364 1173,364 1218,361 1262,361 1307,364 1352,364 1397,364 1442,367 1486,367 1531,364 1576,364 1621,367 1665,364 1710,364 1755,361 1800,361 1845,361 1889,361 1934,361 1979,364 2024,364 2068,367 2071,367" />
+                <TextEquiv>
+                    <Unicode>This sort of sugar may be scented with different flowers, by strewing the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="169,445 2068,437 1919,373 169,388" />
+                <Baseline points="182,429 226,432 271,432 316,432 361,432 406,432 450,432 495,432 540,429 585,426 629,429 674,429 719,429 764,426 809,426 853,429 898,429 943,426 988,426 1032,429 1077,426 1122,429 1167,426 1212,429 1256,429 1301,429 1346,429 1391,429 1436,429 1480,429 1525,432 1570,429 1615,429 1659,429 1704,426 1749,426 1794,426 1839,426 1883,426 1928,426 1973,426 2018,426 2063,426 2074,429" />
+                <TextEquiv>
+                    <Unicode>flowers on the moist cloths, and renewing them as often as the cloths are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:4;}">
+                <Coords points="159,468 207,449 1491,437 2014,437 2064,502 290,509 181,509 159,499" />
+                <Baseline points="173,492 206,495 250,498 371,505 410,495 456,495 501,495 546,495 591,495 635,492 680,495 725,495 770,492 815,495 859,495 904,495 949,492 994,492 1038,495 1083,495 1128,495 1173,495 1218,495 1262,495 1307,495 1352,495 1397,498 1442,495 1486,495 1531,495 1576,492 1621,492 1665,492 1710,492 1755,492 1800,492 1845,492 1889,492 1934,492 1979,492 2024,489 2068,489" />
+                <TextEquiv>
+                    <Unicode>changed, and twice a day besides: the water, filtering through the cloth carries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="169,573 2071,573 2071,504 169,516" />
+                <Baseline points="182,564 194,561 238,558 283,555 328,558 373,558 373,558 417,561 462,561 507,561 552,561 597,561 641,561 686,561 731,558 776,561 821,561 865,561 910,561 955,561 1000,561 1044,561 1089,558 1134,561 1179,561 1224,561 1268,561 1313,561 1358,561 1403,561 1447,564 1492,564 1537,561 1582,564 1627,564 1671,561 1716,561 1761,561 1806,558 1851,561 1895,561 1940,558 1985,561 2030,561 2074,561 2077,561" />
+                <TextEquiv>
+                    <Unicode>down with it those particles of the flowers in which their fragrance resides, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="183,637 528,632 556,647 623,628 678,654 770,637 770,594 673,592 651,573 621,594 566,573 540,594 490,578 395,594 361,573 333,597 183,578" />
+                <Baseline points="195,619 241,620 286,620 331,623 376,626 420,626 465,626 510,626 555,629 600,626 644,626 689,623 734,626 776,626" />
+                <TextEquiv>
+                    <Unicode>leaves them in the sugar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="228,704 2068,701 2068,644 228,649" />
+                <Baseline points="241,692 283,689 328,692 373,689 417,692 462,695 507,695 552,692 597,689 641,689 686,686 731,689 776,689 821,686 865,686 910,689 955,689 1000,689 1044,689 1089,692 1134,692 1179,692 1224,692 1268,692 1313,692 1358,692 1403,692 1447,692 1492,692 1537,692 1582,689 1627,692 1671,692 1716,689 1761,689 1806,689 1851,686 1895,689 1940,686 1985,686 2030,689 2074,689" />
+                <TextEquiv>
+                    <Unicode>Labar relates, that twelve hundred pounds of refined sugar yield only five</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="166,766 1051,773 1051,711 1022,701 903,728 796,701 701,728 651,701 285,704 233,732 166,704" />
+                <Baseline points="179,758 214,758 259,758 304,758 349,758 394,758 438,758 483,758 528,755 573,755 618,755 662,755 707,752 752,755 797,755 843,747 843,747 889,755 934,755 979,755 1024,755 1056,758" />
+                <TextEquiv>
+                    <Unicode>hundred and forty-six of sugar royal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:9;}">
+                <Coords points="252,830 2071,835 2071,768 2004,763 1669,804 252,770" />
+                <Baseline points="265,821 310,821 355,818 400,818 444,815 489,815 534,818 579,821 623,821 668,821 713,812 713,812 758,818 803,818 847,818 892,818 937,818 982,821 1027,821 1071,821 1116,821 1161,821 1206,818 1250,821 1295,821 1340,821 1385,824 1430,821 1474,821 1519,821 1564,821 1609,821 1653,821 1698,821 1743,818 1788,821 1833,821 1877,821 1922,818 1967,821 2012,821 2057,821 2077,824" />
+                <TextEquiv>
+                    <Unicode>The French prepare, in imitation of the royal, a sort of sugar which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:10;}">
+                <Coords points="166,899 171,842 212,832 2064,837 2064,901 262,915 185,903" />
+                <Baseline points="182,889 223,889 269,885 320,885 367,883 412,886 456,886 501,886 546,886 591,883 635,886 680,886 725,883 770,886 815,886 859,883 904,883 949,883 994,883 1038,886 1083,886 1128,883 1173,883 1218,886 1262,886 1307,886 1352,886 1397,886 1442,886 1486,886 1531,886 1576,883 1621,886 1665,886 1710,886 1755,886 1800,883 1845,886 1889,883 1934,886 1979,886 2024,886 2068,886 2071,883" />
+                <TextEquiv>
+                    <Unicode>they call sucre tappe. This is no other than the common clayed sugar rasped</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:11;}">
+                <Coords points="169,956 2068,949 1705,894 169,918" />
+                <Baseline points="182,943 226,949 271,952 316,952 361,949 406,952 450,949 495,949 540,949 585,952 629,952 674,952 719,952 764,952 809,949 853,949 898,949 943,949 988,949 1032,952 1077,949 1122,949 1167,949 1212,949 1256,952 1301,952 1346,952 1391,952 1436,952 1480,949 1525,949 1570,946 1615,949 1659,949 1704,949 1749,949 1794,946 1839,946 1883,949 1928,949 1973,949 2018,949 2063,943 2071,943" />
+                <TextEquiv>
+                    <Unicode>very fine before drying, and rammed into small moulds which have been previously</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="166,1020 2073,1032 2073,972 166,989" />
+                <Baseline points="179,1015 223,1012 268,1015 313,1018 358,1015 403,1012 447,1012 492,1015 537,1015 582,1012 626,1015 671,1012 716,1012 761,1012 806,1012 850,1012 895,1012 940,1015 985,1015 1030,1015 1074,1015 1119,1015 1164,1015 1209,1018 1253,1018 1298,1018 1343,1018 1388,1015 1433,1015 1477,1015 1522,1015 1567,1012 1612,1012 1656,1015 1701,1012 1746,1012 1791,1009 1836,1012 1880,1015 1925,1015 1970,1015 2015,1015 2060,1015 2080,1015" />
+                <TextEquiv>
+                    <Unicode>moistened with water. This sort of sugar looks very beautiful: but as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:13;}">
+                <Coords points="188,1098 2078,1106 2078,1032 1862,1022 188,1032" />
+                <Baseline points="201,1076 247,1077 292,1077 337,1080 382,1080 426,1077 471,1083 498,1074 498,1074 543,1077 588,1077 632,1080 677,1080 722,1080 767,1080 812,1080 856,1077 901,1080 946,1080 991,1080 1035,1080 1080,1083 1125,1080 1170,1080 1215,1083 1259,1083 1304,1083 1349,1083 1394,1083 1439,1080 1483,1083 1528,1080 1573,1080 1618,1080 1662,1083 1707,1080 1752,1080 1797,1080 1842,1080 1886,1080 1931,1083 1976,1080 2021,1083 2065,1083 2083,1086" />
+                <TextEquiv>
+                    <Unicode>its particles have no natural union, they separate upon the least moisture, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:14;}">
+                <Coords points="169,1165 392,1153 606,1170 606,1110 547,1091 506,1108 473,1094 452,1115 169,1110" />
+                <Baseline points="182,1149 226,1143 271,1149 316,1149 361,1149 406,1146 450,1146 495,1146 540,1146 585,1149 612,1152" />
+                <TextEquiv>
+                    <Unicode>run into melasses.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="782,1203 1355,1203 1355,1333 782,1333" />
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:0;}">
+                <Coords points="815,1291 875,1300 903,1272 941,1308 994,1274 1053,1303 1136,1277 1255,1286 1272,1303 1324,1293 1324,1236 1289,1220 1229,1241 1174,1222 1136,1241 941,1213 892,1251 863,1224 815,1258" />
+                <Baseline points="829,1286 835,1286 880,1280 925,1277 970,1277 1015,1277 1059,1274 1104,1277 1149,1277 1194,1277 1238,1277 1283,1280 1328,1280" />
+                <TextEquiv>
+                    <Unicode>3. Of Sugar-Candy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="185,1350 2086,1350 2086,1938 185,1938" />
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="226,1417 2066,1434 2066,1367 1971,1348 226,1348" />
+                <Baseline points="238,1403 265,1403 312,1402 312,1402 358,1403 403,1403 447,1400 492,1403 537,1403 582,1400 626,1400 671,1400 716,1400 761,1400 806,1400 850,1400 895,1400 940,1400 985,1403 1030,1400 1074,1400 1119,1403 1164,1403 1209,1406 1253,1406 1298,1403 1343,1403 1388,1403 1433,1403 1477,1403 1522,1403 1567,1403 1612,1403 1656,1403 1701,1403 1746,1403 1791,1406 1836,1403 1880,1403 1925,1403 1970,1406 2015,1406 2060,1406 2071,1409" />
+                <TextEquiv>
+                    <Unicode>Sugar-candy is made from the muscavado or clayed sugar, by dissolving</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="176,1481 2066,1481 2066,1436 1757,1415 176,1429" />
+                <Baseline points="188,1468 191,1465 235,1471 280,1471 325,1468 370,1468 414,1465 459,1468 504,1465 549,1465 594,1465 638,1465 683,1465 728,1465 773,1465 818,1465 862,1468 907,1468 952,1465 997,1465 1041,1468 1086,1468 1131,1468 1176,1471 1221,1471 1265,1471 1310,1471 1355,1468 1400,1468 1444,1468 1489,1468 1534,1465 1579,1465 1624,1468 1668,1468 1713,1468 1758,1468 1803,1468 1848,1465 1892,1468 1937,1468 1982,1468 2027,1468 2071,1465" />
+                <TextEquiv>
+                    <Unicode>them in weak lime water, and after due clarification setting them to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="176,1550 2076,1548 2076,1488 176,1493" />
+                <Baseline points="188,1525 232,1537 277,1537 322,1534 367,1531 412,1531 456,1531 501,1531 546,1531 591,1534 635,1531 680,1531 725,1531 770,1531 815,1531 859,1534 904,1534 949,1534 994,1534 1038,1534 1083,1534 1128,1531 1173,1534 1218,1534 1262,1537 1307,1537 1352,1537 1397,1534 1442,1534 1486,1534 1531,1531 1576,1531 1621,1531 1665,1534 1710,1534 1755,1534 1800,1534 1845,1534 1889,1534 1934,1534 1979,1534 2024,1534 2068,1537 2080,1537" />
+                <TextEquiv>
+                    <Unicode>crystalize or shoot in a hot room. The moulds are furnished with a number of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="181,1614 2080,1612 2057,1545 181,1560" />
+                <Baseline points="194,1600 238,1600 283,1603 328,1600 373,1597 417,1597 462,1594 507,1597 552,1597 597,1597 641,1597 686,1597 731,1597 776,1597 821,1597 865,1597 910,1597 955,1600 1000,1600 1044,1600 1089,1600 1134,1600 1179,1600 1224,1600 1268,1600 1313,1600 1358,1600 1403,1597 1447,1600 1492,1600 1537,1600 1582,1597 1627,1597 1671,1600 1716,1600 1761,1600 1806,1600 1851,1600 1895,1597 1940,1600 1985,1597 2030,1600 2074,1603 2086,1600" />
+                <TextEquiv>
+                    <Unicode>small sticks laid across for the sugar to shoot upon: their lower apperture is almost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="178,1676 2078,1686 2078,1621 178,1633" />
+                <Baseline points="191,1662 235,1665 280,1665 325,1665 370,1665 414,1662 459,1662 504,1662 549,1659 594,1659 638,1659 683,1659 728,1662 773,1662 818,1662 862,1659 907,1662 952,1659 997,1662 1041,1662 1086,1665 1131,1665 1176,1665 1221,1665 1265,1665 1310,1665 1355,1665 1400,1665 1444,1665 1489,1662 1534,1665 1579,1662 1624,1662 1668,1662 1713,1662 1758,1662 1803,1662 1848,1662 1892,1665 1937,1662 1982,1662 2027,1665 2071,1668 2083,1668" />
+                <TextEquiv>
+                    <Unicode>closed, so as to suffer the part which remains liquid to filter through very slowly.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="183,1731 2083,1755 2083,1695 1959,1674 183,1681" />
+                <Baseline points="197,1725 241,1725 286,1725 331,1725 376,1725 420,1725 465,1725 510,1722 555,1725 600,1725 644,1725 689,1725 734,1725 779,1725 824,1725 868,1725 913,1725 958,1728 1003,1728 1047,1731 1092,1731 1137,1731 1182,1728 1227,1728 1271,1731 1316,1728 1361,1728 1406,1728 1450,1731 1495,1731 1540,1728 1585,1728 1630,1728 1674,1728 1719,1728 1764,1728 1809,1728 1854,1728 1898,1728 1943,1728 1988,1728 2033,1731 2077,1731 2086,1734" />
+                <TextEquiv>
+                    <Unicode>When the sugar is sufficiently boiled, it is carried with all possible expedition</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="171,1797 2071,1824 2071,1757 1921,1738 171,1750" />
+                <Baseline points="185,1794 229,1794 274,1794 319,1797 364,1794 409,1794 453,1794 498,1794 543,1791 588,1791 632,1791 677,1791 722,1788 767,1791 812,1791 856,1788 901,1791 946,1791 991,1791 1035,1794 1080,1794 1125,1794 1170,1794 1215,1794 1259,1794 1304,1794 1349,1794 1394,1797 1439,1794 1483,1794 1528,1794 1573,1794 1618,1794 1662,1791 1707,1794 1752,1794 1797,1794 1842,1794 1886,1794 1931,1794 1976,1794 2021,1797 2065,1800 2074,1797" />
+                <TextEquiv>
+                    <Unicode>into an hot stove, immediately poured into the moulds, and the stove kept strongly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="178,1866 2078,1888 2078,1819 1973,1807 178,1812" />
+                <Baseline points="191,1862 235,1859 280,1859 325,1859 370,1857 414,1857 459,1857 504,1857 549,1857 594,1859 638,1857 683,1857 728,1854 773,1854 818,1854 862,1857 907,1857 952,1857 997,1859 1041,1857 1086,1857 1131,1857 1176,1859 1221,1859 1265,1862 1310,1859 1355,1859 1400,1859 1444,1862 1489,1859 1534,1859 1579,1859 1624,1859 1668,1859 1713,1859 1758,1859 1803,1859 1848,1859 1892,1859 1937,1859 1982,1859 2027,1862 2071,1862 2083,1865" />
+                <TextEquiv>
+                    <Unicode>heated. The sugar concretes upon the stick into crystalline masses, of a white or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="176,1938 1533,1942 1533,1897 1360,1869 176,1873" />
+                <Baseline points="188,1925 200,1925 244,1925 289,1925 334,1925 379,1925 423,1922 468,1922 513,1922 558,1922 603,1922 647,1922 692,1922 740,1924 740,1924 788,1925 832,1922 877,1922 922,1922 967,1925 1012,1925 1056,1925 1101,1925 1146,1925 1191,1925 1236,1928 1280,1928 1325,1928 1370,1928 1415,1928 1459,1928 1504,1928 1540,1928" />
+                <TextEquiv>
+                    <Unicode>brown colour, according as the sugar was pure or impure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="199,2051 2115,2051 2115,2585 199,2585" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="775,2166 922,2180 951,2152 982,2175 1032,2152 1053,2173 1222,2156 1303,2159 1331,2187 1377,2159 1481,2180 1481,2116 1426,2092 827,2099 775,2130" />
+                <Baseline points="788,2167 832,2164 877,2164 922,2161 967,2161 1012,2161 1056,2161 1101,2161 1146,2158 1191,2158 1236,2161 1280,2161 1325,2161 1370,2161 1415,2164 1459,2167 1486,2167" />
+                <TextEquiv>
+                    <Unicode>APPENDIX.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="190,2323 2083,2349 2083,2247 190,2268" />
+                <Baseline points="203,2325 247,2328 292,2328 337,2325 382,2325 426,2322 471,2322 516,2322 561,2319 606,2322 650,2322 695,2319 740,2322 785,2316 829,2316 874,2319 919,2322 964,2319 1009,2316 1053,2316 1098,2316 1143,2316 1188,2316 1233,2319 1277,2319 1322,2322 1367,2319 1412,2319 1456,2322 1501,2322 1546,2322 1591,2322 1636,2319 1680,2319 1725,2316 1770,2316 1815,2316 1859,2316 1904,2319 1949,2319 1994,2319 2039,2322 2083,2331 2089,2331" />
+                <TextEquiv>
+                    <Unicode>The Art of fermenting and distilling Melasses, &amp;c. for RUM,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="801,2413 1262,2401 1310,2437 1369,2411 1448,2416 1448,2356 1405,2335 1289,2347 1260,2370 1208,2332 1077,2366 989,2335 801,2366" />
+                <Baseline points="815,2403 859,2406 904,2406 949,2406 994,2403 1038,2403 1083,2403 1128,2403 1173,2400 1218,2403 1262,2400 1307,2403 1352,2403 1397,2403 1442,2406 1453,2406" />
+                <TextEquiv>
+                    <Unicode>or inflammable Spirit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="523,2544 1757,2558 1757,2484 523,2501" />
+                <Baseline points="537,2543 582,2543 626,2540 671,2540 716,2540 761,2543 806,2540 850,2543 895,2543 940,2540 985,2540 1030,2540 1074,2540 1119,2540 1164,2540 1209,2540 1253,2540 1298,2543 1343,2543 1388,2543 1433,2543 1477,2543 1522,2543 1567,2540 1612,2543 1656,2540 1701,2540 1746,2540 1764,2543" />
+                <TextEquiv>
+                    <Unicode>1. Of the Fermentation of the Cane Juice in general.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="203,2593 2110,2591 2110,3329 203,3329" />
+            <TextLine id="l_3" custom="readingOrder {index:0;}">
+                <Coords points="250,2679 252,2637 285,2620 566,2610 2090,2615 2090,2684 761,2703" />
+                <Baseline points="262,2672 280,2672 325,2672 370,2672 414,2672 461,2665 461,2665 507,2669 552,2669 597,2666 641,2666 686,2663 731,2663 776,2663 808,2665 808,2665 853,2669 898,2669 943,2669 988,2669 1032,2669 1077,2669 1122,2669 1167,2669 1212,2669 1256,2669 1301,2669 1346,2669 1391,2669 1436,2672 1480,2672 1525,2669 1570,2669 1615,2669 1659,2669 1704,2669 1749,2669 1794,2669 1839,2672 1883,2669 1928,2672 1973,2672 2018,2672 2063,2669 2095,2666" />
+                <TextEquiv>
+                    <Unicode>All kinds of sweet vegetable juices are capable of being converted, by means of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:1;}">
+                <Coords points="190,2744 2090,2748 2090,2694 2016,2679 190,2694" />
+                <Baseline points="203,2740 214,2737 259,2731 304,2734 349,2734 394,2734 438,2731 483,2731 528,2731 573,2731 618,2731 662,2731 707,2731 752,2731 797,2728 841,2731 886,2731 931,2731 976,2731 1021,2731 1065,2731 1110,2731 1155,2731 1200,2734 1244,2734 1289,2734 1334,2734 1379,2734 1424,2734 1468,2734 1513,2734 1558,2731 1603,2731 1648,2731 1692,2734 1737,2734 1782,2731 1827,2731 1871,2731 1916,2734 1961,2734 2006,2734 2051,2734 2095,2734" />
+                <TextEquiv>
+                    <Unicode>slow fermentation, into vinous liquors, which may either be preserved in that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:2;}">
+                <Coords points="202,2815 2080,2808 1914,2744 202,2756" />
+                <Baseline points="214,2788 259,2794 304,2800 349,2800 394,2797 438,2797 483,2797 528,2797 573,2794 618,2794 662,2794 707,2800 752,2797 797,2797 841,2800 886,2800 931,2800 976,2797 1021,2797 1065,2797 1110,2797 1155,2794 1200,2797 1244,2797 1289,2797 1334,2800 1379,2800 1424,2797 1468,2797 1513,2794 1558,2797 1603,2797 1648,2797 1692,2797 1737,2800 1782,2797 1827,2797 1871,2797 1916,2797 1961,2797 2006,2797 2051,2797 2086,2794" />
+                <TextEquiv>
+                    <Unicode>form, or made to yield by distillation an inflammable spirit; by a hasty fermentation,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="216,2886 2092,2877 2092,2824 1890,2803 1793,2848 216,2820" />
+                <Baseline points="230,2859 277,2860 322,2860 367,2863 412,2863 456,2863 501,2860 546,2860 591,2860 635,2860 680,2860 725,2860 770,2857 815,2860 859,2860 904,2863 949,2860 994,2863 1038,2863 1083,2863 1128,2863 1173,2860 1218,2860 1262,2860 1307,2863 1352,2863 1397,2863 1442,2863 1486,2860 1531,2860 1576,2860 1621,2860 1665,2863 1710,2863 1755,2863 1800,2863 1845,2860 1889,2860 1934,2863 1979,2863 2024,2860 2068,2860 2098,2860" />
+                <TextEquiv>
+                    <Unicode>or a slow one long continued, they are changed into vinegars. The native</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="204,2960 2085,2941 2085,2889 1783,2870 204,2884" />
+                <Baseline points="217,2922 235,2922 280,2919 325,2919 370,2922 414,2922 459,2922 504,2925 549,2922 594,2925 638,2925 683,2925 728,2925 773,2925 818,2925 862,2925 907,2925 952,2925 997,2925 1041,2925 1086,2919 1134,2925 1134,2925 1182,2925 1227,2925 1271,2925 1316,2928 1361,2928 1406,2928 1450,2928 1495,2928 1540,2925 1585,2925 1630,2925 1674,2925 1719,2925 1764,2925 1809,2925 1854,2928 1898,2928 1943,2928 1988,2928 2033,2928 2077,2928 2092,2925" />
+                <TextEquiv>
+                    <Unicode>juice of the sugar cane, as it is eminently sweet, is likewise in a particular manner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:5;}">
+                <Coords points="204,2962 247,2941 2076,2939 2092,3000 288,3022 204,3003" />
+                <Baseline points="217,2991 238,2991 283,2985 328,2988 373,2988 418,2984 418,2984 465,2988 510,2991 555,2991 594,2988 594,2988 638,2988 683,2988 728,2991 773,2991 818,2994 862,2991 907,2988 952,2988 997,2991 1041,2991 1086,2991 1131,2991 1176,2991 1221,2991 1265,2991 1310,2991 1355,2991 1400,2991 1444,2991 1489,2991 1534,2991 1579,2994 1624,2991 1668,2994 1713,2991 1758,2991 1803,2991 1848,2994 1892,2994 1937,2991 1982,2991 2027,2991 2071,2991 2098,2991" />
+                <TextEquiv>
+                    <Unicode>disposed to ferment; but without a great deal of address runs, beyond the process</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="195,3060 2090,3067 2090,3010 195,3034" />
+                <Baseline points="208,3057 253,3057 298,3057 343,3057 388,3054 432,3054 477,3057 522,3060 567,3060 612,3057 656,3057 701,3057 746,3057 791,3057 835,3057 880,3057 925,3057 970,3057 1015,3057 1059,3057 1104,3057 1149,3057 1194,3057 1238,3060 1283,3060 1328,3060 1373,3060 1418,3060 1462,3057 1507,3057 1552,3057 1597,3057 1642,3057 1686,3060 1731,3057 1776,3060 1821,3057 1865,3057 1910,3060 1955,3057 2000,3057 2045,3057 2089,3057 2095,3057" />
+                <TextEquiv>
+                    <Unicode>of vinous fermentation, into an acetous state. After it has undergone a degree of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:7;}">
+                <Coords points="243,3134 2090,3148 2033,3067 243,3086" />
+                <Baseline points="256,3125 304,3125 349,3122 394,3119 438,3119 483,3119 528,3119 573,3119 618,3122 662,3122 707,3119 752,3122 797,3125 841,3122 886,3122 931,3122 976,3122 1021,3119 1065,3122 1110,3122 1155,3122 1200,3122 1244,3122 1289,3128 1334,3125 1379,3122 1424,3122 1468,3122 1513,3122 1558,3122 1603,3122 1648,3122 1692,3122 1737,3122 1782,3122 1827,3122 1871,3122 1916,3125 1961,3122 2006,3122 2051,3119 2095,3119" />
+                <TextEquiv>
+                    <Unicode>fire, it becomes less susceptible of these changes; and does not ferment readily</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="202,3188 2090,3195 1971,3131 202,3150" />
+                <Baseline points="214,3182 229,3182 274,3188 319,3185 364,3185 409,3185 453,3182 500,3178 500,3178 546,3185 591,3185 635,3185 680,3185 725,3182 770,3185 815,3185 859,3188 904,3188 949,3185 994,3188 1038,3185 1083,3185 1128,3188 1173,3185 1218,3188 1262,3185 1307,3185 1352,3188 1397,3185 1442,3188 1486,3188 1531,3188 1576,3188 1621,3188 1665,3188 1710,3191 1755,3191 1800,3191 1845,3191 1889,3191 1934,3191 1979,3185 2024,3185 2068,3185 2095,3185" />
+                <TextEquiv>
+                    <Unicode>without the assistance of such matters as promote this operation: such is the flower</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:9;}">
+                <Coords points="197,3264 1600,3269 1600,3219 197,3229" />
+                <Baseline points="211,3251 256,3257 301,3257 346,3254 391,3251 435,3254 480,3251 525,3251 570,3251 615,3251 659,3251 704,3251 749,3251 794,3254 838,3254 883,3254 928,3254 973,3254 1018,3254 1062,3254 1107,3257 1152,3254 1197,3257 1241,3257 1286,3257 1331,3257 1376,3257 1421,3254 1465,3254 1510,3254 1555,3257 1600,3257 1606,3257" />
+                <TextEquiv>
+                    <Unicode>or head which arises upon liquors during fermentation, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:10;}">
+                <Coords points="1957,3319 1969,3319 1983,3333 1997,3328 2014,3333 2035,3326 2045,3333 2073,3328 2104,3336 2104,3279 2071,3283 2059,3271 2045,3274 2030,3260 2023,3267 2014,3260 1957,3264" />
+                <Baseline points="1970,3316 2015,3316 2060,3316 2104,3316 2110,3319" />
+                <TextEquiv>
+                    <Unicode>Here</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

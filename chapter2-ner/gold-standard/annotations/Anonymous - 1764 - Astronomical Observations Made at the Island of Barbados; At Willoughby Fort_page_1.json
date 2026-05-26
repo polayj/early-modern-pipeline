@@ -1,0 +1,174 @@
+{
+  "doc_id": "Anonymous - 1764 - Astronomical Observations Made at the Island of Barbados; At Willoughby Fort_page_1.xml",
+  "text": "[389]\nLIX. Astronomical Observations made at the\nIsland of Barbados; at Willoughby Fort;\nand at the Observatory on Constitution\nHill, both adjoining to Bridge Town. By\nNevil Maskelyne, A. M. Fellow of Trinity\nCollege, Cambridge, and F. R. S.\n[Read December 20, 1764.]\nN. B. All the observations of the first satellite of Jupiter were\nmade with a two foot reflector made by Mr. Bird, having\nan aperture of 3 8/10 inches in diameter, except where\nthey are marked as made with my 18 inch reflector made\nby Mr. Short, having an aperture of four inches and an\nhalf in diameter. And the eclipses of the other satellites\nwere all observed with the 18 inch telescope, except a few\nmarked as made with Mr. Bird's two foot reflector. The latitude\nof Willoughby Fort is 13.° 5' N. and that of the Observatory\n13.° 5.' 15\" N. This agrees with the latitude I observed\nwhen our ship came to anchor at our first arrival in\nCarlisle Bay, which, carefully calculated, and reduced to St.\nMichael's Church, gives 13.° 5.' 30\" for its latitude. The\nObservatory is about 200 yards due east of the church, and\nWilloughby Fort is about 1600 feet distant from the same,\nbearing S. W. So that the Observatory is about 15\" of longitude,\nor 1\" of time to the east of Willoughby Fort. The\nlatitudes of Willoughby Fort and the Observatory, set down\nabove, result from altitudes of the sun taken with a bason of\nquick-silver by the brass Hadley's sextant made by Mr. Bird,\nbeing calculated from them, and the apparent time known\nfrom equal altitudes of the sun taken with the equal attitude\ninstrument.\nAt",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 59,
+      "end": 67,
+      "label": "TOPONYM",
+      "text": "Barbados",
+      "line_id": "tr_1_tl_3"
+    },
+    {
+      "id": "e2",
+      "start": 72,
+      "end": 87,
+      "label": "TOPONYM",
+      "text": "Willoughby Fort",
+      "line_id": "tr_1_tl_3"
+    },
+    {
+      "id": "e3",
+      "start": 740,
+      "end": 755,
+      "label": "TOPONYM",
+      "text": "Willoughby Fort",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e4",
+      "start": 1088,
+      "end": 1103,
+      "label": "TOPONYM",
+      "text": "Willoughby Fort",
+      "line_id": "tr_1_tl_23"
+    },
+    {
+      "id": "e5",
+      "start": 1240,
+      "end": 1255,
+      "label": "TOPONYM",
+      "text": "Willoughby Fort",
+      "line_id": "tr_1_tl_25"
+    },
+    {
+      "id": "e6",
+      "start": 1274,
+      "end": 1289,
+      "label": "TOPONYM",
+      "text": "Willoughby Fort",
+      "line_id": "tr_1_tl_26"
+    },
+    {
+      "id": "e7",
+      "start": 152,
+      "end": 163,
+      "label": "TOPONYM",
+      "text": "Bridge Town",
+      "line_id": "tr_1_tl_5"
+    },
+    {
+      "id": "e8",
+      "start": 218,
+      "end": 227,
+      "label": "TOPONYM",
+      "text": "Cambridge",
+      "line_id": "tr_1_tl_7"
+    },
+    {
+      "id": "e9",
+      "start": 908,
+      "end": 920,
+      "label": "TOPONYM",
+      "text": "Carlisle Bay",
+      "line_id": "tr_1_tl_20"
+    },
+    {
+      "id": "e10",
+      "start": 100,
+      "end": 111,
+      "label": "TOPONYM",
+      "text": "Observatory",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e11",
+      "start": 786,
+      "end": 797,
+      "label": "TOPONYM",
+      "text": "Observatory",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e12",
+      "start": 1029,
+      "end": 1040,
+      "label": "TOPONYM",
+      "text": "Observatory",
+      "line_id": "tr_1_tl_22"
+    },
+    {
+      "id": "e13",
+      "start": 1172,
+      "end": 1183,
+      "label": "TOPONYM",
+      "text": "Observatory",
+      "line_id": "tr_1_tl_24"
+    },
+    {
+      "id": "e14",
+      "start": 1298,
+      "end": 1309,
+      "label": "TOPONYM",
+      "text": "Observatory",
+      "line_id": "tr_1_tl_26"
+    },
+    {
+      "id": "e15",
+      "start": 115,
+      "end": 132,
+      "label": "TOPONYM",
+      "text": "Constitution Hill",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e16",
+      "start": 966,
+      "end": 986,
+      "label": "TOPONYM",
+      "text": "St. Michael's Church",
+      "line_id": "tr_1_tl_20"
+    },
+    {
+      "start": 1388,
+      "end": 1394,
+      "text": "silver",
+      "label": "COMMODITY",
+      "id": "e17",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e18",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Nevil Maskelyne",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e19",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Mr. Bird",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e20",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Mr. Short",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e21",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Trinity College",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "doc_id": "Anonymous - 1732 - Some considerations touching the sugar colonies_page_1.xml",
+  "text": "( 12 )\nthat this may give us a farther Prospect; not only Sugar, but\nGinger too being, as I have been informed, a very good Commodity\nas high as the Levant. And if so, or if there should\nbe found any other Motive to proceed so far, I cannot think\nit altogether impossible but that suitable Means and proper Regulations\nmay be thought on. However, the Advantages that\nmay arise from any Trade can never be fully known but by\nExperience: and this in particular, as it will be among a rich\nPeople, plenteous in Money, affords at present as fair a Prospect\nas any.\nIF then a License for this Spanish Trade should be deemed\nadviseable, as I hope it will, it may be no unprofitable Part to\nconsider, upon what Terms our Merchants are like to stand,\nwith relation to those of France, who do carry on, and will\nstill continue the Trade against them. And herein particularly\nas to Duties.\nTHE Author of the Political State, in that for the Month\nof April 1731, has this Remark: \"Even in exporting Sugars\"\n(says he) to our Plantations on the Continent, the French\"\nSugar Colonies have a great advantage over ours. For as\n\" our Planters pay four and a half per Cent. upon exporting\n\" their Sugars from their own Plantations, and the French pay\n\" but one per Cent. it's evident that the French may sell their\n\" Sugars in our Plantations upon the Continent three and a\n\" half per Cent. cheaper than our own Colonies can do, granting\n\" that the prime Cost be equal in both Colonies; which is\n\" an advantage sufficient to ruin any Trade in the World. *\"\nBut I must take notice, That the enumerated Duty, which is\nFive Shillings per Hundred on white Sugar, and Eighteen Pence\nper Hundred upon brown Sugar, is not there included or considered\nat all, and which is nearest now Ten per Cent. more:\nSo that the present Difference between the French and Us, in\nthe Duties of Sugars upon this Trade to North America, instead\nof Three and a Half per Cent. is nearest in reality Thirteen and\n* Page 352.\na",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 58,
+      "end": 63,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e2",
+      "start": 69,
+      "end": 75,
+      "label": "COMMODITY",
+      "text": "Ginger",
+      "line_id": "tr_1_tl_3"
+    },
+    {
+      "id": "e3",
+      "start": 149,
+      "end": 155,
+      "label": "TOPONYM",
+      "text": "Levant",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e4",
+      "start": 769,
+      "end": 775,
+      "label": "TOPONYM",
+      "text": "France",
+      "line_id": "tr_1_tl_15"
+    },
+    {
+      "id": "e5",
+      "start": 988,
+      "end": 994,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_1_tl_19"
+    },
+    {
+      "id": "e6",
+      "start": 1013,
+      "end": 1024,
+      "label": "TOPONYM",
+      "text": "Plantations",
+      "line_id": "tr_1_tl_20"
+    },
+    {
+      "id": "e7",
+      "start": 1047,
+      "end": 1069,
+      "label": "TOPONYM",
+      "text": "French Sugar Colonies",
+      "line_id": "tr_1_tl_20"
+    },
+    {
+      "id": "e8",
+      "start": 1055,
+      "end": 1060,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_21"
+    },
+    {
+      "id": "e9",
+      "start": 1179,
+      "end": 1185,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_1_tl_23"
+    },
+    {
+      "id": "e10",
+      "start": 1201,
+      "end": 1212,
+      "label": "TOPONYM",
+      "text": "Plantations",
+      "line_id": "tr_1_tl_23"
+    },
+    {
+      "id": "e11",
+      "start": 1299,
+      "end": 1305,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_1_tl_25"
+    },
+    {
+      "id": "e12",
+      "start": 1313,
+      "end": 1324,
+      "label": "TOPONYM",
+      "text": "Plantations",
+      "line_id": "tr_1_tl_25"
+    },
+    {
+      "id": "e13",
+      "start": 1628,
+      "end": 1639,
+      "label": "COMMODITY",
+      "text": "white Sugar",
+      "line_id": "tr_1_tl_30"
+    },
+    {
+      "id": "e14",
+      "start": 1677,
+      "end": 1688,
+      "label": "COMMODITY",
+      "text": "brown Sugar",
+      "line_id": "tr_1_tl_31"
+    },
+    {
+      "id": "e15",
+      "start": 1854,
+      "end": 1860,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_1_tl_34"
+    },
+    {
+      "id": "e16",
+      "start": 1880,
+      "end": 1893,
+      "label": "TOPONYM",
+      "text": "North America",
+      "line_id": "tr_1_tl_34"
+    }
+  ]
+}

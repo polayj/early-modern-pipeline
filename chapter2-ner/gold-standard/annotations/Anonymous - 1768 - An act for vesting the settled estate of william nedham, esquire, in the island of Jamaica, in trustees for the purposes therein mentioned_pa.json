@@ -1,0 +1,110 @@
+{
+  "doc_id": "Anonymous - 1768 - An act for vesting the settled estate of william nedham, esquire, in the island of Jamaica, in trustees for the purposes therein mentioned_pa.xml",
+  "text": "[7]\nand other Steers and Mules, and Plantation Utensils, in the said\nIsland of Jamaica, whereof or wherein, or to which the herein\nbefore named Henry Nedham, late Uncle of the said William\nNedham, was seised, possessed, interested, or entitled in Possession,\nReversion, Remainder, or Expectancy, either in Law or\nEquity, at the Time of his Decease, with the Issues and Increase\nof the Female Slaves, with their and every of their Appurtenances,\nand the Reversion and Reversions, Remainder and Remainders,\nRents, Issues, and Profits of the said several Plantations\nor Sugar-works, Lands, Tenements, Hereditaments, and\nPremises, and all the Estate, Right, Title, and Interest, Property,\nClaim, and Demand whatsoever of him the said William\nNedham of, in, and to the said Premises, shall from and after\nthe Twenty-fourth Day of June One thousand Seven hundred\nand Sixty-eight, be settled upon and vested in, and the same are\nhereby from thence-forth settled upon and vested in, John Pitt of\nEncombe, in the County of Dorset, Esquire, and Thomas\nCholmondeley of Vale Royal, in the County of Chester, Esquire, their\nHeirs and Assigns; to the Use of them the said John Pitt and\nThomas Cholmondeley, their Heirs and Assigns for ever, freed\nand discharged, and absolutely acquired, exempted, and exonerated\nof, from, and against all and every the Uses, Estates,\nRemainders, Limitations, Trusts, annual payments, Powers,\nProvisoes, Covenants, and Agreements in and by the said\nWills of the said Henry and Robert Nedham, recited Indenture\nof Release of the Twenty-fourth Day of December\nOne thousand Seven hundred and Sixty-two, Act of Parliament,\nBargain and Sale and Release of the Thirteenth Day of June\nOne thousand Seven hundred and Sixty-five, or any of them,\ncontained, limited, created, provided, and declared of and concerning\nthe same (the said Annuity of Six hundred Pounds, so\ngiven and devised to the said Elizabeth Thomas as aforesaid, only\nexcepted) upon Trust nevertheless, and to the Intent and Purpose,\nthat they the said John Pitt and Thomas Cholmondeley, and the\nsurvivor of them, and the Heirs of such Survivor, shall and do, and\nthey are hereby authorized and impowered, by and with the Consent\nand Approbation of the said William Nedham (if he shall be\nliving) such Consent and Approbation to be testified by Writing\nunder the Hand and Seal of the said William Nedham; and\nif he shall be dead, at the Discretion and by the proper Authority\nof them the said John Pitt and Thomas Cholmondeley, or of the\nSurvivor of them, or of the Heirs of such Survivor, to grant, bargain,\nsell, release, convey, and assure the Inheritance in Fee-\nsimple.",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 79,
+      "end": 86,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_1_tl_3"
+    },
+    {
+      "id": "e2",
+      "start": 567,
+      "end": 572,
+      "label": "TOPONYM",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_11"
+    },
+    {
+      "id": "e3",
+      "start": 988,
+      "end": 995,
+      "label": "TOPONYM",
+      "text": "Encombe",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "id": "e4",
+      "start": 1014,
+      "end": 1020,
+      "label": "TOPONYM",
+      "text": "Dorset",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "id": "e5",
+      "start": 1058,
+      "end": 1068,
+      "label": "TOPONYM",
+      "text": "Vale Royal",
+      "line_id": "tr_1_tl_19"
+    },
+    {
+      "id": "e6",
+      "start": 1087,
+      "end": 1094,
+      "label": "TOPONYM",
+      "text": "Chester",
+      "line_id": "tr_1_tl_19"
+    },
+    {
+      "start": 392,
+      "end": 398,
+      "text": "Slaves",
+      "label": "COMMODITY",
+      "id": "e7",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e8",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Henry Nedham",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e9",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "William Nedham",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e10",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "John Pitt",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e11",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Thomas Cholmondeley",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e12",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Elizabeth Thomas",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e13",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Robert Nedham",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "doc_id": "Anonymous - 1766 - The privileges of the island of jamaica vindicated_page_64.xml",
+  "text": "( 44 )\nus of, without our consent, whilst Great Britain\ncontinues a free and independent\nKingdom, and her children retain any degree of\nlove for the laws of England and for civil liberty.\nTo say, that our rights and possessions are\nsecured to us by the laws of England, and yet\nat the same time, that we have no title to those\npowers and privileges, without which they cannot\nsubsist, is downright impudent nonsense;\nit is mocking us with the sound of Liberty\nand Property, and robbing us of the substance.\nIf we are freemen, and not slaves, our liberties\nare as much our inheritance, as our\nlands. If our lives, liberties, and properties\nare not our inheritance, secured to us by the\nsame laws, determined by the same jurisdictions,\nand fenced in and defended by the same\nconstitution, as the wisdom of our ancestors\nfound it necessary to establish, for the preservation\nof these blessings in our mother country;\nthen, are the subjects of the Colonies,\nnot freemen but slaves; not the free subjects,\nbut the outcasts of Britain; possessing these\ninvaluable blessings, only as tenants at will,\nthe most uncertain and wretched of all tenures;\nand liable to be dispossessed, by the\nhand of power.\nLord chief justice Coke, (that oracle of\nlaw) being a member of the house of Commons,\nin the reign of Charles the 1st. said, in\na conference with the Lords: \"For a free\"\nman to be a tenant at will of his liberty; I\n\" will",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 42,
+      "end": 55,
+      "label": "TOPONYM",
+      "text": "Great Britain",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e2",
+      "start": 157,
+      "end": 164,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_1_tl_8"
+    },
+    {
+      "id": "e3",
+      "start": 1021,
+      "end": 1028,
+      "label": "TOPONYM",
+      "text": "Britain",
+      "line_id": "tr_1_tl_26"
+    },
+    {
+      "start": 534,
+      "end": 540,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e4",
+      "line_id": "augmented"
+    },
+    {
+      "start": 970,
+      "end": 976,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e5",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e6",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Lord chief justice Coke",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e7",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "house of Commons",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e8",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Charles the 1st",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

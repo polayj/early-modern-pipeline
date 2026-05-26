@@ -1,0 +1,214 @@
+{
+  "doc_id": "Anonymous - 1677 - The Case of His Majesties Plantations_page_3.xml",
+  "text": "(3)\nPlanters intended to have Address'd to this Parliament,\nfor reducing the Book of Rates to the present Value of\nSugars.\nThis low Value of the Commodity causes the Inhabitants\nof the English Colonies to forsake them, and remove\nto other places, whilst the King of France useth all Imaginable\nIndustry to strengthen and fill his Plantations ;\n(some of which are in sight of ours) with Inhabitants,\nhaving made Dunkirk a Free Port for his own Sugars,\nwhere no Customs are paid in or out; by reason of which\nthe Markets of Flanders and Holland, &c. are furnished\nwith French Sugars at 2 s. 6 d. per Hundred cheaper than\nthe English can, by reason of the Acts of Trade and Navigation.\n\nThis increase of the strength of the French Plantations\nand decrease of the English, hath made many of the Planters\nconsider of with-drawing their Stocks, for fear if a\nWar should happen with France all would be lost.\nThe English Sugar Trade being apparently decaying\nunder the present Impositions upon Sugar, can by no\nmeans bear more and subsist; and it is of great advantage\nto France to have our Plantations ruined by more\nImpositions on their Sugars: for should the French gain\nthe Sugar Trade from the English, England would lose\nthe Imployment of 400 Sail of Ships and 8000 Seamen,\nand France would gain it, which would differ the present\nBallance of Seamen 16000, besides the loss of a Native\nCommodity, that hath brought so much Wealth to\nthe Kingdom, and would also be the loss of the Trade of\nAfrica for Negro's.\nIt hath been ever the Practice and Policy of Trading\nNations, to set the Publick Taxes on Foreign Commodities\nand not those of their own growth.\nIn the time of the Usurper Cromwell, when all things\nwere",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 115,
+      "end": 121,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_3_tl_4"
+    },
+    {
+      "id": "e2",
+      "start": 443,
+      "end": 449,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_3_tl_10"
+    },
+    {
+      "id": "e3",
+      "start": 574,
+      "end": 580,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_2_tl_2"
+    },
+    {
+      "id": "e4",
+      "start": 914,
+      "end": 919,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_2_tl_9"
+    },
+    {
+      "id": "e5",
+      "start": 987,
+      "end": 992,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_2_tl_10"
+    },
+    {
+      "id": "e6",
+      "start": 1132,
+      "end": 1138,
+      "label": "COMMODITY",
+      "text": "Sugars",
+      "line_id": "tr_2_tl_13"
+    },
+    {
+      "id": "e7",
+      "start": 1171,
+      "end": 1176,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_2_tl_14"
+    },
+    {
+      "id": "e8",
+      "start": 330,
+      "end": 341,
+      "label": "TOPONYM",
+      "text": "Plantations",
+      "line_id": "tr_3_tl_8"
+    },
+    {
+      "id": "e9",
+      "start": 727,
+      "end": 738,
+      "label": "TOPONYM",
+      "text": "Plantations",
+      "line_id": "tr_2_tl_5"
+    },
+    {
+      "id": "e10",
+      "start": 1084,
+      "end": 1095,
+      "label": "TOPONYM",
+      "text": "Plantations",
+      "line_id": "tr_2_tl_12"
+    },
+    {
+      "id": "e11",
+      "start": 266,
+      "end": 272,
+      "label": "TOPONYM",
+      "text": "France",
+      "line_id": "tr_3_tl_7"
+    },
+    {
+      "id": "e12",
+      "start": 876,
+      "end": 882,
+      "label": "TOPONYM",
+      "text": "France",
+      "line_id": "tr_2_tl_8"
+    },
+    {
+      "id": "e13",
+      "start": 1065,
+      "end": 1071,
+      "label": "TOPONYM",
+      "text": "France",
+      "line_id": "tr_2_tl_12"
+    },
+    {
+      "id": "e14",
+      "start": 1277,
+      "end": 1283,
+      "label": "TOPONYM",
+      "text": "France",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e15",
+      "start": 411,
+      "end": 418,
+      "label": "TOPONYM",
+      "text": "Dunkirk",
+      "line_id": "tr_3_tl_10"
+    },
+    {
+      "id": "e16",
+      "start": 522,
+      "end": 530,
+      "label": "TOPONYM",
+      "text": "Flanders",
+      "line_id": "tr_2_tl_1"
+    },
+    {
+      "id": "e17",
+      "start": 535,
+      "end": 542,
+      "label": "TOPONYM",
+      "text": "Holland",
+      "line_id": "tr_2_tl_1"
+    },
+    {
+      "id": "e18",
+      "start": 1488,
+      "end": 1494,
+      "label": "TOPONYM",
+      "text": "Africa",
+      "line_id": "tr_1_tl_6"
+    },
+    {
+      "id": "e19",
+      "start": 185,
+      "end": 201,
+      "label": "TOPONYM",
+      "text": "English Colonies",
+      "line_id": "tr_3_tl_6"
+    },
+    {
+      "id": "e20",
+      "start": 720,
+      "end": 738,
+      "label": "TOPONYM",
+      "text": "French Plantations",
+      "line_id": "tr_2_tl_5"
+    },
+    {
+      "id": "e21",
+      "start": 1200,
+      "end": 1207,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_14"
+    },
+    {
+      "start": 1499,
+      "end": 1506,
+      "text": "Negro's",
+      "label": "COMMODITY",
+      "id": "e22",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e23",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "King of France",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e24",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "English Sugar Trade",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e25",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Acts of Trade and Navigation",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e26",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Cromwell",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

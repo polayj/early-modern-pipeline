@@ -1,0 +1,150 @@
+{
+  "doc_id": "Anonymous - 1789 - Notes on the two reports from the committee of the honourable house of assembly of Jamaica_page_32.xml",
+  "text": "[ 31 ]\n\"the different precincts and parishes, for returns\nof all trials of slaves, with the charges, conviction,\nand punishment severally had thereon, for\nseveral years last past, viz. From the 1st of\nJanuary 1784, to the 30th of September 1788:\nFrom these returns we are enabled to state the\nfollowing circumstances:—\nIn the parishes and Precinct of St. Catherine,\nSt. John, St. Dorothy, and St. Thomas in the\nVale, containing 21,772 slaves, the number of\ncapital conviction and executions were four\nonly, in the said interval:\nIn the parish of St. Andrew, containing 9,613\nslaves, we find only one execution, in the said\ninterval:\nIn the parishes and Precinct of St. Thomas in\nthe East, and St. David, containing 23,373 slaves,\nthe number of capital conviction and executions\nwere ten, in the said interval:\nIn the parishes and Precinct of St. Mary and\nSt. George, containing 22, 194 slaves, the\nnumber of capital convictions and executions were\nfour, in the said interval:\nIn the parish of St. Ann, containing 13,324\nslaves, the number of capital conviction and\nexecutions were two, in the said interval:\nIn the parish of Trelawny, containing 19,318\nslaves, the number of capital conviction and\nexecutions were seven, in the said interval:\n\" In",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 351,
+      "end": 364,
+      "label": "TOPONYM",
+      "text": "St. Catherine",
+      "line_id": "tr_2_tl_1"
+    },
+    {
+      "id": "e2",
+      "start": 366,
+      "end": 374,
+      "label": "TOPONYM",
+      "text": "St. John",
+      "line_id": "tr_2_tl_2"
+    },
+    {
+      "id": "e3",
+      "start": 376,
+      "end": 387,
+      "label": "TOPONYM",
+      "text": "St. Dorothy",
+      "line_id": "tr_2_tl_2"
+    },
+    {
+      "id": "e4",
+      "start": 393,
+      "end": 415,
+      "label": "TOPONYM",
+      "text": "St. Thomas in the Vale",
+      "line_id": "tr_2_tl_2"
+    },
+    {
+      "id": "e5",
+      "start": 546,
+      "end": 556,
+      "label": "TOPONYM",
+      "text": "St. Andrew",
+      "line_id": "tr_2_tl_6"
+    },
+    {
+      "id": "e6",
+      "start": 665,
+      "end": 687,
+      "label": "TOPONYM",
+      "text": "St. Thomas in the East",
+      "line_id": "tr_2_tl_9"
+    },
+    {
+      "id": "e7",
+      "start": 693,
+      "end": 702,
+      "label": "TOPONYM",
+      "text": "St. David",
+      "line_id": "tr_2_tl_10"
+    },
+    {
+      "id": "e8",
+      "start": 842,
+      "end": 850,
+      "label": "TOPONYM",
+      "text": "St. Mary",
+      "line_id": "tr_1_tl_1"
+    },
+    {
+      "id": "e9",
+      "start": 855,
+      "end": 865,
+      "label": "TOPONYM",
+      "text": "St. George",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e10",
+      "start": 993,
+      "end": 1000,
+      "label": "TOPONYM",
+      "text": "St. Ann",
+      "line_id": "tr_1_tl_5"
+    },
+    {
+      "id": "e11",
+      "start": 1125,
+      "end": 1133,
+      "label": "TOPONYM",
+      "text": "Trelawny",
+      "line_id": "tr_1_tl_8"
+    },
+    {
+      "start": 75,
+      "end": 81,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e12",
+      "line_id": "augmented"
+    },
+    {
+      "start": 435,
+      "end": 441,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e13",
+      "line_id": "augmented"
+    },
+    {
+      "start": 575,
+      "end": 581,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e14",
+      "line_id": "augmented"
+    },
+    {
+      "start": 722,
+      "end": 728,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e15",
+      "line_id": "augmented"
+    },
+    {
+      "start": 886,
+      "end": 892,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e16",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1020,
+      "end": 1026,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e17",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1153,
+      "end": 1159,
+      "text": "slaves",
+      "label": "COMMODITY",
+      "id": "e18",
+      "line_id": "augmented"
+    }
+  ]
+}

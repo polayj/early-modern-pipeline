@@ -1,0 +1,33 @@
+services:
+  neo4j:
+    image: neo4j:community
+    container_name: emgraphrag-neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # Neo4j Browser UI
+      - "7687:7687"   # Bolt protocol (used by Python driver + LangChain)
+    volumes:
+      - /mnt/user/appdata/neo4j/data:/data
+      - /mnt/user/appdata/neo4j/logs:/logs
+      - /mnt/user/appdata/neo4j/import:/var/lib/neo4j/import
+    environment:
+      # Auth — change NEO4J_AUTH to neo4j/<your-password>
+      NEO4J_AUTH: neo4j/password
+
+      # Memory — conservative sizing for 16GB server with ~7.5GB free
+      # ~2.5GB total Neo4j footprint
+      NEO4J_server_memory_heap_initial__size: "1g"
+      NEO4J_server_memory_heap_max__size:     "1g"
+      NEO4J_server_memory_pagecache_size:     "1g"
+
+      # Allow connections from LAN (not just localhost)
+      NEO4J_dbms_connector_bolt_listen__address: "0.0.0.0:7687"
+      NEO4J_dbms_connector_http_listen__address: "0.0.0.0:7474"
+
+# Usage:
+#   docker compose -f neo4j.compose.yml up -d
+#   docker compose -f neo4j.compose.yml down
+#
+# Neo4j Browser: http://<unraid-ip>:7474
+# Bolt URI:      bolt://<unraid-ip>:7687
+# Default login: neo4j / password  (change NEO4J_AUTH above)

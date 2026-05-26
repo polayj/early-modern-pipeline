@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:43:34.957+02:00</Created>
+        <LastChange>2025-10-27T17:47:16.656+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051446" pageNr="62" tsid="258988653" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=WUZKWHIXXNEUJZKJMRFLEDAJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RPBIEULWBQETQZDHXSQNIVKD" imageId="87046338" />
+    </Metadata>
+    <Page imageFilename="11168119_0062_104051446.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586545087" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_1" />
+                <RegionRefIndexed index="2" regionRef="tr_1" />
+                <RegionRefIndexed index="3" regionRef="r_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1078,253 1400,253 1400,382 1078,382" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1088,345 1124,364 1163,330 1229,374 1274,363 1303,335 1353,372 1382,359 1380,260 1363,260 1330,293 1218,289 1198,269 1152,289 1124,271 1086,291" />
+                <Baseline points="1098,346 1124,346 1150,345 1177,341 1203,341 1229,343 1256,345 1282,346 1308,348 1335,349 1361,349 1388,355" />
+                <TextEquiv>
+                    <Unicode>(837)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="421,480 2062,480 2062,976 421,976" />
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="454,599 1999,609 1999,535 1813,510 1369,504 1326,541 1237,506 1121,547 956,508 909,549 719,512 609,566 535,512 454,525" />
+                <Baseline points="465,582 541,583 618,585 695,583 772,582 849,581 926,579 1003,578 1080,578 1157,576 1234,576 1310,576 1387,574 1464,576 1541,578 1618,577 1695,576 1772,579 1849,579 1926,579 2003,579" />
+                <TextEquiv>
+                    <Unicode>III. A Letter of that curious Naturalist Mr. Henry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="541,677 1508,669 1656,712 1696,673 1983,671 1983,624 1921,599 1832,638 1675,599 1615,648 1326,591 1113,640 1068,597 880,599 830,644 541,618" />
+                <Baseline points="552,674 623,671 695,671 767,666 839,665 911,662 982,662 1054,662 1126,662 1198,662 1270,662 1341,662 1413,662 1485,662 1557,663 1629,662 1700,664 1772,666 1844,668 1916,667 1988,662" />
+                <TextEquiv>
+                    <Unicode>Barham, R. S. S. to the Publisher, giving a Relation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="545,768 807,758 855,803 1008,750 2001,772 1974,713 1747,686 1623,729 1508,679 545,706" />
+                <Baseline points="555,755 627,755 700,755 772,755 845,752 917,752 990,749 1062,749 1135,746 1207,747 1280,747 1353,749 1425,749 1498,749 1570,749 1643,750 1715,752 1788,754 1860,755 1933,755 2006,758" />
+                <TextEquiv>
+                    <Unicode>of a fiery Meteor seen by him, in Jamaica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="541,853 640,884 820,839 2005,853 1960,770 1807,818 1753,770 1702,801 1568,766 1516,797 1427,766 1342,822 1243,768 832,826 758,777 541,812" />
+                <Baseline points="552,841 624,844 697,842 770,840 843,838 916,836 989,835 1061,835 1134,835 1207,835 1280,837 1353,835 1426,832 1499,832 1571,835 1644,835 1717,838 1790,838 1863,838 1936,838 2009,838" />
+                <TextEquiv>
+                    <Unicode>to strike into the Earth; with Remarks on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="533,933 1813,940 1815,869 1599,884 1448,847 1375,911 1142,855 1097,888 865,865 816,911 721,867 535,886" />
+                <Baseline points="543,931 606,928 670,928 734,928 798,928 861,925 925,928 989,928 1053,926 1116,926 1180,923 1244,925 1308,925 1371,925 1435,925 1499,922 1563,922 1626,924 1690,924 1754,928 1818,931" />
+                <TextEquiv>
+                    <Unicode>Weather, Earthquakes, &amp;c. of that Island.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="449,986 434,2899 2013,2923 2019,988" />
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="514,1055 545,1076 566,1076 586,1059 601,1070 628,1062 663,1068 681,1084 706,1076 706,1016 688,1018 677,1008 568,1006 533,1035 514,1035" />
+                <Baseline points="525,1059 551,1059 577,1059 604,1059 630,1059 657,1059 683,1061 710,1062" />
+                <TextEquiv>
+                    <Unicode>SIR,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:1;}">
+                <Coords points="646,1134 2007,1148 2007,1092 1917,1066 646,1092" />
+                <Baseline points="656,1134 723,1135 791,1134 859,1134 927,1131 995,1130 1062,1131 1130,1131 1198,1128 1266,1128 1334,1125 1401,1125 1469,1125 1537,1128 1605,1128 1673,1128 1740,1129 1808,1129 1876,1131 1944,1133 2012,1134" />
+                <TextEquiv>
+                    <Unicode>ACcording to your Request I have collected what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:2;}">
+                <Coords points="690,1219 2001,1214 1960,1150 1840,1140 1332,1146 1183,1187 1049,1144 849,1185 690,1155" />
+                <Baseline points="701,1206 766,1206 831,1206 896,1205 962,1203 1027,1200 1092,1200 1157,1200 1223,1200 1288,1197 1353,1199 1418,1197 1484,1199 1549,1197 1614,1200 1679,1197 1745,1197 1810,1199 1875,1200 1940,1202 2006,1206" />
+                <TextEquiv>
+                    <Unicode>I can remember, relating to a Meteor I saw in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;}">
+                <Coords points="463,1268 1995,1301 1995,1235 1923,1212 1572,1250 962,1212 917,1247 686,1241 618,1187 566,1239 463,1231" />
+                <Baseline points="474,1256 550,1253 626,1258 702,1268 779,1273 855,1271 931,1271 1008,1271 1084,1268 1160,1268 1237,1265 1313,1265 1389,1266 1465,1268 1542,1265 1618,1265 1694,1263 1771,1268 1847,1270 1923,1272 2000,1280" />
+                <TextEquiv>
+                    <Unicode>Jamaica about the Year 1700, as I was riding</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:4;}">
+                <Coords points="454,1349 1995,1355 1995,1305 454,1318" />
+                <Baseline points="465,1346 541,1345 618,1340 695,1343 772,1343 848,1342 925,1343 1002,1340 1079,1339 1155,1337 1232,1340 1309,1337 1386,1337 1462,1337 1539,1338 1616,1336 1693,1337 1769,1337 1846,1339 1923,1340 2000,1343" />
+                <TextEquiv>
+                    <Unicode>one Morning from my Habitation situated about Three</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:5;}">
+                <Coords points="459,1425 1995,1419 1995,1353 459,1357" />
+                <Baseline points="471,1415 547,1415 623,1412 700,1412 776,1410 853,1412 929,1409 1006,1407 1082,1409 1159,1409 1235,1406 1311,1406 1388,1406 1464,1406 1541,1403 1617,1406 1694,1406 1770,1406 1847,1406 1923,1407 2000,1412" />
+                <TextEquiv>
+                    <Unicode>Miles North-West from St. Jago de la Vega: I saw a Ball</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:6;}">
+                <Coords points="454,1487 1983,1506 1954,1425 1786,1452 1603,1413 717,1468 522,1427 454,1464" />
+                <Baseline points="465,1486 541,1483 617,1481 693,1483 769,1484 845,1482 921,1480 998,1480 1074,1477 1150,1477 1226,1477 1302,1474 1378,1474 1454,1477 1531,1474 1607,1476 1683,1474 1759,1474 1835,1477 1911,1477 1988,1486" />
+                <TextEquiv>
+                    <Unicode>of Fire, appearing to me of the Bigness of a Bomb,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="454,1565 1995,1565 1960,1499 1813,1489 1578,1534 1456,1489 1241,1528 1144,1493 454,1516" />
+                <Baseline points="465,1558 541,1554 618,1555 695,1552 772,1552 848,1551 925,1549 1002,1549 1079,1549 1155,1549 1232,1549 1309,1549 1386,1546 1462,1546 1539,1546 1616,1545 1693,1546 1769,1546 1846,1548 1923,1547 2000,1552" />
+                <TextEquiv>
+                    <Unicode>swiftly falling down with a great Blaze. As I thought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="452,1632 1993,1629 1976,1584 1710,1561 452,1588" />
+                <Baseline points="462,1630 538,1624 615,1624 692,1624 769,1623 845,1623 922,1624 999,1619 1076,1618 1152,1618 1229,1618 1306,1618 1383,1618 1459,1618 1536,1616 1613,1612 1690,1615 1766,1618 1843,1618 1920,1620 1997,1618" />
+                <TextEquiv>
+                    <Unicode>it fell into the Town; but when I came within a quarter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:9;}">
+                <Coords points="459,1706 1807,1716 1999,1700 2001,1629 459,1656" />
+                <Baseline points="471,1698 547,1697 624,1692 700,1692 777,1692 854,1691 930,1689 1007,1689 1083,1691 1160,1689 1237,1686 1313,1684 1390,1684 1466,1686 1543,1684 1620,1681 1696,1686 1773,1683 1849,1686 1926,1688 2003,1686" />
+                <TextEquiv>
+                    <Unicode>of a Mile of the Town, I saw many People gather'd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:10;}">
+                <Coords points="452,1772 1997,1772 1999,1720 454,1735" />
+                <Baseline points="462,1764 539,1766 616,1764 693,1764 770,1764 847,1764 924,1761 1001,1759 1078,1761 1155,1758 1232,1758 1309,1756 1386,1755 1463,1755 1540,1755 1617,1755 1694,1755 1771,1755 1848,1758 1925,1758 2003,1755" />
+                <TextEquiv>
+                    <Unicode>together a little to the Southward in the Savanna, to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:11;}">
+                <Coords points="454,1838 2005,1840 2005,1795 1603,1764 1541,1803 1103,1770 1004,1820 838,1774 739,1813 454,1801" />
+                <Baseline points="465,1836 542,1836 619,1836 696,1834 773,1833 851,1833 928,1833 1005,1833 1082,1830 1159,1830 1237,1828 1314,1827 1391,1824 1468,1824 1545,1824 1623,1824 1700,1824 1777,1827 1854,1827 1931,1830 2009,1833" />
+                <TextEquiv>
+                    <Unicode>whom I rode up, where they were admiring at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:12;}">
+                <Coords points="458,1914 2007,1910 1978,1853 1873,1840 458,1861" />
+                <Baseline points="468,1904 545,1905 622,1907 699,1904 776,1903 854,1907 931,1901 1008,1901 1085,1900 1162,1901 1240,1898 1317,1895 1394,1898 1471,1898 1548,1898 1626,1895 1703,1895 1780,1895 1857,1897 1934,1898 2012,1898" />
+                <TextEquiv>
+                    <Unicode>Ground's being strangely broke and plough'd in by a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:13;}">
+                <Coords points="452,1929 731,1917 979,1912 1789,1912 2005,1947 2005,1977 1906,1981 452,1987" />
+                <Baseline points="462,1979 534,1978 606,1976 679,1974 751,1973 824,1974 896,1973 968,1973 1041,1972 1113,1969 1186,1967 1258,1970 1330,1967 1403,1968 1475,1969 1548,1967 1620,1967 1692,1967 1765,1966 1837,1967 1910,1970 1962,1977 2005,1977" />
+                <TextEquiv>
+                    <Unicode>Ball of Fire, which, as they said, fell down there. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:14;}">
+                <Coords points="452,2059 1993,2051 1954,1981 1815,2018 1762,1978 452,2014" />
+                <Baseline points="462,2051 538,2050 615,2045 692,2045 769,2044 845,2044 922,2042 999,2042 1076,2041 1152,2039 1229,2036 1306,2036 1383,2036 1459,2036 1536,2034 1613,2037 1690,2036 1766,2039 1843,2039 1920,2039 1997,2039" />
+                <TextEquiv>
+                    <Unicode>observed there were many Holes in the Ground, one in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:15;}">
+                <Coords points="448,2127 1999,2125 1976,2057 1683,2086 1549,2042 450,2084" />
+                <Baseline points="459,2119 536,2119 613,2119 691,2116 768,2113 845,2113 923,2111 1000,2110 1077,2110 1155,2107 1232,2107 1309,2107 1387,2105 1464,2104 1541,2105 1619,2107 1696,2107 1773,2106 1851,2107 1928,2108 2006,2107" />
+                <TextEquiv>
+                    <Unicode>the middle of the Bigness of a Man's skull, and five or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:16;}">
+                <Coords points="454,2199 1999,2189 1999,2142 454,2146" />
+                <Baseline points="465,2188 541,2188 618,2188 695,2186 772,2182 849,2183 926,2182 1003,2179 1080,2182 1157,2179 1234,2176 1310,2177 1387,2179 1464,2176 1541,2176 1618,2176 1695,2176 1772,2176 1849,2176 1926,2176 2003,2179" />
+                <TextEquiv>
+                    <Unicode>six smaller Holes round about it, of the Bigness of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:17;}">
+                <Coords points="463,2272 2012,2255 2012,2214 1914,2235 1867,2191 1297,2187 1177,2233 964,2195 799,2241 744,2195 463,2202" />
+                <Baseline points="474,2257 551,2257 628,2256 705,2254 782,2254 859,2255 936,2252 1013,2251 1090,2248 1167,2248 1244,2245 1321,2245 1398,2247 1475,2247 1552,2245 1629,2248 1706,2248 1783,2248 1860,2248 1937,2249 2015,2251" />
+                <TextEquiv>
+                    <Unicode>Man's Fist, and so deep (especially the biggest) as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:18;}">
+                <Coords points="452,2338 2001,2332 2001,2280 452,2290" />
+                <Baseline points="462,2325 539,2325 616,2322 693,2322 770,2323 847,2322 924,2322 1001,2319 1078,2318 1155,2316 1232,2316 1309,2316 1386,2318 1463,2316 1540,2316 1617,2316 1694,2316 1771,2316 1848,2316 1925,2316 2003,2316" />
+                <TextEquiv>
+                    <Unicode>not to be fathom'd by what long Switches or Sticks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:19;}">
+                <Coords points="454,2406 1663,2414 1927,2404 1995,2359 1305,2328 1033,2338 993,2379 938,2332 456,2369" />
+                <Baseline points="465,2397 541,2397 618,2394 694,2391 771,2393 848,2394 924,2394 1001,2392 1077,2390 1154,2387 1231,2388 1307,2387 1384,2388 1460,2388 1537,2386 1614,2386 1690,2385 1767,2385 1843,2387 1920,2388 1997,2388" />
+                <TextEquiv>
+                    <Unicode>they had at hand. I did not hear that any was so curious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:20;}">
+                <Coords points="459,2484 1995,2476 1995,2420 459,2429" />
+                <Baseline points="471,2466 547,2466 623,2465 700,2463 776,2465 853,2464 929,2462 1006,2460 1082,2460 1159,2460 1235,2457 1311,2457 1388,2457 1464,2458 1541,2457 1617,2457 1694,2457 1770,2457 1847,2459 1923,2460 2000,2466" />
+                <TextEquiv>
+                    <Unicode>as to make any farther Search: It was observ'd,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:21;}">
+                <Coords points="452,2538 2001,2548 1919,2470 452,2501" />
+                <Baseline points="462,2537 539,2537 616,2534 693,2534 770,2534 847,2532 924,2531 1001,2528 1078,2528 1155,2530 1232,2528 1309,2525 1386,2528 1463,2528 1540,2528 1617,2528 1694,2525 1771,2528 1848,2528 1925,2528 2003,2537" />
+                <TextEquiv>
+                    <Unicode>that the green Grass was perfectly burnt near the Holes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:22;}">
+                <Coords points="454,2613 2003,2611 2003,2559 454,2573" />
+                <Baseline points="465,2606 542,2606 619,2606 696,2606 773,2605 850,2600 927,2603 1004,2600 1081,2600 1158,2600 1235,2598 1312,2599 1389,2597 1466,2597 1543,2595 1620,2597 1697,2597 1774,2597 1851,2597 1928,2597 2006,2600" />
+                <TextEquiv>
+                    <Unicode>and a strong Smell of Sulphur remain'd thereabouts for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:23;}">
+                <Coords points="458,2691 535,2708 679,2675 700,2691 1010,2683 1012,2641 927,2615 861,2646 752,2617 679,2643 655,2619 520,2656 459,2641" />
+                <Baseline points="468,2678 495,2675 522,2675 550,2675 577,2675 604,2675 632,2675 659,2675 686,2675 714,2675 741,2675 768,2675 796,2675 823,2673 850,2672 878,2672 905,2672 932,2672 960,2670 987,2670 1015,2672" />
+                <TextEquiv>
+                    <Unicode>a good while after.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:24;}">
+                <Coords points="520,2751 2001,2749 1979,2677 1850,2720 1737,2677 520,2710" />
+                <Baseline points="531,2746 604,2743 678,2743 751,2743 825,2740 899,2739 972,2740 1046,2737 1119,2737 1193,2734 1267,2737 1340,2736 1414,2737 1487,2734 1561,2737 1635,2737 1708,2736 1782,2734 1855,2734 1929,2734 2003,2737" />
+                <TextEquiv>
+                    <Unicode>Note that we had a terrible rainy Night before, with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:25;}">
+                <Coords points="448,2815 2007,2815 2007,2770 1894,2786 1850,2741 1693,2796 1510,2743 448,2786" />
+                <Baseline points="459,2815 536,2818 614,2815 691,2815 769,2815 846,2815 924,2812 1001,2812 1079,2811 1156,2812 1234,2809 1311,2809 1389,2809 1466,2809 1544,2809 1621,2809 1699,2809 1776,2809 1854,2806 1931,2806 2009,2806" />
+                <TextEquiv>
+                    <Unicode>much Lightning and great Thunder-Claps, which we</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:26;}">
+                <Coords points="1846,2879 1863,2879 1869,2885 1941,2883 1950,2893 1972,2900 2009,2893 2009,2840 1993,2834 1904,2834 1875,2817 1855,2836 1846,2836" />
+                <Baseline points="1857,2878 1882,2878 1908,2878 1934,2878 1960,2879 1986,2881 2012,2881" />
+                <TextEquiv>
+                    <Unicode>have</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,166 @@
+{
+  "doc_id": "Anonymous - 1728 - Some observations on the Assiento Trade_page_22.xml",
+  "text": "( 18 )\nsettled with their Wives and Families on the Island;\nmuch less to 1500, as there actually were, before the\nEnglish had the Assiento?\nWhen the Company purchased their Negroes in Jamaica,\ngreat Numbers were brought to that Market,\nwhich indeed occasion'd a Circulation of Money for a\nlittle time; but since they have fallen into the Method\nof sending to Africa to purchase Slaves, they have drove\nseveral private Merchants out of the Trade; and if\nthey pursue the same Measures, will, in a little time,\nengross it to themselves; this will be the same Thing\nin its Consequences, as if they obtained an exclusive\nCharter, which has been so much dreaded and opposed\nby the Merchants of Bristol, and other trading Towns\nas well as London.\nAs to the Advantages, which the Island is said to receive\nby the Shipping which import Negroes into Jamaica\nfor the South-Sea Company, are they any new Acquisitions,\nor equal to what they formerly had even in that\nRespect; were not Ships employ'd, before the South-Sea\nCompany obtained the Assiento Contract, to transport\nNegroes for the Spanish Trade, as well as for the Use of\nthe Island? It is evident, that not only those Ships, but\ntheir Cargoes belong'd to private Merchants in London,\nBristol, and Liverpool, who employ'd Factors settled in\nJamaica, and the supplying the private Traders with Negroes\nwas very beneficial to them, as well as to the Inhabitants;\nand those Factors not only employ'd a great\nNumber of People under them, but purchased the Product\nof the Island to load their Ships; and the Money\nlaid out by those Means, as well as for Stores and Necessaries,\ncirculated in the Island, and occasioned a Life and\nSpirit amongst them.\nFourthly, THAT there had been a greater private\nTrade carried on from Jamaica, since the Year 1723, than\nin eighteen Years which he had known the Island.\nHERE I am at a Loss how to take that Gentleman's\nMeaning; if he would be understood a Trade carried\non by the Merchants who reside in Jamaica, it is contrary\n",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 184,
+      "end": 191,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_2_tl_6"
+    },
+    {
+      "id": "e2",
+      "start": 359,
+      "end": 365,
+      "label": "TOPONYM",
+      "text": "Africa",
+      "line_id": "tr_2_tl_10"
+    },
+    {
+      "id": "e3",
+      "start": 688,
+      "end": 695,
+      "label": "TOPONYM",
+      "text": "Bristol",
+      "line_id": "tr_2_tl_16"
+    },
+    {
+      "id": "e4",
+      "start": 732,
+      "end": 738,
+      "label": "TOPONYM",
+      "text": "London",
+      "line_id": "tr_3_tl_1"
+    },
+    {
+      "id": "e5",
+      "start": 840,
+      "end": 847,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_3_tl_3"
+    },
+    {
+      "id": "e6",
+      "start": 856,
+      "end": 865,
+      "label": "TOPONYM",
+      "text": "South-Sea",
+      "line_id": "tr_3_tl_4"
+    },
+    {
+      "id": "e7",
+      "start": 999,
+      "end": 1008,
+      "label": "TOPONYM",
+      "text": "South-Sea",
+      "line_id": "tr_3_tl_6"
+    },
+    {
+      "id": "e8",
+      "start": 1224,
+      "end": 1230,
+      "label": "TOPONYM",
+      "text": "London",
+      "line_id": "tr_3_tl_10"
+    },
+    {
+      "id": "e9",
+      "start": 1232,
+      "end": 1239,
+      "label": "TOPONYM",
+      "text": "Bristol",
+      "line_id": "tr_3_tl_11"
+    },
+    {
+      "id": "e10",
+      "start": 1245,
+      "end": 1254,
+      "label": "TOPONYM",
+      "text": "Liverpool",
+      "line_id": "tr_3_tl_11"
+    },
+    {
+      "id": "e11",
+      "start": 1288,
+      "end": 1295,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_3_tl_12"
+    },
+    {
+      "id": "e12",
+      "start": 1763,
+      "end": 1770,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_1_tl_5"
+    },
+    {
+      "id": "e13",
+      "start": 1981,
+      "end": 1988,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "tr_1_tl_9"
+    },
+    {
+      "start": 173,
+      "end": 180,
+      "text": "Negroes",
+      "label": "COMMODITY",
+      "id": "e14",
+      "line_id": "augmented"
+    },
+    {
+      "start": 827,
+      "end": 834,
+      "text": "Negroes",
+      "label": "COMMODITY",
+      "id": "e15",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1062,
+      "end": 1069,
+      "text": "Negroes",
+      "label": "COMMODITY",
+      "id": "e16",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1340,
+      "end": 1347,
+      "text": "Negroes",
+      "label": "COMMODITY",
+      "id": "e17",
+      "line_id": "augmented"
+    },
+    {
+      "start": 378,
+      "end": 384,
+      "text": "Slaves",
+      "label": "COMMODITY",
+      "id": "e18",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e19",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "South-Sea Company",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e20",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Merchants of Bristol",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

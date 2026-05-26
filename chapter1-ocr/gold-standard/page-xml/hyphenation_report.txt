@@ -1,0 +1,185 @@
+HYPHENATION FIX REPORT
+================================================================================
+
+Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml
+  Fixes: 2
+
+  [hyphenated]
+    Original: speedi- ly
+    Merged:   speedily
+    Line 1:   I want time to give you a perfect Relation, you sh...
+    Line 2:   ly have a fuller and better account, as soone as w...
+
+  [hyphenated]
+    Original: disco- vered
+    Merged:   discovered
+    Line 1:   and imprisoned in the Castle, and hourely more are...
+    Line 2:   vered and secured, many of them upon examination h...
+
+Anonymous - 1660 - By the merchants owners of ships and mariners, trading to His Majesties sugar-plantations_page_2.xml
+  Fixes: 5
+
+  [hyphenated]
+    Original: them- selves
+    Merged:   themselves
+    Line 1:   shillings a Hundred, and some not above Ten Shilli...
+    Line 2:   selves in their said Accompt, Rating white Sugars ...
+
+  [hyphenated]
+    Original: pro- duce
+    Merged:   produce
+    Line 1:   which is Ten Shillings under their just and Indiff...
+    Line 2:   duce Thirty nine Shillings per Hundred, which is n...
+
+  [hyphenated]
+    Original: rea- dy
+    Merged:   ready
+    Line 1:   duce Thirty nine Shillings per Hundred, which is n...
+    Line 2:   dy to be made appear, that several parcels of whit...
+
+  [hyphenated]
+    Original: there- by
+    Merged:   thereby
+    Line 1:   Rate of unpurged Brown Sugar to half a farthing pe...
+    Line 2:   by receive a Greater and more Certain Revenue, the...
+
+  [hyphenated]
+    Original: re- ceive
+    Merged:   receive
+    Line 1:   tations will be Refined, and Consumed in this King...
+    Line 2:   ceive the full Excise thereof, as well as of White...
+
+Anonymous - 1675 - Every woman her own midwife, or, A Compleat cabinet opened for child-bearing women furnished with di.xml
+  Fixes: 3
+
+  [hyphenated]
+    Original: six- teen
+    Merged:   sixteen
+    Line 1:   of Zedoiar, shaving of Ebony, bone of a Stags hear...
+    Line 2:   teen graines: Fragments of the five pretious stone...
+
+  [hyphenated]
+    Original: mid- dle
+    Merged:   middle
+    Line 1:   Take a great white Onyon, and pick out the coar or...
+    Line 2:   dle of him, then fill the hole with good Venus Tri...
+
+  [hyphenated]
+    Original: un- till
+    Merged:   untill
+    Line 1:   hole of the Onyon again, and rost him in the hot a...
+    Line 2:   till he be soft, then strein it strongly through a...
+
+Anonymous - 1675 - The Accomplish'd lady's delight in preserving, physick, beautifying, and cookery containing I. the a_page_102.xml
+  Fixes: 1
+
+  [hyphenated]
+    Original: ex- cellent
+    Merged:   excellent
+    Line 1:   fuls in Ale, warm, it will procure an ex-
+    Line 2:   cellent Colour, is good for the eye-sight,
+
+Anonymous - 1675 - The gentlewomans cabinet unlocked wherein is contained many excellent receipts for neat dressing of_page_8.xml
+  Fixes: 1
+
+  [hyphenated]
+    Original: Nut- meg
+    Merged:   Nutmeg
+    Line 1:   Eggs and two whites, Currants, Nut-
+    Line 2:   meg and Salt : then put it into the Pan
+
+Anonymous - 1676 - Wonderful news from Bristol_page_5.xml
+  Fixes: 3
+
+  [hyphenated]
+    Original: wo- man
+    Merged:   woman
+    Line 1:   heard a cry of a Kitling or young Cat which the wo...
+    Line 2:   man of the house wondered at because her Cat
+
+  [hyphenated]
+    Original: ob- serving
+    Merged:   observing
+    Line 1:   while find from whence it proceeded, At last ob-
+    Line 2:   serving it came from under a Dresser Tho. Holbrook...
+
+  [hyphenated]
+    Original: fel- low
+    Merged:   fellow
+    Line 1:   Hen, looking upon her, cried out what has this fel...
+    Line 2:   low done? he has spoil'd my Hen, see all her Guts
+
+Anonymous - 1677 - The Case of His Majesties Plantations_page_3.xml
+  Fixes: 2
+
+  [hyphenated]
+    Original: Ima- ginable
+    Merged:   Imaginable
+    Line 1:   to other places, whilst the King of France useth a...
+    Line 2:   ginable Industry to strengthen and fill his Planta...
+
+  [hyphenated]
+    Original: advan- tage
+    Merged:   advantage
+    Line 1:   means bear more and subsist; and it is of great ad...
+    Line 2:   tage to France to have our Plantations ruined by m...
+
+Anonymous - 1680 - The Interest of the three kingdoms, with respect to the business of the black box, and all the other_page_10.xml
+  Fixes: 4
+
+  [hyphenated]
+    Original: ma- nifestly
+    Merged:   manifestly
+    Line 1:   Appeal to the dispersed Body of the People, (a Dec...
+    Line 2:   nifestly impracticable in Government, and fitter i...
+
+  [hyphenated]
+    Original: im- posable
+    Merged:   imposable
+    Line 1:   by his Royal Fiat, makes our Laws; yet no Tax bein...
+    Line 2:   posable but by the consent of the Commons, nor any...
+
+  [hyphenated]
+    Original: con- venient
+    Merged:   convenient
+    Line 1:   and likewise for the Lords, to pass all such Bills...
+    Line 2:   venient for the People, and not greatly hurtful to...
+
+  [hyphenated]
+    Original: pro- tection
+    Merged:   protection
+    Line 1:   to the People, who have as much comfort under the ...
+    Line 2:   tection of his Prerogative, as they have Benefit b...
+
+Anonymous - 1682 - A letter from Jamaica to a friend in London concerning kid-napping_page_1.xml
+  Fixes: 1
+
+  [hyphenated]
+    Original: Com- fort
+    Merged:   Comfort
+    Line 1:   Little Will takes to his business very well; and I...
+    Line 2:   fort of him. Pray Commend me to all my good Friend...
+
+Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml
+  Fixes: 3
+
+  [hyphenated]
+    Original: out- side
+    Merged:   outside
+    Line 1:   inside with yolks of Eggs, wash the out-
+    Line 2:   side of your Veal therewith, and lay it
+
+  [hyphenated]
+    Original: boil- ed
+    Merged:   boiled
+    Line 1:   the skin, then take Broth you have boil-
+    Line 2:   ed some fresh meat in, and boil it over a-
+
+  [hyphenated]
+    Original: quar- ter
+    Merged:   quarter
+    Line 1:   of Horse-raddish root scraped, and a quar-
+    Line 2:   ter of a pound of French-barley; being
+
+================================================================================
+Total fixes: 25

@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:40</Creator>
+        <Created>2025-10-02T01:42:24.128+02:00</Created>
+        <LastChange>2025-10-24T21:54:22.439+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051427" pageNr="32" tsid="258823997" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=HBNZWXDZUPNYUNTTMBSEKWCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DJDWZDHVNEVTMVFHFWQQHQKF" imageId="87046298" />
+    </Metadata>
+    <Page imageFilename="11168119_0032_104051427.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586538989" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+                <RegionRefIndexed index="2" regionRef="r_1" />
+                <RegionRefIndexed index="3" regionRef="tr_3" />
+                <RegionRefIndexed index="4" regionRef="r_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1971,125 2081,125 2081,181 1971,181" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1974,167 1979,167 1991,179 2008,178 2020,169 2029,169 2040,179 2067,178 2067,123 2049,121 2034,135 2019,135 2009,125 1998,135 1974,137" />
+                <Baseline points="1980,170 2025,164 2069,170" />
+                <TextEquiv>
+                    <Unicode>[2]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1713,173 2330,212 2286,1330 1655,1262" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1748,194 2319,232 2321,202 1750,164" />
+                <Baseline points="1748,194 2319,232" />
+                <TextEquiv>
+                    <Unicode>But that this has been so for many Years past can never be questioned or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="1730,214 2318,250 2320,220 1732,184" />
+                <Baseline points="1730,214 2318,250" />
+                <TextEquiv>
+                    <Unicode>denied. For the People of New-England, and other Parts of the Continent,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="1730,233 2318,268 2320,238 1732,203" />
+                <Baseline points="1730,233 2318,268" />
+                <TextEquiv>
+                    <Unicode>have supplied the French Sugar-Colonies with Provisions, and Necessaries of all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="1727,251 2320,288 2322,258 1729,221" />
+                <Baseline points="1727,251 2320,288" />
+                <TextEquiv>
+                    <Unicode>kinds for their Plantations, and have taken from them sugars, and great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="1725,271 2318,307 2320,277 1727,241" />
+                <Baseline points="1725,271 2318,307" />
+                <TextEquiv>
+                    <Unicode>Quantities of Rum, which the French never made before (as interfering with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="1725,292 2163,316 2165,286 1727,262" />
+                <Baseline points="1725,292 2163,316" />
+                <TextEquiv>
+                    <Unicode>French Brandy) till they found a Vent for it by this Trade.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="1743,329 2317,365 2319,335 1745,299" />
+                <Baseline points="1743,329 2317,365" />
+                <TextEquiv>
+                    <Unicode>AND they take off likewise great Quantities of the French Molosses, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="1724,346 2315,381 2317,351 1726,316" />
+                <Baseline points="1724,346 2315,381" />
+                <TextEquiv>
+                    <Unicode>was useless to them before, for the same Reason, that the distilling it would hinder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="1718,365 1963,378 1965,348 1720,335" />
+                <Baseline points="1718,365 1963,378" />
+                <TextEquiv>
+                    <Unicode>the Consumption of Brandy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="1740,404 2313,439 2315,409 1742,374" />
+                <Baseline points="1740,404 2313,439" />
+                <TextEquiv>
+                    <Unicode>AND such French Rum and Molosses is often bought by them with Money</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="1718,423 2189,448 2191,418 1720,393" />
+                <Baseline points="1718,423 2189,448" />
+                <TextEquiv>
+                    <Unicode>received in our Sugar-Colonies, from their Cargoes sold there.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;}">
+                <Coords points="1738,459 2313,495 2315,465 1740,429" />
+                <Baseline points="1738,459 2313,495" />
+                <TextEquiv>
+                    <Unicode>THE Mischiefs from this Commerce are very many and evident, and will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;}">
+                <Coords points="1716,479 2309,515 2311,485 1718,449" />
+                <Baseline points="1716,479 2309,515" />
+                <TextEquiv>
+                    <Unicode>encrease more and more every Year, if some effectual Stop be not put to it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="1731,515 2307,549 2309,519 1733,485" />
+                <Baseline points="1731,515 2307,549" />
+                <TextEquiv>
+                    <Unicode>BY this means the French have encreased their Plantations, and made new</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:14;}">
+                <Coords points="1715,535 2307,568 2309,538 1717,505" />
+                <Baseline points="1715,535 2307,568" />
+                <TextEquiv>
+                    <Unicode>settlements, and chiefly supply Hamburgh, Holland, Spain, the Levant, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:15;}">
+                <Coords points="1711,554 2232,584 2234,554 1713,524" />
+                <Baseline points="1711,554 2232,584" />
+                <TextEquiv>
+                    <Unicode>Medditerranean, with Sugars, which were formerly sent thither by us.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:16;}">
+                <Coords points="1727,593 2303,629 2305,599 1729,563" />
+                <Baseline points="1727,593 2303,629" />
+                <TextEquiv>
+                    <Unicode>THE British Sugar-Colonies can't find the Market for their Sugars abroad,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:17;}">
+                <Coords points="1711,611 2267,643 2269,613 1713,581" />
+                <Baseline points="1711,611 2267,643" />
+                <TextEquiv>
+                    <Unicode>which they did formerly, but chiefly depend upon our own Consumption.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:18;}">
+                <Coords points="1725,648 2302,680 2304,650 1727,618" />
+                <Baseline points="1725,648 2302,680" />
+                <TextEquiv>
+                    <Unicode>MANY of the Inhabitants and Planters are so redusced, that they are removing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:19;}">
+                <Coords points="1705,668 2301,701 2303,671 1707,638" />
+                <Baseline points="1705,668 2301,701" />
+                <TextEquiv>
+                    <Unicode>to the Northern Colonies ; which, in Case of a War with France, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:20;}">
+                <Coords points="1703,686 2300,720 2302,690 1705,656" />
+                <Baseline points="1703,686 2300,720" />
+                <TextEquiv>
+                    <Unicode>all Probability, will occasion the entire Loss of the Sugar Island ; there being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:21;}">
+                <Coords points="1703,706 2219,734 2221,704 1705,676" />
+                <Baseline points="1703,706 2219,734" />
+                <TextEquiv>
+                    <Unicode>in Martinico alone upwards of Nine Thousand well-disciplin'd Men.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:22;}">
+                <Coords points="1720,742 1758,743 1816,744 1925,750 2112,763 2298,775 2300,745 2114,733 1927,720 1817,714 1759,713 1721,712" />
+                <Baseline points="1720,742 1758,743 1816,744 1925,750 2112,763 2298,775" />
+                <TextEquiv>
+                    <Unicode>THE British Sugar Islands are constantly drained of their current Monies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:23;}">
+                <Coords points="1698,763 1817,765 1942,769 2147,782 2299,794 2301,764 2149,752 1943,739 1818,735 1699,733" />
+                <Baseline points="1698,763 1817,765 1942,769 2147,782 2299,794" />
+                <TextEquiv>
+                    <Unicode>by the Traders from the Northern Colonies, who carry it away to purchase</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:24;}">
+                <Coords points="1699,782 1919,788 2139,801 2141,771 1920,758 1700,752" />
+                <Baseline points="1699,782 1919,788 2139,801" />
+                <TextEquiv>
+                    <Unicode>Sugar, Rum, and Molosses, from the French Plantations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:25;}">
+                <Coords points="1715,820 1923,827 2062,836 2212,848 2296,855 2298,825 2214,818 2064,806 1924,797 1716,790" />
+                <Baseline points="1715,820 1923,827 2062,836 2212,848 2296,855" />
+                <TextEquiv>
+                    <Unicode>THAT by this Intercourse, they have an Opportunity of taking off great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:26;}">
+                <Coords points="1698,839 1939,847 2291,873 2293,843 1941,817 1699,809" />
+                <Baseline points="1698,839 1939,847 2291,873" />
+                <TextEquiv>
+                    <Unicode>Quantities of Foreign European Manufactures, and India Goods, in a Clandestine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:27;}">
+                <Coords points="1694,859 1827,863 1950,867 2037,874 2039,844 1952,837 1828,833 1695,829" />
+                <Baseline points="1694,859 1827,863 1950,867 2037,874" />
+                <TextEquiv>
+                    <Unicode>Manner, from the French and Dutch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:28;}">
+                <Coords points="1711,896 2020,910 2290,930 2292,900 2022,880 1712,866" />
+                <Baseline points="1711,896 2020,910 2290,930" />
+                <TextEquiv>
+                    <Unicode>AND what is worthy of great Consideration, is, that tho' the Northern Colonies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:29;}">
+                <Coords points="1691,914 1910,923 2055,930 2159,938 2288,948 2290,918 2161,908 2057,900 1911,893 1692,884" />
+                <Baseline points="1691,914 1910,923 2055,930 2159,938 2288,948" />
+                <TextEquiv>
+                    <Unicode>may be Gainers upon the whole by this Trade ; yet the French Sugar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:30;}">
+                <Coords points="1693,935 1915,943 2056,950 2288,965 2290,935 2058,920 1916,913 1694,905" />
+                <Baseline points="1693,935 1915,943 2056,950 2288,965" />
+                <TextEquiv>
+                    <Unicode>Colonies recieve much more Advantage thereby than the Northern Colonies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:31;}">
+                <Coords points="1688,954 1801,957 1956,962 2132,973 2288,984 2290,954 2134,943 1957,932 1802,927 1689,924" />
+                <Baseline points="1688,954 1801,957 1956,962 2132,973 2288,984" />
+                <TextEquiv>
+                    <Unicode>do, Rum and Molosses being clear Profit to the French ; and the Cattle and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:32;}">
+                <Coords points="1692,973 1856,979 2083,991 2286,1004 2288,974 2085,961 1857,949 1693,943" />
+                <Baseline points="1692,973 1856,979 2083,991 2286,1004" />
+                <TextEquiv>
+                    <Unicode>Lumber they receive, absolutely necessary for them, and which they could not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:33;}">
+                <Coords points="1689,992 1894,998 2076,1010 2287,1023 2289,993 2078,980 1895,968 1690,962" />
+                <Baseline points="1689,992 1894,998 2076,1010 2287,1023" />
+                <TextEquiv>
+                    <Unicode>have from any other Place. Nor do the Northern Colonies take from hence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:34;}">
+                <Coords points="1690,1012 1943,1021 2126,1033 2284,1041 2286,1011 2128,1003 1945,991 1691,982" />
+                <Baseline points="1690,1012 1943,1021 2126,1033 2284,1041" />
+                <TextEquiv>
+                    <Unicode>more of the British Manufactures than they formerly did ; nor bring a Profit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:35;}">
+                <Coords points="1688,1030 1966,1040 2285,1060 2287,1030 1967,1010 1689,1000" />
+                <Baseline points="1688,1030 1966,1040 2285,1060" />
+                <TextEquiv>
+                    <Unicode>to Great Britian from this Trade, any way in Proportion to counterbalance the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:36;}">
+                <Coords points="1687,1048 1935,1059 2281,1079 2283,1049 1937,1029 1688,1018" />
+                <Baseline points="1687,1048 1935,1059 2281,1079" />
+                <TextEquiv>
+                    <Unicode>increadible Damage Great Britain must suffer from the Mischief the Sugar-Colonies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:37;}">
+                <Coords points="1686,1068 1898,1078 2283,1099 2285,1069 1900,1048 1687,1038" />
+                <Baseline points="1686,1068 1898,1078 2283,1099" />
+                <TextEquiv>
+                    <Unicode>receive by it ; The ruin of which must immediately affect Great Britain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:38;}">
+                <Coords points="1688,1087 1856,1096 1858,1066 1690,1057" />
+                <Baseline points="1688,1087 1856,1096" />
+                <TextEquiv>
+                    <Unicode>in the highest Degree.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:39;}">
+                <Coords points="1700,1123 2280,1157 2282,1127 1702,1093" />
+                <Baseline points="1700,1123 2280,1157" />
+                <TextEquiv>
+                    <Unicode>BESIDES the great Benefit the French Colonies receive from this Trade,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:40;}">
+                <Coords points="1684,1143 2280,1174 2282,1144 1686,1113" />
+                <Baseline points="1684,1143 2280,1174" />
+                <TextEquiv>
+                    <Unicode>which of itself alone must soon destroy the British Sugar-Colonies, there are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:41;}">
+                <Coords points="1682,1160 2280,1194 2282,1164 1684,1130" />
+                <Baseline points="1682,1160 2280,1194" />
+                <TextEquiv>
+                    <Unicode>other Causes which will contribute to make our Sugar-Colonies decline, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:42;}">
+                <Coords points="1679,1181 2106,1205 2108,1175 1681,1151" />
+                <Baseline points="1679,1181 2106,1205" />
+                <TextEquiv>
+                    <Unicode>enable the French to supply foreign Markets with Sugar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:43;}">
+                <Coords points="1700,1219 2273,1252 2275,1222 1702,1189" />
+                <Baseline points="1700,1219 2273,1252" />
+                <TextEquiv>
+                    <Unicode>THE French Sugar-Colonies receive the greatest Encouragement from their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:44;}">
+                <Coords points="1677,1237 2089,1261 2091,1231 1679,1207" />
+                <Baseline points="1677,1237 2089,1261" />
+                <TextEquiv>
+                    <Unicode>Mother-Country, and their Duties are less than ours.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:45;}">
+                <Coords points="2185,1313 2274,1318 2276,1288 2187,1283" />
+                <Baseline points="2185,1313 2274,1318" />
+                <TextEquiv>
+                    <Unicode>WHEREAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2760,163 2858,164 2858,213 2764,211" />
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2759,199 2764,199 2775,210 2796,207 2817,210 2824,204 2831,210 2847,210 2848,155 2809,167 2800,161 2792,164 2781,157 2760,159" />
+                <Baseline points="2765,203 2804,200 2849,200" />
+                <TextEquiv>
+                    <Unicode>[3]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2501,214 3116,220 3114,663 2501,659" />
+            <TextLine id="l_46" custom="readingOrder {index:0;}">
+                <Coords points="2532,238 2615,239 2652,240 2702,238 2752,239 2822,239 2852,240 2872,240 2903,241 2986,242 3038,243 3103,242 3103,212 3038,213 2986,212 2904,211 2872,210 2852,210 2822,209 2752,209 2702,208 2652,210 2616,209 2532,208" />
+                <Baseline points="2532,238 2615,239 2652,240 2702,238 2752,239 2822,239 2852,240 2872,240 2903,241 2986,242 3038,243 3103,242" />
+                <TextEquiv>
+                    <Unicode>WHEREAS the British Sugar-Colonies pay in the Plantations a Duty of Four</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:1;}">
+                <Coords points="2513,259 2556,257 2656,258 2786,257 2976,261 3107,263 3107,233 2977,231 2786,227 2656,228 2555,227 2512,229" />
+                <Baseline points="2513,259 2556,257 2656,258 2786,257 2976,261 3107,263" />
+                <TextEquiv>
+                    <Unicode>and a half per Cent, for their Sugars before they can ship them to Great Britain,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:2;}">
+                <Coords points="2514,280 2589,276 2699,277 2847,278 3104,282 3104,252 2847,248 2699,247 2588,246 2512,250" />
+                <Baseline points="2514,280 2589,276 2699,277 2847,278 3104,282" />
+                <TextEquiv>
+                    <Unicode>which is never drawn back on Exportation, no more than the Excise on Rum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:3;}">
+                <Coords points="2517,296 2704,296 2929,298 3105,300 3105,270 2929,268 2704,266 2517,266" />
+                <Baseline points="2517,296 2704,296 2929,298 3105,300" />
+                <TextEquiv>
+                    <Unicode>which disables them from supplying Ireland with it : And if their Sugars are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:4;}">
+                <Coords points="2513,315 2594,314 2755,314 2934,317 3106,319 3106,289 2934,287 2755,284 2594,284 2513,285" />
+                <Baseline points="2513,315 2594,314 2755,314 2934,317 3106,319" />
+                <TextEquiv>
+                    <Unicode>carried to the Northern Colonies they must pay the Plantation Duty of Eighteen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:5;}">
+                <Coords points="2513,334 2624,333 2747,335 2901,336 3105,339 3105,309 2901,306 2747,305 2624,303 2513,304" />
+                <Baseline points="2513,334 2624,333 2747,335 2901,336 3105,339" />
+                <TextEquiv>
+                    <Unicode>Pence per Cent for their Muscavado Sugars, and Five Shillings per Cent for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:6;}">
+                <Coords points="2515,352 2642,353 3039,356 3039,326 2642,323 2515,322" />
+                <Baseline points="2515,352 2642,353 3039,356" />
+                <TextEquiv>
+                    <Unicode>their white Sugar over and above the Four and a half per Cent Duty.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:7;}">
+                <Coords points="2533,388 3107,395 3107,365 2533,358" />
+                <Baseline points="2533,388 3107,395" />
+                <TextEquiv>
+                    <Unicode>UPON the whole ; If this Trade to the Foreign Sugar Colonies be not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:8;}">
+                <Coords points="2512,408 3101,413 3101,383 2512,378" />
+                <Baseline points="2512,408 3101,413" />
+                <TextEquiv>
+                    <Unicode>speedily and effectually prevented, the British Sugar-Colonies will be in Danger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:9;}">
+                <Coords points="2512,429 2819,428 3105,433 3106,403 2819,398 2512,399" />
+                <Baseline points="2512,429 2819,428 3105,433" />
+                <TextEquiv>
+                    <Unicode>of being ruined. The Consequence of which to Great Britain will be, that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:10;}">
+                <Coords points="2514,446 2686,447 3105,451 3105,421 2686,417 2514,416" />
+                <Baseline points="2514,446 2686,447 3105,451" />
+                <TextEquiv>
+                    <Unicode>she must lose the Export of all the British Manufactures now taken off by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:11;}">
+                <Coords points="2513,464 3105,471 3105,441 2513,434" />
+                <Baseline points="2513,464 3105,471" />
+                <TextEquiv>
+                    <Unicode>Sugar-Colonies, and the whole Benefit arising from the importation of their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:12;}">
+                <Coords points="2513,484 2575,483 2575,453 2513,454" />
+                <Baseline points="2513,484 2575,483" />
+                <TextEquiv>
+                    <Unicode>Product.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_59" custom="readingOrder {index:13;}">
+                <Coords points="2531,520 3061,528 3061,498 2531,490" />
+                <Baseline points="2531,520 3061,528" />
+                <TextEquiv>
+                    <Unicode>OUR Navigation and Seamen must necessarily fall off and diminish.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:14;}">
+                <Coords points="2531,560 3103,568 3103,538 2531,530" />
+                <Baseline points="2531,560 3103,568" />
+                <TextEquiv>
+                    <Unicode>THE African Trade, as chiefly depending on the Sugar-Colonies, must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:15;}">
+                <Coords points="2510,579 2558,579 2558,549 2510,549" />
+                <Baseline points="2510,579 2558,579" />
+                <TextEquiv>
+                    <Unicode>decay.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:16;}">
+                <Coords points="2533,614 3105,625 3106,595 2534,584" />
+                <Baseline points="2533,614 3105,625" />
+                <TextEquiv>
+                    <Unicode>AND our Sugar Works, and other Plantation Stocks, and Utensils, will be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_63" custom="readingOrder {index:17;}">
+                <Coords points="2513,634 3104,644 3105,614 2514,604" />
+                <Baseline points="2513,634 3104,644" />
+                <TextEquiv>
+                    <Unicode>of no Use, and thereby so much Wealth will be actually sunk and lost to this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:18;}">
+                <Coords points="2512,653 2567,655 2568,625 2513,623" />
+                <Baseline points="2512,653 2567,655" />
+                <TextEquiv>
+                    <Unicode>Nation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

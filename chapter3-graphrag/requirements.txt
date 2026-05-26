@@ -1,0 +1,28 @@
+# Core parsing (WSL2 — already run)
+openpyxl>=3.1
+pandas>=2.0
+tqdm>=4.65
+
+# NER (school computer / Nibi)
+earlymodernner
+
+# Step 3b — Entity linking (LOD / LINCS / CIDOC-CRM)
+SPARQLWrapper>=2.0              # SPARQL endpoint queries (Wikidata, Getty AAT)
+rdflib>=7.0                     # RDF/Turtle serialization (LINCS export)
+
+# Step 4 — Temporal KG extraction (school computer)
+itext2kg                        # ATOM graph builder
+langchain
+langchain-ollama                # ChatOllama (Qwen3 via local Ollama)
+langchain-huggingface           # HuggingFaceEmbeddings (Qwen3-Embedding-8B)
+langchain-neo4j                 # Neo4jGraph + GraphCypherQAChain
+langchain-core
+sentence-transformers>=3.0      # backend for Qwen3-Embedding-8B
+neo4j                           # Python driver for Neo4j bolt protocol
+pyyaml                          # config file parsing
+
+# Step 5 — Vector embeddings (school computer)
+chromadb                        # vector store (server mode on Unraid or local)
+
+# Step 6 — Query (any machine)
+langchain-chroma                # LangChain ↔ ChromaDB integration

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:46:31.455+02:00</Created>
+        <LastChange>2025-10-27T18:11:52.412+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051500" pageNr="95" tsid="258992788" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=CQBFIOOWVQXKGDEMTARWGMFV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXCXXWDXIZFBTUXOTACFRNVX" imageId="87046470" />
+    </Metadata>
+    <Page imageFilename="11168119_0095_104051500.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586551519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1084,89 1337,89 1337,199 1084,199" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1120,203 1139,205 1161,227 1189,225 1241,186 1260,186 1262,56 1219,63 1215,56 1167,61 1163,54 1124,54" />
+                <Baseline points="1134,170 1160,170 1186,169 1212,168 1238,167 1265,167" />
+                <TextEquiv>
+                    <Unicode>( 28 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="358,207 378,3033 2110,3152 2097,196" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="354,285 1005,337 1182,274 1748,333 1945,277 2070,331 2070,164 1161,227 614,162 549,212 354,210" />
+                <Baseline points="367,274 452,280 537,280 623,269 708,265 793,267 879,268 964,268 1049,271 1135,274 1220,277 1305,274 1391,274 1476,274 1561,274 1647,276 1732,274 1817,274 1903,271 1988,272 2074,274" />
+                <TextEquiv>
+                    <Unicode>ed. This was the Case of Doctor Dwyer and of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="359,404 471,372 854,372 856,309 761,316 687,279 594,290 555,320 467,292 361,290" />
+                <Baseline points="370,364 395,364 421,363 446,361 472,361 497,361 523,361 549,361 574,359 600,358 625,358 651,358 676,358 702,356 728,355 753,355 779,356 804,357 830,358 856,358" />
+                <TextEquiv>
+                    <Unicode>several others.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="454,484 1256,445 1390,499 1556,447 2073,478 2073,389 1824,359 1225,346 1033,415 919,352 798,404 454,376" />
+                <Baseline points="465,453 545,450 626,447 706,443 787,442 868,444 948,444 1029,444 1109,447 1190,447 1271,444 1351,446 1432,447 1512,447 1593,447 1674,447 1754,450 1835,449 1915,450 1996,450 2077,456" />
+                <TextEquiv>
+                    <Unicode>Before we point out a Method of Cure drawn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="354,551 2070,562 2070,504 1852,458 1429,497 354,458" />
+                <Baseline points="367,534 452,537 537,538 623,537 708,537 793,532 879,531 964,531 1049,534 1135,534 1220,537 1305,537 1391,537 1476,537 1561,537 1647,537 1732,537 1817,537 1903,541 1988,544 2074,552" />
+                <TextEquiv>
+                    <Unicode>from the Nature and Symptoms of this Disease;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="359,635 454,676 938,622 2077,659 2077,568 2014,551 1295,584 975,545 804,590 359,551" />
+                <Baseline points="370,626 455,626 541,624 626,623 712,620 798,620 883,620 969,620 1055,621 1140,623 1226,623 1312,623 1397,623 1483,620 1569,622 1654,623 1740,623 1826,625 1911,626 1997,627 2083,629" />
+                <TextEquiv>
+                    <Unicode>agreeable to the Precepts of the best antient and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="361,722 2068,746 2068,655 1705,676 1506,629 1411,670 1210,638 1156,689 834,629 361,676" />
+                <Baseline points="373,713 458,713 543,713 628,708 713,707 798,707 883,710 968,708 1053,710 1138,710 1223,713 1308,710 1393,713 1478,712 1563,713 1648,713 1733,716 1818,715 1903,713 1988,716 2074,716" />
+                <TextEquiv>
+                    <Unicode>modern Physicians in similar Fevers; and what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="361,808 2077,821 2077,748 1900,718 1578,780 1342,726 1107,756 1059,711 577,761 361,722" />
+                <Baseline points="373,803 458,800 544,800 629,797 715,798 800,800 886,799 971,797 1057,798 1142,800 1228,800 1313,800 1399,800 1484,800 1570,800 1655,803 1741,803 1826,802 1912,801 1997,802 2083,806" />
+                <TextEquiv>
+                    <Unicode>is more confirmed by experience; it may not be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="374,923 1619,893 1761,940 1911,890 2083,951 2083,839 1844,806 1761,849 374,852" />
+                <Baseline points="385,892 470,889 555,889 640,889 725,891 811,889 896,886 981,886 1066,889 1151,889 1237,889 1322,889 1407,889 1492,888 1577,889 1663,887 1748,889 1833,889 1918,892 2003,892 2089,889" />
+                <TextEquiv>
+                    <Unicode>amiss to examine these Gentlemen's Reasons who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="370,979 2075,1027 2075,951 1947,912 1664,957 1243,906 1156,962 802,901 370,934" />
+                <Baseline points="382,976 466,979 551,976 636,976 721,976 806,976 891,977 976,977 1061,977 1146,982 1231,982 1315,982 1400,979 1485,979 1570,979 1655,979 1740,982 1825,982 1910,979 1995,979 2080,970" />
+                <TextEquiv>
+                    <Unicode>are so fond of giving Alexipharmics and Sudorifics</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="376,1113 726,1063 867,1111 957,1076 1731,1081 1731,1022 1042,994 376,1024" />
+                <Baseline points="388,1068 455,1068 522,1068 590,1065 657,1065 725,1063 792,1065 860,1062 927,1062 995,1065 1062,1062 1129,1065 1197,1068 1264,1066 1332,1065 1399,1065 1467,1065 1534,1063 1602,1065 1669,1065 1737,1068" />
+                <TextEquiv>
+                    <Unicode>in the very beginning of this Fever.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="473,1165 1967,1202 2066,1163 2066,1111 1943,1124 1766,1055 1679,1109 1504,1065 1295,1115 473,1083" />
+                <Baseline points="486,1152 565,1152 644,1153 723,1152 803,1152 882,1152 961,1154 1040,1155 1120,1155 1199,1158 1278,1158 1357,1158 1437,1155 1516,1158 1595,1155 1674,1155 1754,1156 1833,1158 1912,1158 1991,1158 2071,1158" />
+                <TextEquiv>
+                    <Unicode>These Gentlemen argue, That from some occult</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="372,1279 2073,1275 2070,1210 1813,1167 1712,1206 370,1176" />
+                <Baseline points="382,1241 466,1241 551,1241 636,1238 721,1241 805,1241 890,1242 975,1244 1060,1244 1144,1244 1229,1247 1314,1247 1399,1244 1483,1244 1568,1247 1653,1247 1738,1247 1822,1250 1907,1247 1992,1250 2077,1250" />
+                <TextEquiv>
+                    <Unicode>Venom, Contagion, Miasma, or Je ne sais quoi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="374,1346 2086,1366 2086,1292 1740,1266 374,1282" />
+                <Baseline points="385,1328 470,1328 555,1326 641,1327 726,1325 811,1326 897,1326 982,1329 1067,1331 1153,1331 1238,1331 1323,1331 1409,1331 1494,1331 1579,1334 1665,1334 1750,1334 1835,1334 1921,1334 2006,1338 2092,1340" />
+                <TextEquiv>
+                    <Unicode>the Texture of the Blood is broke, whence it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="376,1435 2077,1439 2077,1368 1872,1349 1115,1346 890,1396 376,1349" />
+                <Baseline points="388,1415 472,1418 557,1417 642,1416 727,1418 811,1418 896,1419 981,1418 1066,1418 1150,1418 1235,1421 1320,1421 1405,1418 1489,1420 1574,1421 1659,1422 1744,1421 1828,1424 1913,1424 1998,1424 2083,1421" />
+                <TextEquiv>
+                    <Unicode>turned into a vapid and putrid Mass, no longer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="370,1522 2073,1543 2088,1439 367,1452" />
+                <Baseline points="382,1501 467,1504 553,1503 638,1504 724,1504 810,1501 895,1503 981,1504 1067,1507 1152,1508 1238,1510 1324,1510 1409,1507 1495,1507 1581,1507 1666,1510 1752,1510 1838,1510 1923,1511 2009,1513 2095,1516" />
+                <TextEquiv>
+                    <Unicode>fit for the Uses of the animal OEconomy runs off</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="374,1610 2086,1614 2086,1543 988,1556 733,1511 542,1554 484,1509 374,1558" />
+                <Baseline points="385,1594 470,1591 555,1593 641,1594 726,1591 811,1591 897,1592 982,1595 1067,1598 1153,1597 1238,1600 1323,1597 1409,1597 1494,1597 1579,1597 1665,1597 1750,1600 1835,1600 1921,1601 2006,1603 2092,1606" />
+                <TextEquiv>
+                    <Unicode>through the Glands, strainers destined to excern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="374,1688 625,1731 692,1690 2096,1703 2094,1634 2019,1623 1694,1621 1645,1664 1532,1601 1271,1671 973,1608 372,1614" />
+                <Baseline points="385,1680 470,1683 556,1682 642,1683 728,1680 814,1680 899,1682 985,1683 1071,1686 1157,1686 1243,1686 1328,1683 1414,1686 1500,1686 1586,1686 1672,1686 1757,1688 1843,1691 1929,1692 2015,1692 2101,1698" />
+                <TextEquiv>
+                    <Unicode>a much thinner Liquor; therefore imagine the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="370,1792 1297,1772 1742,1826 1986,1783 2109,1826 2090,1701 1718,1740 1463,1694 968,1744 875,1701 370,1712" />
+                <Baseline points="382,1773 468,1767 554,1767 641,1767 727,1767 814,1767 900,1767 986,1768 1073,1773 1159,1773 1246,1772 1332,1773 1418,1773 1505,1773 1591,1773 1678,1776 1764,1779 1850,1778 1937,1779 2023,1782 2110,1785" />
+                <TextEquiv>
+                    <Unicode>Blood to be in the same State as in pestilential</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="385,1891 2086,1889 2086,1809 2021,1837 1960,1794 385,1787" />
+                <Baseline points="397,1857 481,1854 566,1857 651,1857 736,1855 820,1856 905,1855 990,1857 1075,1859 1159,1862 1244,1859 1329,1862 1414,1862 1498,1862 1583,1863 1668,1862 1753,1865 1837,1868 1922,1868 2007,1871 2092,1868" />
+                <TextEquiv>
+                    <Unicode>Fevers and give Sudorifics and what are called</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="376,1965 2103,1982 2101,1876 2001,1919 1037,1867 374,1904" />
+                <Baseline points="388,1946 478,1946 568,1943 659,1943 749,1946 840,1946 930,1943 1021,1946 1111,1946 1202,1949 1292,1952 1383,1952 1473,1952 1564,1952 1654,1955 1745,1957 1835,1958 1926,1959 2016,1961 2107,1958" />
+                <TextEquiv>
+                    <Unicode>Alexipharmicks as in the Pestis; insisting the most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="378,2058 828,2049 888,2092 1057,2042 1120,2088 1245,2038 1591,2040 1978,2107 2101,2062 2101,2016 1973,1984 378,1962" />
+                <Baseline points="391,2036 476,2033 562,2033 648,2033 734,2038 820,2037 905,2036 991,2036 1077,2036 1163,2040 1249,2039 1334,2039 1420,2042 1506,2042 1592,2042 1678,2045 1763,2048 1849,2051 1935,2049 2021,2052 2107,2057" />
+                <TextEquiv>
+                    <Unicode>likely Means to save the Patient is to keep open</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="383,2131 426,2150 452,2137 488,2153 523,2131 616,2146 681,2131 707,2140 705,2068 599,2051 568,2066 542,2055 495,2070 413,2047 380,2055" />
+                <Baseline points="394,2119 420,2119 447,2120 473,2121 500,2121 526,2119 553,2121 580,2122 606,2122 633,2122 659,2122 686,2125 713,2125" />
+                <TextEquiv>
+                    <Unicode>the Skin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="486,2215 603,2259 787,2220 2096,2259 2094,2142 2001,2163 1876,2090 1787,2161 1135,2163 947,2105 484,2137" />
+                <Baseline points="498,2200 578,2206 658,2208 738,2206 818,2206 898,2206 978,2211 1058,2212 1138,2216 1218,2218 1298,2218 1378,2219 1458,2218 1538,2221 1618,2221 1698,2224 1778,2226 1858,2227 1938,2230 2018,2230 2098,2236" />
+                <TextEquiv>
+                    <Unicode>The yellowness they apprehend proceeds only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="378,2321 2094,2354 2092,2259 1889,2239 1839,2293 1576,2239 1284,2284 1148,2235 586,2265 376,2211" />
+                <Baseline points="391,2295 476,2298 561,2298 647,2298 732,2298 817,2298 903,2299 988,2301 1073,2304 1159,2304 1244,2307 1329,2307 1415,2307 1500,2307 1585,2310 1671,2312 1756,2315 1841,2315 1927,2319 2012,2320 2098,2319" />
+                <TextEquiv>
+                    <Unicode>from the broken texture of the Blood; for say</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="376,2408 1917,2410 2016,2449 2105,2431 2105,2351 374,2319" />
+                <Baseline points="388,2382 474,2385 560,2391 646,2391 732,2388 818,2388 904,2391 990,2392 1076,2394 1162,2394 1249,2394 1335,2397 1421,2397 1507,2397 1593,2400 1679,2400 1765,2402 1851,2406 1937,2408 2023,2409 2110,2415" />
+                <TextEquiv>
+                    <Unicode>they, take the red globules of Blood, break them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="378,2488 2101,2531 2099,2427 376,2414" />
+                <Baseline points="391,2472 476,2475 562,2473 648,2472 734,2476 820,2475 905,2477 991,2478 1077,2481 1163,2483 1249,2485 1334,2483 1420,2483 1506,2486 1592,2488 1678,2489 1763,2486 1849,2492 1935,2495 2021,2496 2107,2498" />
+                <TextEquiv>
+                    <Unicode>in a Mortar with the addition of a little Water and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="385,2587 1733,2581 2047,2626 2096,2611 2096,2527 383,2494" />
+                <Baseline points="397,2558 482,2561 567,2562 652,2561 737,2559 823,2564 908,2564 993,2567 1078,2567 1163,2567 1249,2567 1334,2567 1419,2570 1504,2572 1589,2573 1675,2578 1760,2576 1845,2579 1930,2580 2015,2582 2101,2582" />
+                <TextEquiv>
+                    <Unicode>they will break into a yellow Fluid. This Theory</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="383,2652 2107,2710 2086,2613 1697,2587 938,2619 447,2581 383,2619" />
+                <Baseline points="394,2648 479,2651 565,2651 651,2654 737,2654 823,2654 908,2654 994,2654 1080,2655 1166,2657 1252,2660 1337,2660 1423,2663 1509,2660 1595,2663 1681,2666 1766,2666 1852,2669 1938,2673 2024,2676 2110,2678" />
+                <TextEquiv>
+                    <Unicode>seems to be built upon the supposition that a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="391,2756 1048,2745 1314,2794 1716,2753 2099,2812 2096,2717 1898,2684 1712,2723 391,2673" />
+                <Baseline points="403,2737 487,2737 572,2742 657,2743 742,2741 827,2743 912,2740 997,2743 1082,2743 1167,2746 1252,2749 1336,2749 1421,2749 1506,2752 1591,2754 1676,2754 1761,2756 1846,2759 1931,2764 2016,2767 2101,2776" />
+                <TextEquiv>
+                    <Unicode>subtle elastic Air falls the Spherulæ of Blood;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="391,2842 2099,2877 2096,2810 1703,2760 1489,2801 560,2751 391,2786" />
+                <Baseline points="403,2821 488,2827 573,2829 658,2832 743,2833 828,2833 913,2832 998,2831 1083,2833 1168,2836 1253,2839 1338,2839 1423,2841 1508,2843 1593,2842 1678,2846 1763,2849 1848,2851 1933,2852 2018,2857 2104,2863" />
+                <TextEquiv>
+                    <Unicode>which Spherulæ or globules when broke, and their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="378,2944 1710,2941 2099,2995 2096,2877 2055,2868 378,2849" />
+                <Baseline points="391,2913 476,2916 562,2918 647,2919 733,2922 819,2922 904,2922 990,2922 1076,2922 1161,2925 1247,2928 1333,2928 1418,2931 1504,2931 1590,2933 1675,2936 1761,2940 1847,2940 1932,2941 2018,2947 2104,2952" />
+                <TextEquiv>
+                    <Unicode>elastic Air exhausted the Blood remains a vapid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="385,3030 551,3080 646,3017 897,3069 1050,3037 1217,3121 1444,3028 1716,3108 1954,3043 2099,3071 2079,2985 1755,2950 1383,2946 1329,2989 914,2931 383,2946" />
+                <Baseline points="397,3006 482,3006 567,3011 652,3012 737,3015 823,3015 908,3018 993,3016 1078,3019 1163,3021 1249,3024 1334,3027 1419,3026 1504,3027 1589,3030 1675,3030 1760,3033 1845,3033 1930,3033 2015,3036 2101,3042" />
+                <TextEquiv>
+                    <Unicode>and putrid Mass no longer fit for the Secretions.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:32;}">
+                <Coords points="1924,3203 1967,3203 1991,3179 2019,3186 2027,3175 2062,3179 2070,3188 2105,3184 2099,3071 2075,3073 2058,3056 2032,3065 2012,3050 1991,3058 1973,3043 1947,3052 1917,3050" />
+                <Baseline points="1931,3122 1959,3124 1988,3125 2017,3125 2046,3127 2075,3129 2104,3131" />
+                <TextEquiv>
+                    <Unicode>This</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

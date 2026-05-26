@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:09.612+02:00</Created>
+        <LastChange>2025-10-24T18:14:17.641+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051465" pageNr="70" tsid="258813712" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=LUZLOKZJSCQRSGKVDMOAVNMQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CYBSZZKEXMENBERBOPCLRRWT" imageId="87046364" />
+    </Metadata>
+    <Page imageFilename="11168119_0070_104051465.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586546561" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1" />
+                <RegionRefIndexed index="1" regionRef="r" />
+                <RegionRefIndexed index="2" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="556,484 672,484 666,557 555,555" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="550,550 565,547 577,555 594,543 606,555 619,550 626,554 631,548 650,559 677,559 673,456 645,454 618,462 577,447 569,456 547,456" />
+                <Baseline points="558,534 588,532 619,532 649,534 680,537" />
+                <TextEquiv>
+                    <Unicode>124</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="850,475 1630,473 1630,562 851,548" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="852,572 1041,559 1099,525 1193,567 1627,564 1639,452 1541,427 1412,456 1316,429 1195,459 1099,435 1038,467 850,459" />
+                <Baseline points="859,528 898,525 937,525 976,525 1016,525 1055,525 1094,525 1134,525 1173,525 1212,525 1252,525 1291,525 1330,525 1369,525 1409,526 1448,528 1487,528 1527,531 1566,533 1605,534 1645,528" />
+                <TextEquiv>
+                    <Unicode>OCTOBER, 1773.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="553,596 555,2967 1943,2967 1938,591" />
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="602,651 1628,692 1676,651 1900,645 1900,592 1838,564 1242,592 602,554" />
+                <Baseline points="612,641 676,642 741,644 805,644 870,644 935,644 999,646 1064,644 1128,644 1193,644 1258,646 1322,647 1387,646 1451,644 1516,644 1580,644 1645,644 1710,641 1774,641 1839,641 1904,641" />
+                <TextEquiv>
+                    <Unicode>Same day a sweepstakes of 500gs each, h. st B. C. was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="548,705 574,704 608,719 667,709 685,724 707,704 727,704 726,650 653,650 641,660 631,650 614,655 599,645 569,648 562,655 547,651" />
+                <Baseline points="558,695 586,697 615,699 644,701 673,701 702,700 731,698" />
+                <TextEquiv>
+                    <Unicode>won by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:2;}">
+                <Coords points="545,717 1119,685 1907,734 1907,764 786,785 629,778 545,759" />
+                <Baseline points="555,755 589,755 624,757 659,758 694,758 729,755 764,757 799,758 834,758 869,758 904,758 938,758 973,758 1008,758 1043,758 1078,758 1113,758 1148,757 1183,755 1218,755 1253,755 1255,755 1659,760 1907,764" />
+                <TextEquiv>
+                    <Unicode>Lord Grosvenor's Mambrino — 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="545,842 1612,835 1612,770 1573,758 1439,793 1284,758 781,791 545,763" />
+                <Baseline points="555,818 608,818 661,818 714,821 767,818 820,821 873,821 926,821 979,821 1032,821 1085,821 1138,821 1191,821 1244,819 1297,818 1350,818 1403,817 1456,814 1509,810 1562,809 1615,809 1700,817 1905,824" />
+                <TextEquiv>
+                    <Unicode>Lord Clermont's Marc Anthony, 8st. — 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="611,908 1048,915 1164,960 1526,911 1900,955 1876,837 1264,871 611,839" />
+                <Baseline points="620,904 684,907 748,907 812,910 876,912 941,910 1005,910 1069,910 1133,913 1197,910 1262,913 1326,913 1390,913 1454,911 1518,910 1583,910 1647,910 1711,910 1775,910 1839,910 1904,910" />
+                <TextEquiv>
+                    <Unicode>Mr. Vernon's Florizel, 8st. 6lb. p. ft. — Four to 1 on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="557,1019 624,1019 667,992 737,1018 785,1002 829,1011 827,920 705,920 680,938 663,926 646,930 589,893 555,896" />
+                <Baseline points="564,967 590,967 617,967 644,967 671,968 698,970 724,970 751,970 778,970 805,970 832,970" />
+                <TextEquiv>
+                    <Unicode>Mambrino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="599,1080 1905,1094 1905,1033 1846,1016 599,1019" />
+                <Baseline points="609,1068 674,1075 739,1074 804,1076 869,1074 934,1075 999,1075 1064,1077 1129,1077 1194,1074 1259,1077 1324,1080 1389,1080 1454,1080 1519,1080 1584,1078 1649,1080 1714,1080 1779,1080 1844,1075 1910,1077" />
+                <TextEquiv>
+                    <Unicode>Same day Mr. Scawen's Alexis, 3 years old, 7st. 4lb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="559,1141 1912,1159 1880,1085 559,1082" />
+                <Baseline points="567,1131 634,1134 701,1137 769,1134 836,1137 904,1134 971,1134 1039,1134 1106,1131 1174,1137 1241,1137 1308,1137 1376,1137 1443,1137 1511,1140 1578,1139 1646,1140 1713,1138 1781,1137 1848,1135 1916,1134" />
+                <TextEquiv>
+                    <Unicode>beat Lord Clermont's Pulpé, 4 years old, 8st. 4 lb. Ditch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="560,1235 694,1207 759,1242 867,1205 910,1240 943,1217 1033,1239 1122,1205 1377,1240 1377,1149 560,1159" />
+                <Baseline points="570,1194 610,1197 650,1195 691,1196 731,1197 772,1195 812,1194 853,1194 893,1194 934,1194 974,1194 1014,1194 1055,1194 1095,1194 1136,1196 1176,1197 1217,1196 1257,1194 1298,1195 1338,1197 1379,1197" />
+                <TextEquiv>
+                    <Unicode>in, 200gs.— Three to 1 on Pulpé.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="614,1325 1905,1335 1905,1271 1861,1256 614,1256" />
+                <Baseline points="623,1313 687,1314 751,1313 816,1313 880,1313 944,1313 1009,1313 1073,1313 1137,1313 1202,1313 1266,1313 1330,1313 1395,1316 1459,1316 1523,1316 1588,1316 1652,1316 1716,1314 1781,1311 1845,1313 1910,1313" />
+                <TextEquiv>
+                    <Unicode>Same day Mr. Walker's Hibernian, 8st. beat Mr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="559,1384 1912,1379 1912,1336 1850,1323 559,1326" />
+                <Baseline points="567,1370 634,1373 701,1373 769,1373 836,1376 904,1373 971,1370 1039,1376 1106,1376 1174,1376 1241,1376 1308,1376 1376,1376 1443,1377 1511,1376 1578,1379 1646,1376 1713,1374 1781,1373 1848,1373 1916,1370" />
+                <TextEquiv>
+                    <Unicode>Strode's Cicero, 8st. 7lb. R. M. for 100gs. — Two to 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="567,1473 623,1451 641,1461 678,1439 707,1436 737,1451 749,1439 770,1446 795,1434 827,1451 827,1394 643,1380 606,1397 567,1396" />
+                <Baseline points="576,1433 601,1433 626,1433 651,1433 677,1433 702,1433 727,1433 753,1433 778,1433 803,1433 829,1433" />
+                <TextEquiv>
+                    <Unicode>on Cicero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="619,1544 1905,1558 1904,1448 1379,1450 1174,1515 619,1490" />
+                <Baseline points="629,1543 693,1546 757,1543 821,1546 885,1546 949,1546 1013,1548 1077,1546 1141,1546 1205,1546 1269,1546 1333,1546 1397,1549 1461,1546 1525,1546 1589,1546 1653,1549 1717,1546 1781,1546 1845,1546 1910,1549" />
+                <TextEquiv>
+                    <Unicode>Same day Lord Clermont's Johnny, 7st. 7lb. beat Mr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:13;}">
+                <Coords points="564,1625 1493,1645 1569,1606 1917,1610 1917,1551 564,1554" />
+                <Baseline points="573,1606 640,1606 707,1606 775,1606 842,1606 910,1607 977,1609 1045,1607 1112,1606 1180,1606 1247,1606 1314,1608 1382,1606 1449,1607 1517,1606 1584,1607 1652,1606 1719,1609 1787,1606 1854,1609 1922,1606" />
+                <TextEquiv>
+                    <Unicode>Brand's Don Carlos, 8st. B. C. 200gs. — Six to 5 on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:14;}">
+                <Coords points="570,1693 597,1701 616,1696 645,1708 670,1684 690,1696 727,1684 748,1694 771,1691 771,1623 724,1620 699,1632 668,1617 570,1617" />
+                <Baseline points="579,1665 606,1665 634,1665 662,1665 689,1665 717,1665 745,1665 773,1665" />
+                <TextEquiv>
+                    <Unicode>Johnny.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:15;}">
+                <Coords points="616,1782 1905,1799 1880,1738 1672,1743 1522,1681 1350,1750 1154,1713 616,1743" />
+                <Baseline points="626,1779 690,1779 754,1776 818,1779 882,1779 946,1779 1010,1779 1074,1779 1138,1779 1202,1776 1266,1777 1330,1777 1394,1779 1458,1779 1522,1779 1586,1779 1650,1779 1714,1779 1778,1779 1842,1779 1907,1779" />
+                <TextEquiv>
+                    <Unicode>Same day Mr. Scawen's Mecea, 8st. paid 25gs compromise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:16;}">
+                <Coords points="567,1858 1909,1870 1909,1797 1856,1789 567,1804" />
+                <Baseline points="576,1839 642,1839 709,1839 776,1839 843,1839 910,1836 977,1836 1043,1837 1110,1839 1177,1837 1244,1839 1311,1839 1378,1839 1445,1839 1511,1839 1578,1839 1645,1839 1712,1839 1779,1839 1846,1838 1913,1839" />
+                <TextEquiv>
+                    <Unicode>to Lord Clermont's Squirrella, 7st. 10lb. across the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:17;}">
+                <Coords points="562,1909 653,1905 699,1922 758,1910 817,1944 930,1898 1002,1920 1004,1860 975,1846 930,1858 884,1844 859,1861 731,1850 709,1871 668,1846 564,1853" />
+                <Baseline points="573,1895 598,1895 624,1895 649,1897 675,1898 701,1898 726,1898 752,1898 778,1896 803,1895 829,1895 855,1895 880,1895 906,1895 932,1895 957,1895 983,1895 1009,1895" />
+                <TextEquiv>
+                    <Unicode>Flat, 100gs, h. ft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:18;}">
+                <Coords points="623,1954 1007,1949 1905,1954 1915,1956 1917,2025 1750,2035 1693,2037 849,2042 677,2032 623,2008" />
+                <Baseline points="632,2009 678,2012 724,2012 770,2009 816,2012 862,2012 908,2012 955,2012 1001,2011 1047,2009 1093,2010 1139,2012 1185,2012 1231,2012 1278,2011 1324,2009 1370,2009 1416,2010 1462,2012 1508,2014 1555,2015 1591,2006 1616,2008 1641,2009 1667,2011 1692,2012 1718,2012 1743,2012 1769,2012 1794,2012 1820,2012 1845,2012 1871,2012 1896,2012 1922,2012" />
+                <TextEquiv>
+                    <Unicode>Same day Lord Clermont's Hercules, 7st. 9lb. paid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:19;}">
+                <Coords points="570,2081 1915,2084 1915,2027 1860,2015 1176,2042 570,2008" />
+                <Baseline points="579,2071 646,2070 713,2071 780,2071 847,2068 914,2069 981,2068 1048,2068 1115,2071 1182,2071 1249,2068 1316,2068 1383,2068 1450,2069 1517,2071 1584,2071 1651,2071 1718,2071 1785,2071 1852,2071 1919,2071" />
+                <TextEquiv>
+                    <Unicode>100gs compromise to Mr. Ogilvy's Consul, 8st. 7lb. Ditch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:20;}">
+                <Coords points="564,2153 1230,2133 1478,2177 1736,2138 1736,2087 1650,2079 564,2087" />
+                <Baseline points="573,2128 631,2131 689,2129 748,2131 806,2130 864,2130 923,2129 981,2128 1039,2128 1098,2128 1156,2128 1214,2128 1273,2128 1331,2128 1389,2126 1448,2128 1506,2128 1564,2128 1623,2130 1681,2130 1740,2128" />
+                <TextEquiv>
+                    <Unicode>in. — Lord Clermont to have staked 6oogs to 400.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:21;}">
+                <Coords points="623,2246 1603,2283 1920,2256 1920,2160 1568,2195 1151,2167 958,2206 746,2165 677,2212 623,2179" />
+                <Baseline points="632,2242 696,2245 761,2242 825,2245 890,2245 955,2243 1019,2245 1084,2245 1149,2245 1213,2245 1278,2245 1343,2248 1407,2247 1472,2245 1537,2248 1601,2248 1666,2245 1731,2245 1795,2245 1860,2248 1925,2251" />
+                <TextEquiv>
+                    <Unicode>Same day Lord Ossory's Chalkstone, 7st. 11lb. paid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:22;}">
+                <Coords points="567,2322 1917,2330 1917,2260 1863,2249 1605,2282 1244,2251 1196,2285 737,2275 567,2222" />
+                <Baseline points="576,2304 643,2304 710,2301 777,2304 845,2304 912,2303 979,2301 1047,2304 1114,2304 1181,2302 1249,2304 1316,2304 1383,2304 1450,2304 1518,2307 1585,2307 1652,2307 1720,2307 1787,2307 1854,2307 1922,2310" />
+                <TextEquiv>
+                    <Unicode>forfeit to Lord Grosvenor's Sweet William, 8st. 10lb. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:23;}">
+                <Coords points="587,2391 613,2398 640,2374 687,2371 776,2403 847,2378 876,2390 893,2378 928,2384 945,2379 947,2327 911,2312 753,2330 705,2319 670,2334 636,2315 589,2319" />
+                <Baseline points="597,2370 622,2368 647,2366 672,2365 697,2364 722,2364 747,2363 773,2361 798,2361 823,2361 848,2361 873,2361 898,2361 923,2361 949,2361" />
+                <TextEquiv>
+                    <Unicode>C. 200gs. h. ft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:24;}">
+                <Coords points="623,2474 1929,2484 1927,2416 621,2416" />
+                <Baseline points="632,2469 700,2472 768,2472 837,2472 905,2472 973,2474 1042,2475 1110,2473 1178,2472 1247,2472 1315,2475 1384,2475 1452,2475 1520,2475 1589,2475 1657,2472 1725,2475 1794,2475 1862,2475 1931,2477" />
+                <TextEquiv>
+                    <Unicode>On the 20th the 140gs for 6 year olds, carrying 8st.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:25;}">
+                <Coords points="582,2540 1240,2536 1512,2580 1617,2538 1936,2550 1924,2482 582,2484" />
+                <Baseline points="591,2531 658,2531 725,2531 793,2531 860,2531 928,2531 995,2534 1063,2533 1130,2534 1198,2534 1265,2534 1332,2534 1400,2534 1467,2534 1535,2534 1602,2535 1670,2534 1737,2534 1805,2534 1872,2536 1940,2543" />
+                <TextEquiv>
+                    <Unicode>10lb. and aged 9st. 2lb. the sole property of subscribers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:26;}">
+                <Coords points="572,2617 606,2632 739,2607 805,2634 844,2619 1019,2622 1019,2550 967,2558 948,2541 913,2560 820,2563 753,2541 710,2555 668,2543 651,2560 618,2540 572,2550" />
+                <Baseline points="582,2588 608,2590 634,2591 660,2591 686,2591 712,2591 738,2591 764,2591 790,2591 816,2591 842,2591 868,2591 894,2591 920,2589 946,2588 972,2588 998,2589 1024,2591" />
+                <TextEquiv>
+                    <Unicode>B. C. was won by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:27;}">
+                <Coords points="572,2692 1293,2681 1423,2729 1571,2702 1571,2626 572,2619" />
+                <Baseline points="582,2683 631,2681 681,2683 731,2681 780,2681 830,2681 880,2681 929,2681 979,2682 1029,2681 1079,2683 1128,2681 1178,2681 1228,2681 1277,2681 1327,2681 1377,2681 1426,2682 1476,2681 1526,2681 1576,2681 1660,2686 1783,2683 1929,2686" />
+                <TextEquiv>
+                    <Unicode>Lord Bolingbroke's Marianne, 6 years old — 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:28;}">
+                <Coords points="582,2786 1090,2788 1169,2761 1390,2788 1374,2688 582,2695" />
+                <Baseline points="591,2743 631,2740 671,2743 711,2741 751,2740 791,2742 831,2742 872,2741 912,2743 952,2743 992,2743 1032,2743 1072,2743 1112,2743 1153,2743 1193,2743 1233,2742 1273,2740 1313,2739 1353,2737 1394,2737 1586,2742 1791,2747 1931,2747" />
+                <TextEquiv>
+                    <Unicode>Lord Ossory's Augur, 5 years old — 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:29;}">
+                <Coords points="623,2848 1817,2886 1939,2855 1937,2791 621,2801" />
+                <Baseline points="632,2833 697,2833 763,2833 828,2837 894,2839 959,2836 1025,2836 1090,2839 1156,2839 1221,2839 1287,2836 1353,2836 1418,2836 1484,2836 1549,2837 1615,2839 1680,2837 1746,2839 1811,2836 1877,2836 1943,2842" />
+                <TextEquiv>
+                    <Unicode>At starting, 6 to 4 on Marianne; in running, 6 to 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:30;}">
+                <Coords points="586,2921 623,2933 633,2923 645,2933 683,2923 721,2938 741,2923 754,2930 785,2919 834,2940 834,2848 796,2865 727,2840 673,2852 655,2842 586,2847" />
+                <Baseline points="594,2898 621,2898 648,2898 675,2898 702,2897 729,2895 756,2895 783,2896 810,2897 838,2901" />
+                <TextEquiv>
+                    <Unicode>on Augur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:31;}">
+                <Coords points="1777,2980 1804,2977 1809,2982 1841,2958 1878,2978 1905,2963 1930,2965 1930,2914 1917,2916 1890,2906 1871,2914 1834,2914 1802,2882 1779,2874" />
+                <Baseline points="1788,2952 1817,2949 1846,2949 1875,2949 1904,2949 1934,2949" />
+                <TextEquiv>
+                    <Unicode>Same</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

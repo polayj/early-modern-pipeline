@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:45:03.745+02:00</Created>
+        <LastChange>2025-10-24T18:18:18.623+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051472" pageNr="78" tsid="258814159" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=GSIAZEGJJVMHCAKZTJZRISMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMSPBJMMUYMHKQRBRTAIRPTE" imageId="87046305" />
+    </Metadata>
+    <Page imageFilename="11168119_0078_104051472.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586547936" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1" />
+                <RegionRefIndexed index="1" regionRef="r" />
+                <RegionRefIndexed index="2" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="727,443 893,432 892,509 727,509" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="726,523 767,512 798,539 825,532 844,513 882,506 884,381 869,378 858,385 803,372 796,380 728,370" />
+                <Baseline points="737,495 766,495 796,494 826,492 856,494 886,495" />
+                <TextEquiv>
+                    <Unicode>176</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="1098,418 1864,415 1872,509 1097,503" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1082,512 1295,493 1559,519 1650,493 1863,521 1863,402 1753,374 1720,400 1474,396 1416,369 1373,402 1082,402" />
+                <Baseline points="1092,489 1130,489 1169,489 1208,489 1247,488 1286,486 1324,486 1363,486 1402,486 1441,486 1480,484 1518,485 1557,486 1596,487 1635,492 1674,492 1712,487 1751,486 1790,486 1829,489 1868,495" />
+                <TextEquiv>
+                    <Unicode>LETTER VII.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="702,513 710,3035 2188,3035 2203,515" />
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="717,601 2166,611 2175,501 2004,469 1837,530 715,519" />
+                <Baseline points="725,573 797,574 870,573 943,573 1015,574 1088,576 1161,576 1233,575 1306,573 1379,573 1452,571 1524,573 1597,576 1670,576 1742,579 1815,579 1888,579 1960,576 2033,577 2106,579 2179,585" />
+                <TextEquiv>
+                    <Unicode>stice of Peace, if not exceeding 40s. if more,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="724,671 1493,673 1493,594 1406,581 1172,612 724,594" />
+                <Baseline points="734,653 772,656 810,656 848,656 886,656 924,656 962,656 1000,656 1038,654 1076,655 1114,656 1152,655 1190,654 1228,656 1266,656 1304,654 1342,653 1380,653 1418,654 1456,656 1495,656" />
+                <TextEquiv>
+                    <Unicode>in any Court of Record.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="711,748 2169,757 2153,673 710,671" />
+                <Baseline points="722,734 794,736 867,734 939,734 1012,734 1084,734 1157,734 1229,734 1302,734 1374,734 1447,734 1520,734 1592,734 1665,734 1737,737 1810,734 1882,737 1955,735 2027,734 2100,737 2173,740" />
+                <TextEquiv>
+                    <Unicode>No Person whatsoever shall kill any Cattle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="715,827 2171,842 2171,759 2111,748 715,748" />
+                <Baseline points="725,815 797,818 869,818 942,821 1014,818 1087,818 1159,819 1231,818 1304,818 1376,818 1449,818 1521,818 1593,820 1666,815 1738,816 1811,818 1883,821 1955,818 2028,818 2100,818 2173,818" />
+                <TextEquiv>
+                    <Unicode>Horse, Mare, Mule, or Assinego, under the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="715,926 2177,919 2156,838 1445,862 715,825" />
+                <Baseline points="725,898 797,898 870,898 943,898 1016,898 1089,898 1162,899 1234,898 1307,895 1380,898 1453,898 1526,898 1599,898 1672,895 1744,896 1817,898 1890,899 1963,898 2036,898 2109,898 2182,895" />
+                <TextEquiv>
+                    <Unicode>Penalty of 15l. to be recovered in any Court</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="710,990 2171,1012 2171,932 2103,915 710,930" />
+                <Baseline points="719,982 791,981 864,980 937,982 1010,982 1083,982 1156,984 1228,982 1301,979 1374,979 1447,980 1520,982 1593,982 1666,982 1738,982 1811,982 1884,982 1957,980 2030,981 2103,982 2176,982" />
+                <TextEquiv>
+                    <Unicode>of Record, by the owner or Proprietor of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="710,1065 743,1076 840,1071 878,1087 902,1073 933,1086 1020,1071 1038,1086 1065,1084 1065,1014 1021,990 976,1018 899,994 867,1010 825,992 710,1005" />
+                <Baseline points="719,1065 745,1065 772,1064 799,1063 826,1062 853,1062 880,1062 906,1061 933,1060 960,1059 987,1059 1014,1061 1041,1064 1068,1068" />
+                <TextEquiv>
+                    <Unicode>said Beast.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="796,1159 2171,1179 2153,1082 796,1071" />
+                <Baseline points="806,1143 874,1143 943,1140 1011,1140 1080,1140 1148,1140 1217,1138 1285,1140 1354,1140 1422,1140 1491,1140 1559,1140 1628,1140 1696,1140 1765,1142 1833,1140 1902,1140 1970,1142 2039,1143 2107,1142 2176,1140" />
+                <TextEquiv>
+                    <Unicode>All Owners of Neat Cattle shall keep one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="715,1234 2180,1252 2180,1175 2070,1152 715,1163" />
+                <Baseline points="725,1224 798,1224 871,1223 944,1221 1017,1221 1090,1221 1163,1224 1236,1224 1309,1221 1382,1221 1455,1222 1528,1224 1601,1224 1674,1224 1747,1222 1820,1224 1893,1224 1966,1223 2039,1224 2112,1224 2185,1227" />
+                <TextEquiv>
+                    <Unicode>white Man at each Pen, and two white Men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="715,1328 2184,1318 2184,1251 715,1263" />
+                <Baseline points="725,1307 798,1307 871,1306 944,1304 1017,1304 1090,1301 1163,1304 1237,1303 1310,1301 1383,1304 1456,1304 1529,1304 1602,1303 1675,1304 1749,1304 1822,1304 1895,1304 1968,1304 2041,1304 2114,1307 2188,1310" />
+                <TextEquiv>
+                    <Unicode>at every Pen, whereunto belongs above 200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="719,1392 2177,1408 2177,1322 2142,1318 719,1326" />
+                <Baseline points="728,1388 800,1387 873,1387 946,1385 1018,1385 1091,1385 1164,1387 1236,1385 1309,1385 1382,1386 1455,1388 1527,1388 1600,1388 1673,1385 1745,1387 1818,1388 1891,1388 1963,1388 2036,1387 2109,1388 2182,1391" />
+                <TextEquiv>
+                    <Unicode>Head of Cattle, Penalty 10 l. for every white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="719,1498 2175,1495 2175,1410 2096,1403 719,1410" />
+                <Baseline points="728,1468 800,1468 873,1468 945,1468 1018,1467 1090,1465 1163,1468 1235,1467 1308,1468 1380,1468 1453,1468 1526,1468 1598,1468 1671,1468 1743,1468 1816,1471 1888,1468 1961,1468 2033,1468 2106,1468 2179,1474" />
+                <TextEquiv>
+                    <Unicode>Man wanting for the Space of three Months,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="726,1575 2169,1573 2129,1482 726,1485" />
+                <Baseline points="737,1549 808,1549 880,1549 952,1551 1024,1549 1096,1549 1167,1548 1239,1549 1311,1549 1383,1549 1455,1549 1526,1552 1598,1551 1670,1552 1742,1552 1814,1552 1885,1552 1957,1549 2029,1546 2101,1549 2173,1549" />
+                <TextEquiv>
+                    <Unicode>Half to the Poor of the Parish, Half to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="726,1658 778,1649 811,1672 867,1645 917,1639 955,1654 1051,1641 1051,1579 999,1592 862,1561 798,1570 768,1561 726,1575" />
+                <Baseline points="737,1630 763,1630 790,1630 816,1630 843,1630 869,1630 896,1630 923,1630 949,1632 976,1633 1002,1633 1029,1635 1056,1636" />
+                <TextEquiv>
+                    <Unicode>Informer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="792,1724 2177,1733 2177,1643 792,1676" />
+                <Baseline points="803,1710 875,1712 948,1710 1020,1710 1093,1710 1165,1710 1238,1710 1311,1710 1383,1713 1456,1713 1528,1713 1601,1713 1673,1713 1746,1713 1819,1711 1891,1713 1964,1713 2036,1713 2109,1713 2182,1713" />
+                <TextEquiv>
+                    <Unicode>All Owners of Cattle shall pen them once</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="700,1828 2171,1839 2171,1738 2074,1731 700,1738" />
+                <Baseline points="710,1791 783,1791 856,1794 929,1794 1003,1794 1076,1792 1149,1792 1223,1794 1296,1794 1369,1796 1443,1794 1516,1797 1589,1797 1662,1797 1736,1797 1809,1797 1882,1797 1956,1797 2029,1797 2102,1797 2176,1797" />
+                <TextEquiv>
+                    <Unicode>in three Nights at least, or pay the Damage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="710,1880 1821,1900 1819,1837 1634,1808 710,1815" />
+                <Baseline points="719,1871 774,1874 829,1874 884,1876 940,1874 995,1874 1050,1874 1105,1874 1161,1874 1216,1874 1271,1874 1326,1874 1382,1874 1437,1874 1492,1877 1547,1877 1603,1877 1658,1874 1713,1877 1768,1877 1824,1880" />
+                <TextEquiv>
+                    <Unicode>double which such Cattle shall do.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="792,1973 2184,1969 2140,1892 792,1902" />
+                <Baseline points="803,1955 872,1956 941,1958 1010,1958 1080,1957 1149,1955 1218,1956 1287,1958 1357,1959 1426,1958 1495,1958 1564,1958 1634,1958 1703,1958 1772,1959 1841,1959 1911,1961 1980,1961 2049,1959 2118,1958 2188,1958" />
+                <TextEquiv>
+                    <Unicode>Strays shall belong to the Proprietor of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="730,2045 2156,2078 2178,1986 728,1968" />
+                <Baseline points="740,2039 812,2038 884,2039 956,2037 1029,2036 1101,2039 1173,2037 1245,2038 1318,2036 1390,2039 1462,2039 1534,2042 1607,2039 1679,2039 1751,2039 1823,2039 1896,2039 1968,2039 2040,2039 2112,2038 2185,2039" />
+                <TextEquiv>
+                    <Unicode>Ground where taken up, provided he cries the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:19;}">
+                <Coords points="724,2144 2171,2151 2171,2076 2043,2052 1463,2081 724,2048" />
+                <Baseline points="734,2119 809,2119 885,2119 961,2119 1036,2119 1112,2119 1188,2116 1264,2119 1339,2119 1415,2119 1491,2119 1567,2119 1642,2119 1718,2119 1794,2120 1870,2121 1945,2119 2021,2117 2097,2120 2173,2119" />
+                <TextEquiv>
+                    <Unicode>Stray three Court Days with proper Descriptions,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="730,2213 2180,2230 2180,2149 2076,2131 730,2149" />
+                <Baseline points="740,2200 812,2200 884,2203 956,2203 1029,2200 1101,2200 1173,2200 1245,2200 1318,2200 1390,2200 1462,2200 1534,2200 1607,2200 1679,2203 1751,2203 1823,2202 1896,2200 1968,2200 2040,2200 2112,2202 2185,2206" />
+                <TextEquiv>
+                    <Unicode>and turns the same loose in the feeding</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="719,2298 2184,2294 2184,2230 1942,2208 719,2230" />
+                <Baseline points="728,2277 801,2279 874,2283 947,2283 1020,2283 1093,2280 1166,2280 1239,2280 1312,2280 1385,2282 1458,2283 1531,2283 1604,2283 1677,2283 1750,2283 1823,2282 1896,2280 1969,2281 2042,2280 2115,2283 2188,2283" />
+                <TextEquiv>
+                    <Unicode>Grounds, with a Withe about the Neck for an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="719,2378 2177,2386 2177,2316 2096,2296 719,2298" />
+                <Baseline points="728,2361 800,2363 873,2364 946,2364 1018,2366 1091,2361 1164,2362 1236,2364 1309,2364 1382,2364 1455,2364 1527,2364 1600,2365 1673,2367 1745,2367 1818,2364 1891,2364 1963,2366 2036,2364 2109,2364 2182,2364" />
+                <TextEquiv>
+                    <Unicode>Year; and if not claimed in that Time, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:23;}">
+                <Coords points="724,2472 2175,2465 2144,2378 722,2382" />
+                <Baseline points="734,2445 806,2445 878,2443 950,2447 1023,2445 1095,2442 1167,2445 1239,2445 1312,2445 1384,2445 1456,2448 1528,2448 1601,2446 1673,2448 1745,2448 1817,2447 1890,2447 1962,2448 2034,2445 2106,2445 2179,2445" />
+                <TextEquiv>
+                    <Unicode>property shall be his. Ear mark'd, or burnt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:24;}">
+                <Coords points="715,2532 2175,2551 2175,2476 2041,2455 1533,2487 715,2446" />
+                <Baseline points="725,2528 797,2525 870,2525 943,2525 1015,2525 1088,2526 1161,2525 1233,2525 1306,2523 1379,2525 1452,2528 1524,2527 1597,2531 1670,2528 1742,2528 1815,2525 1888,2526 1960,2525 2033,2525 2106,2525 2179,2525" />
+                <TextEquiv>
+                    <Unicode>mark'd Cattle shall belong to the right Owners,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:25;}">
+                <Coords points="710,2615 1412,2652 2175,2622 2175,2562 2090,2540 710,2560" />
+                <Baseline points="719,2606 792,2609 865,2609 938,2609 1011,2609 1084,2609 1157,2609 1230,2609 1303,2609 1376,2609 1449,2609 1522,2609 1595,2609 1668,2609 1741,2609 1814,2609 1887,2609 1960,2612 2033,2609 2106,2606 2179,2606" />
+                <TextEquiv>
+                    <Unicode>if claim'd any Time after the Expiration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:26;}">
+                <Coords points="721,2701 889,2699 915,2714 990,2699 1124,2703 1122,2620 1036,2637 1018,2620 950,2617 889,2644 853,2624 790,2620 768,2635 719,2617" />
+                <Baseline points="731,2689 757,2687 783,2686 810,2688 836,2689 863,2689 889,2689 916,2689 942,2689 969,2689 995,2689 1022,2689 1048,2689 1075,2691 1101,2692 1128,2692" />
+                <TextEquiv>
+                    <Unicode>of the Year.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:27;}">
+                <Coords points="820,2793 2171,2784 2171,2712 2131,2705 820,2707" />
+                <Baseline points="829,2773 896,2770 963,2770 1031,2770 1098,2773 1165,2773 1233,2776 1300,2776 1367,2773 1435,2773 1502,2776 1569,2776 1637,2776 1704,2775 1771,2776 1839,2776 1906,2776 1973,2773 2041,2773 2108,2772 2176,2767" />
+                <TextEquiv>
+                    <Unicode>The Clerk of each respective Court of Record</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:28;}">
+                <Coords points="724,2861 2180,2877 2155,2778 1856,2815 724,2796" />
+                <Baseline points="734,2857 806,2858 879,2857 951,2857 1024,2857 1096,2857 1169,2859 1241,2857 1314,2857 1386,2857 1459,2857 1532,2860 1604,2857 1677,2857 1749,2860 1822,2860 1894,2860 1967,2860 2039,2857 2112,2856 2185,2854" />
+                <TextEquiv>
+                    <Unicode>in this Island shall make Entry, and toll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:29;}">
+                <Coords points="726,2952 1153,2987 1386,2954 1815,3007 2175,2947 2175,2881 2123,2873 1720,2901 726,2866" />
+                <Baseline points="737,2940 809,2940 881,2940 953,2940 1025,2941 1097,2946 1169,2945 1241,2943 1313,2943 1385,2942 1458,2943 1530,2941 1602,2940 1674,2942 1746,2943 1818,2940 1890,2940 1962,2940 2034,2940 2106,2937 2179,2937" />
+                <TextEquiv>
+                    <Unicode>all Sorts of Cattle that shall be sold from one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:30;}">
+                <Coords points="2028,3057 2065,3055 2072,3061 2116,3039 2149,3053 2175,3051 2178,2976 2156,2969 2107,2969 2100,2960 2068,2958 2061,2952 2034,2956" />
+                <Baseline points="2042,3015 2069,3018 2096,3018 2124,3016 2151,3013 2179,3009" />
+                <TextEquiv>
+                    <Unicode>Per-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

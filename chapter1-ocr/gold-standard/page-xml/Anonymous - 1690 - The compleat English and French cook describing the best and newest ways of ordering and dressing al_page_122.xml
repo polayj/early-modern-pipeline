@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:40</Creator>
+        <Created>2025-10-02T01:41:53.228+02:00</Created>
+        <LastChange>2025-10-24T21:46:42.591+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051168" pageNr="21" tsid="258823139" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=WXKFRXWUCYBORQLXVMCKDXLY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MOIDEXHFLJXLUUWHCHQVVYSC" imageId="87046294" />
+    </Metadata>
+    <Page imageFilename="11168119_0021_104051168.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586536777" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_4" />
+                <RegionRefIndexed index="1" regionRef="r" />
+                <RegionRefIndexed index="2" regionRef="r_3" />
+                <RegionRefIndexed index="3" regionRef="r_1" />
+                <RegionRefIndexed index="4" regionRef="r_5" />
+                <RegionRefIndexed index="5" regionRef="r_2" />
+                <RegionRefIndexed index="6" regionRef="r_6" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_4" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="639,89 801,89 801,163 639,163" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="646,135 688,144 716,166 733,166 744,155 759,166 790,161 784,73 742,73 730,82 719,76 711,87 702,82 674,85 657,99 643,99" />
+                <Baseline points="660,131 704,134 749,137 794,140 797,140" />
+                <TextEquiv>
+                    <Unicode>234</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="955,81 1467,76 1467,169 951,166" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1015,138 1049,158 1148,149 1286,175 1325,149 1371,172 1416,161 1413,76 1348,90 1300,70 1289,85 1230,87 1187,70 1167,82 1100,68 1012,76" />
+                <Baseline points="1030,137 1075,143 1120,143 1164,146 1209,146 1254,149 1299,146 1344,146 1388,146 1424,146" />
+                <TextEquiv>
+                    <Unicode>All sorts of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1745,2200 591,2169 624,171 1749,191" />
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="637,214 1748,248 1748,192 1402,161 1277,206 1207,161 948,183 905,141 634,180" />
+                <Baseline points="654,212 698,215 743,218 788,215 833,215 878,218 922,218 967,215 1012,218 1057,221 1102,224 1146,224 1191,226 1236,226 1281,229 1326,226 1370,229 1415,229 1460,232 1505,232 1550,232 1594,235 1639,232 1684,235 1729,235 1753,232" />
+                <TextEquiv>
+                    <Unicode>them with your knife, and season them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;}">
+                <Coords points="632,276 1658,333 1729,307 1729,259 629,245" />
+                <Baseline points="648,274 692,280 737,283 782,283 827,283 872,286 916,286 961,286 1006,286 1051,289 1096,289 1140,289 1185,295 1230,295 1275,295 1320,295 1364,298 1409,298 1454,298 1499,298 1544,301 1588,301 1633,301 1678,307 1723,310 1735,310" />
+                <TextEquiv>
+                    <Unicode>with Salt, Nutmeg, Mace and Pepper,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:2;}">
+                <Coords points="634,352 1731,381 1729,307 1086,327 730,290 634,319" />
+                <Baseline points="651,346 695,349 740,352 785,352 830,352 875,352 919,352 964,355 1009,355 1054,358 1099,355 1143,358 1188,361 1233,361 1278,361 1323,361 1367,361 1412,367 1457,367 1502,367 1547,370 1591,367 1636,367 1681,370 1726,373 1735,370" />
+                <TextEquiv>
+                    <Unicode>and having first wash'd your Pork on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:3;}">
+                <Coords points="634,429 1734,448 1731,392 1619,409 1545,375 1348,403 1230,364 1114,395 634,358" />
+                <Baseline points="651,418 695,418 740,418 785,418 830,418 875,418 919,418 964,418 1009,421 1054,421 1099,421 1143,427 1188,427 1233,430 1278,430 1323,430 1367,430 1412,430 1457,433 1502,433 1547,436 1591,436 1636,436 1681,436 1726,436 1741,439" />
+                <TextEquiv>
+                    <Unicode>inside with yolks of Eggs, wash the outside</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:4;}">
+                <Coords points="632,485 1746,513 1743,443 1444,479 1362,437 629,434" />
+                <Baseline points="648,480 692,483 737,483 782,483 827,483 872,483 916,486 961,486 1006,489 1051,489 1096,489 1140,492 1185,492 1230,492 1275,492 1320,492 1364,495 1409,498 1454,498 1499,498 1544,498 1588,501 1633,501 1678,501 1723,501 1753,504" />
+                <TextEquiv>
+                    <Unicode>of your Veal therewith, and lay it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:5;}">
+                <Coords points="640,550 1554,592 1751,572 1751,522 637,499" />
+                <Baseline points="657,543 701,546 746,549 791,549 836,549 881,549 925,552 970,555 1015,555 1060,558 1105,561 1149,561 1194,561 1239,561 1284,561 1329,561 1373,564 1418,564 1463,567 1508,567 1553,567 1597,567 1642,570 1687,570 1732,573 1756,573" />
+                <TextEquiv>
+                    <Unicode>within your Pork; lastly, strow on your remaining</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:6;}">
+                <Coords points="626,618 1731,640 1731,578 626,578" />
+                <Baseline points="642,612 686,615 731,615 776,618 821,618 866,618 910,618 955,618 1000,621 1045,624 1090,624 1134,627 1179,627 1224,627 1269,627 1314,627 1358,630 1403,630 1448,630 1493,633 1538,633 1582,633 1627,636 1672,639 1717,639 1738,642" />
+                <TextEquiv>
+                    <Unicode>seasoning, and rowl it up hard,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:7;}">
+                <Coords points="626,685 1737,728 1737,657 623,623" />
+                <Baseline points="642,680 686,680 731,680 776,683 821,683 866,683 910,683 955,683 1000,686 1045,689 1090,689 1134,689 1179,692 1224,692 1269,695 1314,695 1358,695 1403,695 1448,698 1493,698 1538,698 1582,701 1627,704 1672,701 1717,704 1744,707" />
+                <TextEquiv>
+                    <Unicode>binding it with Tape: when it is boil'd,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:8;}">
+                <Coords points="626,753 1734,792 1731,728 1672,711 626,702" />
+                <Baseline points="642,743 686,746 731,746 776,749 821,749 866,749 910,749 955,752 1000,755 1045,755 1090,755 1134,755 1179,758 1224,758 1269,761 1314,761 1358,764 1403,764 1448,764 1493,764 1538,764 1582,767 1627,767 1672,767 1717,767 1741,773" />
+                <TextEquiv>
+                    <Unicode>souce it in some of the same liquor, with a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:9;}">
+                <Coords points="1758,830 629,826 629,756 1758,805" />
+                <Baseline points="645,812 689,812 734,812 779,815 824,815 869,815 913,818 958,818 1003,821 1048,821 1093,824 1137,824 1182,827 1227,827 1272,827 1317,827 1361,827 1406,830 1451,830 1496,830 1541,833 1585,833 1630,836 1675,833 1720,833 1756,836 1758,837" />
+                <TextEquiv>
+                    <Unicode>little Vinegar, beaten Pepper and Ginger;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:10;}">
+                <Coords points="629,885 1616,905 1726,942 1740,857 626,829" />
+                <Baseline points="642,878 686,878 731,881 776,881 821,881 866,881 910,884 955,884 1000,884 1045,887 1090,887 1134,890 1179,890 1224,893 1269,893 1314,893 1358,896 1403,896 1448,896 1493,899 1538,899 1582,901 1627,901 1672,901 1717,901 1750,901" />
+                <TextEquiv>
+                    <Unicode>when you serve it up, stick your Pork with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:11;}">
+                <Coords points="623,964 1263,956 1658,998 1737,976 1737,939 620,885" />
+                <Baseline points="639,946 683,946 728,949 773,949 818,949 863,949 907,949 952,952 997,952 1042,952 1087,955 1131,955 1176,955 1221,955 1266,958 1311,961 1355,961 1400,961 1445,961 1490,961 1535,964 1579,967 1624,970 1669,970 1714,970 1744,970" />
+                <TextEquiv>
+                    <Unicode>Bay-leaves or Rosemary and Flowers, garnishing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:12;}">
+                <Coords points="620,1018 1624,1035 1726,1077 1723,979 1599,1015 1413,967 1328,1001 1255,962 1162,1004 1097,962 843,995 620,962" />
+                <Baseline points="636,1009 680,1012 725,1012 770,1015 815,1015 860,1015 904,1018 949,1021 994,1021 1039,1024 1084,1024 1128,1021 1173,1021 1218,1024 1263,1027 1308,1027 1352,1030 1397,1030 1442,1030 1487,1030 1532,1030 1577,1033 1621,1036 1666,1039 1711,1039 1729,1042" />
+                <TextEquiv>
+                    <Unicode>your Dish with Flowers and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:13;}">
+                <Coords points="615,1089 629,1086 660,1103 674,1103 682,1094 711,1108 742,1103 773,1108 770,1035 744,1035 725,1043 711,1035 688,1035 671,1021 649,1024 640,1015 612,1029" />
+                <Baseline points="630,1081 675,1081 719,1081 764,1087 779,1090" />
+                <TextEquiv>
+                    <Unicode>Sage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:14;}">
+                <Coords points="914,1207 990,1221 1074,1198 1108,1221 1187,1213 1232,1246 1300,1213 1354,1230 1390,1221 1387,1139 1303,1156 1190,1136 1153,1156 1066,1125 1021,1156 911,1142" />
+                <Baseline points="928,1194 973,1194 1018,1197 1063,1197 1108,1200 1152,1200 1197,1200 1242,1200 1287,1203 1332,1203 1376,1206 1397,1203" />
+                <TextEquiv>
+                    <Unicode>Rams head souced.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:15;}">
+                <Coords points="680,1294 1737,1317 1734,1207 1616,1261 1514,1232 1373,1269 1275,1218 1182,1263 860,1218 818,1249 744,1213 680,1249" />
+                <Baseline points="695,1281 740,1284 785,1284 830,1284 875,1287 919,1290 964,1290 1009,1293 1054,1296 1099,1296 1143,1299 1188,1296 1233,1299 1278,1299 1323,1302 1367,1302 1412,1302 1457,1302 1502,1302 1547,1302 1591,1305 1636,1305 1681,1305 1726,1308 1744,1305" />
+                <TextEquiv>
+                    <Unicode>Cut the head off, with a good part of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:16;}">
+                <Coords points="623,1368 1723,1390 1703,1314 1435,1308 1303,1348 1232,1308 623,1303" />
+                <Baseline points="639,1341 683,1347 728,1350 773,1352 818,1355 863,1355 907,1358 952,1358 997,1361 1042,1361 1087,1364 1131,1364 1176,1364 1221,1367 1266,1367 1311,1367 1355,1367 1400,1367 1445,1367 1490,1370 1535,1370 1579,1370 1624,1370 1669,1370 1714,1373 1729,1370" />
+                <TextEquiv>
+                    <Unicode>the neck adjoyning to it, and boil it with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:17;}">
+                <Coords points="618,1424 1731,1455 1729,1393 1686,1382 1362,1407 1314,1373 970,1399 618,1365" />
+                <Baseline points="633,1409 677,1415 722,1415 767,1418 812,1421 857,1421 901,1421 946,1424 991,1427 1036,1427 1081,1430 1126,1433 1170,1430 1215,1433 1260,1436 1305,1433 1350,1433 1394,1433 1439,1433 1484,1436 1529,1436 1574,1436 1618,1439 1663,1439 1708,1439 1732,1442" />
+                <TextEquiv>
+                    <Unicode>the skin on a good while; when it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:18;}">
+                <Coords points="618,1497 1731,1517 1731,1455 1221,1438 1103,1478 1010,1435 618,1435" />
+                <Baseline points="633,1481 677,1481 722,1484 767,1484 812,1487 857,1487 901,1490 946,1493 991,1493 1036,1496 1081,1496 1126,1499 1170,1499 1215,1499 1260,1502 1305,1499 1350,1502 1394,1499 1439,1499 1484,1502 1529,1502 1574,1505 1618,1508 1663,1508 1708,1511 1738,1511" />
+                <TextEquiv>
+                    <Unicode>throughly boiled, (which will require a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:19;}">
+                <Coords points="609,1557 1743,1585 1720,1517 609,1517" />
+                <Baseline points="624,1541 669,1547 713,1550 758,1553 803,1553 848,1556 893,1556 937,1559 982,1559 1027,1562 1072,1562 1117,1565 1161,1565 1206,1565 1251,1568 1296,1568 1341,1568 1385,1568 1430,1568 1475,1571 1520,1571 1565,1574 1609,1574 1654,1574 1699,1577 1744,1574 1750,1571" />
+                <TextEquiv>
+                    <Unicode>considerable time) take it up and pluck off</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:20;}">
+                <Coords points="612,1616 1709,1644 1706,1585 609,1574" />
+                <Baseline points="624,1609 669,1612 713,1615 758,1618 803,1621 848,1621 893,1621 937,1624 982,1624 1027,1624 1072,1627 1117,1627 1161,1630 1206,1630 1251,1630 1296,1630 1341,1633 1385,1633 1430,1633 1475,1633 1520,1636 1565,1633 1609,1636 1654,1636 1699,1633 1717,1639" />
+                <TextEquiv>
+                    <Unicode>the skin, then take Broth you have boiled</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:21;}">
+                <Coords points="603,1684 1706,1712 1706,1661 1528,1672 1438,1636 1204,1678 1151,1638 950,1624 603,1650" />
+                <Baseline points="618,1675 663,1678 707,1681 752,1684 797,1684 842,1687 887,1687 931,1690 976,1690 1021,1693 1066,1693 1111,1696 1155,1696 1200,1696 1245,1696 1290,1696 1335,1696 1379,1696 1424,1699 1469,1699 1514,1699 1559,1699 1603,1702 1648,1702 1693,1702 1714,1699" />
+                <TextEquiv>
+                    <Unicode>some fresh meat in, and boil it over again,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:22;}">
+                <Coords points="612,1765 1709,1779 1706,1712 609,1709" />
+                <Baseline points="624,1744 669,1747 713,1750 758,1753 803,1753 848,1753 893,1753 937,1756 982,1756 1027,1762 1072,1762 1117,1765 1161,1765 1206,1765 1251,1765 1296,1768 1341,1765 1385,1768 1430,1768 1475,1768 1520,1768 1565,1768 1609,1768 1654,1768 1699,1768 1714,1768" />
+                <TextEquiv>
+                    <Unicode>with Vinegar, Salt, a good handful of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:23;}">
+                <Coords points="606,1819 1072,1856 1706,1844 1706,1788 1641,1782 1165,1802 606,1765" />
+                <Baseline points="621,1815 666,1815 710,1815 755,1818 800,1818 845,1818 890,1821 934,1824 979,1824 1024,1827 1069,1827 1114,1827 1158,1830 1203,1830 1248,1833 1293,1833 1338,1833 1382,1833 1427,1836 1472,1833 1517,1836 1562,1833 1606,1836 1651,1836 1696,1836 1714,1836" />
+                <TextEquiv>
+                    <Unicode>Sweet Herbs, Ginger, Pepper, a good piece-of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:24;}">
+                <Coords points="609,1889 1706,1915 1703,1861 606,1836" />
+                <Baseline points="621,1878 666,1884 710,1884 755,1887 800,1887 845,1887 890,1887 934,1887 979,1890 1024,1890 1069,1893 1114,1893 1158,1896 1203,1899 1248,1899 1293,1899 1338,1899 1382,1902 1427,1902 1472,1905 1517,1905 1562,1905 1606,1902 1651,1905 1696,1902 1711,1899" />
+                <TextEquiv>
+                    <Unicode>Horse-raddish root scraped, and a quarter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:25;}">
+                <Coords points="601,1946 1698,1997 1698,1923 598,1898" />
+                <Baseline points="615,1941 660,1944 704,1947 749,1950 794,1950 839,1953 884,1953 928,1953 973,1956 1018,1959 1063,1959 1108,1959 1152,1962 1197,1962 1242,1962 1287,1965 1332,1965 1376,1965 1421,1968 1466,1971 1511,1971 1556,1971 1600,1968 1645,1968 1690,1968 1702,1971" />
+                <TextEquiv>
+                    <Unicode>of a pound of French-barley; being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:26;}">
+                <Coords points="598,2019 1540,2059 1709,2047 1709,1974 1579,2013 1464,1974 1373,2005 1325,1974 964,1994 595,1949" />
+                <Baseline points="612,2010 657,2013 701,2016 746,2016 791,2019 836,2019 881,2022 925,2022 970,2022 1015,2025 1060,2025 1105,2028 1149,2028 1194,2028 1239,2030 1284,2030 1329,2033 1373,2033 1418,2036 1463,2033 1508,2036 1553,2042 1597,2042 1642,2039 1687,2039 1714,2039" />
+                <TextEquiv>
+                    <Unicode>boiled, strain them through a bag, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:27;}">
+                <Coords points="601,2090 1227,2126 1351,2101 1438,2135 1480,2101 1706,2109 1681,2044 1342,2073 601,2030" />
+                <Baseline points="615,2078 660,2078 704,2081 749,2084 794,2087 839,2087 884,2090 928,2090 973,2093 1018,2093 1063,2093 1108,2096 1152,2096 1197,2093 1242,2096 1287,2099 1332,2099 1376,2099 1421,2102 1466,2099 1511,2102 1556,2102 1600,2099 1645,2096 1690,2099 1714,2096" />
+                <TextEquiv>
+                    <Unicode>souce the head in it; you may serve it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:28;}">
+                <Coords points="1640,2174 1705,2174 1705,2144 1640,2144" />
+                <Baseline points="1640,2174 1705,2174" />
+                <TextEquiv>
+                    <Unicode>up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="2018,86 2516,87 2517,178 2018,186" />
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="2028,180 2152,175 2197,192 2217,175 2513,166 2513,113 2453,85 2417,107 2290,102 2256,85 2228,113 2191,93 2078,93 2030,124" />
+                <Baseline points="2045,170 2072,167 2117,164 2162,167 2207,164 2252,164 2296,164 2341,161 2386,158 2431,158 2476,155 2520,155" />
+                <TextEquiv>
+                    <Unicode>Flesh Souced.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:4;} structure {type:page-number;}">
+            <Coords points="2734,97 2903,97 2903,173 2734,173" />
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="2741,147 2755,147 2766,158 2789,161 2817,178 2885,166 2879,96 2848,99 2783,87 2766,102 2735,102" />
+                <Baseline points="2756,146 2801,152 2846,155 2891,158" />
+                <TextEquiv>
+                    <Unicode>235</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1763,192 2911,186 2925,2215 1780,2161" />
+            <TextLine id="l_3" custom="readingOrder {index:0;}">
+                <Coords points="1777,259 2893,245 2896,183 2668,161 2634,192 2389,175 2233,212 1940,178 1779,209" />
+                <Baseline points="1792,250 1827,247 1872,247 1917,247 1962,247 2007,247 2051,247 2096,244 2141,244 2186,244 2231,241 2275,241 2320,241 2365,238 2410,235 2455,235 2499,235 2544,232 2589,232 2634,232 2679,232 2723,232 2768,229 2813,232 2858,229 2903,232" />
+                <TextEquiv>
+                    <Unicode>up either in slices, or whole with the horns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:1;}">
+                <Coords points="1768,333 1788,333 1805,324 1822,333 1833,333 1839,327 1870,327 1870,279 1856,279 1847,271 1844,274 1796,271 1782,285 1768,285" />
+                <Baseline points="1783,316 1827,316 1872,316 1878,316" />
+                <TextEquiv>
+                    <Unicode>on.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:2;}">
+                <Coords points="2025,443 2186,426 2222,454 2290,429 2321,446 2343,423 2372,443 2405,423 2425,440 2527,417 2608,426 2608,358 2575,344 2541,372 2499,344 2417,358 2394,330 2346,375 2301,350 2248,350 2205,384 2135,358 2025,372" />
+                <Baseline points="2039,418 2078,421 2123,421 2168,418 2213,418 2257,415 2302,415 2347,415 2392,412 2437,412 2481,412 2526,409 2571,409 2616,409" />
+                <TextEquiv>
+                    <Unicode>Sides of Lamb souced.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:3;}">
+                <Coords points="1833,533 2890,508 2879,440 2761,465 2583,431 2521,482 2487,448 2332,440 2270,477 2174,446 1999,488 1836,454" />
+                <Baseline points="1851,522 1863,519 1908,519 1953,519 1998,519 2042,516 2087,516 2132,516 2177,516 2222,513 2266,510 2311,510 2356,507 2401,507 2446,507 2490,504 2535,504 2580,504 2625,501 2670,501 2714,498 2759,498 2804,498 2849,498 2894,498" />
+                <TextEquiv>
+                    <Unicode>Bone your side of Lamb, soak it and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:4;}">
+                <Coords points="1777,598 2772,567 2879,595 2882,519 1779,530" />
+                <Baseline points="1792,585 1809,588 1854,585 1899,588 1944,588 1989,585 2033,585 2078,582 2123,582 2168,582 2213,579 2257,579 2302,576 2347,573 2392,573 2437,573 2481,573 2526,570 2571,570 2616,567 2661,567 2705,567 2750,567 2795,564 2840,564 2885,564" />
+                <TextEquiv>
+                    <Unicode>squeeze it well from the blood, wipe it dry,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:5;}">
+                <Coords points="1777,663 2840,649 2882,598 2772,570 2391,612 2115,595 2076,629 2011,595 1779,609" />
+                <Baseline points="1792,654 1812,651 1857,651 1902,654 1947,651 1992,651 2036,651 2081,648 2126,648 2171,648 2216,648 2260,645 2305,642 2350,639 2395,639 2440,639 2484,639 2529,639 2574,636 2619,633 2664,633 2708,630 2753,630 2798,630 2843,627 2888,624" />
+                <TextEquiv>
+                    <Unicode>and season the inside with beaten Nutmeg,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:6;}">
+                <Coords points="1779,725 2882,711 2882,634 1782,680" />
+                <Baseline points="1795,716 1812,716 1857,716 1902,719 1947,719 1992,719 2036,716 2081,716 2126,716 2171,713 2216,713 2260,710 2305,707 2350,704 2395,704 2440,704 2484,704 2529,704 2574,701 2619,698 2664,695 2708,695 2753,695 2798,695 2843,695 2888,692" />
+                <TextEquiv>
+                    <Unicode>Ginger, some sweet Herbs minced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:7;}">
+                <Coords points="1774,792 2859,776 2890,730 1774,739" />
+                <Baseline points="1789,782 1818,782 1863,782 1908,782 1953,785 1998,782 2042,782 2087,782 2132,782 2177,779 2222,779 2266,776 2311,773 2356,770 2401,770 2446,767 2490,770 2535,767 2580,767 2625,764 2670,761 2714,761 2759,761 2804,761 2849,761 2894,758" />
+                <TextEquiv>
+                    <Unicode>small, whole Coriander-seed, minced Lemon-pill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:8;}">
+                <Coords points="1758,805 1918,812 2896,767 2896,835 1758,830" />
+                <Baseline points="1758,837 1789,845 1824,848 1869,848 1914,848 1959,851 2004,848 2048,848 2093,845 2138,845 2183,845 2228,845 2272,845 2317,842 2362,839 2407,836 2452,836 2496,836 2541,833 2586,830 2631,830 2676,830 2720,827 2765,827 2810,827 2855,827 2900,830" />
+                <TextEquiv>
+                    <Unicode>and Salt; lastly, some slices of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:9;}">
+                <Coords points="1779,922 2800,919 2890,911 2893,849 1779,857" />
+                <Baseline points="1795,913 1821,913 1866,916 1911,916 1956,916 2001,916 2045,913 2090,913 2135,910 2180,910 2225,910 2269,910 2314,907 2359,904 2404,901 2449,901 2493,901 2538,899 2583,899 2628,896 2673,896 2717,893 2762,893 2807,893 2852,893 2897,893" />
+                <TextEquiv>
+                    <Unicode>broad Lard over all: then rowl it up in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:10;}">
+                <Coords points="1779,987 2778,981 2879,967 2882,925 2828,897 2702,942 2600,911 2112,919 2019,962 1943,919 1779,936" />
+                <Baseline points="1795,979 1809,979 1854,982 1899,982 1944,982 1989,982 2033,979 2078,979 2123,979 2168,979 2213,976 2257,976 2302,973 2347,970 2392,967 2437,967 2481,967 2526,967 2571,967 2616,964 2661,961 2705,961 2750,961 2795,961 2840,961 2885,967" />
+                <TextEquiv>
+                    <Unicode>a Coller, and tye it up in a clean cloth,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:11;}">
+                <Coords points="1777,1074 2885,1035 2857,967 2764,1010 2696,967 1779,1010" />
+                <Baseline points="1795,1045 1815,1045 1860,1045 1905,1048 1950,1048 1995,1045 2039,1045 2084,1045 2129,1045 2174,1045 2219,1042 2263,1039 2308,1039 2353,1039 2398,1036 2443,1036 2487,1033 2532,1033 2577,1030 2622,1030 2667,1030 2711,1027 2756,1027 2801,1027 2846,1027 2891,1024" />
+                <TextEquiv>
+                    <Unicode>put it into your liquor when it boils, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:12;}">
+                <Coords points="1779,1125 2572,1131 2893,1103 2896,1035 1779,1074" />
+                <Baseline points="1795,1114 1824,1114 1869,1114 1914,1114 1959,1114 2004,1111 2048,1111 2093,1111 2138,1108 2183,1108 2228,1108 2272,1108 2317,1108 2362,1105 2407,1102 2452,1102 2496,1102 2541,1099 2586,1096 2631,1096 2676,1096 2720,1096 2765,1096 2810,1093 2855,1093 2900,1090" />
+                <TextEquiv>
+                    <Unicode>scum it very well, and then put in sliced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:13;}">
+                <Coords points="1782,1190 2896,1176 2899,1100 2499,1108 2439,1151 2149,1114 2039,1120 1997,1162 1782,1131" />
+                <Baseline points="1798,1179 1827,1182 1872,1182 1917,1182 1962,1182 2007,1179 2051,1179 2096,1179 2141,1179 2186,1179 2231,1176 2275,1173 2320,1173 2365,1173 2410,1170 2455,1170 2499,1167 2544,1167 2589,1167 2634,1164 2679,1164 2723,1161 2768,1161 2813,1158 2858,1158 2903,1158" />
+                <TextEquiv>
+                    <Unicode>Ginger, sliced Nutmeg, Salt, Fennel and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:14;}">
+                <Coords points="1782,1261 2896,1238 2896,1182 1782,1193" />
+                <Baseline points="1798,1251 1827,1251 1872,1248 1917,1248 1962,1245 2007,1245 2051,1245 2096,1245 2141,1242 2186,1242 2231,1242 2275,1242 2320,1242 2365,1239 2410,1236 2455,1236 2499,1233 2544,1233 2589,1230 2634,1230 2679,1227 2723,1224 2768,1227 2813,1227 2858,1224 2903,1221" />
+                <TextEquiv>
+                    <Unicode>Parsley roots, ; being almost boiled, put in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:15;}">
+                <Coords points="1782,1323 2854,1320 2893,1303 2896,1241 1782,1269" />
+                <Baseline points="1798,1317 1824,1317 1869,1317 1914,1314 1959,1314 2004,1314 2048,1314 2093,1311 2138,1311 2183,1311 2228,1308 2272,1308 2317,1308 2362,1305 2407,1305 2452,1302 2496,1299 2541,1299 2586,1299 2631,1296 2676,1296 2720,1296 2765,1293 2810,1293 2855,1290 2900,1290" />
+                <TextEquiv>
+                    <Unicode>a quart of White wine, when it is enough</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:16;}">
+                <Coords points="1779,1376 2893,1382 2893,1308 1779,1340" />
+                <Baseline points="1795,1376 1824,1379 1869,1379 1914,1379 1959,1379 2004,1379 2048,1379 2093,1379 2138,1379 2183,1376 2228,1376 2272,1373 2317,1373 2362,1370 2407,1370 2452,1370 2496,1367 2541,1364 2586,1364 2631,1364 2676,1361 2720,1361 2765,1361 2810,1361 2855,1361 2900,1364" />
+                <TextEquiv>
+                    <Unicode>take it off, and put in slices of Lemon,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:17;}">
+                <Coords points="1788,1447 2890,1438 2888,1382 2730,1368 2515,1376 2431,1416 2270,1379 2194,1416 2112,1385 1791,1402" />
+                <Baseline points="1803,1445 1821,1445 1866,1445 1911,1448 1956,1445 2001,1445 2045,1445 2090,1445 2135,1445 2180,1445 2225,1442 2269,1439 2314,1439 2359,1436 2404,1433 2449,1433 2493,1433 2538,1433 2583,1430 2628,1430 2673,1430 2717,1427 2762,1427 2807,1427 2852,1427 2897,1424" />
+                <TextEquiv>
+                    <Unicode>with the Pill of two whole Lemons;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:18;}">
+                <Coords points="1785,1517 2806,1512 2899,1503 2902,1435 2143,1483 1788,1444" />
+                <Baseline points="1801,1514 1830,1514 1875,1514 1920,1514 1965,1514 2010,1514 2054,1511 2099,1511 2144,1511 2189,1511 2234,1508 2278,1508 2323,1508 2368,1505 2413,1502 2458,1502 2502,1502 2547,1499 2592,1499 2637,1499 2682,1499 2726,1496 2771,1493 2816,1493 2861,1493 2906,1496" />
+                <TextEquiv>
+                    <Unicode>boil it close covered to make the Veal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:19;}">
+                <Coords points="1788,1605 1932,1579 1963,1590 2104,1590 2104,1528 2013,1531 1985,1517 1966,1537 1951,1531 1926,1545 1906,1523 1881,1523 1867,1537 1788,1523" />
+                <Baseline points="1803,1577 1842,1579 1887,1579 1932,1579 1977,1579 2022,1577 2066,1577 2111,1574" />
+                <TextEquiv>
+                    <Unicode>look white.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:20;}">
+                <Coords points="1870,1647 2242,1669 2279,1638 2761,1624 2896,1653 2899,1562 2442,1599 2358,1574 2276,1605 1870,1590" />
+                <Baseline points="1884,1642 1917,1645 1962,1645 2007,1642 2051,1642 2096,1642 2141,1642 2186,1639 2231,1639 2275,1639 2320,1636 2365,1636 2410,1633 2455,1633 2499,1633 2544,1633 2589,1630 2634,1630 2679,1627 2723,1624 2768,1624 2813,1624 2858,1624 2903,1627" />
+                <TextEquiv>
+                    <Unicode>Thus you may order a breast of Veal,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:21;}">
+                <Coords points="1799,1726 2642,1726 2902,1698 2905,1650 2676,1636 2634,1669 2555,1638 2470,1684 2312,1644 1799,1661" />
+                <Baseline points="1815,1711 1833,1711 1878,1711 1923,1711 1968,1711 2013,1711 2057,1711 2102,1711 2147,1711 2192,1708 2237,1708 2281,1705 2326,1702 2371,1702 2416,1702 2461,1702 2505,1702 2550,1702 2595,1699 2640,1699 2685,1693 2729,1693 2774,1690 2819,1690 2864,1690 2909,1687" />
+                <TextEquiv>
+                    <Unicode>or any joynt of Mutton, Kid, Fawn or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:22;}">
+                <Coords points="1805,1788 1918,1788 1923,1794 1977,1785 2033,1788 2033,1746 2013,1746 1991,1731 1960,1731 1946,1717 1870,1737 1858,1729 1805,1726" />
+                <Baseline points="1821,1774 1866,1777 1911,1777 1956,1777 2001,1777 2039,1780" />
+                <TextEquiv>
+                    <Unicode>Venison.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:23;}">
+                <Coords points="2200,1887 2445,1889 2487,1875 2555,1887 2558,1810 2493,1808 2462,1825 2439,1805 2411,1825 2400,1813 2343,1839 2279,1839 2256,1819 2202,1827" />
+                <Baseline points="2216,1881 2252,1878 2296,1878 2341,1878 2386,1875 2431,1872 2476,1872 2520,1872 2565,1872" />
+                <TextEquiv>
+                    <Unicode>Swan coller'd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:24;}">
+                <Coords points="1867,1988 2902,1982 2902,1912 2826,1895 2411,1904 2307,1949 2174,1912 1985,1940 1867,1912" />
+                <Baseline points="1881,1974 1923,1974 1968,1974 2013,1974 2057,1974 2102,1974 2147,1974 2192,1974 2237,1974 2281,1971 2326,1974 2371,1971 2416,1968 2461,1971 2505,1968 2550,1968 2595,1965 2640,1965 2685,1962 2729,1962 2774,1962 2819,1959 2864,1962 2909,1962" />
+                <TextEquiv>
+                    <Unicode>Bone your Swan, and part the two sides,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:25;}">
+                <Coords points="1799,2044 2803,2053 2899,2033 2902,1985 1802,1988" />
+                <Baseline points="1815,2042 1830,2039 1875,2039 1920,2042 1965,2042 2010,2042 2054,2042 2099,2039 2144,2039 2189,2039 2234,2039 2278,2036 2323,2036 2368,2036 2413,2033 2458,2033 2502,2033 2547,2033 2592,2030 2637,2030 2682,2030 2726,2028 2771,2025 2816,2025 2861,2025 2906,2022" />
+                <TextEquiv>
+                    <Unicode>season it according to the foregoing directions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:26;}">
+                <Coords points="1805,2109 2659,2126 2905,2101 2907,2047 1805,2056" />
+                <Baseline points="1821,2108 1836,2111 1881,2111 1926,2111 1971,2111 2016,2111 2060,2108 2105,2108 2150,2108 2195,2108 2240,2108 2284,2108 2329,2108 2374,2105 2419,2105 2464,2102 2508,2102 2553,2102 2598,2099 2643,2099 2688,2096 2732,2096 2777,2093 2822,2093 2867,2090 2912,2090" />
+                <TextEquiv>
+                    <Unicode>in the soucing of Geese, season it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:27;}">
+                <Coords points="2764,2163 2786,2174 2845,2174 2854,2166 2868,2177 2879,2177 2888,2169 2907,2174 2910,2101 2862,2104 2859,2098 2854,2104 2834,2098 2803,2121 2797,2115 2766,2115" />
+                <Baseline points="2780,2162 2825,2159 2870,2156 2915,2159" />
+                <TextEquiv>
+                    <Unicode>with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

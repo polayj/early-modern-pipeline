@@ -1,0 +1,62 @@
+{
+  "doc_id": "Anonymous - 1692 - A brief but most true relation of the late barbarous and bloody plot of the negro's in the island of Barbados_page_1.xml",
+  "text": "A Brief, but most True\nRELATION\nOf the late Barbarous and Bloody\nPLOT\nOf the Negro's in the Island of\nBARBADO'S\nOn Friday the 21. of October, 1692.\nTo Kill the Governour and all the Planters, and to destroy\nthe Government there Established, and to set up a New\nGovernour and Government of their own.\n21. Jan. 169 2/3\nIn a LETTER to a Friend.\nSIR,\nHis day I arrive'd, But I had like\nto come short of the Governour. For\nthe Negro's in this Island had made a\nPLOT to have distroy'd all the\nChristians therein: And it was to\nhave been done that very day that we\ncame hither. But as it happen'd, the Night before\nit was found out very providentially, by Two of\nthem that were a talking of this their wicked\nDesign; who being fully overheard to discourse\nthereof, they were taken up, and Examined, and so\nfrankly",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 92,
+      "end": 98,
+      "label": "TOPONYM",
+      "text": "Island",
+      "line_id": "tr_1_tl_5"
+    },
+    {
+      "id": "e2",
+      "start": 102,
+      "end": 111,
+      "label": "TOPONYM",
+      "text": "BARBADO'S",
+      "line_id": "tr_1_tl_6"
+    },
+    {
+      "id": "e3",
+      "start": 438,
+      "end": 444,
+      "label": "TOPONYM",
+      "text": "Island",
+      "line_id": "tr_1_tl_16"
+    },
+    {
+      "start": 77,
+      "end": 84,
+      "text": "Negro's",
+      "label": "COMMODITY",
+      "id": "e4",
+      "line_id": "augmented"
+    },
+    {
+      "start": 422,
+      "end": 429,
+      "text": "Negro's",
+      "label": "COMMODITY",
+      "id": "e5",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e6",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Governour",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e7",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "SIR",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

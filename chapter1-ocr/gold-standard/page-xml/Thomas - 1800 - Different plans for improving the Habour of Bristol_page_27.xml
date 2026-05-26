@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:46:21.087+02:00</Created>
+        <LastChange>2025-10-27T18:10:07.898+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051499" pageNr="92" tsid="258992413" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=NEDLWHVDUXKQTJZJZUHAPRJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRRKYXRDYUTHTNJMAQWPTKFV" imageId="87046450" />
+    </Metadata>
+    <Page imageFilename="11168119_0092_104051499.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586550789" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="979,446 1223,438 1224,530 983,539" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1047,511 1076,520 1098,539 1131,527 1146,533 1146,414 1125,419 1110,411 1091,431 1065,420 1047,419" />
+                <Baseline points="1056,501 1087,501 1118,502 1149,501" />
+                <TextEquiv>
+                    <Unicode>( 25 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="472,588 474,2551 1698,2551 1693,561" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="493,675 866,626 1651,672 1678,542 1179,559 1055,513 493,560" />
+                <Baseline points="501,635 563,635 625,631 687,629 749,626 811,626 873,626 935,623 997,623 1059,623 1121,623 1183,623 1245,623 1307,623 1369,623 1431,625 1493,623 1555,624 1617,626 1680,626" />
+                <TextEquiv>
+                    <Unicode>portion to that in the Avon, I think no doubt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="499,723 946,752 1123,702 1326,752 1679,709 1679,672 1542,647 1222,676 1149,627 997,630 955,672 690,685 608,639 499,673" />
+                <Baseline points="507,710 565,710 624,706 683,704 742,704 801,704 859,704 918,701 977,701 1036,701 1095,701 1153,701 1212,701 1271,701 1330,698 1389,699 1447,701 1506,701 1565,701 1624,701 1683,704" />
+                <TextEquiv>
+                    <Unicode>can be entertained of the certainty of contriving</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="499,817 1328,778 1681,821 1696,697 1587,745 1526,712 1325,754 1037,712 948,755 499,735" />
+                <Baseline points="507,782 566,785 626,782 685,781 745,779 804,779 864,779 923,777 983,773 1042,776 1102,776 1162,776 1221,777 1281,777 1340,776 1400,776 1459,776 1519,776 1578,776 1638,776 1698,776" />
+                <TextEquiv>
+                    <Unicode>means to discharge it; for Bridewell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="496,873 854,861 945,900 1278,852 1512,901 1687,870 1673,815 1411,796 1272,831 945,788 496,827" />
+                <Baseline points="504,862 563,859 622,856 681,856 741,856 800,856 859,853 918,853 978,850 1037,851 1096,851 1155,850 1215,853 1274,851 1333,850 1392,853 1452,853 1511,853 1570,853 1629,855 1689,859" />
+                <TextEquiv>
+                    <Unicode>and Hanham Mill ponds are nearly level, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="487,966 729,936 1673,971 1661,893 1289,897 1177,855 1067,907 854,861 487,901" />
+                <Baseline points="495,937 554,934 613,934 672,934 731,931 790,931 849,931 908,931 967,928 1026,928 1086,928 1145,928 1204,928 1263,928 1322,928 1381,928 1440,930 1499,931 1558,931 1617,931 1677,931" />
+                <TextEquiv>
+                    <Unicode>are those of Newgate and Keysham; consequently</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="505,1034 966,1009 1098,1052 1188,1007 1682,1043 1682,974 1621,960 505,970" />
+                <Baseline points="513,1015 571,1012 630,1011 688,1009 747,1009 806,1009 864,1009 923,1006 982,1008 1040,1006 1099,1006 1158,1006 1216,1006 1275,1006 1334,1006 1392,1006 1451,1006 1510,1006 1568,1006 1627,1008 1686,1009" />
+                <TextEquiv>
+                    <Unicode>the fall is as great in a quarter of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="484,1104 967,1082 1195,1126 1494,1080 1593,1123 1679,1089 1679,1044 1395,1062 1226,1012 952,1064 484,1043" />
+                <Baseline points="492,1086 551,1088 611,1086 670,1083 730,1083 789,1083 849,1080 908,1083 968,1081 1027,1080 1087,1079 1147,1077 1206,1077 1266,1078 1325,1080 1385,1080 1444,1080 1504,1080 1563,1080 1623,1081 1683,1086" />
+                <TextEquiv>
+                    <Unicode>mile to the Avon from the Frome, as it is on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="493,1177 676,1168 772,1219 1666,1219 1684,1088 1424,1131 493,1097" />
+                <Baseline points="501,1164 560,1164 619,1164 678,1161 738,1161 797,1161 856,1161 915,1161 975,1161 1034,1158 1093,1156 1152,1155 1212,1155 1271,1155 1330,1155 1389,1155 1449,1155 1508,1155 1567,1155 1626,1157 1686,1161" />
+                <TextEquiv>
+                    <Unicode>the Avon itself in a distance of 8 miles and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="496,1286 523,1281 539,1289 575,1264 633,1244 642,1252 727,1249 726,1174 684,1179 635,1208 536,1210 496,1199" />
+                <Baseline points="504,1238 529,1237 554,1236 579,1237 604,1238 630,1236 655,1237 680,1238 705,1238 731,1238" />
+                <TextEquiv>
+                    <Unicode>upwards.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="547,1334 1405,1311 1685,1348 1685,1293 1588,1250 1001,1286 772,1222 547,1258" />
+                <Baseline points="555,1313 611,1315 668,1311 725,1312 781,1313 838,1313 895,1313 951,1313 1008,1313 1065,1310 1122,1310 1178,1310 1235,1310 1292,1310 1348,1310 1405,1310 1462,1311 1518,1313 1575,1313 1632,1316 1689,1322" />
+                <TextEquiv>
+                    <Unicode>A Tunnel may be made, if necessary,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="481,1411 1673,1410 1673,1350 1539,1372 1390,1317 481,1345" />
+                <Baseline points="489,1388 548,1389 607,1389 667,1388 726,1388 786,1388 845,1388 904,1385 964,1385 1023,1385 1083,1387 1142,1385 1201,1385 1261,1385 1320,1387 1380,1385 1439,1388 1498,1388 1558,1388 1617,1389 1677,1391" />
+                <TextEquiv>
+                    <Unicode>from Newgate Mill pond to the Avon, that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="493,1483 1670,1494 1670,1407 493,1410" />
+                <Baseline points="501,1465 559,1465 618,1463 676,1462 735,1462 794,1462 852,1462 911,1462 970,1462 1028,1462 1087,1459 1146,1459 1204,1459 1263,1459 1322,1459 1380,1461 1439,1462 1498,1464 1556,1464 1615,1465 1674,1465" />
+                <TextEquiv>
+                    <Unicode>would carry off all the water; even such a flood</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="478,1560 1009,1539 1670,1582 1655,1490 881,1512 806,1468 478,1477" />
+                <Baseline points="486,1540 545,1540 604,1540 664,1540 723,1541 783,1541 842,1540 901,1540 961,1538 1020,1537 1080,1537 1139,1537 1198,1537 1258,1537 1317,1537 1377,1537 1436,1537 1495,1539 1555,1540 1614,1541 1674,1549" />
+                <TextEquiv>
+                    <Unicode>as we had the 9th inst. might be got rid of,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="487,1633 1134,1612 1235,1658 1483,1620 1670,1655 1635,1572 1129,1582 1006,1541 864,1584 487,1576" />
+                <Baseline points="495,1612 557,1613 619,1615 681,1615 743,1613 805,1615 867,1615 929,1613 991,1612 1053,1612 1115,1612 1177,1613 1239,1615 1301,1615 1363,1613 1425,1613 1487,1615 1549,1615 1611,1618 1674,1621" />
+                <TextEquiv>
+                    <Unicode>so as to do no mischief to this part of the town.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="547,1709 1039,1688 1211,1733 1545,1699 1673,1731 1673,1654 1584,1643 547,1632" />
+                <Baseline points="555,1689 611,1689 667,1689 723,1687 779,1689 835,1689 891,1687 947,1686 1003,1689 1059,1688 1116,1688 1172,1689 1228,1689 1284,1688 1340,1688 1396,1689 1452,1686 1508,1688 1564,1688 1620,1691 1677,1701" />
+                <TextEquiv>
+                    <Unicode>These are matters worthy of consideration,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="481,1781 1672,1800 1672,1728 1538,1705 817,1736 732,1690 481,1693" />
+                <Baseline points="489,1764 548,1765 607,1767 666,1767 726,1767 785,1767 844,1764 903,1764 963,1764 1022,1764 1081,1763 1140,1763 1200,1764 1259,1763 1318,1761 1377,1763 1437,1764 1496,1764 1555,1764 1614,1765 1674,1773" />
+                <TextEquiv>
+                    <Unicode>even if no improvement be made to the harbour,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="472,1865 995,1840 1141,1886 1374,1843 1664,1877 1664,1800 1609,1789 472,1800" />
+                <Baseline points="480,1842 539,1842 598,1842 658,1842 717,1842 777,1842 836,1842 895,1840 955,1842 1014,1840 1074,1842 1133,1842 1192,1839 1252,1841 1311,1839 1371,1841 1430,1839 1489,1839 1549,1839 1608,1839 1668,1839" />
+                <TextEquiv>
+                    <Unicode>as it will not in the smallest degree injure the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="478,1921 1019,1930 1112,1973 1664,1956 1664,1877 1551,1865 478,1864" />
+                <Baseline points="486,1913 545,1914 604,1916 663,1916 722,1916 781,1916 840,1916 899,1916 958,1916 1017,1913 1077,1913 1136,1913 1195,1913 1254,1913 1313,1912 1372,1910 1431,1911 1490,1916 1549,1914 1608,1913 1668,1913" />
+                <TextEquiv>
+                    <Unicode>Mills; but it cannot be effected if the Avon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="480,1998 520,2010 560,1997 590,2010 633,2001 684,2041 761,2040 760,1928 660,1921 647,1934 559,1922 514,1943 478,1940" />
+                <Baseline points="486,1991 511,1991 536,1991 561,1993 587,1994 612,1994 637,1994 662,1994 688,1994 713,1994 738,1996 764,1997" />
+                <TextEquiv>
+                    <Unicode>be damed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="541,2076 1658,2107 1632,1964 541,2001" />
+                <Baseline points="549,2068 604,2068 660,2068 715,2068 771,2068 827,2069 882,2071 938,2071 994,2071 1049,2068 1105,2068 1161,2068 1216,2068 1272,2068 1328,2068 1383,2066 1439,2068 1495,2068 1550,2068 1606,2068 1662,2071" />
+                <TextEquiv>
+                    <Unicode>3rdly. — Frosts. Inconveniences will arise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="475,2169 1283,2196 1401,2147 1658,2199 1658,2105 1553,2089 1192,2125 980,2117 931,2071 787,2114 475,2096" />
+                <Baseline points="483,2143 545,2144 607,2148 669,2149 731,2146 793,2146 855,2144 917,2146 979,2146 1041,2146 1103,2146 1165,2146 1227,2144 1289,2146 1351,2145 1413,2143 1475,2143 1537,2146 1599,2149 1662,2146" />
+                <TextEquiv>
+                    <Unicode>from Frosts in this scheme, as admitted in my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="475,2265 797,2222 900,2263 964,2225 1129,2268 1281,2223 1369,2263 1658,2263 1658,2193 1602,2177 475,2171" />
+                <Baseline points="483,2221 545,2224 607,2224 669,2224 731,2224 793,2221 855,2221 917,2223 979,2221 1041,2224 1103,2224 1165,2222 1227,2224 1289,2221 1351,2224 1413,2222 1475,2224 1537,2224 1599,2224 1662,2227" />
+                <TextEquiv>
+                    <Unicode>observations on the other. But the Dock proposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="478,2330 887,2302 1018,2347 1664,2345 1664,2265 1596,2248 951,2278 794,2220 478,2263" />
+                <Baseline points="486,2304 545,2298 604,2301 663,2299 722,2298 781,2298 840,2298 899,2298 958,2298 1017,2298 1077,2300 1136,2298 1195,2298 1254,2298 1313,2301 1372,2301 1431,2299 1490,2298 1549,2298 1608,2298 1668,2298" />
+                <TextEquiv>
+                    <Unicode>will affect the navigable part of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="475,2384 586,2423 758,2374 936,2424 1033,2385 1076,2417 1652,2411 1652,2335 1596,2327 475,2332" />
+                <Baseline points="483,2373 541,2373 600,2373 658,2373 717,2373 776,2375 834,2376 893,2376 952,2376 1010,2376 1069,2376 1128,2376 1186,2376 1245,2379 1304,2377 1362,2379 1421,2376 1480,2376 1538,2376 1597,2376 1656,2379" />
+                <TextEquiv>
+                    <Unicode>the Frome only, leaving the Avon open to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="466,2470 1645,2490 1635,2409 836,2420 758,2374 645,2423 465,2405" />
+                <Baseline points="474,2448 532,2449 591,2453 650,2451 708,2453 767,2453 826,2451 884,2454 943,2451 1002,2451 1061,2451 1119,2453 1178,2451 1237,2451 1295,2452 1354,2454 1413,2454 1471,2454 1530,2454 1589,2454 1648,2451" />
+                <TextEquiv>
+                    <Unicode>tide; and why should we be at so heavy an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="472,2552 1567,2564 1648,2554 1648,2488 471,2467" />
+                <Baseline points="480,2522 538,2525 597,2527 655,2528 714,2528 772,2528 831,2528 889,2531 948,2531 1006,2531 1065,2528 1123,2531 1182,2531 1240,2531 1299,2532 1357,2532 1416,2531 1474,2531 1533,2531 1591,2533 1650,2531" />
+                <TextEquiv>
+                    <Unicode>expence to deprive ourselves of the advantage</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

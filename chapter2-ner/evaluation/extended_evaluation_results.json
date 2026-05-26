@@ -1,0 +1,3791 @@
+[
+  {
+    "model": "MacBERTh",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 986,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.357,
+        "recall": 0.3753,
+        "f1": 0.3659,
+        "tp": 352,
+        "fp": 634,
+        "fn": 586
+      },
+      "partial": {
+        "precision": 0.5852,
+        "recall": 0.6151,
+        "f1": 0.5998,
+        "tp": 577,
+        "fp": 409,
+        "fn": 361
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.2691,
+            "recall": 0.2842,
+            "f1": 0.2765,
+            "tp": 81,
+            "fp": 220,
+            "fn": 204
+          },
+          "partial": {
+            "precision": 0.691,
+            "recall": 0.7298,
+            "f1": 0.7099,
+            "tp": 208,
+            "fp": 93,
+            "fn": 77
+          },
+          "gold_count": 285,
+          "pred_count": 301
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.3725,
+            "recall": 0.3838,
+            "f1": 0.3781,
+            "tp": 76,
+            "fp": 128,
+            "fn": 122
+          },
+          "partial": {
+            "precision": 0.75,
+            "recall": 0.7727,
+            "f1": 0.7612,
+            "tp": 153,
+            "fp": 51,
+            "fn": 45
+          },
+          "gold_count": 198,
+          "pred_count": 204
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.2235,
+            "recall": 0.2632,
+            "f1": 0.2417,
+            "tp": 40,
+            "fp": 139,
+            "fn": 112
+          },
+          "partial": {
+            "precision": 0.5866,
+            "recall": 0.6908,
+            "f1": 0.6344,
+            "tp": 105,
+            "fp": 74,
+            "fn": 47
+          },
+          "gold_count": 152,
+          "pred_count": 179
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.2581,
+            "recall": 0.1702,
+            "f1": 0.2051,
+            "tp": 8,
+            "fp": 23,
+            "fn": 39
+          },
+          "partial": {
+            "precision": 0.5806,
+            "recall": 0.383,
+            "f1": 0.4615,
+            "tp": 18,
+            "fp": 13,
+            "fn": 29
+          },
+          "gold_count": 47,
+          "pred_count": 31
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 238,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 3,
+        "O": 169
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 27,
+        "PERSON": 1,
+        "TOPONYM": 2,
+        "O": 26
+      },
+      "PERSON": {
+        "COMMODITY": 1,
+        "ORGANIZATION": 0,
+        "PERSON": 85,
+        "TOPONYM": 1,
+        "O": 67
+      },
+      "TOPONYM": {
+        "COMMODITY": 1,
+        "ORGANIZATION": 1,
+        "PERSON": 6,
+        "TOPONYM": 227,
+        "O": 83
+      },
+      "O": {
+        "COMMODITY": 181,
+        "ORGANIZATION": 17,
+        "PERSON": 104,
+        "TOPONYM": 91,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 16,
+      "deletions": 345,
+      "insertions": 393,
+      "correct": 577,
+      "total_gold": 938,
+      "ser": 0.8038
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 677,
+      "overlap_unique": 208,
+      "coverage_ratio": 0.305,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 439,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 301,
+          "overlap": 81,
+          "coverage": 0.2842,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": [
+            [
+              "sugar",
+              83
+            ],
+            [
+              "slaves",
+              20
+            ],
+            [
+              "s",
+              15
+            ],
+            [
+              "negroes",
+              10
+            ],
+            [
+              "salt",
+              8
+            ]
+          ]
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 204,
+          "overlap": 76,
+          "coverage": 0.3838,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              26
+            ],
+            [
+              "jamaica",
+              19
+            ],
+            [
+              "london",
+              16
+            ],
+            [
+              "france",
+              11
+            ],
+            [
+              "barb",
+              10
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 179,
+          "overlap": 40,
+          "coverage": 0.2632,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "mr",
+              21
+            ],
+            [
+              "nol",
+              7
+            ],
+            [
+              "lord clermont",
+              6
+            ],
+            [
+              "l",
+              4
+            ],
+            [
+              "sir peter",
+              4
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 31,
+          "overlap": 8,
+          "coverage": 0.1702,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "",
+              14
+            ],
+            [
+              "parliament",
+              11
+            ],
+            [
+              "councell",
+              6
+            ],
+            [
+              "company",
+              5
+            ],
+            [
+              "commons",
+              3
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "spaCy-lg",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 1931,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.1471,
+        "recall": 0.3028,
+        "f1": 0.198,
+        "tp": 284,
+        "fp": 1647,
+        "fn": 654
+      },
+      "partial": {
+        "precision": 0.202,
+        "recall": 0.4158,
+        "f1": 0.2719,
+        "tp": 390,
+        "fp": 1541,
+        "fn": 548
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0649,
+            "recall": 0.0175,
+            "f1": 0.0276,
+            "tp": 5,
+            "fp": 72,
+            "fn": 280
+          },
+          "partial": {
+            "precision": 0.1039,
+            "recall": 0.0281,
+            "f1": 0.0442,
+            "tp": 8,
+            "fp": 69,
+            "fn": 277
+          },
+          "gold_count": 285,
+          "pred_count": 77
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.3492,
+            "recall": 0.5556,
+            "f1": 0.4288,
+            "tp": 110,
+            "fp": 205,
+            "fn": 88
+          },
+          "partial": {
+            "precision": 0.4095,
+            "recall": 0.6515,
+            "f1": 0.5029,
+            "tp": 129,
+            "fp": 186,
+            "fn": 69
+          },
+          "gold_count": 198,
+          "pred_count": 315
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.0988,
+            "recall": 0.3289,
+            "f1": 0.152,
+            "tp": 50,
+            "fp": 456,
+            "fn": 102
+          },
+          "partial": {
+            "precision": 0.2589,
+            "recall": 0.8618,
+            "f1": 0.3982,
+            "tp": 131,
+            "fp": 375,
+            "fn": 21
+          },
+          "gold_count": 152,
+          "pred_count": 506
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.0284,
+            "recall": 0.4255,
+            "f1": 0.0532,
+            "tp": 20,
+            "fp": 685,
+            "fn": 27
+          },
+          "partial": {
+            "precision": 0.0511,
+            "recall": 0.766,
+            "f1": 0.0957,
+            "tp": 36,
+            "fp": 669,
+            "fn": 11
+          },
+          "gold_count": 47,
+          "pred_count": 705
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 6,
+        "ORGANIZATION": 97,
+        "PERSON": 59,
+        "TOPONYM": 34,
+        "O": 214
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 39,
+        "PERSON": 1,
+        "TOPONYM": 2,
+        "O": 14
+      },
+      "PERSON": {
+        "COMMODITY": 2,
+        "ORGANIZATION": 11,
+        "PERSON": 126,
+        "TOPONYM": 1,
+        "O": 14
+      },
+      "TOPONYM": {
+        "COMMODITY": 1,
+        "ORGANIZATION": 37,
+        "PERSON": 21,
+        "TOPONYM": 219,
+        "O": 40
+      },
+      "O": {
+        "COMMODITY": 72,
+        "ORGANIZATION": 657,
+        "PERSON": 330,
+        "TOPONYM": 216,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 266,
+      "deletions": 282,
+      "insertions": 1275,
+      "correct": 390,
+      "total_gold": 938,
+      "ser": 1.9435
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 1542,
+      "overlap_unique": 354,
+      "coverage_ratio": 0.5191,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 1081,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 77,
+          "overlap": 5,
+          "coverage": 0.0175,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": [
+            [
+              "f",
+              10
+            ],
+            [
+              "plantations",
+              7
+            ],
+            [
+              "waines",
+              5
+            ],
+            [
+              "souls",
+              4
+            ],
+            [
+              "honourable",
+              4
+            ]
+          ]
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 315,
+          "overlap": 110,
+          "coverage": 0.5556,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              43
+            ],
+            [
+              "sugar",
+              39
+            ],
+            [
+              "island",
+              23
+            ],
+            [
+              "jamaica",
+              22
+            ],
+            [
+              "london",
+              20
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 506,
+          "overlap": 50,
+          "coverage": 0.3289,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "ana",
+              18
+            ],
+            [
+              "child",
+              13
+            ],
+            [
+              "sugar",
+              11
+            ],
+            [
+              "sutton",
+              11
+            ],
+            [
+              "knight",
+              11
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 705,
+          "overlap": 20,
+          "coverage": 0.4255,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "trade",
+              64
+            ],
+            [
+              "sugar",
+              57
+            ],
+            [
+              "manufacture",
+              16
+            ],
+            [
+              "authority",
+              16
+            ],
+            [
+              "negro",
+              15
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "GLiNER",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 722,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.4654,
+        "recall": 0.3582,
+        "f1": 0.4048,
+        "tp": 336,
+        "fp": 386,
+        "fn": 602
+      },
+      "partial": {
+        "precision": 0.5277,
+        "recall": 0.4062,
+        "f1": 0.459,
+        "tp": 381,
+        "fp": 341,
+        "fn": 557
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.5474,
+            "recall": 0.1825,
+            "f1": 0.2737,
+            "tp": 52,
+            "fp": 43,
+            "fn": 233
+          },
+          "partial": {
+            "precision": 0.6842,
+            "recall": 0.2281,
+            "f1": 0.3421,
+            "tp": 65,
+            "fp": 30,
+            "fn": 220
+          },
+          "gold_count": 285,
+          "pred_count": 95
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.6488,
+            "recall": 0.5505,
+            "f1": 0.5956,
+            "tp": 109,
+            "fp": 59,
+            "fn": 89
+          },
+          "partial": {
+            "precision": 0.756,
+            "recall": 0.6414,
+            "f1": 0.694,
+            "tp": 127,
+            "fp": 41,
+            "fn": 71
+          },
+          "gold_count": 198,
+          "pred_count": 168
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.29,
+            "recall": 0.4408,
+            "f1": 0.3499,
+            "tp": 67,
+            "fp": 164,
+            "fn": 85
+          },
+          "partial": {
+            "precision": 0.3463,
+            "recall": 0.5263,
+            "f1": 0.4178,
+            "tp": 80,
+            "fp": 151,
+            "fn": 72
+          },
+          "gold_count": 152,
+          "pred_count": 231
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.1558,
+            "recall": 0.2553,
+            "f1": 0.1935,
+            "tp": 12,
+            "fp": 65,
+            "fn": 35
+          },
+          "partial": {
+            "precision": 0.2857,
+            "recall": 0.4681,
+            "f1": 0.3548,
+            "tp": 22,
+            "fp": 55,
+            "fn": 25
+          },
+          "gold_count": 47,
+          "pred_count": 77
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 91,
+        "ORGANIZATION": 0,
+        "PERSON": 4,
+        "TOPONYM": 1,
+        "O": 314
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 27,
+        "PERSON": 1,
+        "TOPONYM": 1,
+        "O": 27
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 74,
+        "TOPONYM": 0,
+        "O": 80
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 1,
+        "PERSON": 4,
+        "TOPONYM": 189,
+        "O": 124
+      },
+      "O": {
+        "COMMODITY": 32,
+        "ORGANIZATION": 74,
+        "PERSON": 173,
+        "TOPONYM": 50,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 12,
+      "deletions": 545,
+      "insertions": 329,
+      "correct": 381,
+      "total_gold": 938,
+      "ser": 0.9446
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 567,
+      "overlap_unique": 244,
+      "coverage_ratio": 0.3578,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 356,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 95,
+          "overlap": 52,
+          "coverage": 0.1825,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": [
+            [
+              "sugar",
+              60
+            ],
+            [
+              "sugars",
+              14
+            ],
+            [
+              "sugar colonies",
+              11
+            ],
+            [
+              "wool",
+              9
+            ],
+            [
+              "cattle",
+              7
+            ]
+          ]
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 168,
+          "overlap": 109,
+          "coverage": 0.5505,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              27
+            ],
+            [
+              "jamaica",
+              16
+            ],
+            [
+              "london",
+              16
+            ],
+            [
+              "france",
+              11
+            ],
+            [
+              "plantations",
+              8
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 231,
+          "overlap": 67,
+          "coverage": 0.4408,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "i",
+              46
+            ],
+            [
+              "he",
+              30
+            ],
+            [
+              "jew",
+              17
+            ],
+            [
+              "man",
+              15
+            ],
+            [
+              "his majesty",
+              10
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 77,
+          "overlap": 12,
+          "coverage": 0.2553,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "parliament",
+              10
+            ],
+            [
+              "people",
+              8
+            ],
+            [
+              "council",
+              8
+            ],
+            [
+              "ministers",
+              7
+            ],
+            [
+              "government",
+              7
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "gemma2",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 814,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.613,
+        "recall": 0.532,
+        "f1": 0.5696,
+        "tp": 499,
+        "fp": 315,
+        "fn": 439
+      },
+      "partial": {
+        "precision": 0.6437,
+        "recall": 0.5586,
+        "f1": 0.5982,
+        "tp": 524,
+        "fp": 290,
+        "fn": 414
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.4742,
+            "recall": 0.4842,
+            "f1": 0.4792,
+            "tp": 138,
+            "fp": 153,
+            "fn": 147
+          },
+          "partial": {
+            "precision": 0.5326,
+            "recall": 0.5439,
+            "f1": 0.5382,
+            "tp": 155,
+            "fp": 136,
+            "fn": 130
+          },
+          "gold_count": 285,
+          "pred_count": 291
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.8108,
+            "recall": 0.7576,
+            "f1": 0.7833,
+            "tp": 150,
+            "fp": 35,
+            "fn": 48
+          },
+          "partial": {
+            "precision": 0.8649,
+            "recall": 0.8081,
+            "f1": 0.8355,
+            "tp": 160,
+            "fp": 25,
+            "fn": 38
+          },
+          "gold_count": 198,
+          "pred_count": 185
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.6174,
+            "recall": 0.4671,
+            "f1": 0.5318,
+            "tp": 71,
+            "fp": 44,
+            "fn": 81
+          },
+          "partial": {
+            "precision": 0.6435,
+            "recall": 0.4868,
+            "f1": 0.5543,
+            "tp": 74,
+            "fp": 41,
+            "fn": 78
+          },
+          "gold_count": 152,
+          "pred_count": 115
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.169,
+            "recall": 0.2553,
+            "f1": 0.2034,
+            "tp": 12,
+            "fp": 59,
+            "fn": 35
+          },
+          "partial": {
+            "precision": 0.2535,
+            "recall": 0.383,
+            "f1": 0.3051,
+            "tp": 18,
+            "fp": 53,
+            "fn": 29
+          },
+          "gold_count": 47,
+          "pred_count": 71
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 200,
+        "ORGANIZATION": 1,
+        "PERSON": 1,
+        "TOPONYM": 0,
+        "O": 208
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 16,
+        "PERSON": 1,
+        "TOPONYM": 3,
+        "O": 36
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 75,
+        "TOPONYM": 0,
+        "O": 79
+      },
+      "TOPONYM": {
+        "COMMODITY": 1,
+        "ORGANIZATION": 13,
+        "PERSON": 1,
+        "TOPONYM": 233,
+        "O": 70
+      },
+      "O": {
+        "COMMODITY": 151,
+        "ORGANIZATION": 45,
+        "PERSON": 40,
+        "TOPONYM": 33,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 21,
+      "deletions": 393,
+      "insertions": 269,
+      "correct": 524,
+      "total_gold": 938,
+      "ser": 0.7281
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 657,
+      "overlap_unique": 384,
+      "coverage_ratio": 0.563,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 441,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 291,
+          "overlap": 138,
+          "coverage": 0.4842,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": [
+            [
+              "sugar",
+              79
+            ],
+            [
+              "negroes",
+              12
+            ],
+            [
+              "wool",
+              9
+            ],
+            [
+              "livre",
+              8
+            ],
+            [
+              "salt",
+              7
+            ]
+          ]
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 185,
+          "overlap": 150,
+          "coverage": 0.7576,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              31
+            ],
+            [
+              "london",
+              21
+            ],
+            [
+              "jamaica",
+              19
+            ],
+            [
+              "india",
+              13
+            ],
+            [
+              "barbadoes",
+              12
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 115,
+          "overlap": 71,
+          "coverage": 0.4671,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "french",
+              13
+            ],
+            [
+              "alexander",
+              7
+            ],
+            [
+              "lord belhaven",
+              6
+            ],
+            [
+              "lord clermont",
+              6
+            ],
+            [
+              "h—s",
+              5
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 71,
+          "overlap": 12,
+          "coverage": 0.2553,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "company",
+              11
+            ],
+            [
+              "northern colonies",
+              6
+            ],
+            [
+              "plantations",
+              5
+            ],
+            [
+              "british sugar colonies",
+              5
+            ],
+            [
+              "chavaliers",
+              3
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "Stanford NER",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 906,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.2958,
+        "recall": 0.2857,
+        "f1": 0.2907,
+        "tp": 268,
+        "fp": 638,
+        "fn": 670
+      },
+      "partial": {
+        "precision": 0.3996,
+        "recall": 0.3859,
+        "f1": 0.3926,
+        "tp": 362,
+        "fp": 544,
+        "fn": 576
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "gold_count": 285,
+          "pred_count": 0
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.456,
+            "recall": 0.5758,
+            "f1": 0.5089,
+            "tp": 114,
+            "fp": 136,
+            "fn": 84
+          },
+          "partial": {
+            "precision": 0.512,
+            "recall": 0.6465,
+            "f1": 0.5714,
+            "tp": 128,
+            "fp": 122,
+            "fn": 70
+          },
+          "gold_count": 198,
+          "pred_count": 250
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.1466,
+            "recall": 0.3289,
+            "f1": 0.2028,
+            "tp": 50,
+            "fp": 291,
+            "fn": 102
+          },
+          "partial": {
+            "precision": 0.3548,
+            "recall": 0.7961,
+            "f1": 0.4909,
+            "tp": 121,
+            "fp": 220,
+            "fn": 31
+          },
+          "gold_count": 152,
+          "pred_count": 341
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.0556,
+            "recall": 0.1702,
+            "f1": 0.0838,
+            "tp": 8,
+            "fp": 136,
+            "fn": 39
+          },
+          "partial": {
+            "precision": 0.1528,
+            "recall": 0.4681,
+            "f1": 0.2304,
+            "tp": 22,
+            "fp": 122,
+            "fn": 25
+          },
+          "gold_count": 47,
+          "pred_count": 144
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 14,
+        "PERSON": 36,
+        "TOPONYM": 27,
+        "O": 333
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 23,
+        "PERSON": 2,
+        "TOPONYM": 3,
+        "O": 28
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 5,
+        "PERSON": 116,
+        "TOPONYM": 2,
+        "O": 31
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 23,
+        "PERSON": 8,
+        "TOPONYM": 223,
+        "O": 64
+      },
+      "O": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 107,
+        "PERSON": 201,
+        "TOPONYM": 116,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 120,
+      "deletions": 456,
+      "insertions": 424,
+      "correct": 362,
+      "total_gold": 938,
+      "ser": 1.0661
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 718,
+      "overlap_unique": 255,
+      "coverage_ratio": 0.3739,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 481,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": []
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 250,
+          "overlap": 114,
+          "coverage": 0.5758,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              44
+            ],
+            [
+              "jamaica",
+              22
+            ],
+            [
+              "india",
+              21
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "island",
+              19
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 341,
+          "overlap": 50,
+          "coverage": 0.3289,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "knight",
+              14
+            ],
+            [
+              "councell",
+              11
+            ],
+            [
+              "sutton",
+              11
+            ],
+            [
+              "belhaven",
+              10
+            ],
+            [
+              "waine",
+              10
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 144,
+          "overlap": 8,
+          "coverage": 0.1702,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "company",
+              21
+            ],
+            [
+              "authority",
+              16
+            ],
+            [
+              "parliament",
+              12
+            ],
+            [
+              "trade",
+              11
+            ],
+            [
+              "esquire",
+              10
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "GATE ANNIE",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 934,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.2077,
+        "recall": 0.2068,
+        "f1": 0.2073,
+        "tp": 194,
+        "fp": 740,
+        "fn": 744
+      },
+      "partial": {
+        "precision": 0.2741,
+        "recall": 0.2729,
+        "f1": 0.2735,
+        "tp": 256,
+        "fp": 678,
+        "fn": 682
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "gold_count": 285,
+          "pred_count": 0
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.2293,
+            "recall": 0.3081,
+            "f1": 0.2629,
+            "tp": 61,
+            "fp": 205,
+            "fn": 137
+          },
+          "partial": {
+            "precision": 0.3195,
+            "recall": 0.4293,
+            "f1": 0.3664,
+            "tp": 85,
+            "fp": 181,
+            "fn": 113
+          },
+          "gold_count": 198,
+          "pred_count": 266
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.1209,
+            "recall": 0.3421,
+            "f1": 0.1787,
+            "tp": 52,
+            "fp": 378,
+            "fn": 100
+          },
+          "partial": {
+            "precision": 0.2419,
+            "recall": 0.6842,
+            "f1": 0.3574,
+            "tp": 104,
+            "fp": 326,
+            "fn": 48
+          },
+          "gold_count": 152,
+          "pred_count": 430
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.09,
+            "recall": 0.1915,
+            "f1": 0.1224,
+            "tp": 9,
+            "fp": 91,
+            "fn": 38
+          },
+          "partial": {
+            "precision": 0.21,
+            "recall": 0.4468,
+            "f1": 0.2857,
+            "tp": 21,
+            "fp": 79,
+            "fn": 26
+          },
+          "gold_count": 47,
+          "pred_count": 100
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 3,
+        "PERSON": 28,
+        "TOPONYM": 22,
+        "O": 357
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 22,
+        "PERSON": 0,
+        "TOPONYM": 3,
+        "O": 31
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 86,
+        "TOPONYM": 5,
+        "O": 63
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 5,
+        "PERSON": 17,
+        "TOPONYM": 148,
+        "O": 148
+      },
+      "O": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 93,
+        "PERSON": 320,
+        "TOPONYM": 182,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 83,
+      "deletions": 599,
+      "insertions": 595,
+      "correct": 256,
+      "total_gold": 938,
+      "ser": 1.3614
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 790,
+      "overlap_unique": 156,
+      "coverage_ratio": 0.2287,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 555,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": []
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 266,
+          "overlap": 61,
+          "coverage": 0.3081,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              32
+            ],
+            [
+              "jamaica",
+              18
+            ],
+            [
+              "india",
+              17
+            ],
+            [
+              "london",
+              15
+            ],
+            [
+              "wer",
+              15
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 430,
+          "overlap": 52,
+          "coverage": 0.3421,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "s",
+              180
+            ],
+            [
+              "of",
+              26
+            ],
+            [
+              "ship",
+              24
+            ],
+            [
+              "n t",
+              24
+            ],
+            [
+              "re",
+              24
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 100,
+          "overlap": 9,
+          "coverage": 0.1915,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "house",
+              14
+            ],
+            [
+              "parliament",
+              11
+            ],
+            [
+              "government",
+              11
+            ],
+            [
+              "indi",
+              9
+            ],
+            [
+              "t of",
+              8
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "Flair NLP",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 1015,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.3281,
+        "recall": 0.355,
+        "f1": 0.341,
+        "tp": 333,
+        "fp": 682,
+        "fn": 605
+      },
+      "partial": {
+        "precision": 0.4394,
+        "recall": 0.4755,
+        "f1": 0.4567,
+        "tp": 446,
+        "fp": 569,
+        "fn": 492
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "gold_count": 285,
+          "pred_count": 0
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.4655,
+            "recall": 0.7828,
+            "f1": 0.5838,
+            "tp": 155,
+            "fp": 178,
+            "fn": 43
+          },
+          "partial": {
+            "precision": 0.5285,
+            "recall": 0.8889,
+            "f1": 0.6629,
+            "tp": 176,
+            "fp": 157,
+            "fn": 22
+          },
+          "gold_count": 198,
+          "pred_count": 333
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.1754,
+            "recall": 0.3947,
+            "f1": 0.2429,
+            "tp": 60,
+            "fp": 282,
+            "fn": 92
+          },
+          "partial": {
+            "precision": 0.4152,
+            "recall": 0.9342,
+            "f1": 0.5749,
+            "tp": 142,
+            "fp": 200,
+            "fn": 10
+          },
+          "gold_count": 152,
+          "pred_count": 342
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.1084,
+            "recall": 0.383,
+            "f1": 0.169,
+            "tp": 18,
+            "fp": 148,
+            "fn": 29
+          },
+          "partial": {
+            "precision": 0.1747,
+            "recall": 0.617,
+            "f1": 0.2723,
+            "tp": 29,
+            "fp": 137,
+            "fn": 18
+          },
+          "gold_count": 47,
+          "pred_count": 166
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 8,
+        "PERSON": 15,
+        "TOPONYM": 19,
+        "O": 368
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 28,
+        "PERSON": 0,
+        "TOPONYM": 4,
+        "O": 24
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 4,
+        "PERSON": 141,
+        "TOPONYM": 1,
+        "O": 8
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 8,
+        "PERSON": 3,
+        "TOPONYM": 277,
+        "O": 30
+      },
+      "O": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 127,
+        "PERSON": 227,
+        "TOPONYM": 153,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 62,
+      "deletions": 430,
+      "insertions": 507,
+      "correct": 446,
+      "total_gold": 938,
+      "ser": 1.065
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 813,
+      "overlap_unique": 276,
+      "coverage_ratio": 0.4047,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 543,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": []
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 333,
+          "overlap": 155,
+          "coverage": 0.7828,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              44
+            ],
+            [
+              "jamaica",
+              20
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              ",",
+              20
+            ],
+            [
+              "india",
+              16
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 342,
+          "overlap": 60,
+          "coverage": 0.3947,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              ",",
+              197
+            ],
+            [
+              "of",
+              91
+            ],
+            [
+              "god",
+              37
+            ],
+            [
+              "lord",
+              19
+            ],
+            [
+              "william",
+              15
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 166,
+          "overlap": 18,
+          "coverage": 0.383,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "es",
+              13
+            ],
+            [
+              "planter",
+              11
+            ],
+            [
+              "sugar colonies",
+              11
+            ],
+            [
+              "trade",
+              9
+            ],
+            [
+              "company",
+              8
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "BERT-large",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 525,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.4019,
+        "recall": 0.2249,
+        "f1": 0.2884,
+        "tp": 211,
+        "fp": 314,
+        "fn": 727
+      },
+      "partial": {
+        "precision": 0.5867,
+        "recall": 0.3284,
+        "f1": 0.4211,
+        "tp": 308,
+        "fp": 217,
+        "fn": 630
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "gold_count": 285,
+          "pred_count": 0
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.5431,
+            "recall": 0.5404,
+            "f1": 0.5418,
+            "tp": 107,
+            "fp": 90,
+            "fn": 91
+          },
+          "partial": {
+            "precision": 0.7817,
+            "recall": 0.7778,
+            "f1": 0.7797,
+            "tp": 154,
+            "fp": 43,
+            "fn": 44
+          },
+          "gold_count": 198,
+          "pred_count": 197
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.1522,
+            "recall": 0.1382,
+            "f1": 0.1448,
+            "tp": 21,
+            "fp": 117,
+            "fn": 131
+          },
+          "partial": {
+            "precision": 0.6522,
+            "recall": 0.5921,
+            "f1": 0.6207,
+            "tp": 90,
+            "fp": 48,
+            "fn": 62
+          },
+          "gold_count": 152,
+          "pred_count": 138
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.1026,
+            "recall": 0.0851,
+            "f1": 0.093,
+            "tp": 4,
+            "fp": 35,
+            "fn": 43
+          },
+          "partial": {
+            "precision": 0.5641,
+            "recall": 0.4681,
+            "f1": 0.5116,
+            "tp": 22,
+            "fp": 17,
+            "fn": 25
+          },
+          "gold_count": 47,
+          "pred_count": 39
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 2,
+        "PERSON": 2,
+        "TOPONYM": 0,
+        "O": 406
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 21,
+        "PERSON": 1,
+        "TOPONYM": 1,
+        "O": 33
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 4,
+        "PERSON": 73,
+        "TOPONYM": 0,
+        "O": 77
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 2,
+        "PERSON": 3,
+        "TOPONYM": 214,
+        "O": 99
+      },
+      "O": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 22,
+        "PERSON": 87,
+        "TOPONYM": 93,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 15,
+      "deletions": 615,
+      "insertions": 202,
+      "correct": 308,
+      "total_gold": 938,
+      "ser": 0.887
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 351,
+      "overlap_unique": 136,
+      "coverage_ratio": 0.1994,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 186,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": []
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 197,
+          "overlap": 107,
+          "coverage": 0.5404,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              33
+            ],
+            [
+              "r",
+              32
+            ],
+            [
+              "sugar",
+              24
+            ],
+            [
+              "colonies",
+              22
+            ],
+            [
+              "island",
+              17
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 138,
+          "overlap": 21,
+          "coverage": 0.1382,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "god",
+              29
+            ],
+            [
+              "c",
+              27
+            ],
+            [
+              "b",
+              19
+            ],
+            [
+              "s",
+              19
+            ],
+            [
+              "h",
+              13
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 39,
+          "overlap": 4,
+          "coverage": 0.0851,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "c",
+              24
+            ],
+            [
+              "co",
+              22
+            ],
+            [
+              "s",
+              11
+            ],
+            [
+              "parliament",
+              10
+            ],
+            [
+              "company",
+              7
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "mBERT",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 700,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.2757,
+        "recall": 0.2058,
+        "f1": 0.2357,
+        "tp": 193,
+        "fp": 507,
+        "fn": 745
+      },
+      "partial": {
+        "precision": 0.4257,
+        "recall": 0.3177,
+        "f1": 0.3639,
+        "tp": 298,
+        "fp": 402,
+        "fn": 640
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 285
+          },
+          "gold_count": 285,
+          "pred_count": 0
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.4498,
+            "recall": 0.5657,
+            "f1": 0.5011,
+            "tp": 112,
+            "fp": 137,
+            "fn": 86
+          },
+          "partial": {
+            "precision": 0.6305,
+            "recall": 0.7929,
+            "f1": 0.7025,
+            "tp": 157,
+            "fp": 92,
+            "fn": 41
+          },
+          "gold_count": 198,
+          "pred_count": 249
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.0647,
+            "recall": 0.0592,
+            "f1": 0.0619,
+            "tp": 9,
+            "fp": 130,
+            "fn": 143
+          },
+          "partial": {
+            "precision": 0.6115,
+            "recall": 0.5592,
+            "f1": 0.5842,
+            "tp": 85,
+            "fp": 54,
+            "fn": 67
+          },
+          "gold_count": 152,
+          "pred_count": 139
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.0296,
+            "recall": 0.0851,
+            "f1": 0.044,
+            "tp": 4,
+            "fp": 131,
+            "fn": 43
+          },
+          "partial": {
+            "precision": 0.2963,
+            "recall": 0.8511,
+            "f1": 0.4396,
+            "tp": 40,
+            "fp": 95,
+            "fn": 7
+          },
+          "gold_count": 47,
+          "pred_count": 135
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 20,
+        "PERSON": 9,
+        "TOPONYM": 12,
+        "O": 369
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 22,
+        "PERSON": 2,
+        "TOPONYM": 3,
+        "O": 29
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 6,
+        "PERSON": 67,
+        "TOPONYM": 2,
+        "O": 79
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 9,
+        "PERSON": 1,
+        "TOPONYM": 209,
+        "O": 99
+      },
+      "O": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 110,
+        "PERSON": 97,
+        "TOPONYM": 131,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 64,
+      "deletions": 576,
+      "insertions": 338,
+      "correct": 298,
+      "total_gold": 938,
+      "ser": 1.0426
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 485,
+      "overlap_unique": 136,
+      "coverage_ratio": 0.1994,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 253,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": []
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 249,
+          "overlap": 112,
+          "coverage": 0.5657,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              31
+            ],
+            [
+              "the",
+              27
+            ],
+            [
+              "c",
+              26
+            ],
+            [
+              "island",
+              19
+            ],
+            [
+              "r",
+              17
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 139,
+          "overlap": 9,
+          "coverage": 0.0592,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "c",
+              35
+            ],
+            [
+              "god",
+              32
+            ],
+            [
+              "co",
+              28
+            ],
+            [
+              "lord",
+              22
+            ],
+            [
+              "cha",
+              20
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 135,
+          "overlap": 4,
+          "coverage": 0.0851,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "c",
+              68
+            ],
+            [
+              "of",
+              44
+            ],
+            [
+              "sugar",
+              27
+            ],
+            [
+              "and",
+              24
+            ],
+            [
+              "col",
+              24
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "GoLLIE",
+    "documents_evaluated": 2,
+    "total_gold_entities": 32,
+    "total_pred_entities": 0,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 32
+      },
+      "partial": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 32
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 8
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 8
+          },
+          "gold_count": 8,
+          "pred_count": 0
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 7
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 7
+          },
+          "gold_count": 7,
+          "pred_count": 0
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 13
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 13
+          },
+          "gold_count": 13,
+          "pred_count": 0
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 4
+          },
+          "partial": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "tp": 0,
+            "fp": 0,
+            "fn": 4
+          },
+          "gold_count": 4,
+          "pred_count": 0
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 8
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 4
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 13
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 7
+      },
+      "O": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 0,
+      "deletions": 32,
+      "insertions": 0,
+      "correct": 0,
+      "total_gold": 32,
+      "ser": 1.0
+    },
+    "entity_diversity": {
+      "gold_unique": 32,
+      "pred_unique": 0,
+      "overlap_unique": 0,
+      "coverage_ratio": 0.0,
+      "gold_hapax_legomena": 28,
+      "pred_hapax_legomena": 0,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 8,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "sugar",
+              3
+            ],
+            [
+              "sugars",
+              2
+            ],
+            [
+              "incle",
+              1
+            ],
+            [
+              "ribbins",
+              1
+            ],
+            [
+              "brown sugars",
+              1
+            ]
+          ],
+          "pred_top5": []
+        },
+        "TOPONYM": {
+          "gold_unique": 7,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "froome gate",
+              2
+            ],
+            [
+              "barbadoes",
+              2
+            ],
+            [
+              "france",
+              1
+            ],
+            [
+              "st. johns church",
+              1
+            ],
+            [
+              "st. michaels church",
+              1
+            ]
+          ],
+          "pred_top5": []
+        },
+        "PERSON": {
+          "gold_unique": 13,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ],
+            [
+              "mr. john taylor",
+              1
+            ],
+            [
+              "mr. colestone",
+              1
+            ]
+          ],
+          "pred_top5": []
+        },
+        "ORGANIZATION": {
+          "gold_unique": 4,
+          "pred_unique": 0,
+          "overlap": 0,
+          "coverage": 0.0,
+          "gold_top5": [
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ],
+            [
+              "house of lords",
+              1
+            ]
+          ],
+          "pred_top5": []
+        }
+      }
+    },
+    "throughput": null
+  },
+  {
+    "model": "earlymodernner",
+    "documents_evaluated": 100,
+    "total_gold_entities": 938,
+    "total_pred_entities": 816,
+    "semeval_metrics": {
+      "strict": {
+        "precision": 0.8333,
+        "recall": 0.7249,
+        "f1": 0.7754,
+        "tp": 680,
+        "fp": 136,
+        "fn": 258
+      },
+      "partial": {
+        "precision": 0.8848,
+        "recall": 0.7697,
+        "f1": 0.8233,
+        "tp": 722,
+        "fp": 94,
+        "fn": 216
+      },
+      "per_label": {
+        "COMMODITY": {
+          "strict": {
+            "precision": 0.712,
+            "recall": 0.7719,
+            "f1": 0.7407,
+            "tp": 220,
+            "fp": 89,
+            "fn": 65
+          },
+          "partial": {
+            "precision": 0.7735,
+            "recall": 0.8386,
+            "f1": 0.8047,
+            "tp": 239,
+            "fp": 70,
+            "fn": 46
+          },
+          "gold_count": 285,
+          "pred_count": 309
+        },
+        "TOPONYM": {
+          "strict": {
+            "precision": 0.8579,
+            "recall": 0.7929,
+            "f1": 0.8241,
+            "tp": 157,
+            "fp": 26,
+            "fn": 41
+          },
+          "partial": {
+            "precision": 0.8962,
+            "recall": 0.8283,
+            "f1": 0.8609,
+            "tp": 164,
+            "fp": 19,
+            "fn": 34
+          },
+          "gold_count": 198,
+          "pred_count": 183
+        },
+        "PERSON": {
+          "strict": {
+            "precision": 0.886,
+            "recall": 0.6645,
+            "f1": 0.7594,
+            "tp": 101,
+            "fp": 13,
+            "fn": 51
+          },
+          "partial": {
+            "precision": 0.9298,
+            "recall": 0.6974,
+            "f1": 0.797,
+            "tp": 106,
+            "fp": 8,
+            "fn": 46
+          },
+          "gold_count": 152,
+          "pred_count": 114
+        },
+        "ORGANIZATION": {
+          "strict": {
+            "precision": 0.8571,
+            "recall": 0.383,
+            "f1": 0.5294,
+            "tp": 18,
+            "fp": 3,
+            "fn": 29
+          },
+          "partial": {
+            "precision": 0.9048,
+            "recall": 0.4043,
+            "f1": 0.5588,
+            "tp": 19,
+            "fp": 2,
+            "fn": 28
+          },
+          "gold_count": 47,
+          "pred_count": 21
+        }
+      }
+    },
+    "confusion_matrix": {
+      "COMMODITY": {
+        "COMMODITY": 329,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 81
+      },
+      "ORGANIZATION": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 26,
+        "PERSON": 0,
+        "TOPONYM": 0,
+        "O": 30
+      },
+      "PERSON": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 107,
+        "TOPONYM": 0,
+        "O": 47
+      },
+      "TOPONYM": {
+        "COMMODITY": 0,
+        "ORGANIZATION": 0,
+        "PERSON": 0,
+        "TOPONYM": 260,
+        "O": 58
+      },
+      "O": {
+        "COMMODITY": 64,
+        "ORGANIZATION": 2,
+        "PERSON": 8,
+        "TOPONYM": 20,
+        "O": 0
+      }
+    },
+    "slot_error_rate": {
+      "substitutions": 0,
+      "deletions": 216,
+      "insertions": 94,
+      "correct": 722,
+      "total_gold": 938,
+      "ser": 0.3305
+    },
+    "entity_diversity": {
+      "gold_unique": 682,
+      "pred_unique": 627,
+      "overlap_unique": 497,
+      "coverage_ratio": 0.7287,
+      "gold_hapax_legomena": 529,
+      "pred_hapax_legomena": 562,
+      "per_label": {
+        "COMMODITY": {
+          "gold_unique": 285,
+          "pred_unique": 309,
+          "overlap": 220,
+          "coverage": 0.7719,
+          "gold_top5": [
+            [
+              "sugar",
+              74
+            ],
+            [
+              "slaves",
+              24
+            ],
+            [
+              "sugars",
+              20
+            ],
+            [
+              "negroes",
+              17
+            ],
+            [
+              "gold",
+              10
+            ]
+          ],
+          "pred_top5": [
+            [
+              "sugar",
+              16
+            ],
+            [
+              "slaves",
+              9
+            ],
+            [
+              "gold",
+              7
+            ],
+            [
+              "sugars",
+              6
+            ],
+            [
+              "negroes",
+              6
+            ]
+          ]
+        },
+        "TOPONYM": {
+          "gold_unique": 198,
+          "pred_unique": 183,
+          "overlap": 157,
+          "coverage": 0.7929,
+          "gold_top5": [
+            [
+              "england",
+              42
+            ],
+            [
+              "jamaica",
+              23
+            ],
+            [
+              "london",
+              20
+            ],
+            [
+              "france",
+              14
+            ],
+            [
+              "india",
+              13
+            ]
+          ],
+          "pred_top5": [
+            [
+              "england",
+              18
+            ],
+            [
+              "jamaica",
+              14
+            ],
+            [
+              "france",
+              8
+            ],
+            [
+              "london",
+              8
+            ],
+            [
+              "africa",
+              6
+            ]
+          ]
+        },
+        "PERSON": {
+          "gold_unique": 152,
+          "pred_unique": 114,
+          "overlap": 101,
+          "coverage": 0.6645,
+          "gold_top5": [
+            [
+              "cromwell",
+              2
+            ],
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master george butcher",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "edward the third",
+              2
+            ],
+            [
+              "prince robert",
+              1
+            ],
+            [
+              "master robert yeomans",
+              1
+            ],
+            [
+              "mr. colestone",
+              1
+            ],
+            [
+              "mr. fitzherbert",
+              1
+            ]
+          ]
+        },
+        "ORGANIZATION": {
+          "gold_unique": 47,
+          "pred_unique": 21,
+          "overlap": 18,
+          "coverage": 0.383,
+          "gold_top5": [
+            [
+              "parliament",
+              8
+            ],
+            [
+              "house of commons",
+              3
+            ],
+            [
+              "chavaliers",
+              1
+            ],
+            [
+              "cavalliers",
+              1
+            ],
+            [
+              "committee of the house of lords",
+              1
+            ]
+          ],
+          "pred_top5": [
+            [
+              "parliament",
+              7
+            ],
+            [
+              "house of commons",
+              2
+            ],
+            [
+              "house of lords",
+              1
+            ],
+            [
+              "parliaments",
+              1
+            ],
+            [
+              "company of merchants of london",
+              1
+            ]
+          ]
+        }
+      }
+    },
+    "throughput": null
+  }
+]

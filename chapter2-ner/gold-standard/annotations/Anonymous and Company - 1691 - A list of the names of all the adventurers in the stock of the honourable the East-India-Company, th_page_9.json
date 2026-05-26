@@ -1,0 +1,414 @@
+{
+  "doc_id": "Anonymous and Company - 1691 - A list of the names of all the adventurers in the stock of the honourable the East-India-Company, th_page_9.xml",
+  "text": "( 2 )\nThat the India Trade was encreased, before the War, to a very great\nheight, and their Manufactures in so great request, that they (from being\na Scandal to be worn a few years before) soon after became the general\nWear of almost all sorts and degrees of Persons; by which means our own\nManufactures were neglected, and our Manufacturers thereby under great discouragement,\nbeing not able to carry on their Trades, many were forced\nto give over, whereby the Poor wanted Employment, the Price of Wool\nreduced very low, and great quantities of Wool could not be Manufactured:\nWhereupon the Parliament thought it necessary to make a Law for Burying\nin Woollen, thereby to consume some of the Wool that lay heavy upon the\nGrowers Hand.\nThat the Indians have Provisions and Materials very cheap, and Wages\nat three Half-pence or two pence a Day; which disables us, and the rest of\nthe European Traders, to contend with them; and for this reason, their\nTrade did encrease apace, until this War; and unless restraint, will most\ncertainly encrease, to the ruining of our best Fabricks, and the vast number\nof People that have their Livelihood and Dependance thereupon.\nThat since this War, the India Company have laboured under some\nDiscouragements, and but small quantities of their Manufactured Goods, in\nproportion to what they formerly brought in, have been Imported; by\nreason thereof, great Encouragement hath been given to the Manufactures\nof Silk, Half Silk, and Worsted, which have been very much improved\nin a great variety of Figured, Strip'd, and other sort of Stuffs, which\nhave been made not only in London, Norwich and Canterbury, in much greater\nquantities than ever; but this Manufacture has now spread it self to Bristol,\nNewbury, and divers other Parts of the Kingdom; and will yet encrease, if\ndue Encouragement be given thereto\nThat since our Trade hath encreased, greater numbers of Poor have been\nemployed, and greater quantities of English Wool consumed; so that the\nPrice of the Wool is advanced, and the Labour and Wages of the Poor\nencreased; which enabled them to live comfortably, and consume the\nProduct of the Land, to support themselves and families; which is of\ngreat Advantage to the Landlords and Tenants, and the Benefit of the\nwhole Nation.\nThat in case the East-India Stock should be enlarged, and that Trade\nsettled by Act of Parliament, it will be in the power of that Company to\nruine our Woollen and Silk Manufactures, and bring down the Price of\nWool, and Work-mens Labour and Wages, as low, if not lower, than ever,\nunless the Wearing of the said Manufactured Goods be prohibited in England,\nand the Plantations.\nThat such Prohibition would not only encourage our own Manufactures,\nupon which the Value of Lands, and the Employment of our Poor depends,\nbut prevents the Exportation of much of our Coin, which at this time can\nbe very ill spared; and also prevent many of the Inconveniences feared\nfrom the Scotch East-India Company.\nThat since there is a Trade found out to the Indies, no Objection can\nwell be made against their Trade in Spices, Drugs, Salt-petre, &c. nor\nagainst the Manufactured Goods that are brought in, and again exported to\nForeign Markets, because it will be carry'd on by others, if we should neglect\nit: But certainly it must be accounted very ill Husbandry, and will\nbe of fatal and ruinous consequence, to despise our own Manufactures, and\nsend our Gold and Silver to the Indies, from whence it will never return,\nto\n( 3 )\nto purchase Manufactur'd Goods to be consumed at Home, when our\nMoney may be kept here to circulate among our selves; and is so necessary\nto our Commerce, and payments of our Fleets and Armies, without\nwhich, we can neither be rich or safe.\nThat the great Argument that is used in favour of the East-India Company,\nis, That although they Export great Quantities of Bullion, yet they\nbring in much more for the Goods they sell in Foreign Markets. Supposing\ntheir Assertion to be true, this can be no Argument against the\nprohibiting their Manufactures to be worn in England, and our Plantations,\nbut rather an Argument for it; for what is consumed at Home,\nbrings in no Bullion; and if none be consumed at Home, more may\nbe sent Abroad: for it will make the Company more industrious to find\nout either New Commodities to deal in, or Markets for the vending\nthereof, whereby they may make their Trade more Profitable to the\nNation.\nIt is also alledged, in favour of the East-India Trade, That there have\nof late years been great Quantities of English Cloth Exported by the Company.\nTo which this Answer is to be given, That the Cloth by them Exported\nmore than formerly, is not consumed in India, but sent thence to Persia;\nwhich hinders the Turkey Merchants, who formerly used to supply those\nMarkets. So that the East-India Company sending away our Cloth,\nproves no Advantage to us, and is only done to gain a good Opinion, and\nmake the Nation believe that their Trade is not so prejudicial to us as has\nbeen represented, or as in reality it is.\nThat the sending our Money to the East-Indies, to purchase Goods\nperfectly Manufactured there, may Advance Lands, Enrich the People\nEmploy the Poor in India: But such as are spent here, in the room of\nour own Manufactures, must have the quite contrary effect with us.\nWhether it be for the Interest of England, to Settle the East-India\nTrade, without Restrictions, is humbly submitted to the Consideration of\nthe Parliament.",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 3094,
+      "end": 3098,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "tr_1_tl_48"
+    },
+    {
+      "id": "e2",
+      "start": 3079,
+      "end": 3085,
+      "label": "COMMODITY",
+      "text": "Spices",
+      "line_id": "tr_1_tl_48"
+    },
+    {
+      "id": "e3",
+      "start": 1727,
+      "end": 1734,
+      "label": "TOPONYM",
+      "text": "Bristol",
+      "line_id": "tr_1_tl_25"
+    },
+    {
+      "id": "e4",
+      "start": 1610,
+      "end": 1616,
+      "label": "TOPONYM",
+      "text": "London",
+      "line_id": "tr_1_tl_24"
+    },
+    {
+      "id": "e5",
+      "start": 2623,
+      "end": 2630,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_1_tl_40"
+    },
+    {
+      "id": "e6",
+      "start": 4057,
+      "end": 4064,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_9"
+    },
+    {
+      "id": "e7",
+      "start": 5340,
+      "end": 5347,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_29"
+    },
+    {
+      "id": "e8",
+      "start": 2291,
+      "end": 2301,
+      "label": "TOPONYM",
+      "text": "East-India",
+      "line_id": "tr_1_tl_35"
+    },
+    {
+      "id": "e9",
+      "start": 2953,
+      "end": 2963,
+      "label": "TOPONYM",
+      "text": "East-India",
+      "line_id": "tr_1_tl_46"
+    },
+    {
+      "id": "e10",
+      "start": 3787,
+      "end": 3797,
+      "label": "TOPONYM",
+      "text": "East-India",
+      "line_id": "tr_2_tl_5"
+    },
+    {
+      "id": "e11",
+      "start": 4460,
+      "end": 4470,
+      "label": "TOPONYM",
+      "text": "East-India",
+      "line_id": "tr_2_tl_16"
+    },
+    {
+      "id": "e12",
+      "start": 4805,
+      "end": 4815,
+      "label": "TOPONYM",
+      "text": "East-India",
+      "line_id": "tr_2_tl_21"
+    },
+    {
+      "id": "e13",
+      "start": 5363,
+      "end": 5373,
+      "label": "TOPONYM",
+      "text": "East-India",
+      "line_id": "tr_2_tl_29"
+    },
+    {
+      "id": "e14",
+      "start": 15,
+      "end": 20,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_1_tl_1"
+    },
+    {
+      "id": "e15",
+      "start": 1190,
+      "end": 1195,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_1_tl_18"
+    },
+    {
+      "id": "e16",
+      "start": 2296,
+      "end": 2301,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_1_tl_35"
+    },
+    {
+      "id": "e17",
+      "start": 2958,
+      "end": 2963,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_1_tl_46"
+    },
+    {
+      "id": "e18",
+      "start": 3792,
+      "end": 3797,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_2_tl_5"
+    },
+    {
+      "id": "e19",
+      "start": 4465,
+      "end": 4470,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_2_tl_16"
+    },
+    {
+      "id": "e20",
+      "start": 4680,
+      "end": 4685,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_2_tl_19"
+    },
+    {
+      "id": "e21",
+      "start": 4810,
+      "end": 4815,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_2_tl_21"
+    },
+    {
+      "id": "e22",
+      "start": 5189,
+      "end": 5194,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_2_tl_27"
+    },
+    {
+      "id": "e23",
+      "start": 5368,
+      "end": 5373,
+      "label": "TOPONYM",
+      "text": "India",
+      "line_id": "tr_2_tl_29"
+    },
+    {
+      "id": "e24",
+      "start": 499,
+      "end": 503,
+      "label": "COMMODITY",
+      "text": "Wool",
+      "line_id": "tr_1_tl_7"
+    },
+    {
+      "id": "e25",
+      "start": 546,
+      "end": 550,
+      "label": "COMMODITY",
+      "text": "Wool",
+      "line_id": "tr_1_tl_8"
+    },
+    {
+      "id": "e26",
+      "start": 653,
+      "end": 660,
+      "label": "COMMODITY",
+      "text": "Woollen",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e27",
+      "start": 693,
+      "end": 697,
+      "label": "COMMODITY",
+      "text": "Wool",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e28",
+      "start": 1072,
+      "end": 1080,
+      "label": "COMMODITY",
+      "text": "Fabricks",
+      "line_id": "tr_1_tl_16"
+    },
+    {
+      "id": "e29",
+      "start": 1446,
+      "end": 1450,
+      "label": "COMMODITY",
+      "text": "Silk",
+      "line_id": "tr_1_tl_22"
+    },
+    {
+      "id": "e30",
+      "start": 1618,
+      "end": 1625,
+      "label": "TOPONYM",
+      "text": "Norwich",
+      "line_id": "tr_1_tl_24"
+    },
+    {
+      "id": "e31",
+      "start": 1630,
+      "end": 1640,
+      "label": "TOPONYM",
+      "text": "Canterbury",
+      "line_id": "tr_1_tl_24"
+    },
+    {
+      "id": "e32",
+      "start": 1736,
+      "end": 1743,
+      "label": "TOPONYM",
+      "text": "Newbury",
+      "line_id": "tr_1_tl_26"
+    },
+    {
+      "id": "e33",
+      "start": 1952,
+      "end": 1964,
+      "label": "COMMODITY",
+      "text": "English Wool",
+      "line_id": "tr_1_tl_29"
+    },
+    {
+      "id": "e34",
+      "start": 2000,
+      "end": 2004,
+      "label": "COMMODITY",
+      "text": "Wool",
+      "line_id": "tr_1_tl_30"
+    },
+    {
+      "id": "e35",
+      "start": 2426,
+      "end": 2433,
+      "label": "COMMODITY",
+      "text": "Woollen",
+      "line_id": "tr_1_tl_38"
+    },
+    {
+      "id": "e36",
+      "start": 2438,
+      "end": 2442,
+      "label": "COMMODITY",
+      "text": "Silk",
+      "line_id": "tr_1_tl_38"
+    },
+    {
+      "id": "e37",
+      "start": 2485,
+      "end": 2489,
+      "label": "COMMODITY",
+      "text": "Wool",
+      "line_id": "tr_1_tl_39"
+    },
+    {
+      "id": "e38",
+      "start": 3018,
+      "end": 3024,
+      "label": "TOPONYM",
+      "text": "Indies",
+      "line_id": "tr_1_tl_47"
+    },
+    {
+      "id": "e39",
+      "start": 3441,
+      "end": 3447,
+      "label": "TOPONYM",
+      "text": "Indies",
+      "line_id": "tr_1_tl_53"
+    },
+    {
+      "id": "e40",
+      "start": 4533,
+      "end": 4546,
+      "label": "COMMODITY",
+      "text": "English Cloth",
+      "line_id": "tr_2_tl_17"
+    },
+    {
+      "id": "e41",
+      "start": 4618,
+      "end": 4623,
+      "label": "COMMODITY",
+      "text": "Cloth",
+      "line_id": "tr_2_tl_18"
+    },
+    {
+      "id": "e42",
+      "start": 4706,
+      "end": 4712,
+      "label": "TOPONYM",
+      "text": "Persia",
+      "line_id": "tr_2_tl_19"
+    },
+    {
+      "id": "e43",
+      "start": 4732,
+      "end": 4738,
+      "label": "TOPONYM",
+      "text": "Turkey",
+      "line_id": "tr_2_tl_20"
+    },
+    {
+      "id": "e44",
+      "start": 4841,
+      "end": 4846,
+      "label": "COMMODITY",
+      "text": "Cloth",
+      "line_id": "tr_2_tl_21"
+    },
+    {
+      "id": "e45",
+      "start": 5072,
+      "end": 5083,
+      "label": "TOPONYM",
+      "text": "East-Indies",
+      "line_id": "tr_2_tl_25"
+    },
+    {
+      "start": 3427,
+      "end": 3433,
+      "text": "Silver",
+      "label": "COMMODITY",
+      "id": "e46",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1457,
+      "end": 1461,
+      "text": "Silk",
+      "label": "COMMODITY",
+      "id": "e47",
+      "line_id": "augmented"
+    },
+    {
+      "start": 3418,
+      "end": 3422,
+      "text": "Gold",
+      "label": "COMMODITY",
+      "id": "e48",
+      "line_id": "augmented"
+    },
+    {
+      "id": "e49",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Parliament",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e50",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "East-India Company",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e51",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Scotch East-India Company",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

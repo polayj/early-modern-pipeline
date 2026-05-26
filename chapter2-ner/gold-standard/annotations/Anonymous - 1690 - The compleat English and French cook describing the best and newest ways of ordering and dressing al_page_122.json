@@ -1,0 +1,262 @@
+{
+  "doc_id": "Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml",
+  "text": "234\nAll sorts of\nthem with your knife, and season them\nwith Salt, Nutmeg, Mace and Pepper,\nand having first wash'd your Park on the\ninside with yolks of Eggs, wash the outside\nof your Veal therewith, and lay it\nwithin your Park; lastly, strow on your remaining\nseasoning, and rowl it up hard,\nbinding it with Tape: when it is boil'd,\nsouce it in some of the same liquor, with a\nlittle Vinegar, beaten Pepper and Ginger;\nwhen you serve it up, stick your Pork with\nBay-leaves or Rosemary and Flowers, garnishing\nyour Dish with Flowers and\nSage.\nRams head souced.\nCut the head off, with a good part of\nthe neck adjoyning to it, and boil it with\nthe skin on a good while; when it is\nthroughly boiled, (which will require a\nconsiderable time) take it up and pluck off\nthe skin, then take Broth you have boiled\nsome fresh meat in, and boil it over again,\nwith Vinegar, Salt, a good handful of\nSweet Herbs, Ginger, Pepper, a good piece-of\nHorse-raddish root scraped, and a quarter\nof a pound of French-barley; being\nboiled, strain them through a bag, and\nsouce the head in it; you may serve it\nup\nFlesh Souced.\n235\nup either in slices, or whole with the horns\non.\nSides of Lamb souced.\nBone your side of Lamb, soak it and\nsqueeze it well from the blood, wipe it dry,\nand season the inside with beaten Nutmeg,\nGinger, some sweet Herbs minced\nsmall, whole Coriander-seed, minced Lemon-pill\nand Salt; lastly, some slices of\nbroad Lard over all: then rowl it up in\na Coller, and tye it up in a clean cloth,\nput it into your liquor when it boils, and\nscum it very well, and then put in sliced\nGinger, sliced Nutmeg, Salt, Fennel and\nParsley roots, ; being almost boiled, put in\na quart of White wine, when it is enough\ntake it off, and put in slices of Lemon,\nwith the Pill of two whole Lemons;\nboil it close covered to make the Veal\nlook white.\nThus you may order a breast of Veal,\nor any joynt of Mutton, Kid, Fawn or\nVenison.\nSwan coller'd.\nBone your Swan, and part the two sides,\nseason it according to the foregoing directions\nin the soucing of Geese, season it\nwith",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 60,
+      "end": 64,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l_4"
+    },
+    {
+      "id": "e2",
+      "start": 66,
+      "end": 72,
+      "label": "COMMODITY",
+      "text": "Nutmeg",
+      "line_id": "l_4"
+    },
+    {
+      "id": "e3",
+      "start": 74,
+      "end": 78,
+      "label": "COMMODITY",
+      "text": "Mace",
+      "line_id": "l_4"
+    },
+    {
+      "id": "e4",
+      "start": 83,
+      "end": 89,
+      "label": "COMMODITY",
+      "text": "Pepper",
+      "line_id": "l_4"
+    },
+    {
+      "id": "e9",
+      "start": 385,
+      "end": 392,
+      "label": "COMMODITY",
+      "text": "Vinegar",
+      "line_id": "l_1"
+    },
+    {
+      "id": "e10",
+      "start": 401,
+      "end": 407,
+      "label": "COMMODITY",
+      "text": "Pepper",
+      "line_id": "l_1"
+    },
+    {
+      "id": "e11",
+      "start": 412,
+      "end": 418,
+      "label": "COMMODITY",
+      "text": "Ginger",
+      "line_id": "l_1"
+    },
+    {
+      "id": "e13",
+      "start": 463,
+      "end": 473,
+      "label": "COMMODITY",
+      "text": "Bay-leaves",
+      "line_id": "l_21"
+    },
+    {
+      "id": "e16",
+      "start": 543,
+      "end": 552,
+      "label": "COMMODITY",
+      "text": "Rams head",
+      "line_id": "l_29"
+    },
+    {
+      "id": "e17",
+      "start": 854,
+      "end": 861,
+      "label": "COMMODITY",
+      "text": "Vinegar",
+      "line_id": "l_45"
+    },
+    {
+      "id": "e18",
+      "start": 863,
+      "end": 867,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l_45"
+    },
+    {
+      "id": "e19",
+      "start": 887,
+      "end": 898,
+      "label": "COMMODITY",
+      "text": "Sweet Herbs",
+      "line_id": "l_47"
+    },
+    {
+      "id": "e20",
+      "start": 900,
+      "end": 906,
+      "label": "COMMODITY",
+      "text": "Ginger",
+      "line_id": "l_47"
+    },
+    {
+      "id": "e21",
+      "start": 908,
+      "end": 914,
+      "label": "COMMODITY",
+      "text": "Pepper",
+      "line_id": "l_47"
+    },
+    {
+      "id": "e22",
+      "start": 932,
+      "end": 945,
+      "label": "COMMODITY",
+      "text": "Horse-raddish",
+      "line_id": "l_49"
+    },
+    {
+      "id": "e23",
+      "start": 988,
+      "end": 1001,
+      "label": "COMMODITY",
+      "text": "French-barley",
+      "line_id": "l_50"
+    },
+    {
+      "id": "e26",
+      "start": 1294,
+      "end": 1300,
+      "label": "COMMODITY",
+      "text": "Nutmeg",
+      "line_id": "l_14"
+    },
+    {
+      "id": "e27",
+      "start": 1302,
+      "end": 1308,
+      "label": "COMMODITY",
+      "text": "Ginger",
+      "line_id": "l_16"
+    },
+    {
+      "id": "e28",
+      "start": 1315,
+      "end": 1326,
+      "label": "COMMODITY",
+      "text": "sweet Herbs",
+      "line_id": "l_16"
+    },
+    {
+      "id": "e29",
+      "start": 1347,
+      "end": 1361,
+      "label": "COMMODITY",
+      "text": "Coriander-seed",
+      "line_id": "l_18"
+    },
+    {
+      "id": "e30",
+      "start": 1370,
+      "end": 1380,
+      "label": "COMMODITY",
+      "text": "Lemon-pill",
+      "line_id": "l_18"
+    },
+    {
+      "id": "e31",
+      "start": 1385,
+      "end": 1389,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l"
+    },
+    {
+      "id": "e33",
+      "start": 1581,
+      "end": 1587,
+      "label": "COMMODITY",
+      "text": "Ginger",
+      "line_id": "l_27"
+    },
+    {
+      "id": "e34",
+      "start": 1596,
+      "end": 1602,
+      "label": "COMMODITY",
+      "text": "Nutmeg",
+      "line_id": "l_27"
+    },
+    {
+      "id": "e35",
+      "start": 1604,
+      "end": 1608,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l_27"
+    },
+    {
+      "id": "e38",
+      "start": 1677,
+      "end": 1687,
+      "label": "COMMODITY",
+      "text": "White wine",
+      "line_id": "l_32"
+    },
+    {
+      "id": "e39",
+      "start": 1741,
+      "end": 1746,
+      "label": "COMMODITY",
+      "text": "Lemon",
+      "line_id": "l_34"
+    },
+    {
+      "id": "e40",
+      "start": 1775,
+      "end": 1780,
+      "label": "COMMODITY",
+      "text": "Lemon",
+      "line_id": "l_36"
+    },
+    {
+      "id": "e44",
+      "start": 1895,
+      "end": 1898,
+      "label": "COMMODITY",
+      "text": "Kid",
+      "line_id": "l_44"
+    },
+    {
+      "id": "e45",
+      "start": 1900,
+      "end": 1904,
+      "label": "COMMODITY",
+      "text": "Fawn",
+      "line_id": "l_44"
+    },
+    {
+      "id": "e47",
+      "start": 1917,
+      "end": 1921,
+      "label": "COMMODITY",
+      "text": "Swan",
+      "line_id": "l_48"
+    },
+    {
+      "id": "e48",
+      "start": 1942,
+      "end": 1946,
+      "label": "COMMODITY",
+      "text": "Swan",
+      "line_id": "l_51"
+    }
+  ]
+}

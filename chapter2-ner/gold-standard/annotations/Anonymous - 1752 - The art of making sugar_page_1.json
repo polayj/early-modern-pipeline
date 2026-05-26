@@ -1,0 +1,206 @@
+{
+  "doc_id": "Anonymous - 1752 - The art of making sugar_page_1.xml",
+  "text": "30\nThe ART of making SUGAR.\ntexture, a shining snowy whiteness, and so transparent that common print may\nbe read through the thickest part of a large loaf.\nThis sort of sugar may be scented with different flowers, by strewing the\nflowers on the moist cloths, and renewing them as often as the cloths are\nchanged, and twice a day besides: the water, filtering through the cloth carries\ndown with it those particles of the flowers in which their fragrance resides, and\nleaves them in the sugar.\nLabar relates, that twelve hundred pounds of refined sugar yield only five\nhundred and forty-six of sugar royal.\nThe French prepare, in imitation of the royal, a sort of sugar which\nthey call sucre tappe. This is no other than the common clayed sugar rasped\nvery fine before drying, and rammed into small moulds which have been previously\nmoistened with water. This sort of sugar looks very beautiful: but as\nits particles have no natural union, they separate upon the least moisture, and\nrun into melasses.\n3. Of Sugar-Candy.\nSugar-candy is made from the muscavado or clayed sugar, by dissolving\nthem in weak lime water, and after due clarification setting them to\ncrystalize or shoot in a hot room. The moulds are furnished with a number of\nsmall sticks laid across for the sugar to shoot upon: their lower apperture is almost\nclosed, so as to suffer the part which remains liquid to filter through very slowly.\nWhen the sugar is sufficiently boiled, it is carried with all possible expedition\ninto an hot stove, immediately poured into the moulds, and the stove kept strongly\nheated. The sugar concretes upon the stick into crystalline masses, of a white or\nbrown colour, according as the sugar was pure or impure.\nAPPENDIX.\nThe Art of fermenting and distilling Melasses, &c. for RUM,\nor inflammable Spirit.\n1. Of the Fermentation of the Cane Juice in general.\nAll kinds of sweet vegetable juices are capable of being converted, by means of\nslow fermentation, into vinous liquors, which may either be preserved in that\nform, or made to yield by distillation an inflammable spirit; by a hasty fermentation,\nor a slow one long continued, they are changed into vinegars. The native\njuice of the sugar cane, as it is eminently sweet, is likewise in a particular manner\ndisposed to ferment; but without a great deal of address runs, beyond the process\nof vinous fermentation, into an acetous state. After it has undergone a degree of\nfire, it becomes less susceptible of these changes; and does not ferment readily\nwithout the assistance of such matters as promote this operation: such is the flower\nor head which arises upon liquors during fermentation, &c.\nHere",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 169,
+      "end": 174,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "l"
+    },
+    {
+      "id": "e2",
+      "start": 21,
+      "end": 26,
+      "label": "COMMODITY",
+      "text": "SUGAR",
+      "line_id": "tr_2_tl_1"
+    },
+    {
+      "id": "e3",
+      "start": 486,
+      "end": 491,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_2_tl_12"
+    },
+    {
+      "id": "e4",
+      "start": 546,
+      "end": 551,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_2_tl_13"
+    },
+    {
+      "id": "e5",
+      "start": 593,
+      "end": 604,
+      "label": "COMMODITY",
+      "text": "sugar royal",
+      "line_id": "tr_2_tl_14"
+    },
+    {
+      "id": "e6",
+      "start": 663,
+      "end": 668,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_2_tl_15"
+    },
+    {
+      "id": "e7",
+      "start": 685,
+      "end": 696,
+      "label": "COMMODITY",
+      "text": "sucre tappe",
+      "line_id": "l_2"
+    },
+    {
+      "id": "e8",
+      "start": 731,
+      "end": 743,
+      "label": "COMMODITY",
+      "text": "clayed sugar",
+      "line_id": "l_2"
+    },
+    {
+      "id": "e9",
+      "start": 867,
+      "end": 872,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_2_tl_20"
+    },
+    {
+      "id": "e10",
+      "start": 991,
+      "end": 999,
+      "label": "COMMODITY",
+      "text": "melasses",
+      "line_id": "tr_2_tl_22"
+    },
+    {
+      "id": "e11",
+      "start": 1007,
+      "end": 1012,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_2_tl_23"
+    },
+    {
+      "id": "e12",
+      "start": 1007,
+      "end": 1018,
+      "label": "COMMODITY",
+      "text": "Sugar-Candy",
+      "line_id": "tr_2_tl_23"
+    },
+    {
+      "id": "e13",
+      "start": 1020,
+      "end": 1025,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_3_tl_1"
+    },
+    {
+      "id": "e14",
+      "start": 1020,
+      "end": 1031,
+      "label": "COMMODITY",
+      "text": "Sugar-candy",
+      "line_id": "tr_3_tl_1"
+    },
+    {
+      "id": "e15",
+      "start": 1049,
+      "end": 1058,
+      "label": "COMMODITY",
+      "text": "muscavado",
+      "line_id": "tr_3_tl_1"
+    },
+    {
+      "id": "e16",
+      "start": 1062,
+      "end": 1074,
+      "label": "COMMODITY",
+      "text": "clayed sugar",
+      "line_id": "tr_3_tl_1"
+    },
+    {
+      "id": "e17",
+      "start": 1269,
+      "end": 1274,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_3_tl_4"
+    },
+    {
+      "id": "e18",
+      "start": 1416,
+      "end": 1421,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_3_tl_6"
+    },
+    {
+      "id": "e19",
+      "start": 1584,
+      "end": 1589,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_3_tl_8"
+    },
+    {
+      "id": "e20",
+      "start": 1685,
+      "end": 1690,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_3_tl_9"
+    },
+    {
+      "id": "e21",
+      "start": 1758,
+      "end": 1766,
+      "label": "COMMODITY",
+      "text": "Melasses",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e22",
+      "start": 1776,
+      "end": 1779,
+      "label": "COMMODITY",
+      "text": "RUM",
+      "line_id": "tr_1_tl_2"
+    },
+    {
+      "id": "e23",
+      "start": 1834,
+      "end": 1838,
+      "label": "COMMODITY",
+      "text": "Cane",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e24",
+      "start": 2188,
+      "end": 2193,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e25",
+      "start": 2194,
+      "end": 2198,
+      "label": "COMMODITY",
+      "text": "cane",
+      "line_id": "tr_1_tl_10"
+    }
+  ]
+}

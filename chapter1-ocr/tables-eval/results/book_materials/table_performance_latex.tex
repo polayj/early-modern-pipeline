@@ -1,0 +1,21 @@
+% Table: OCR System Performance on Historical Tables
+\begin{table}[htbp]
+\centering
+\caption{OCR System Performance on Historical Table Documents (1682-1807)}
+\label{tab:table-ocr-performance}
+\begin{tabular}{lcccccc}
+\toprule
+OCR System & CER & WER & BLEU & Char Acc. & Word Acc. & Hall. Rate \\
+\midrule
+OlmOCRv2        & 0.128 & 0.205 & 0.713 & 0.872 & 0.795 & 0.115 \\
+MinerU          & 0.163 & 0.222 & 0.702 & 0.837 & 0.778 & 0.065 \\
+Deepseek        & 0.171 & 0.255 & 0.576 & 0.829 & 0.745 & 0.121 \\
+Tesseract       & 0.173 & 0.331 & 0.558 & 0.827 & 0.669 & 0.246 \\
+Gemini          & 0.184 & 0.247 & 0.704 & 0.816 & 0.753 & 0.063 \\
+OlmOCRv1        & 0.197 & 0.271 & 0.627 & 0.803 & 0.729 & 0.154 \\
+EasyOCR         & 0.205 & 0.505 & 0.251 & 0.795 & 0.495 & 0.454 \\
+Transkribus     & 0.260 & 0.389 & 0.402 & 0.740 & 0.611 & 0.066 \\
+Kraken          & 0.598 & 0.817 & 0.154 & 0.402 & 0.183 & 0.214 \\
+\bottomrule
+\end{tabular}
+\end{table}

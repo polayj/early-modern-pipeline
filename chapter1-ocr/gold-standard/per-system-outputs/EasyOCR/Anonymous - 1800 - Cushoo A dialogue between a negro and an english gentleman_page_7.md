@@ -1,0 +1,1 @@
+wild uncivilized slate but in the west iudies are brought to & civilized state, and live esnderctee jqa tecrion of our gracious sovereign pro- feelings, beg they dat, good dey good iron, good ing_ seasoning dey live, dey good auy they a-day, very massa, hours; butnegro slinking well; hardships, country negro keep king george .

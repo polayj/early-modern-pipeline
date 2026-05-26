@@ -1,0 +1,302 @@
+{
+  "doc_id": "Anonymous - 1675 - The gentlewomans cabinet unlocked wherein is contained many excellent receipts for neat dressing of_page_8.xml",
+  "text": "The Gentlewomans\nyolks of two Eggs for one Mess or\nDraught, and so [drare] or less according\nto the quantity of your Ile, beat them\nvery well, and take away the skin of the\nyolks, and when the Ale boyls put them\nin, and [tep] them stirring continually\nand when it hath boil'd a while; sweeten it\nwith sugar; and if it be to eat, cut two\nor three tosts of [it] to bread, tost them\ndry, and put them to the Candle, but if it\nbe to drink put in none\nTo Stew Beef.\nTake a good Rump of Beef cut from\nthe bones, shred Turneps and Carrets\nsmall, with Spinnage and Lettice, put\nall in a Pan and let it stew four hours\nwith so much Water, and a quart of\nWhite-wine as will cover it, some\nPepper and Salt: when it is stewed\nthen put in a wine-glass full of good\nEldar Vinegar, and serve it with\nSippits.\nTo Boyl a Gammon of Bacon.\nWater pour Gammon of Bacon\ntwenty-four hours, then put it into a\ndeep Kettle with sweet Hay, let it boyl\nsoftly six or seven hours, and then take\nit up with a Scummer and a Plate, and\ntake off the Skin whole, then stick your\nGam-\nCabinet Unlocked\nGammon full of Cloves, and strew on\nsome gross Pepper, then cut your skin\nlike sippets to garnish your Gammon:\nand when you serve it, stick it with\nBay-leaves\nTo Boyl Brawn.\nWater your Brawn twenty-four\nhours, wash and scrape it four or five\ntimes, then take it out of the water and\nlay it on a clean table, and throw an\nhandful of salt on every Coilo., then\nbind them up as fast as you can with\nhemp or Bass, and put them in your\nKettle, when the Water boyleth, and\nthe scum ariseth, take it away : Let it\nboyl so tender that you may thrust a straw\nthrough it, then let it cool till the next\nmorning, and serve it.\nTo make a White-pot.\nTake the best and sivierest Cream;\nand boyl it with good stroze of Sugar and\nCinnamon, a little Rose-water : then\ntake it from the fire and put into it clean\npickt rice, but not so much as to make\nit thick, and let it steep therein till it\nbe cold : then put in the Yolks of six\nEggs and two whites, Currants, Nutmeg\nand Salt : then put it into the Pan\nor Pot, as thin as if it were a Custard,\nand",
+  "entities": [
+    {
+      "id": "e3",
+      "start": 114,
+      "end": 117,
+      "label": "COMMODITY",
+      "text": "Ale",
+      "line_id": "l_34"
+    },
+    {
+      "id": "e4",
+      "start": 190,
+      "end": 193,
+      "label": "COMMODITY",
+      "text": "Ale",
+      "line_id": "l_36"
+    },
+    {
+      "id": "e5",
+      "start": 301,
+      "end": 306,
+      "label": "COMMODITY",
+      "text": "sugar",
+      "line_id": "l_39"
+    },
+    {
+      "id": "e6",
+      "start": 351,
+      "end": 362,
+      "label": "COMMODITY",
+      "text": "Whyte bread",
+      "line_id": "l_40"
+    },
+    {
+      "id": "e9",
+      "start": 512,
+      "end": 519,
+      "label": "COMMODITY",
+      "text": "Turneps",
+      "line_id": "l_45"
+    },
+    {
+      "id": "e10",
+      "start": 524,
+      "end": 531,
+      "label": "COMMODITY",
+      "text": "Carrets",
+      "line_id": "l_45"
+    },
+    {
+      "id": "e11",
+      "start": 544,
+      "end": 552,
+      "label": "COMMODITY",
+      "text": "Spinnage",
+      "line_id": "l_46"
+    },
+    {
+      "id": "e12",
+      "start": 557,
+      "end": 564,
+      "label": "COMMODITY",
+      "text": "Lettice",
+      "line_id": "l_46"
+    },
+    {
+      "id": "e13",
+      "start": 639,
+      "end": 649,
+      "label": "COMMODITY",
+      "text": "White-wine",
+      "line_id": "l_49"
+    },
+    {
+      "id": "e14",
+      "start": 673,
+      "end": 679,
+      "label": "COMMODITY",
+      "text": "Pepper",
+      "line_id": "l_50"
+    },
+    {
+      "id": "e15",
+      "start": 690,
+      "end": 694,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l_50"
+    },
+    {
+      "id": "e16",
+      "start": 746,
+      "end": 759,
+      "label": "COMMODITY",
+      "text": "Eldar Vinegar",
+      "line_id": "l_52"
+    },
+    {
+      "id": "e17",
+      "start": 785,
+      "end": 792,
+      "label": "COMMODITY",
+      "text": "Sippits",
+      "line_id": "l_53"
+    },
+    {
+      "id": "e18",
+      "start": 814,
+      "end": 819,
+      "label": "COMMODITY",
+      "text": "Bacon",
+      "line_id": "l_54"
+    },
+    {
+      "id": "e19",
+      "start": 842,
+      "end": 847,
+      "label": "COMMODITY",
+      "text": "Bacon",
+      "line_id": "l_55"
+    },
+    {
+      "id": "e20",
+      "start": 909,
+      "end": 912,
+      "label": "COMMODITY",
+      "text": "sweet Hay",
+      "line_id": "l_57"
+    },
+    {
+      "id": "e21",
+      "start": 1077,
+      "end": 1083,
+      "label": "COMMODITY",
+      "text": "Cloves",
+      "line_id": "l_63"
+    },
+    {
+      "id": "e22",
+      "start": 1109,
+      "end": 1115,
+      "label": "COMMODITY",
+      "text": "Pepper",
+      "line_id": "l_64"
+    },
+    {
+      "id": "e23",
+      "start": 1210,
+      "end": 1220,
+      "label": "COMMODITY",
+      "text": "Bay-leaves",
+      "line_id": "l_67"
+    },
+    {
+      "id": "e24",
+      "start": 1229,
+      "end": 1234,
+      "label": "COMMODITY",
+      "text": "Brawn",
+      "line_id": "l_68"
+    },
+    {
+      "id": "e25",
+      "start": 1247,
+      "end": 1252,
+      "label": "COMMODITY",
+      "text": "Brawn",
+      "line_id": "l_69"
+    },
+    {
+      "id": "e26",
+      "start": 1400,
+      "end": 1404,
+      "label": "COMMODITY",
+      "text": "salt",
+      "line_id": "l_73"
+    },
+    {
+      "id": "e28",
+      "start": 1772,
+      "end": 1777,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "l_83"
+    },
+    {
+      "id": "e29",
+      "start": 1782,
+      "end": 1790,
+      "label": "COMMODITY",
+      "text": "Cinnamon",
+      "line_id": "l_84"
+    },
+    {
+      "id": "e30",
+      "start": 1801,
+      "end": 1811,
+      "label": "COMMODITY",
+      "text": "Rose-water",
+      "line_id": "l_84"
+    },
+    {
+      "id": "e31",
+      "start": 1869,
+      "end": 1873,
+      "label": "COMMODITY",
+      "text": "rice",
+      "line_id": "l_86"
+    },
+    {
+      "id": "e33",
+      "start": 2005,
+      "end": 2013,
+      "label": "COMMODITY",
+      "text": "Currants",
+      "line_id": "l_89"
+    },
+    {
+      "id": "e34",
+      "start": 2015,
+      "end": 2021,
+      "label": "COMMODITY",
+      "text": "Nutmeg",
+      "line_id": "l_89"
+    },
+    {
+      "id": "e35",
+      "start": 2026,
+      "end": 2030,
+      "label": "COMMODITY",
+      "text": "Salt",
+      "line_id": "l_90"
+    },
+    {
+      "start": 679,
+      "end": 685,
+      "text": "Pepper",
+      "label": "COMMODITY",
+      "id": "e36",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1115,
+      "end": 1121,
+      "text": "Pepper",
+      "label": "COMMODITY",
+      "id": "e37",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1083,
+      "end": 1089,
+      "text": "Cloves",
+      "label": "COMMODITY",
+      "id": "e38",
+      "line_id": "augmented"
+    },
+    {
+      "start": 651,
+      "end": 655,
+      "text": "wine",
+      "label": "COMMODITY",
+      "id": "e39",
+      "line_id": "augmented"
+    },
+    {
+      "start": 728,
+      "end": 732,
+      "text": "wine",
+      "label": "COMMODITY",
+      "id": "e40",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1464,
+      "end": 1468,
+      "text": "hemp",
+      "label": "COMMODITY",
+      "id": "e41",
+      "line_id": "augmented"
+    },
+    {
+      "start": 1472,
+      "end": 1476,
+      "text": "Bass",
+      "label": "COMMODITY",
+      "id": "e42",
+      "line_id": "augmented"
+    },
+    {
+      "start": 193,
+      "end": 196,
+      "text": "Ale",
+      "label": "COMMODITY",
+      "id": "e43",
+      "line_id": "augmented"
+    }
+  ]
+}

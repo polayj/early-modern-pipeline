@@ -1,0 +1,94 @@
+{
+  "doc_id": "Ogilby - 1671 - America_page_399.xml",
+  "text": "Chap. XVI.\nAMERICA.\n341\nCommander, who upon their first arrival here committed such horrid Cruelties\nand Massacres, that (as the fore-mention'd Bartholomeo de las Casas writes) five thousand\nInhabitants were in a short time reduc'd to less than three hundred, multitudes\nbeing put to death in a most inhumane and barbarous manner, some roasted alive,\nothers torn in pieces by the Spanish Dogs, besides many other studied ways of Butchery,\ntoo dreadful to be read with patience; nor were they free from Civil War\namongst themselves, which first began in this Island.\nAttempts of\nthe English\nupon this\nIsland.\nThe first and onely Attempters upon this Island since the Spaniards made themselves\nMasters thereof, have been the English, who in the Year 1592. under the Conduct\nof Sir Anthony Shirley Landed upon it, & got clear possession thereof, none of the\nSpaniards that were then upon the Place daring to make the least resistance, but not\nthinking it worth the keeping, they soon deserted it, and made Sail back again for\nEngland: after which they remain'd unmolested for a long time, till in the Year\n1654. a Fleet of English was set out for Hispaniola by Cromwell, under the Command\nof Colonel Venables, with a Design for the taking of St. Domingo; but meeting with\nill success in the Enterprize, and being forc'd to quit that Island with loss of Men,\nand frustration of their hopes, they steer'd their Course for Jamaica, and on the\ntenth of May in the Year abovesaid, with little opposition possess'd themselves of it.\nUpon their approach to St. Jago the Inhabitants thereof deserted it, and betook\nthem to the Mountains, gaining time by a pretence of Treaty, to secure their Women\nand Goods; and oftentimes making Incursions upon the stragling Parties of\nthe English, slew and took many Prisoners by surprize: but being weary of this\nwild and irregular kind of living, they betake themselves at last to the Isle of Cuba,\nwhere many of them, the Grandees especially, were permitted by favour to continue,\nthe rest being by the Vice-Roy commanded back, with promise of speedy\nand considerable Supplies; by that time this remnant of the Spaniards was near\ntir'd out with hardship and necessity, some being very much discourag'd and driven\nto utter despondence of Mind, others destroy'd out-right, part of the long promis'd\nand expected Supply arrives, the greatest part being to follow soon after, but\nfinding",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 1417,
+      "end": 1424,
+      "label": "TOPONYM",
+      "text": "Jamaica",
+      "line_id": "l_20"
+    },
+    {
+      "id": "e2",
+      "start": 1023,
+      "end": 1030,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "l_16"
+    },
+    {
+      "id": "e3",
+      "start": 11,
+      "end": 18,
+      "label": "TOPONYM",
+      "text": "AMERICA",
+      "line_id": "tr_1_tl_1"
+    },
+    {
+      "id": "e4",
+      "start": 1144,
+      "end": 1154,
+      "label": "TOPONYM",
+      "text": "Hispaniola",
+      "line_id": "l_17"
+    },
+    {
+      "id": "e5",
+      "start": 1239,
+      "end": 1250,
+      "label": "TOPONYM",
+      "text": "St. Domingo",
+      "line_id": "l_18"
+    },
+    {
+      "id": "e6",
+      "start": 1547,
+      "end": 1555,
+      "label": "TOPONYM",
+      "text": "St. Jago",
+      "line_id": "l_22"
+    },
+    {
+      "id": "e7",
+      "start": 1921,
+      "end": 1925,
+      "label": "TOPONYM",
+      "text": "Cuba",
+      "line_id": "l_26"
+    },
+    {
+      "id": "e8",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Bartholomeo de las Casas",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e9",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Sir Anthony Shirley",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e10",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Cromwell",
+      "line_id": "gpt_annotated"
+    },
+    {
+      "id": "e11",
+      "start": -1,
+      "end": -1,
+      "label": "PERSON",
+      "text": "Colonel Venables",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

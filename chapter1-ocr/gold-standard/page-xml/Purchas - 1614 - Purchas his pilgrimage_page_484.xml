@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:41</Creator>
+        <Created>2025-10-02T01:45:48.699+02:00</Created>
+        <LastChange>2025-10-24T02:28:45.871+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051174" pageNr="38" tsid="258750573" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=JUMEHRTLIFZJFHKLRDXDFOYC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDVEACOUSNWWRGFOUZCKDDRY" imageId="87046414" />
+    </Metadata>
+    <Page imageFilename="11168119_0038_104051174.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586540074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_2" />
+                <RegionRefIndexed index="2" regionRef="r_6" />
+                <RegionRefIndexed index="3" regionRef="r_1" />
+                <RegionRefIndexed index="4" regionRef="r_4" />
+                <RegionRefIndexed index="5" regionRef="r_5" />
+                <RegionRefIndexed index="6" regionRef="r_3" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="1133,316 2135,311 2135,441 1131,419" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:heading;}">
+                <Coords points="1158,378 1206,410 1313,390 1415,406 1717,396 1717,334 1614,312 1158,332" />
+                <Baseline points="1170,373 1197,375 1225,376 1252,376 1280,376 1308,376 1335,376 1363,376 1390,376 1418,374 1446,373 1473,373 1501,374 1528,376 1556,376 1584,376 1611,376 1639,376 1666,376 1694,378 1722,382" />
+                <TextEquiv>
+                    <Unicode>Of India in generall, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} structure {type:heading;}">
+                <Coords points="1920,406 1954,390 1996,418 2127,426 2119,352 2093,356 2042,342 2030,352 1958,314 1910,318" />
+                <Baseline points="1928,376 1953,378 1978,380 2003,383 2028,386 2053,390 2078,392 2103,394 2128,397" />
+                <TextEquiv>
+                    <Unicode>CHAP.I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="761,688 752,456 2143,446 2144,686" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="762,501 2125,515 2125,468 1984,442 762,448" />
+                <Baseline points="773,489 840,488 908,489 976,486 1044,483 1112,484 1180,483 1248,480 1316,480 1384,481 1452,480 1519,480 1587,480 1655,480 1723,480 1791,480 1859,481 1927,485 1995,490 2063,497 2131,501" />
+                <TextEquiv>
+                    <Unicode>They hold the World to be created, corruptible, round, ruled by the high God. Water</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="758,551 2123,563 2123,517 1894,494 758,503" />
+                <Baseline points="770,537 837,537 905,534 973,535 1041,531 1109,531 1177,531 1245,528 1313,525 1381,525 1449,525 1516,526 1584,528 1652,528 1720,527 1788,525 1856,529 1924,533 1992,538 2060,545 2128,552" />
+                <TextEquiv>
+                    <Unicode>they imagine to have beene the beginning of making the World; and that besides</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="758,595 2119,611 2119,563 1912,537 758,555" />
+                <Baseline points="770,582 837,582 905,582 973,579 1041,579 1108,579 1176,576 1244,574 1312,573 1379,573 1447,573 1515,574 1583,573 1650,573 1718,573 1786,575 1854,576 1921,578 1989,583 2057,590 2125,600" />
+                <TextEquiv>
+                    <Unicode>the foure Elements, there is a fifth Nature, whereof the Heaven and Starres consist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="770,639 1077,637 1158,685 2125,683 2125,613 1924,585 770,593" />
+                <Baseline points="782,629 849,626 916,626 984,624 1051,623 1119,626 1186,623 1254,623 1321,623 1389,620 1456,620 1523,620 1591,620 1658,620 1726,620 1793,620 1861,623 1928,625 1996,629 2063,636 2131,650" />
+                <TextEquiv>
+                    <Unicode>They intreate of the immortalitie of the Soule, and of the torments in Hell, and many</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="758,693 798,696 816,681 854,679 1065,685 1065,635 919,647 866,633 850,649 836,635 758,643" />
+                <Baseline points="770,671 797,671 824,671 851,671 878,671 905,671 932,671 959,671 986,671 1013,671 1040,671 1068,674" />
+                <TextEquiv>
+                    <Unicode>such like matters.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="612,343 753,343 753,418 612,418" />
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="621,400 667,414 677,408 738,412 732,328 722,328 708,342 683,332 659,330 643,350 617,356" />
+                <Baseline points="629,394 657,394 686,395 714,397 743,403" />
+                <TextEquiv>
+                    <Unicode>454</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="537,653 768,653 768,791 537,791" />
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="531,722 758,728 758,677 732,677 704,649 667,651 645,675 601,665 581,679 561,669 531,679" />
+                <Baseline points="543,713 570,713 598,713 625,713 653,714 681,716 708,716 736,716 764,716" />
+                <TextEquiv>
+                    <Unicode>k The Indian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:1;}">
+                <Coords points="541,788 555,788 561,782 567,788 601,788 619,774 637,788 647,784 655,788 679,770 693,770 691,724 657,724 653,730 595,728 581,720 539,726" />
+                <Baseline points="552,752 581,754 610,755 639,755 668,755 698,755" />
+                <TextEquiv>
+                    <Unicode>Germanes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="764,972 767,694 2144,686 2145,966" />
+            <TextLine id="l_66" custom="readingOrder {index:0;}">
+                <Coords points="814,724 2101,754 2117,683 812,681" />
+                <Baseline points="824,719 889,718 954,719 1019,718 1084,716 1149,716 1214,714 1279,713 1344,713 1409,713 1474,713 1539,713 1604,713 1669,710 1734,710 1799,712 1864,713 1929,715 1994,719 2059,726 2125,734" />
+                <TextEquiv>
+                    <Unicode>The k Germanes, another Order of religious or learned men, are honored amongst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_67" custom="readingOrder {index:1;}">
+                <Coords points="768,778 2119,786 2119,746 1954,726 768,720" />
+                <Baseline points="779,767 846,764 913,764 980,766 1048,764 1115,764 1182,764 1250,759 1317,758 1384,758 1452,758 1519,758 1586,758 1653,758 1721,758 1788,758 1855,758 1923,763 1990,767 2057,773 2125,782" />
+                <TextEquiv>
+                    <Unicode>them: especially such of them as live in the woods, and of the Woods, both for their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:2;}">
+                <Coords points="764,822 2125,842 2125,788 1944,772 764,784" />
+                <Baseline points="776,809 843,812 911,812 978,809 1046,809 1114,809 1181,809 1249,807 1316,806 1384,804 1452,806 1519,805 1587,806 1654,803 1722,803 1789,803 1857,806 1925,811 1992,812 2060,817 2128,821" />
+                <TextEquiv>
+                    <Unicode>diet of those wilde fruits, and their habit of the barkes of trees, not acquainted with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_69" custom="readingOrder {index:3;}">
+                <Coords points="764,878 2119,890 2119,842 2006,822 764,822" />
+                <Baseline points="776,856 843,858 910,856 978,856 1045,856 1113,855 1180,856 1248,853 1315,853 1383,852 1450,853 1517,853 1585,850 1652,850 1720,850 1787,852 1855,853 1922,855 1990,857 2057,864 2125,868" />
+                <TextEquiv>
+                    <Unicode>Bacchus or Venus any more then with Ceres. They speake not to the Kings, when they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:4;}">
+                <Coords points="764,911 2115,941 2115,886 2024,868 764,878" />
+                <Baseline points="776,901 843,904 910,904 977,903 1044,904 1111,901 1178,901 1246,901 1313,898 1380,900 1447,901 1514,901 1581,901 1648,899 1716,898 1783,899 1850,901 1917,904 1984,904 2051,911 2119,913" />
+                <TextEquiv>
+                    <Unicode>aske counsell of them, but by messengers; and doe pacifie the angrie gods, as is supposed,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_71" custom="readingOrder {index:5;}">
+                <Coords points="764,961 864,961 888,973 933,959 1150,959 1150,923 1120,909 969,913 939,925 927,913 764,919" />
+                <Baseline points="776,946 801,948 826,949 851,949 877,950 902,951 927,951 952,949 978,949 1003,949 1028,949 1053,948 1079,947 1104,947 1129,949 1155,949" />
+                <TextEquiv>
+                    <Unicode>by their holinesse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2145,966 2152,3076 775,3070 756,972" />
+            <TextLine id="l_72" custom="readingOrder {index:0;}">
+                <Coords points="814,1005 2119,1025 2119,961 2066,947 814,959" />
+                <Baseline points="824,994 889,997 954,994 1019,994 1084,994 1149,994 1214,994 1279,993 1344,991 1409,991 1474,989 1539,988 1604,988 1669,988 1734,989 1799,989 1864,991 1929,993 1994,997 2059,1004 2125,1012" />
+                <TextEquiv>
+                    <Unicode>Next in honor to these, are certaine Mendicants, which live of Rice and Barky</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_73" custom="readingOrder {index:1;}">
+                <Coords points="770,1047 2123,1065 2123,1023 1984,1003 770,1003" />
+                <Baseline points="782,1038 849,1041 916,1044 983,1041 1051,1041 1118,1039 1185,1038 1253,1038 1320,1038 1387,1038 1455,1038 1522,1037 1589,1038 1656,1036 1724,1035 1791,1038 1858,1038 1926,1040 1993,1044 2060,1047 2128,1053" />
+                <TextEquiv>
+                    <Unicode>which any man at the first asking giveth them, together with entertainment into their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:2;}">
+                <Coords points="764,1104 2125,1118 2125,1069 2018,1053 764,1057" />
+                <Baseline points="776,1086 843,1089 911,1089 979,1089 1047,1089 1114,1086 1182,1086 1250,1082 1318,1083 1385,1083 1453,1083 1521,1083 1589,1083 1656,1083 1724,1083 1792,1083 1860,1084 1927,1086 1995,1090 2063,1094 2131,1104" />
+                <TextEquiv>
+                    <Unicode>houses. These professe skill in Physicke, and to remedie diseases, wounds, and sterility;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_75" custom="readingOrder {index:3;}">
+                <Coords points="770,1142 2125,1154 2090,1104 1936,1096 770,1104" />
+                <Baseline points="782,1131 849,1137 916,1137 984,1135 1051,1134 1119,1134 1186,1134 1254,1131 1321,1131 1389,1131 1456,1131 1523,1131 1591,1131 1658,1131 1726,1134 1793,1131 1861,1134 1928,1134 1996,1137 2063,1142 2131,1146" />
+                <TextEquiv>
+                    <Unicode>very constant in labour and hardship. Others there are, Inchanters and Diviners, Masters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_76" custom="readingOrder {index:4;}">
+                <Coords points="764,1196 2125,1196 2125,1154 1986,1144 764,1146" />
+                <Baseline points="776,1179 843,1179 911,1179 979,1179 1047,1179 1114,1177 1182,1176 1250,1176 1318,1176 1385,1176 1453,1176 1521,1176 1589,1176 1656,1176 1724,1176 1792,1176 1860,1177 1927,1179 1995,1180 2063,1184 2131,1191" />
+                <TextEquiv>
+                    <Unicode>of ceremonies about the dead; which wander thorow Townes and Cities. Some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_77" custom="readingOrder {index:5;}">
+                <Coords points="768,1232 2123,1246 2123,1196 1896,1184 768,1196" />
+                <Baseline points="779,1227 846,1224 913,1224 981,1224 1048,1224 1116,1224 1183,1224 1251,1224 1318,1221 1386,1224 1453,1221 1520,1221 1588,1221 1655,1221 1723,1221 1790,1224 1858,1221 1925,1224 1993,1227 2060,1230 2128,1233" />
+                <TextEquiv>
+                    <Unicode>there are more civill and secular, in their life professing like pietie and holinesse. Women</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:6;}">
+                <Coords points="764,1282 2119,1294 2119,1246 1956,1232 764,1232" />
+                <Baseline points="776,1271 843,1272 910,1271 978,1273 1045,1271 1113,1271 1180,1271 1248,1271 1315,1271 1383,1270 1450,1271 1517,1268 1585,1268 1652,1268 1720,1268 1787,1268 1855,1268 1922,1271 1990,1271 2057,1276 2125,1280" />
+                <TextEquiv>
+                    <Unicode>also are admitted unto the fellowship of their studies in this Philosophie, not to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_79" custom="readingOrder {index:7;}">
+                <Coords points="764,1329 2127,1337 2125,1292 1966,1280 764,1284" />
+                <Baseline points="776,1319 843,1319 911,1319 978,1319 1046,1319 1114,1316 1181,1316 1249,1316 1316,1316 1384,1316 1452,1316 1519,1316 1587,1316 1654,1316 1722,1316 1789,1316 1857,1316 1925,1318 1992,1319 2060,1322 2128,1328" />
+                <TextEquiv>
+                    <Unicode>their beds. Aristobulus writeth, that he saw two of these Brachmanes, the one an old</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:8;}">
+                <Coords points="768,1377 2123,1383 2123,1339 2002,1325 768,1329" />
+                <Baseline points="779,1367 846,1367 913,1367 981,1364 1048,1364 1116,1364 1183,1364 1251,1363 1318,1364 1386,1362 1453,1364 1520,1362 1588,1361 1655,1361 1723,1361 1790,1363 1858,1361 1925,1364 1993,1364 2060,1367 2128,1370" />
+                <TextEquiv>
+                    <Unicode>man shaven, the other yong with long haire, which sometimes resorted to the Marketplace,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_81" custom="readingOrder {index:9;}">
+                <Coords points="774,1433 2125,1433 2091,1375 774,1381" />
+                <Baseline points="785,1418 852,1412 919,1412 986,1411 1054,1409 1121,1409 1188,1409 1256,1409 1323,1409 1390,1409 1458,1409 1525,1409 1592,1406 1659,1408 1727,1409 1794,1409 1861,1409 1929,1409 1996,1412 2063,1414 2131,1418" />
+                <TextEquiv>
+                    <Unicode>and were honored as Counsellors, and freely tooke what they pleased, of any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:10;}">
+                <Coords points="774,1465 2125,1481 2105,1423 1992,1417 774,1431" />
+                <Baseline points="785,1459 852,1456 919,1456 986,1456 1053,1453 1120,1455 1187,1453 1255,1453 1322,1453 1389,1453 1456,1453 1523,1453 1590,1450 1657,1453 1725,1453 1792,1453 1859,1453 1926,1453 1993,1456 2060,1457 2128,1462" />
+                <TextEquiv>
+                    <Unicode>thing there to be sold, for their sustenance. They were annointed with Sesamine oyle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_83" custom="readingOrder {index:11;}">
+                <Coords points="780,1520 2123,1518 2090,1463 780,1475" />
+                <Baseline points="791,1501 857,1501 924,1501 991,1503 1058,1501 1125,1501 1192,1501 1258,1501 1325,1501 1392,1500 1459,1498 1526,1498 1593,1498 1660,1498 1726,1501 1793,1499 1860,1501 1927,1501 1994,1501 2061,1505 2128,1507" />
+                <TextEquiv>
+                    <Unicode>wherewith, and with hony, they tempered their bread. They were admitted to Alexanders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_84" custom="readingOrder {index:12;}">
+                <Coords points="770,1570 2125,1568 2107,1512 770,1516" />
+                <Baseline points="782,1549 849,1549 916,1549 984,1549 1051,1549 1119,1549 1186,1552 1254,1547 1321,1546 1389,1546 1456,1546 1523,1546 1591,1546 1658,1546 1726,1549 1793,1546 1861,1549 1928,1549 1996,1549 2063,1552 2131,1558" />
+                <TextEquiv>
+                    <Unicode>table, where they gave lessons of patience 1: and after going to a place not far</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_87" custom="readingOrder {index:13;}">
+                <Coords points="780,1612 2125,1610 2125,1568 2056,1558 780,1564" />
+                <Baseline points="791,1597 858,1598 925,1597 992,1597 1059,1594 1126,1597 1193,1591 1260,1591 1327,1591 1394,1591 1461,1591 1528,1593 1595,1594 1662,1594 1729,1594 1796,1594 1863,1594 1930,1594 1997,1594 2064,1597 2131,1600" />
+                <TextEquiv>
+                    <Unicode>off, the old man lying downe with his face upward, sustained the Sunne and showers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_89" custom="readingOrder {index:14;}">
+                <Coords points="774,1654 2125,1658 2125,1610 1996,1604 774,1606" />
+                <Baseline points="785,1639 852,1642 919,1639 986,1639 1054,1639 1121,1640 1188,1639 1256,1637 1323,1636 1390,1636 1458,1636 1525,1636 1592,1636 1659,1636 1727,1636 1794,1638 1861,1639 1929,1639 1996,1639 2063,1641 2131,1645" />
+                <TextEquiv>
+                    <Unicode>terrible violence. The yonger standing on one foot, held in both his hands a peece of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:15;}">
+                <Coords points="776,1697 2127,1692 2068,1648 776,1654" />
+                <Baseline points="788,1683 855,1685 922,1686 989,1683 1056,1683 1123,1683 1190,1683 1258,1683 1325,1683 1392,1683 1459,1680 1526,1683 1593,1683 1660,1680 1728,1683 1795,1681 1862,1683 1929,1683 1996,1686 2063,1686 2131,1692" />
+                <TextEquiv>
+                    <Unicode>wood of three cubits lifted up, and shifted feete, as the other was wearie: and so they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_91" custom="readingOrder {index:16;}">
+                <Coords points="770,1745 2131,1745 2111,1695 770,1701" />
+                <Baseline points="782,1734 849,1734 917,1734 985,1732 1053,1731 1120,1731 1188,1731 1256,1733 1324,1734 1391,1731 1459,1731 1527,1731 1595,1731 1662,1730 1730,1729 1798,1731 1866,1731 1933,1733 2001,1734 2069,1734 2137,1734" />
+                <TextEquiv>
+                    <Unicode>continued every day. The yong man returned home afterward, but the old man followed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:17;}">
+                <Coords points="774,1793 2131,1793 2131,1745 774,1745" />
+                <Baseline points="785,1782 852,1780 920,1782 987,1781 1055,1782 1123,1779 1190,1776 1258,1779 1325,1779 1393,1777 1461,1776 1528,1776 1596,1776 1663,1779 1731,1779 1798,1779 1866,1779 1934,1779 2001,1782 2069,1782 2137,1782" />
+                <TextEquiv>
+                    <Unicode>the King, with whom he changed his habit and life, for which, when as he was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_93" custom="readingOrder {index:18;}">
+                <Coords points="770,1831 2125,1843 2107,1789 770,1793" />
+                <Baseline points="782,1827 849,1824 916,1827 984,1825 1051,1824 1119,1822 1186,1824 1254,1822 1321,1821 1389,1823 1456,1821 1523,1821 1591,1821 1658,1821 1726,1824 1793,1824 1861,1824 1928,1824 1996,1824 2063,1826 2131,1827" />
+                <TextEquiv>
+                    <Unicode>by some reproved, he answered that he had fulfilled the fortie yeares exercise, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:19;}">
+                <Coords points="776,1887 2131,1890 2131,1847 2042,1833 776,1835" />
+                <Baseline points="788,1868 855,1869 922,1865 990,1868 1057,1868 1125,1868 1192,1868 1260,1868 1327,1868 1395,1868 1462,1868 1529,1867 1597,1865 1664,1868 1732,1868 1799,1868 1867,1871 1934,1871 2002,1868 2069,1871 2137,1874" />
+                <TextEquiv>
+                    <Unicode>he had vowed. Onesicritus saith, that Alexander, hearing of some religious Observants,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_95" custom="readingOrder {index:20;}">
+                <Coords points="780,1924 2131,1930 2131,1890 1982,1875 780,1883" />
+                <Baseline points="791,1919 858,1917 925,1916 992,1916 1059,1916 1126,1917 1193,1919 1261,1916 1328,1916 1395,1916 1462,1916 1529,1916 1596,1916 1663,1916 1731,1919 1798,1919 1865,1919 1932,1917 1999,1919 2066,1919 2134,1919" />
+                <TextEquiv>
+                    <Unicode>which went naked, and exercised themselves to much hardship, and would m not come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_97" custom="readingOrder {index:21;}">
+                <Coords points="776,1978 2129,1974 2129,1932 1998,1920 776,1922" />
+                <Baseline points="788,1967 855,1964 922,1964 989,1964 1057,1961 1124,1963 1191,1961 1259,1964 1326,1964 1393,1963 1461,1961 1528,1964 1595,1964 1662,1963 1730,1964 1797,1964 1864,1964 1932,1964 1999,1964 2066,1964 2134,1961" />
+                <TextEquiv>
+                    <Unicode>to others, but would bid men, if they would have any thing with them, to come to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_100" custom="readingOrder {index:22;}">
+                <Coords points="782,2020 2125,2016 2111,1970 782,1982" />
+                <Baseline points="794,2009 860,2007 927,2006 994,2006 1061,2006 1128,2006 1195,2006 1261,2006 1328,2009 1395,2006 1462,2006 1529,2006 1596,2006 1663,2006 1729,2006 1796,2007 1863,2009 1930,2007 1997,2009 2064,2008 2131,2006" />
+                <TextEquiv>
+                    <Unicode>them; sent him unto them, who found fifteene of them twentie furlongs from the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_102" custom="readingOrder {index:23;}">
+                <Coords points="780,2068 2131,2066 2099,2012 780,2020" />
+                <Baseline points="791,2057 858,2054 925,2054 992,2053 1060,2054 1127,2054 1194,2054 1262,2051 1329,2051 1396,2054 1464,2054 1531,2054 1598,2054 1665,2054 1733,2054 1800,2054 1867,2054 1935,2054 2002,2054 2069,2054 2137,2057" />
+                <TextEquiv>
+                    <Unicode>Citie, each of them obseruing his owne gesture of sitting, standing, or lying naked, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_103" custom="readingOrder {index:24;}">
+                <Coords points="770,2115 2131,2115 2131,2066 2064,2062 770,2066" />
+                <Baseline points="782,2104 849,2101 917,2101 984,2101 1052,2101 1120,2101 1187,2104 1255,2101 1322,2101 1390,2102 1458,2101 1525,2101 1593,2101 1660,2101 1728,2104 1795,2101 1863,2101 1931,2101 1998,2101 2066,2101 2134,2101" />
+                <TextEquiv>
+                    <Unicode>not stirring till Sun-setting, in that unsupportable heate, at which time they returned</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:25;}">
+                <Coords points="776,2167 2131,2155 2101,2109 776,2115" />
+                <Baseline points="788,2149 855,2149 922,2146 990,2149 1057,2149 1125,2149 1192,2149 1260,2149 1327,2149 1395,2149 1462,2149 1529,2149 1597,2146 1664,2147 1732,2149 1799,2147 1867,2149 1934,2146 2002,2146 2069,2146 2137,2146" />
+                <TextEquiv>
+                    <Unicode>into the Citie. Calanus was one of them. He afterward followed Alexander into Persia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_105" custom="readingOrder {index:26;}">
+                <Coords points="780,2207 2131,2203 2117,2155 780,2161" />
+                <Baseline points="791,2194 858,2193 925,2194 992,2194 1060,2194 1127,2194 1194,2194 1262,2194 1329,2194 1396,2194 1464,2194 1531,2194 1598,2194 1665,2194 1733,2194 1800,2194 1867,2194 1935,2194 2002,2194 2069,2194 2137,2194" />
+                <TextEquiv>
+                    <Unicode>where beginning to be sicke, he caused a great pile or frame of wood to be made,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:27;}">
+                <Coords points="780,2253 2135,2247 2117,2199 780,2207" />
+                <Baseline points="791,2239 858,2237 925,2239 993,2239 1060,2239 1128,2239 1195,2239 1263,2240 1330,2239 1398,2239 1465,2239 1532,2239 1600,2239 1667,2239 1735,2239 1802,2239 1870,2239 1937,2240 2005,2239 2072,2238 2140,2236" />
+                <TextEquiv>
+                    <Unicode>wherein he placed himselfe in a golden chaire, and caused fire to be put to, in which he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_107" custom="readingOrder {index:28;}">
+                <Coords points="776,2292 2137,2298 2105,2245 776,2257" />
+                <Baseline points="788,2283 855,2283 923,2286 990,2286 1058,2286 1126,2286 1193,2286 1261,2286 1328,2286 1396,2283 1464,2283 1531,2285 1599,2283 1666,2283 1734,2283 1801,2283 1869,2286 1937,2285 2004,2283 2072,2281 2140,2283" />
+                <TextEquiv>
+                    <Unicode>was voluntarily consumed, telling (if they tell true) that he would meet Alexander at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:29;}">
+                <Coords points="773,2295 2111,2290 2137,2336 773,2341" />
+                <Baseline points="773,2333 795,2334 874,2331 953,2331 1032,2331 1111,2331 1190,2333 1269,2331 1349,2330 1428,2328 1507,2331 1586,2331 1665,2331 1744,2328 1823,2331 1902,2331 1981,2331 2060,2330 2140,2328" />
+                <TextEquiv>
+                    <Unicode>Babylon, the place fatall to Alexanders death. AElianus n faith, that this was done</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:30;}">
+                <Coords points="780,2400 2137,2386 2125,2334 780,2344" />
+                <Baseline points="791,2382 858,2379 926,2379 993,2376 1061,2376 1129,2379 1196,2379 1264,2379 1331,2376 1399,2376 1467,2376 1534,2376 1602,2376 1669,2379 1737,2379 1804,2379 1872,2379 1940,2379 2007,2379 2075,2378 2143,2376" />
+                <TextEquiv>
+                    <Unicode>in a suburb of Babylon, and that the fire was of Cedar, Cypresse, Mirtle, Laurell, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_111" custom="readingOrder {index:31;}">
+                <Coords points="782,2436 2135,2430 2121,2384 782,2400" />
+                <Baseline points="794,2424 861,2424 928,2424 995,2422 1063,2424 1130,2424 1197,2424 1265,2424 1332,2424 1399,2422 1467,2424 1534,2424 1601,2424 1668,2424 1736,2424 1803,2424 1870,2424 1938,2424 2005,2424 2072,2423 2140,2415" />
+                <TextEquiv>
+                    <Unicode>other sweet woods: and after he had performed his daily exercise of running, he placed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_112" custom="readingOrder {index:32;}">
+                <Coords points="784,2482 2137,2474 2137,2428 786,2436" />
+                <Baseline points="797,2472 864,2472 931,2472 998,2471 1065,2469 1132,2470 1199,2472 1267,2470 1334,2469 1401,2469 1468,2469 1535,2469 1602,2469 1669,2469 1737,2472 1804,2472 1871,2472 1938,2472 2005,2469 2072,2466 2140,2463" />
+                <TextEquiv>
+                    <Unicode>himselfe in the middest, crowned with the leaves of reedes, the Sunne shining on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_113" custom="readingOrder {index:33;}">
+                <Coords points="782,2527 2135,2519 2135,2476 782,2480" />
+                <Baseline points="794,2516 861,2518 928,2516 995,2515 1063,2513 1130,2516 1197,2516 1265,2517 1332,2516 1399,2516 1467,2516 1534,2516 1601,2516 1668,2516 1736,2516 1803,2516 1870,2516 1938,2516 2005,2516 2072,2515 2140,2507" />
+                <TextEquiv>
+                    <Unicode>him, which he worshipped. This adoration was the signe which he gave to the Macedonians</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_114" custom="readingOrder {index:34;}">
+                <Coords points="780,2573 2137,2569 2137,2519 780,2529" />
+                <Baseline points="791,2561 858,2564 926,2562 993,2561 1061,2561 1129,2562 1196,2564 1264,2564 1331,2561 1399,2561 1467,2561 1534,2561 1602,2561 1669,2562 1737,2564 1804,2564 1872,2564 1940,2564 2007,2561 2075,2558 2143,2555" />
+                <TextEquiv>
+                    <Unicode>to kindle the fire, in which he abode without any stirring till he was dead;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_115" custom="readingOrder {index:35;}">
+                <Coords points="782,2627 2137,2613 2119,2565 782,2585" />
+                <Baseline points="794,2612 861,2609 928,2609 996,2609 1063,2609 1131,2609 1198,2609 1266,2611 1333,2609 1401,2609 1468,2609 1535,2609 1603,2609 1670,2609 1738,2609 1805,2609 1873,2609 1940,2609 2008,2609 2075,2606 2143,2603" />
+                <TextEquiv>
+                    <Unicode>Alexander himselfe admiring, and preferring this victory of Calanus before all his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_116" custom="readingOrder {index:36;}">
+                <Coords points="786,2669 2137,2661 2137,2613 786,2625" />
+                <Baseline points="797,2657 864,2657 931,2657 998,2655 1065,2654 1132,2654 1199,2657 1267,2654 1334,2654 1401,2654 1468,2657 1535,2655 1602,2657 1669,2657 1737,2657 1804,2655 1871,2657 1938,2656 2005,2654 2072,2653 2140,2648" />
+                <TextEquiv>
+                    <Unicode>owne. This Calanus told Onefieritus of a golden world, where meale was as plentifull</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_117" custom="readingOrder {index:37;}">
+                <Coords points="780,2716 2131,2700 2131,2657 780,2669" />
+                <Baseline points="791,2704 858,2701 925,2701 992,2701 1060,2701 1127,2701 1194,2701 1262,2701 1329,2701 1396,2701 1464,2701 1531,2701 1598,2701 1665,2701 1733,2701 1800,2701 1867,2701 1935,2701 2002,2698 2069,2697 2137,2692" />
+                <TextEquiv>
+                    <Unicode>as dust, and fountaines streamed milke, hony, wine and oyle. Which Countrey, by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_118" custom="readingOrder {index:38;}">
+                <Coords points="786,2762 2141,2754 2141,2694 786,2716" />
+                <Baseline points="797,2749 864,2746 931,2746 999,2746 1066,2746 1134,2746 1201,2746 1269,2748 1336,2746 1404,2746 1471,2746 1538,2746 1606,2746 1673,2746 1741,2746 1808,2748 1876,2749 1943,2746 2011,2743 2078,2742 2146,2734" />
+                <TextEquiv>
+                    <Unicode>men turned into wantonnesse, Iupiter altered and detained, imposing a life of hardnesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_119" custom="readingOrder {index:39;}">
+                <Coords points="786,2802 2141,2804 2111,2748 786,2762" />
+                <Baseline points="797,2791 864,2794 931,2794 999,2794 1066,2794 1134,2792 1201,2794 1269,2794 1336,2794 1404,2794 1471,2794 1538,2792 1606,2794 1673,2794 1741,2794 1808,2794 1876,2797 1943,2794 2011,2791 2078,2790 2146,2782" />
+                <TextEquiv>
+                    <Unicode>and labour, which while men followed, they enioyed abundance; but now that men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_120" custom="readingOrder {index:40;}">
+                <Coords points="786,2850 2141,2848 2095,2792 786,2802" />
+                <Baseline points="797,2839 864,2839 931,2839 999,2839 1066,2842 1134,2841 1201,2839 1269,2839 1336,2839 1404,2839 1471,2839 1538,2839 1606,2842 1673,2840 1741,2842 1808,2840 1876,2839 1943,2841 2011,2839 2078,2835 2146,2827" />
+                <TextEquiv>
+                    <Unicode>begin to surfet and grow disobedient, there is danger of universall destruction. When</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_121" custom="readingOrder {index:41;}">
+                <Coords points="786,2893 2141,2887 2097,2844 786,2848" />
+                <Baseline points="797,2887 864,2887 931,2887 999,2887 1066,2887 1134,2887 1201,2887 1269,2887 1336,2884 1404,2887 1471,2887 1538,2885 1606,2887 1673,2887 1741,2887 1808,2887 1876,2887 1943,2887 2011,2884 2078,2880 2146,2875" />
+                <TextEquiv>
+                    <Unicode>he had thus spoken, he bade him, if he would heare further, strip himselfe, and lye naked</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:42;}">
+                <Coords points="775,2895 2149,2884 2149,2927 775,2944" />
+                <Baseline points="775,2934 799,2932 879,2930 958,2933 1038,2931 1117,2931 1197,2933 1276,2931 1356,2931 1436,2931 1515,2931 1595,2931 1674,2931 1754,2934 1833,2931 1913,2931 1992,2928 2072,2924 2152,2922" />
+                <TextEquiv>
+                    <Unicode>upon these stones. But Mandanis, 9 another of them, reproved Calanus for his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:43;}">
+                <Coords points="779,2944 2149,2929 2149,2981 779,2991" />
+                <Baseline points="779,2978 799,2979 879,2977 958,2979 1038,2979 1117,2979 1197,2981 1276,2981 1356,2978 1436,2976 1515,2976 1595,2976 1674,2979 1754,2979 1833,2979 1913,2977 1992,2976 2072,2972 2152,2964" />
+                <TextEquiv>
+                    <Unicode>harshnes, and, commending Alexander for his love to learning, faid that they inured</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_125" custom="readingOrder {index:44;}">
+                <Coords points="782,3043 1773,3067 2147,3029 2133,2979 782,2989" />
+                <Baseline points="794,3027 861,3027 929,3027 997,3030 1065,3030 1133,3029 1201,3029 1269,3030 1337,3030 1405,3027 1473,3027 1540,3027 1608,3027 1676,3027 1744,3027 1812,3028 1880,3027 1948,3026 2016,3024 2084,3017 2152,3012" />
+                <TextEquiv>
+                    <Unicode>their bodies to labour for the confirmation of their minds against passions. For his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_126" custom="readingOrder {index:45;}">
+                <Coords points="2046,3075 2058,3075 2074,3088 2091,3075 2097,3077 2101,3073 2115,3086 2133,3077 2143,3079 2145,3027 2127,3023 2119,3029 2103,3023 2086,3035 2072,3027 2048,3033" />
+                <Baseline points="2057,3066 2087,3064 2118,3062 2149,3060" />
+                <TextEquiv>
+                    <Unicode>nakednes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:6;} structure {type:marginalia;}">
+            <Coords points="533,1501 772,1501 772,3066 533,3066" />
+            <TextLine id="l_85" custom="readingOrder {index:0;}">
+                <Coords points="541,1570 583,1558 597,1566 609,1560 689,1568 700,1560 748,1564 748,1500 730,1502 698,1487 685,1498 665,1498 649,1514 637,1508 615,1514 579,1485 541,1483" />
+                <Baseline points="552,1552 577,1552 602,1552 627,1552 652,1552 677,1552 702,1552 727,1551 752,1549" />
+                <TextEquiv>
+                    <Unicode>1 Practise of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:1;}">
+                <Coords points="549,1610 577,1600 593,1606 657,1602 675,1612 706,1610 722,1626 742,1610 756,1612 756,1560 738,1566 617,1560 597,1568 583,1560 549,1568" />
+                <Baseline points="561,1594 586,1592 611,1591 636,1591 661,1592 686,1593 711,1594 736,1594 761,1594" />
+                <TextEquiv>
+                    <Unicode>prescribed patience.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_88" custom="readingOrder {index:2;}">
+                <Coords points="549,1656 575,1656 589,1648 601,1652 617,1646 635,1656 643,1650 667,1646 665,1606 653,1608 641,1602 635,1606 627,1602 609,1604 605,1600 593,1606 575,1600 567,1608 547,1608" />
+                <Baseline points="558,1630 585,1630 613,1631 640,1633 668,1633" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:3;}">
+                <Coords points="543,1940 589,1940 599,1932 641,1944 732,1938 734,1883 698,1885 657,1855 643,1855 623,1869 603,1853 577,1865 545,1853" />
+                <Baseline points="555,1928 581,1928 607,1928 633,1928 659,1927 685,1925 711,1925 737,1925" />
+                <TextEquiv>
+                    <Unicode>m The like</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_98" custom="readingOrder {index:4;}">
+                <Coords points="547,1974 579,1980 750,1974 750,1930 681,1942 613,1940 601,1932 591,1940 547,1938" />
+                <Baseline points="558,1967 586,1965 614,1967 642,1966 670,1964 698,1964 726,1964 755,1964" />
+                <TextEquiv>
+                    <Unicode>stubbornnesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_99" custom="readingOrder {index:5;}">
+                <Coords points="547,2012 585,2010 597,2020 613,2010 665,2010 675,2020 685,2010 700,2010 738,2036 754,2032 754,1976 736,1970 714,1978 693,1972 681,1980 655,1972 591,1982 547,1976" />
+                <Baseline points="558,2003 583,2000 608,2000 633,2000 658,2000 683,2001 708,2003 733,2002 758,2000" />
+                <TextEquiv>
+                    <Unicode>is yet in their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:6;}">
+                <Coords points="541,2076 553,2076 563,2068 577,2072 587,2062 597,2070 607,2070 637,2058 649,2070 653,2066 673,2068 675,2016 647,2016 635,2008 613,2008 601,2018 573,2008 543,2010" />
+                <Baseline points="552,2048 577,2044 602,2042 627,2042 652,2042 677,2042" />
+                <TextEquiv>
+                    <Unicode>Joghies.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:7;}">
+                <Coords points="773,2341 547,2342 547,2296 773,2295" />
+                <Baseline points="558,2334 637,2331 716,2331 773,2333" />
+                <TextEquiv>
+                    <Unicode>n AElian. Var.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_109" custom="readingOrder {index:8;}">
+                <Coords points="547,2404 573,2398 601,2404 611,2394 659,2400 677,2392 702,2404 720,2390 740,2392 740,2342 547,2344" />
+                <Baseline points="558,2373 584,2373 611,2373 638,2373 665,2373 692,2373 719,2373 746,2373" />
+                <TextEquiv>
+                    <Unicode>bahb 5. cap. 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:9;}">
+                <Coords points="775,2944 549,2947 549,2897 775,2895" />
+                <Baseline points="561,2937 640,2937 720,2937 775,2934" />
+                <TextEquiv>
+                    <Unicode>6 Arr. calleth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="779,2991 549,2993 549,2947 779,2944" />
+                <Baseline points="561,2976 640,2978 720,2977 779,2978" />
+                <TextEquiv>
+                    <Unicode>him Dandanis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_124" custom="readingOrder {index:11;}">
+                <Coords points="555,3031 565,3031 573,3039 587,3039 603,3053 619,3049 625,3041 637,3049 653,3045 651,2989 635,2993 625,2987 609,2993 599,2985 581,2983 553,2991" />
+                <Baseline points="564,3018 594,3020 625,3022 656,3024" />
+                <TextEquiv>
+                    <Unicode>lib. 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

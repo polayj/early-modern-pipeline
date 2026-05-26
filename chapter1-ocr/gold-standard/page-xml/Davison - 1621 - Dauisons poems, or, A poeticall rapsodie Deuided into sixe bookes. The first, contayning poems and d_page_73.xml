@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=356425:date=09_10_2025_21:13</Creator>
+        <Created>2025-10-02T01:44:41.432+02:00</Created>
+        <LastChange>2025-10-27T17:44:50.092+01:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051444" pageNr="60" tsid="258988094" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=BVXRKUEDHUYYXLWCUHIWOAQN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMMPXGCOPLQMBJWHBEUZKWGX" imageId="87046240"/>
+    </Metadata>
+    <Page imageFilename="11168119_0060_104051444.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586544684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_6"/>
+                <RegionRefIndexed index="3" regionRef="r_3"/>
+                <RegionRefIndexed index="4" regionRef="r_9"/>
+                <RegionRefIndexed index="5" regionRef="r_4"/>
+                <RegionRefIndexed index="6" regionRef="r_5"/>
+                <RegionRefIndexed index="7" regionRef="r_7"/>
+                <RegionRefIndexed index="8" regionRef="r"/>
+                <RegionRefIndexed index="9" regionRef="r_8"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_2" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="269,80 1576,80 1576,204 269,204"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="368,182 408,184 427,194 461,184 493,184 493,120 446,112 435,118 368,118"/>
+                <Baseline points="379,164 408,166 438,167 468,167 498,167"/>
+                <TextEquiv>
+                    <Unicode>130</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="683,171 742,188 778,169 795,184 869,188 913,175 1072,184 1072,125 1042,116 884,118 829,97 803,112 782,95 683,116"/>
+                <Baseline points="695,161 720,163 746,164 771,162 797,161 822,161 848,161 873,161 899,159 924,158 950,160 975,161 1001,161 1026,162 1052,164 1078,164"/>
+                <TextEquiv>
+                    <Unicode>Of Canzonets.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="1287,186 1549,184 1566,175 1566,123 1505,99 1480,99 1465,114 1431,99 1380,120 1317,95 1285,101"/>
+                <Baseline points="1299,158 1326,160 1353,161 1380,161 1407,162 1435,164 1462,164 1489,163 1516,161 1543,165 1571,170"/>
+                <TextEquiv>
+                    <Unicode>Booke ll.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1654,1317 303,1329 261,226 1650,183"/>
+            <TextLine id="l_7" custom="readingOrder {index:0;}">
+                <Coords points="353,285 1313,283 1313,192 353,188"/>
+                <Baseline points="364,274 411,269 459,271 506,271 554,268 602,268 649,268 697,265 745,265 792,265 840,265 888,264 935,262 983,264 1031,265 1078,265 1126,267 1174,268 1221,268 1269,268 1317,271"/>
+                <TextEquiv>
+                    <Unicode>Away I wast with reares by night in vaine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:1;}">
+                <Coords points="355,345 1372,364 1490,349 1492,298 357,292"/>
+                <Baseline points="367,337 423,337 479,337 536,335 592,336 649,334 705,334 762,332 818,331 875,331 931,331 987,331 1044,334 1100,334 1157,334 1213,332 1270,331 1326,332 1383,334 1439,334 1496,331"/>
+                <TextEquiv>
+                    <Unicode>Teares, sighes by night, by day encrease this paine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:2;}">
+                <Coords points="306,482 1382,488 1382,416 1351,414 306,421"/>
+                <Baseline points="319,480 372,476 425,474 478,472 532,471 585,468 638,468 692,468 745,468 798,468 852,468 905,468 958,468 1011,468 1065,468 1118,468 1171,467 1225,466 1278,468 1331,468 1385,474"/>
+                <TextEquiv>
+                    <Unicode>Mine eyes no eyes, but fountaines of my teares,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:3;}">
+                <Coords points="319,562 1475,545 1435,473 319,499"/>
+                <Baseline points="331,540 388,540 446,537 503,534 561,533 618,531 676,531 733,531 791,531 848,531 906,531 963,531 1021,531 1078,531 1136,531 1193,531 1251,531 1308,531 1366,531 1423,531 1481,531"/>
+                <TextEquiv>
+                    <Unicode>My teares no teares, but floods to moyst my heart:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:4;}">
+                <Coords points="319,617 1306,621 1306,560 1188,539 319,560"/>
+                <Baseline points="331,606 380,603 429,602 478,600 527,598 576,597 625,595 674,594 723,594 772,597 821,594 870,597 919,594 968,595 1017,597 1066,595 1115,594 1164,594 1213,594 1262,597 1311,597"/>
+                <TextEquiv>
+                    <Unicode>My heart no heart, but labour of my feares,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:5;}">
+                <Coords points="319,687 1184,689 1353,670 1355,617 321,621"/>
+                <Baseline points="331,666 382,666 434,665 485,663 537,661 588,660 640,660 691,660 743,661 794,662 846,660 897,658 949,659 1000,660 1052,660 1103,660 1155,660 1206,660 1258,660 1309,660 1361,657"/>
+                <TextEquiv>
+                    <Unicode>My feares no feares, but feelings of my smart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:6;}">
+                <Coords points="361,740 1560,740 1562,676 364,676"/>
+                <Baseline points="373,731 432,728 492,728 552,725 612,723 671,722 731,722 791,722 851,722 910,722 970,722 1030,722 1090,722 1149,724 1209,722 1269,722 1329,722 1388,722 1448,722 1508,722 1568,719"/>
+                <TextEquiv>
+                    <Unicode>My smart, my feares, my heart, my teares, mine eies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:7;}">
+                <Coords points="361,805 1532,797 1532,746 361,761"/>
+                <Baseline points="373,794 431,793 489,791 547,791 606,788 664,788 722,788 780,788 839,788 897,786 955,785 1013,786 1072,786 1130,788 1188,788 1246,788 1305,788 1363,788 1421,785 1479,785 1538,785"/>
+                <TextEquiv>
+                    <Unicode>Are blinde, dride, spent, past, wasted with my cries.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:8;}">
+                <Coords points="338,922 1501,924 1473,833 338,852"/>
+                <Baseline points="349,904 406,904 464,902 522,904 580,904 638,904 695,904 753,907 811,904 869,904 927,901 984,904 1042,904 1100,902 1158,904 1216,904 1273,904 1331,901 1389,901 1447,903 1505,907"/>
+                <TextEquiv>
+                    <Unicode>And yet mine eies, though blind, see cause of griefe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:9;}">
+                <Coords points="334,989 1613,977 1613,928 1535,911 334,926"/>
+                <Baseline points="346,970 409,970 473,967 536,967 600,970 664,970 727,970 791,970 854,967 918,967 982,967 1045,967 1109,967 1172,967 1236,967 1300,967 1363,967 1427,965 1490,967 1554,967 1618,964"/>
+                <TextEquiv>
+                    <Unicode>And yet my teares, though dride, runne downe amaine:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:10;}">
+                <Coords points="338,1046 1425,1042 1387,974 338,1000"/>
+                <Baseline points="349,1036 402,1033 456,1032 510,1032 564,1033 618,1033 672,1033 726,1033 780,1033 834,1031 888,1030 941,1030 995,1031 1049,1033 1103,1033 1157,1030 1211,1030 1265,1030 1319,1028 1373,1029 1427,1030"/>
+                <TextEquiv>
+                    <Unicode>And yet my heart, though spent, attends reliefe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:11;}">
+                <Coords points="338,1122 1488,1103 1488,1057 774,1070 452,1040 338,1072"/>
+                <Baseline points="349,1099 406,1099 463,1096 520,1096 577,1096 635,1096 692,1096 749,1096 806,1096 863,1096 921,1096 978,1094 1035,1095 1092,1096 1149,1093 1207,1093 1264,1093 1321,1093 1378,1093 1435,1093 1493,1093"/>
+                <TextEquiv>
+                    <Unicode>And yet my feares, though past, encrease my paine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:12;}">
+                <Coords points="385,1169 1380,1173 1380,1129 1258,1099 385,1129"/>
+                <Baseline points="397,1161 446,1161 495,1158 545,1160 594,1158 644,1158 693,1158 742,1158 792,1158 841,1158 891,1155 940,1155 989,1155 1039,1158 1088,1157 1138,1155 1187,1155 1236,1153 1286,1154 1335,1155 1385,1152"/>
+                <TextEquiv>
+                    <Unicode>And yet I live, and living feele more smart,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:13;}">
+                <Coords points="395,1230 706,1264 759,1230 1461,1228 1461,1184 395,1188"/>
+                <Baseline points="406,1224 459,1221 512,1223 565,1224 618,1224 671,1224 724,1224 777,1224 830,1224 883,1224 936,1221 989,1221 1042,1221 1095,1221 1148,1221 1201,1221 1254,1221 1307,1221 1360,1221 1413,1221 1466,1221"/>
+                <TextEquiv>
+                    <Unicode>And smarting, cry in vaine, breake heavy heart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="378,1331 1544,1331 1544,1550 378,1550"/>
+            <TextLine id="l_36" custom="readingOrder {index:0;}">
+                <Coords points="630,1431 698,1463 862,1425 888,1444 1321,1444 1319,1368 987,1385 903,1368 860,1406 814,1374 628,1382"/>
+                <Baseline points="642,1427 676,1429 710,1428 744,1427 778,1427 813,1429 847,1430 881,1430 915,1430 949,1430 984,1432 1018,1432 1052,1430 1086,1430 1120,1430 1155,1430 1189,1430 1223,1430 1257,1432 1291,1433 1326,1433"/>
+                <TextEquiv>
+                    <Unicode>XXXII. CANZONET.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:1;}">
+                <Coords points="744,1513 841,1518 869,1501 947,1532 985,1507 1046,1516 1067,1499 1110,1516 1201,1513 1201,1450 924,1456 858,1433 833,1456 782,1439 744,1467"/>
+                <Baseline points="755,1493 780,1493 805,1493 830,1493 855,1494 880,1495 905,1496 930,1496 955,1495 980,1493 1005,1493 1030,1493 1055,1491 1080,1491 1105,1492 1130,1494 1155,1496 1180,1496 1206,1496"/>
+                <TextEquiv>
+                    <Unicode>Desires gouernment.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="310,1585 1662,1576 1677,2264 295,2264"/>
+            <TextLine id="l_41" custom="readingOrder {index:0;}">
+                <Coords points="499,1600 539,1600 583,1642 1139,1634 1220,1653 1220,1566 1084,1592 499,1564"/>
+                <Baseline points="510,1621 545,1623 581,1626 617,1627 652,1627 688,1627 724,1627 759,1627 795,1627 831,1627 867,1627 902,1627 938,1627 974,1627 1009,1627 1045,1627 1081,1627 1116,1625 1152,1626 1188,1630 1224,1633"/>
+                <TextEquiv>
+                    <Unicode>WHere wit is over-ruld by will,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:1;}">
+                <Coords points="558,1710 951,1718 1095,1697 1245,1733 1245,1659 1173,1638 558,1655"/>
+                <Baseline points="570,1693 604,1693 638,1691 672,1690 706,1690 740,1690 774,1692 808,1693 842,1693 876,1693 910,1693 944,1693 978,1693 1012,1693 1046,1691 1080,1691 1114,1693 1148,1693 1182,1695 1216,1697 1251,1699"/>
+                <TextEquiv>
+                    <Unicode>And will is led by fond desire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:2;}">
+                <Coords points="368,1767 803,1763 869,1788 1012,1761 1150,1786 1133,1702 1027,1723 1004,1702 655,1721 619,1699 562,1725 370,1706"/>
+                <Baseline points="379,1765 417,1763 456,1761 495,1759 534,1759 573,1759 611,1759 650,1757 689,1756 728,1756 767,1756 805,1756 844,1756 883,1756 922,1756 961,1758 999,1757 1038,1757 1077,1758 1116,1756 1155,1756"/>
+                <TextEquiv>
+                    <Unicode>There reason were as good be still,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:3;}">
+                <Coords points="368,1841 1105,1835 1105,1786 1032,1765 877,1788 797,1761 482,1769 368,1795"/>
+                <Baseline points="379,1830 415,1828 451,1827 488,1826 524,1824 561,1822 597,1821 634,1820 670,1818 707,1818 743,1818 779,1818 816,1818 852,1818 889,1818 925,1821 962,1819 998,1818 1035,1819 1071,1822 1108,1824"/>
+                <TextEquiv>
+                    <Unicode>As speaking, kindle greater fire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:4;}">
+                <Coords points="410,1915 545,1890 1270,1911 1270,1847 1154,1826 1108,1850 410,1837"/>
+                <Baseline points="421,1890 463,1890 506,1887 549,1885 591,1884 634,1884 677,1884 719,1884 762,1882 805,1883 848,1884 890,1884 933,1884 976,1884 1018,1884 1061,1884 1104,1884 1146,1884 1189,1881 1232,1884 1275,1887"/>
+                <TextEquiv>
+                    <Unicode>For where desire doth beare the sway,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:5;}">
+                <Coords points="416,1957 1224,1978 1224,1896 416,1911"/>
+                <Baseline points="427,1953 467,1956 507,1953 547,1951 587,1948 627,1949 667,1949 708,1947 748,1947 788,1947 828,1950 868,1950 908,1950 948,1950 989,1950 1029,1950 1069,1950 1109,1949 1149,1947 1189,1947 1230,1950"/>
+                <TextEquiv>
+                    <Unicode>The heart must rule, the head obay.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:6;}">
+                <Coords points="380,2084 1249,2095 1251,2006 858,2038 733,2004 698,2029 556,2004 383,2025"/>
+                <Baseline points="394,2072 437,2078 480,2078 523,2075 566,2078 609,2078 652,2078 696,2078 739,2078 782,2078 825,2078 868,2078 911,2076 954,2075 998,2075 1041,2075 1084,2075 1127,2074 1170,2073 1213,2074 1257,2075"/>
+                <TextEquiv>
+                    <Unicode>What bootes the cunning Pilots skill,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:7;}">
+                <Coords points="380,2173 1319,2181 1321,2095 1281,2078 970,2107 383,2086"/>
+                <Baseline points="394,2144 440,2147 487,2147 533,2147 580,2147 627,2147 673,2146 720,2144 766,2144 813,2146 860,2147 906,2145 953,2144 999,2142 1046,2141 1093,2143 1139,2144 1186,2141 1232,2144 1279,2144 1326,2138"/>
+                <TextEquiv>
+                    <Unicode>To tell which way to shape their course:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:8;}">
+                <Coords points="1488,2194 1516,2194 1543,2217 1558,2219 1680,2215 1676,2131 1642,2133 1623,2145 1590,2133 1562,2156 1522,2143 1511,2156 1486,2154"/>
+                <Baseline points="1499,2192 1525,2197 1551,2201 1578,2201 1604,2202 1631,2204 1657,2202 1684,2201"/>
+                <TextEquiv>
+                    <Unicode>When</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="1653,50 2952,50 2952,151 1653,151"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="1661,133 1691,140 1742,129 1915,131 1917,76 1873,55 1841,63 1822,82 1801,82 1778,61 1748,82 1731,82 1702,61 1664,61"/>
+                <Baseline points="1672,125 1699,125 1727,123 1754,122 1782,122 1809,122 1837,122 1864,122 1892,122 1920,122"/>
+                <TextEquiv>
+                    <Unicode>Booke II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="2014,131 2057,144 2120,127 2372,131 2374,66 2353,61 2120,66 2090,49 2017,61"/>
+                <Baseline points="2025,110 2050,112 2075,113 2100,113 2125,112 2150,111 2175,110 2201,110 2226,110 2251,110 2276,108 2301,107 2326,107 2351,108 2377,110"/>
+                <TextEquiv>
+                    <Unicode>Of Canzonets.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1650,165 2937,165 2937,496 1650,496"/>
+            <TextLine id="l_6" custom="readingOrder {index:0;}">
+                <Coords points="1678,237 2524,233 2524,171 2475,152 1678,184"/>
+                <Baseline points="1690,229 1734,228 1778,226 1822,226 1866,226 1910,226 1954,226 1999,224 2043,221 2087,218 2131,218 2175,215 2219,215 2264,215 2308,212 2352,212 2396,212 2440,212 2484,212 2529,218"/>
+                <TextEquiv>
+                    <Unicode>When he that steers will have his will,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:1;}">
+                <Coords points="1661,304 2532,292 2517,226 1664,239"/>
+                <Baseline points="1675,301 1718,297 1761,293 1804,292 1847,290 1890,289 1933,289 1977,288 2020,285 2063,282 2106,280 2149,280 2192,280 2235,280 2279,279 2322,277 2365,277 2408,277 2451,277 2494,274 2538,277"/>
+                <TextEquiv>
+                    <Unicode>And drive them where he list pe force.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:2;}">
+                <Coords points="1693,355 2515,355 2517,302 2437,285 2334,311 2272,290 1695,317"/>
+                <Baseline points="1705,355 1745,355 1786,355 1827,353 1868,352 1908,353 1949,354 1990,349 2031,349 2071,349 2112,346 2153,344 2194,343 2234,343 2275,341 2316,341 2357,342 2397,339 2438,337 2479,337 2520,343"/>
+                <TextEquiv>
+                    <Unicode>So reason shewes the truth in vaine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:3;}">
+                <Coords points="1699,435 2534,435 2602,419 2604,353 1699,370"/>
+                <Baseline points="1711,418 1755,418 1800,418 1845,418 1890,418 1935,418 1979,415 2024,415 2069,412 2114,412 2159,409 2203,412 2248,409 2293,409 2338,406 2383,406 2427,406 2472,403 2517,403 2562,400 2607,403"/>
+                <TextEquiv>
+                    <Unicode>Where fond desire as King doth raigne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_7" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="1821,525 2769,525 2769,779 1821,779"/>
+            <TextLine id="l_16" custom="readingOrder {index:0;}">
+                <Coords points="1947,619 2196,600 2665,615 2668,547 2564,526 2530,550 2277,554 2245,533 2198,571 2133,543 1949,550"/>
+                <Baseline points="1959,609 1994,606 2030,606 2065,604 2101,603 2136,603 2172,603 2207,603 2243,603 2278,602 2314,600 2350,600 2385,600 2421,600 2456,600 2492,600 2527,600 2563,600 2598,600 2634,600 2670,600"/>
+                <TextEquiv>
+                    <Unicode>XXXIII. CANZONET,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:1;}">
+                <Coords points="2071,761 2245,765 2262,752 2287,778 2306,778 2325,759 2465,755 2465,691 2431,691 2414,674 2312,695 2129,693 2112,681 2071,695"/>
+                <Baseline points="2084,743 2109,740 2135,738 2161,737 2186,739 2212,739 2238,738 2264,737 2289,737 2315,737 2341,737 2367,737 2392,737 2418,737 2444,737 2470,737"/>
+                <TextEquiv>
+                    <Unicode>Lones properties.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="1668,824 2980,806 3076,2228 1707,2249"/>
+            <TextLine id="l_21" custom="readingOrder {index:0;}">
+                <Coords points="1676,877 2731,884 2731,810 1676,818"/>
+                <Baseline points="1687,866 1739,863 1791,868 1844,874 1896,873 1949,872 2001,872 2053,869 2106,869 2158,869 2211,869 2263,866 2315,863 2368,866 2420,867 2473,867 2525,868 2577,869 2630,869 2682,869 2735,872"/>
+                <TextEquiv>
+                    <Unicode>TWixt heat and cold, t'wixt death and life,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:1;}">
+                <Coords points="1712,953 2560,943 2562,896 2289,873 2224,896 1778,892 1714,850"/>
+                <Baseline points="1723,946 1765,946 1807,943 1849,943 1891,940 1933,937 1975,937 2017,937 2059,935 2101,936 2144,937 2186,935 2228,933 2270,931 2312,931 2354,931 2396,931 2438,931 2480,931 2522,931 2565,934"/>
+                <TextEquiv>
+                    <Unicode>I freeze and burne, I live and die:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:2;}">
+                <Coords points="1687,1019 2245,1002 2575,1029 2575,947 2532,936 2107,966 1687,951"/>
+                <Baseline points="1699,1003 1743,1009 1787,1009 1831,1006 1875,1003 1919,1003 1963,1000 2007,1000 2051,997 2095,997 2139,997 2183,997 2227,997 2271,995 2315,994 2359,994 2403,994 2447,996 2491,997 2535,997 2580,1006"/>
+                <TextEquiv>
+                    <Unicode>Which ioyntly worke in me such strife,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:3;}">
+                <Coords points="1674,1072 2308,1072 2308,1025 2251,1006 2038,1010 2004,1029 1888,1017 1864,1036 1831,1017 1676,1027"/>
+                <Baseline points="1687,1072 1718,1072 1749,1072 1781,1072 1812,1072 1843,1071 1875,1068 1906,1066 1937,1066 1969,1066 2000,1066 2031,1064 2063,1063 2094,1063 2125,1063 2157,1062 2188,1060 2219,1060 2251,1060 2282,1061 2314,1063"/>
+                <TextEquiv>
+                    <Unicode>I live in death, in cold I fry.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:4;}">
+                <Coords points="1723,1154 2583,1141 2583,1074 2486,1053 2228,1091 2107,1067 1943,1095 1723,1084"/>
+                <Baseline points="1735,1134 1777,1134 1820,1131 1863,1131 1905,1129 1948,1127 1991,1127 2033,1127 2076,1126 2119,1126 2162,1126 2204,1125 2247,1123 2290,1123 2332,1123 2375,1122 2418,1120 2460,1120 2503,1120 2546,1123 2589,1123"/>
+                <TextEquiv>
+                    <Unicode>Nor hot, nor cold, nor live, nor dead,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:5;}">
+                <Coords points="1721,1211 1940,1228 2380,1190 2501,1211 2503,1139 2200,1133 2158,1160 2129,1135 2017,1135 1928,1169 1885,1141 1761,1141 1723,1165"/>
+                <Baseline points="1732,1200 1770,1200 1809,1199 1848,1197 1887,1197 1926,1194 1964,1191 2003,1191 2042,1191 2081,1191 2120,1191 2158,1190 2197,1188 2236,1188 2275,1186 2314,1185 2352,1185 2391,1185 2430,1185 2469,1185 2508,1188"/>
+                <TextEquiv>
+                    <Unicode>Neither, and both, this life I lead.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:6;}">
+                <Coords points="1687,1338 2372,1338 2408,1317 2456,1338 2456,1279 2389,1247 2192,1266 2150,1247 2048,1275 2008,1243 1898,1285 1687,1264"/>
+                <Baseline points="1699,1326 1737,1326 1775,1324 1813,1323 1851,1323 1889,1323 1927,1323 1965,1320 2003,1318 2041,1317 2080,1317 2118,1317 2156,1317 2194,1317 2232,1317 2270,1315 2308,1314 2346,1314 2384,1314 2422,1314 2461,1317"/>
+                <TextEquiv>
+                    <Unicode>First burning heate sets all on fire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:7;}">
+                <Coords points="1697,1391 1896,1412 1928,1385 1951,1404 2479,1387 2479,1342 2403,1319 2298,1344 2194,1323 2154,1344 2122,1325 1697,1342"/>
+                <Baseline points="1708,1385 1746,1384 1785,1385 1824,1385 1863,1385 1902,1385 1940,1382 1979,1382 2018,1382 2057,1381 2096,1379 2134,1379 2173,1379 2212,1379 2251,1377 2290,1376 2328,1376 2367,1376 2406,1376 2445,1376 2484,1379"/>
+                <TextEquiv>
+                    <Unicode>Whereby I seeme in flames to fry:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:8;}">
+                <Coords points="1697,1454 2469,1456 2471,1391 1928,1391 1890,1418 1699,1401"/>
+                <Baseline points="1708,1451 1746,1451 1784,1451 1823,1451 1861,1450 1900,1448 1938,1448 1976,1448 2015,1446 2053,1445 2092,1444 2130,1442 2168,1442 2207,1442 2245,1442 2284,1442 2322,1440 2360,1439 2399,1439 2437,1439 2476,1442"/>
+                <TextEquiv>
+                    <Unicode>Then cold despaire kils hot desire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:9;}">
+                <Coords points="1699,1528 2522,1516 2522,1465 2454,1450 2082,1452 2019,1478 1966,1454 1699,1463"/>
+                <Baseline points="1711,1514 1751,1516 1792,1515 1833,1514 1874,1513 1914,1511 1955,1511 1996,1511 2037,1508 2077,1508 2118,1508 2159,1506 2200,1505 2240,1505 2281,1505 2322,1504 2363,1502 2403,1502 2444,1502 2485,1502 2526,1505"/>
+                <TextEquiv>
+                    <Unicode>That drenched deepe, in death I lye.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:10;}">
+                <Coords points="1723,1587 2551,1583 2651,1573 2653,1516 1725,1524"/>
+                <Baseline points="1735,1577 1781,1578 1827,1577 1873,1575 1919,1574 1965,1574 2011,1574 2058,1572 2104,1571 2150,1571 2196,1571 2242,1569 2288,1568 2334,1568 2381,1568 2427,1565 2473,1565 2519,1562 2565,1562 2611,1562 2658,1561"/>
+                <TextEquiv>
+                    <Unicode>Heate driues out cold, and keepes my life,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:11;}">
+                <Coords points="1729,1647 1892,1685 1936,1657 2604,1642 2619,1579 1729,1590"/>
+                <Baseline points="1741,1645 1785,1645 1829,1644 1873,1642 1917,1642 1961,1642 2005,1641 2049,1639 2093,1639 2137,1638 2181,1636 2225,1636 2269,1636 2313,1633 2357,1633 2401,1630 2445,1630 2489,1630 2533,1630 2577,1627 2622,1630"/>
+                <TextEquiv>
+                    <Unicode>Cold quencheth heate, no end of strife.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:12;}">
+                <Coords points="1699,1782 2437,1788 2439,1702 2226,1729 2198,1712 2173,1733 2082,1714 2027,1740 1702,1718"/>
+                <Baseline points="1711,1777 1747,1780 1784,1779 1820,1777 1857,1777 1894,1777 1930,1777 1967,1776 2003,1773 2040,1771 2077,1774 2113,1774 2150,1774 2186,1773 2223,1771 2260,1771 2296,1771 2333,1769 2369,1768 2406,1769 2443,1771"/>
+                <TextEquiv>
+                    <Unicode>The lesse I hope to have my will,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:13;}">
+                <Coords points="1708,1856 2414,1841 2456,1860 2458,1805 2408,1780 1710,1792"/>
+                <Baseline points="1720,1848 1757,1844 1794,1842 1831,1842 1868,1842 1905,1840 1942,1839 1979,1838 2016,1836 2053,1836 2090,1836 2127,1836 2164,1836 2201,1835 2238,1833 2275,1833 2312,1833 2349,1833 2386,1833 2423,1833 2461,1833"/>
+                <TextEquiv>
+                    <Unicode>The more I feele desire encrease,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:14;}">
+                <Coords points="1706,1917 2374,1913 2376,1860 2334,1841 2150,1866 1708,1866"/>
+                <Baseline points="1717,1908 1750,1908 1783,1908 1816,1907 1849,1905 1882,1905 1915,1905 1949,1905 1982,1905 2015,1902 2048,1902 2081,1902 2114,1902 2147,1902 2181,1900 2214,1899 2247,1899 2280,1899 2313,1897 2346,1896 2380,1896"/>
+                <TextEquiv>
+                    <Unicode>And as desire encreaseth still,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:15;}">
+                <Coords points="1712,1983 2541,1966 2541,1917 2496,1898 1877,1934 1712,1917"/>
+                <Baseline points="1723,1968 1764,1971 1805,1971 1846,1971 1887,1970 1929,1968 1970,1968 2011,1965 2052,1965 2093,1965 2135,1965 2176,1963 2217,1962 2258,1962 2299,1962 2341,1961 2382,1959 2423,1958 2464,1956 2505,1956 2547,1956"/>
+                <TextEquiv>
+                    <Unicode>Despaire to quench it doth not cease.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:16;}">
+                <Coords points="1742,2042 2490,2050 2553,2038 2556,1968 1744,1987"/>
+                <Baseline points="1753,2033 1793,2033 1833,2033 1873,2033 1914,2033 1954,2033 1994,2032 2035,2031 2075,2032 2115,2030 2156,2030 2196,2030 2236,2028 2276,2026 2317,2025 2357,2024 2397,2022 2438,2021 2478,2019 2518,2019 2559,2019"/>
+                <TextEquiv>
+                    <Unicode>So live I as the Lampe, whose light</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:17;}">
+                <Coords points="1748,2120 1915,2114 1962,2148 2325,2093 2594,2129 2632,2093 2765,2093 2767,2025 2224,2071 2150,2040 1858,2069 1750,2044"/>
+                <Baseline points="1762,2093 1812,2102 1862,2102 1913,2102 1963,2102 2014,2102 2064,2099 2115,2099 2165,2098 2216,2094 2266,2093 2316,2088 2367,2087 2417,2087 2468,2087 2518,2087 2569,2086 2619,2084 2670,2084 2720,2081 2771,2081"/>
+                <TextEquiv>
+                    <Unicode>Oft comes, oft goes, now dim, now bright.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:18;}">
+                <Coords points="2822,2164 2894,2162 2909,2148 2940,2148 2959,2164 2995,2164 2993,2078 2957,2086 2942,2071 2904,2088 2860,2057 2839,2071 2820,2071"/>
+                <Baseline points="2834,2141 2861,2139 2889,2138 2917,2138 2945,2138 2973,2139 3001,2144"/>
+                <TextEquiv>
+                    <Unicode>Living</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_8" custom="readingOrder {index:9;} structure {type:footer;}">
+            <Coords points="2254,2106 2419,2106 2419,2177 2254,2177"/>
+            <TextLine id="l_57" custom="readingOrder {index:0;}">
+                <Coords points="2266,2167 2277,2167 2296,2184 2340,2156 2372,2188 2401,2188 2403,2112 2361,2112 2353,2120 2340,2120 2319,2099 2306,2107 2268,2110"/>
+                <Baseline points="2278,2159 2303,2157 2328,2156 2353,2156 2378,2156 2404,2156"/>
+                <TextEquiv>
+                    <Unicode>K 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

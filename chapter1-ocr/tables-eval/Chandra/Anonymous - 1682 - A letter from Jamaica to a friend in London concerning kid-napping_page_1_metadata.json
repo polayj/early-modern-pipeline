@@ -1,0 +1,21 @@
+{
+  "file_name": "Anonymous - 1682 - A letter from Jamaica to a friend in London concerning kid-napping_page_1.pdf",
+  "num_pages": 1,
+  "total_token_count": 2018,
+  "total_chunks": 36,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1676,
+        2821
+      ],
+      "token_count": 2018,
+      "num_chunks": 36,
+      "num_images": 0
+    }
+  ]
+}

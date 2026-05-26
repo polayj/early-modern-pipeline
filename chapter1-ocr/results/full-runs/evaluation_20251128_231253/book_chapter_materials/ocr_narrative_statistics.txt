@@ -1,0 +1,84 @@
+NARRATIVE STATISTICS FOR OCR EVALUATION CHAPTER
+================================================================================
+
+OVERALL PERFORMANCE
+--------------------------------------------------------------------------------
+OlmOCRv1 achieved the lowest character error rate (CER=0.041) and highest word accuracy (92.3%), demonstrating superior OCR quality for historical documents.
+
+Supporting Data:
+  - best_system: OlmOCRv1
+  - best_cer: 0.0410
+  - best_wer: 0.0774
+  - best_char_accuracy: 0.9590
+  - best_word_accuracy: 0.9226
+  - worst_system: EasyOCR
+  - worst_cer: 0.3822
+  - performance_gap: 0.3411
+
+
+OLMOCR PERFORMANCE
+--------------------------------------------------------------------------------
+olmOCRv2 achieved a character error rate of 0.044, performing within 7.9% of the best system (OlmOCRv1) while being free and open-source.
+
+Supporting Data:
+  - olmocr_cer: 0.0443
+  - olmocr_wer: 0.0749
+  - olmocr_bleu: 0.8856
+  - relative_to_best: +7.9%
+
+
+ERROR TYPE DISTRIBUTION
+--------------------------------------------------------------------------------
+Character errors were dominated by deletions (68.2%), with substitutions comprising 15.6% of errors, indicating that OCR systems primarily struggle with deletions rather than character misrecognition.
+
+Supporting Data:
+  - insertion_pct: 16.28%
+  - deletion_pct: 68.16%
+  - substitution_pct: 15.57%
+  - dominant_error_type: deletions
+
+
+HALLUCINATION RATES
+--------------------------------------------------------------------------------
+Hallucination rates (words not present in the original) averaged 4.08% across all systems, with OlmOCRv2 showing the lowest rate (1.34%) and EasyOCR the highest (8.87%).
+
+Supporting Data:
+  - mean_hallucination: 0.0408
+  - lowest_system: OlmOCRv2
+  - lowest_rate: 0.0134
+  - highest_system: EasyOCR
+  - highest_rate: 0.0887
+
+
+BLEU SCORES
+--------------------------------------------------------------------------------
+BLEU scores averaged 0.678 across systems, with OlmOCRv2 achieving the highest score (0.886), indicating strong n-gram overlap with the gold standard.
+
+Supporting Data:
+  - mean_bleu: 0.6781
+  - best_system: OlmOCRv2
+  - best_bleu: 0.8856
+
+
+DOCUMENT AGE IMPACT
+--------------------------------------------------------------------------------
+Document age significantly impacted OCR performance: CER increased by 63.3% for 17th-century documents (0.049) compared to 19th-century texts (0.134), reflecting the challenges of archaic typography and deteriorated source materials.
+
+Supporting Data:
+  - oldest_group: 1600-1624
+  - oldest_cer: 0.0492
+  - newest_group: 1800-1824
+  - newest_cer: 0.1341
+  - degradation_pct: 63.3%
+
+
+OLMOCR VS TESSERACT
+--------------------------------------------------------------------------------
+olmOCRv2 (CER=0.044) outperformed Tesseract (CER=0.150) by 70.5%, demonstrating the value of deep learning-based OCR for historical texts.
+
+Supporting Data:
+  - olmocr_cer: 0.0443
+  - tesseract_cer: 0.1501
+  - improvement_pct: 70.5%
+
+

@@ -1,0 +1,21 @@
+{
+  "file_name": "Young - 1807 - The West-India Common-place Book_page_149.pdf",
+  "num_pages": 1,
+  "total_token_count": 1085,
+  "total_chunks": 7,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1302,
+        1824
+      ],
+      "token_count": 1085,
+      "num_chunks": 7,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+The Number of Wbites. The Number of Wbites that Dyed in my time. 1. Fofepb Ruffel. Thomas Hughes. 2. William Burne. Peter Peterjon. 3. George Shallitoe. Fohn Gwartwite. 4. Urban Rony. Thomas Davies. 5. Andrew Reddal. Samuel Hodgey. 6. William Polliard. Sold in my time. 7. Fohn Brown. Thomas Martin. 8. Richard Seviitor. Thomas Barber. 8. Richard Seviitor. Free. 9. James Durham. William Ward. 10. George French. Richard Barret. 11. Thomas Woodcock. Total of the Wbites — 11. Loft at Law with Fountain.
+

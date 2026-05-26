@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:41</Creator>
+        <Created>2025-10-02T01:43:16.965+02:00</Created>
+        <LastChange>2025-10-24T02:36:32.571+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051439" pageNr="47" tsid="258750784" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=QPZFWRSTVTBXHDNQOPFFANWU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VCRZTXOSGTUXIROUGMOMBYKZ" imageId="87046335" />
+    </Metadata>
+    <Page imageFilename="11168119_0047_104051439.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586542165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="886,269 1216,269 1216,388 886,388" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="900,365 963,372 1005,334 1056,372 1073,372 1106,339 1141,372 1183,372 1210,354 1210,282 1192,284 1166,259 1128,290 1087,299 1043,286 992,295 955,260 919,288 900,288" />
+                <Baseline points="910,358 935,358 960,354 986,347 1011,345 1037,344 1062,350 1087,355 1113,355 1138,355 1164,355 1189,355 1215,355" />
+                <TextEquiv>
+                    <Unicode>[17]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="303,439 307,3048 1773,3048 1770,419" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="308,515 1766,491 1766,429 1346,407 1131,460 656,416 308,460" />
+                <Baseline points="319,492 391,488 464,486 536,485 609,483 681,481 754,479 826,480 899,477 971,477 1044,477 1117,479 1189,477 1262,478 1334,479 1407,480 1479,475 1552,477 1624,477 1697,477 1770,477" />
+                <TextEquiv>
+                    <Unicode>greater interests are sacrificed to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="315,620 1759,612 1735,528 882,574 770,528 722,574 666,537 524,587 317,537" />
+                <Baseline points="325,606 400,603 476,600 552,600 627,599 703,597 779,597 855,597 930,597 1006,597 1082,597 1158,597 1233,594 1309,597 1385,594 1461,596 1536,594 1612,594 1688,597 1764,600" />
+                <TextEquiv>
+                    <Unicode>less; and the progress of the British</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="312,726 446,756 543,715 1753,722 1753,660 312,666" />
+                <Baseline points="322,716 393,717 465,719 537,716 609,715 681,713 752,710 824,710 896,707 968,708 1040,707 1111,710 1183,710 1255,712 1327,710 1399,710 1470,710 1542,710 1614,710 1686,711 1758,710" />
+                <TextEquiv>
+                    <Unicode>Sugar colonies will not receive fair or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="308,834 583,867 671,831 1757,844 1757,774 1561,803 1342,756 1241,803 1076,757 1010,803 724,779 680,816 537,763 308,779" />
+                <Baseline points="319,829 391,830 463,832 535,833 607,831 679,829 751,829 823,829 895,826 967,828 1040,826 1112,826 1184,826 1256,826 1328,825 1400,826 1472,826 1544,826 1616,828 1688,825 1761,826" />
+                <TextEquiv>
+                    <Unicode>full play, nor can those colonies exert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="308,944 471,979 943,941 1599,979 1768,952 1768,902 462,922 369,875 308,911" />
+                <Baseline points="319,943 391,945 464,947 537,949 609,945 682,943 755,942 827,943 900,943 973,941 1046,940 1118,940 1191,941 1264,943 1336,943 1409,946 1482,946 1554,945 1627,943 1700,943 1773,943" />
+                <TextEquiv>
+                    <Unicode>the great vigour of which they may be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="312,1064 1236,1056 1306,1091 1749,1053 1704,1003 1583,1031 1531,988 312,1014" />
+                <Baseline points="322,1056 393,1059 465,1059 536,1059 608,1057 679,1059 751,1056 822,1056 894,1056 965,1056 1037,1056 1108,1056 1180,1056 1251,1054 1323,1056 1394,1056 1466,1056 1537,1056 1609,1056 1680,1056 1752,1047" />
+                <TextEquiv>
+                    <Unicode>made capable, whilst this system is continued.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="308,1174 350,1188 568,1190 568,1108 530,1106 508,1128 409,1135 363,1111 308,1135" />
+                <Baseline points="319,1173 344,1173 369,1173 395,1173 420,1174 446,1176 471,1175 496,1173 522,1175 547,1176 573,1176" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="400,1416 1755,1414 1755,1339 447,1342 400,1306" />
+                <Baseline points="409,1403 476,1400 543,1400 611,1400 678,1400 746,1397 813,1400 881,1400 948,1400 1016,1399 1083,1397 1150,1398 1218,1400 1285,1401 1353,1400 1420,1400 1488,1400 1555,1401 1623,1400 1690,1400 1758,1400" />
+                <TextEquiv>
+                    <Unicode>If it is necessary to the prosperity of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="308,1517 592,1555 680,1517 1197,1515 1335,1555 1372,1518 1755,1515 1693,1445 1639,1482 1417,1449 1383,1484 1065,1447 1014,1491 908,1447 695,1484 361,1447 308,1484" />
+                <Baseline points="319,1516 394,1514 470,1514 546,1519 621,1516 697,1515 773,1513 849,1513 924,1513 1000,1513 1076,1513 1152,1513 1227,1513 1303,1516 1379,1516 1455,1516 1530,1516 1606,1516 1682,1513 1758,1510" />
+                <TextEquiv>
+                    <Unicode>the Sugar colonies, that they should obtain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="308,1634 1766,1643 1731,1564 1566,1603 1495,1564 1311,1599 853,1557 308,1592" />
+                <Baseline points="319,1630 391,1630 464,1627 536,1630 609,1628 681,1624 754,1627 826,1627 899,1627 971,1630 1044,1632 1117,1632 1189,1633 1262,1630 1334,1632 1407,1636 1479,1636 1552,1634 1624,1633 1697,1633 1770,1636" />
+                <TextEquiv>
+                    <Unicode>the plentiful and cheap supply of all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="297,1744 1768,1757 1718,1680 1605,1726 1476,1678 453,1715 356,1682 297,1715" />
+                <Baseline points="307,1743 380,1745 453,1743 526,1746 600,1743 673,1745 746,1743 820,1744 893,1743 966,1743 1040,1744 1113,1746 1186,1743 1259,1748 1333,1743 1406,1746 1479,1749 1553,1747 1626,1747 1699,1749 1773,1749" />
+                <TextEquiv>
+                    <Unicode>the articles their necessities require; it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="308,1859 526,1900 587,1865 1324,1902 1768,1876 1766,1819 484,1790 306,1828" />
+                <Baseline points="319,1859 391,1861 464,1862 537,1862 609,1859 682,1857 755,1861 827,1860 900,1859 973,1859 1046,1862 1118,1859 1191,1862 1264,1862 1336,1862 1409,1863 1482,1865 1554,1862 1627,1863 1700,1865 1773,1868" />
+                <TextEquiv>
+                    <Unicode>equally important to the progress of that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="312,2004 1762,1988 1762,1931 1375,1914 1104,1946 840,1911 717,1955 598,1913 312,1931" />
+                <Baseline points="322,1970 394,1973 466,1976 538,1976 611,1976 683,1976 755,1978 827,1976 900,1973 972,1976 1044,1976 1116,1978 1189,1976 1261,1979 1333,1979 1405,1978 1478,1978 1550,1978 1622,1979 1694,1976 1767,1979" />
+                <TextEquiv>
+                    <Unicode>prosperity, and to the general commerce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="308,2089 669,2123 1748,2092 1716,2045 1388,2061 1278,2024 961,2023 902,2076 572,2013 308,2057" />
+                <Baseline points="319,2086 390,2086 462,2086 533,2086 605,2086 677,2086 748,2089 820,2089 892,2089 963,2089 1035,2092 1107,2089 1178,2091 1250,2089 1322,2092 1393,2092 1465,2092 1537,2092 1608,2090 1680,2089 1752,2080" />
+                <TextEquiv>
+                    <Unicode>of the kingdom, that the free and unrestrained</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="308,2210 1755,2235 1733,2158 1566,2144 308,2166" />
+                <Baseline points="319,2206 394,2205 470,2203 546,2203 621,2205 697,2206 773,2206 849,2209 924,2206 1000,2207 1076,2209 1152,2207 1227,2208 1303,2206 1379,2208 1455,2209 1530,2209 1606,2211 1682,2212 1758,2218" />
+                <TextEquiv>
+                    <Unicode>passage be preserved for Sugar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="301,2316 656,2356 1276,2331 1328,2364 1742,2323 1742,2283 1588,2301 1504,2257 1434,2303 1377,2254 1163,2257 1098,2309 941,2257 772,2301 699,2254 301,2285" />
+                <Baseline points="310,2316 381,2316 453,2317 525,2319 597,2319 669,2319 740,2322 812,2322 884,2322 956,2323 1028,2322 1099,2324 1171,2322 1243,2322 1315,2323 1387,2328 1458,2325 1530,2323 1602,2325 1674,2324 1746,2322" />
+                <TextEquiv>
+                    <Unicode>their staple product, through the medium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="306,2433 1757,2448 1735,2388 1531,2367 1351,2417 1188,2366 1031,2410 985,2366 306,2393" />
+                <Baseline points="316,2433 388,2433 460,2435 532,2433 605,2434 677,2436 749,2437 821,2436 894,2436 966,2439 1038,2439 1110,2442 1183,2439 1255,2439 1327,2440 1399,2440 1472,2440 1544,2442 1616,2439 1688,2440 1761,2436" />
+                <TextEquiv>
+                    <Unicode>of the British markets, in the raw</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="301,2551 1753,2564 1753,2485 1669,2531 1463,2488 1284,2532 1183,2488 988,2542 917,2496 783,2529 739,2485 590,2476 301,2518" />
+                <Baseline points="310,2549 382,2551 454,2552 527,2555 599,2552 672,2552 744,2552 816,2552 889,2555 961,2555 1034,2555 1106,2556 1178,2555 1251,2555 1323,2555 1396,2556 1468,2558 1540,2558 1613,2555 1685,2553 1758,2552" />
+                <TextEquiv>
+                    <Unicode>and refined state, to the continent of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="301,2670 391,2677 455,2668 495,2699 528,2699 550,2675 598,2683 598,2633 563,2615 400,2619 378,2598 334,2597 301,2613" />
+                <Baseline points="310,2669 336,2669 363,2668 389,2667 416,2666 443,2666 469,2666 496,2666 523,2668 549,2670 576,2672 603,2669" />
+                <TextEquiv>
+                    <Unicode>Europe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="391,2894 794,2934 1766,2901 1766,2828 1661,2864 1562,2829 952,2859 391,2824" />
+                <Baseline points="400,2895 468,2898 537,2898 605,2901 674,2901 742,2904 811,2905 879,2905 948,2904 1016,2904 1085,2904 1153,2904 1222,2903 1290,2901 1359,2901 1427,2904 1496,2904 1564,2904 1633,2904 1701,2904 1770,2901" />
+                <TextEquiv>
+                    <Unicode>By the act passed in the last session of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="1324,3026 1753,3035 1753,2985 1707,2956 1625,2978 1522,2973 1476,2949 1425,2978 1386,2949 1324,2967" />
+                <Baseline points="1334,3021 1360,3019 1386,3018 1412,3020 1439,3020 1465,3018 1491,3020 1518,3021 1544,3021 1570,3021 1597,3021 1623,3020 1649,3018 1676,3018 1702,3019 1728,3020 1755,3021" />
+                <TextEquiv>
+                    <Unicode>Parliament,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

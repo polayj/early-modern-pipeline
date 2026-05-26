@@ -1,0 +1,46 @@
+{
+  "doc_id": "Anonymous - 1793 - Memoir, on the sugar-trade of the British colonies_page_1.xml",
+  "text": "[17]\ngreater interests are sacrificed to the\nless; and the progress of the British\nSugar colonies will not receive fair or\nfull play, nor can those colonies exert\nthe great vigour of which they may be\nmade capable, whilst this system is continued.\nIf it is necessary to the prosperity of\nthe Sugar colonies, that they should obtain\nthe plentiful and cheap supply of all\nthe articles their necessities require; it is\nequally important to the progress of that\nprosperity, and to the general commerce\nof the kingdom, that the free and unrestrained\npassage be preserved for Sugar,\ntheir staple product, through the medium\nof the British markets, in the raw\nand refined state, to the continent of\nEurope.\nBy the act passed in the last session of\nParliament,",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 83,
+      "end": 88,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e2",
+      "start": 75,
+      "end": 97,
+      "label": "COMMODITY",
+      "text": "British Sugar colonies",
+      "line_id": "tr_1_tl_4"
+    },
+    {
+      "id": "e3",
+      "start": 292,
+      "end": 306,
+      "label": "COMMODITY",
+      "text": "Sugar colonies",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e4",
+      "start": 570,
+      "end": 575,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_1_tl_16"
+    },
+    {
+      "id": "e5",
+      "start": -1,
+      "end": -1,
+      "label": "ORGANIZATION",
+      "text": "Parliament",
+      "line_id": "gpt_annotated"
+    }
+  ]
+}

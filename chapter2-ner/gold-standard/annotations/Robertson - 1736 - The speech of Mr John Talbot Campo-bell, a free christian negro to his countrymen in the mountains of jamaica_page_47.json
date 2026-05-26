@@ -1,0 +1,78 @@
+{
+  "doc_id": "Robertson - 1736 - The speech of Mr John Talbot Campo-bell, a free christian negro to his countrymen in the mountains of jamaica_page_47.xml",
+  "text": "[43]\nCountrymen, what a woful Situation you\nare now in: I am well acquainted with the\nGentleman who governs this Island, and\nwith most of the white Inhabitants of\nNote, and can assure you from them, that\nyou will all be forgotten on your Submission,\nand treated in much the same\nManner as the Negroes are who have\ncontinu’d in their Obedience. To be return'd\nto Africa you will not desire, for the Reason\nI just now gave; and if the good\nPeople of England shou'd dislike your being\nreplac'd in a State of Servitude here, I\ncan only say, that then the safety of this\nIsland will not suffer you to remain upon\nit; and then I shall humbly propose, that\nyou may be all sent forthwith, or as soon as\nTransports can be provided, to England.\nHands, well employ'd, are said to be the\nRiches of a Place; and sure you may be\ntrained up as easily to the Plough, feeding\nof Cattle, carding and spinning of Wool,\nbeating of Hemp, or the like, as the\nNegroe-Slaves here are to the Sugar Manufacture\n; and as I know you would gladly\nwork the first seven or fourteen Years for\nbare Foot and Raiment, your Labour\nwou’d, without doubt, over-balance both\nthat, and the Charges of transporting you\nthither. But to be plain, the English Laws,\nhere and every where else, are such, that\nRavishers, willful Munderers, &c. are uncapable\nG 2",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 967,
+      "end": 972,
+      "label": "COMMODITY",
+      "text": "Sugar",
+      "line_id": "tr_2_tl_25"
+    },
+    {
+      "id": "e2",
+      "start": 448,
+      "end": 455,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_13"
+    },
+    {
+      "id": "e3",
+      "start": 726,
+      "end": 733,
+      "label": "TOPONYM",
+      "text": "England",
+      "line_id": "tr_2_tl_19"
+    },
+    {
+      "id": "e4",
+      "start": 362,
+      "end": 368,
+      "label": "TOPONYM",
+      "text": "Africa",
+      "line_id": "tr_2_tl_11"
+    },
+    {
+      "id": "e5",
+      "start": 862,
+      "end": 868,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_2_tl_23"
+    },
+    {
+      "id": "e6",
+      "start": 894,
+      "end": 898,
+      "label": "COMMODITY",
+      "text": "Wool",
+      "line_id": "tr_2_tl_23"
+    },
+    {
+      "id": "e7",
+      "start": 911,
+      "end": 915,
+      "label": "COMMODITY",
+      "text": "Hemp",
+      "line_id": "tr_2_tl_24"
+    },
+    {
+      "start": 293,
+      "end": 300,
+      "text": "Negroes",
+      "label": "COMMODITY",
+      "id": "e8",
+      "line_id": "augmented"
+    },
+    {
+      "start": 944,
+      "end": 950,
+      "text": "Slaves",
+      "label": "COMMODITY",
+      "id": "e9",
+      "line_id": "augmented"
+    }
+  ]
+}

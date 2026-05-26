@@ -1,0 +1,94 @@
+{
+  "doc_id": "Leslie - 1740 - A new and exact account of Jamaica_page_184.xml",
+  "text": "176\nLETTER VII.\nstice of Peace, if not exceeding 40s. if more,\nin any Court of Record.\nNo Person whatsoever shall kill any Cattle,\nHorse, Mare, Mule, or Assinego, under the\nPenalty of 15l. to be recovered in any Court\nof Record, by the owner or Proprietor of the\nsaid Beast.\nAll Owners of Neat Cattle shall keep one\nwhite Man at each Pen, and two white Men\nat every Pen, whereunto belongs above 200\nHead of Cattle, Penalty 10 l. for every white\nMan wanting for the Space of three Months,\nHalf to the Poor of the Parish, Half to the\nInformer.\nAll Owners of Cattle shall pen them once\nin three Nights at least, or pay the Damage\ndouble which such Cattle shall do.\nStrays shall belong to the Proprietor of the\nGround where taken up, provided he cries the\nStray three Court Days with proper Descriptions,\nand turns the same loose in the feeding\nGrounds, with a Withe about the Neck for an\nYear; and if not claimed in that Time, the\nproperty shall be his. Ear mark'd, or burnt\nmark'd Cattle shall belong to the right Owners,\nif claim'd any Time after the Expiration\nof the Year.\nThe Clerk of each respective Court of Record\nin this Island shall make Entry, and toll\nall Sorts of Cattle that shall be sold from one\nPer-",
+  "entities": [
+    {
+      "id": "e1",
+      "start": 123,
+      "end": 129,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_5"
+    },
+    {
+      "id": "e2",
+      "start": 131,
+      "end": 136,
+      "label": "COMMODITY",
+      "text": "Horse",
+      "line_id": "tr_1_tl_6"
+    },
+    {
+      "id": "e3",
+      "start": 138,
+      "end": 142,
+      "label": "COMMODITY",
+      "text": "Mare",
+      "line_id": "tr_1_tl_6"
+    },
+    {
+      "id": "e4",
+      "start": 144,
+      "end": 148,
+      "label": "COMMODITY",
+      "text": "Mule",
+      "line_id": "tr_1_tl_6"
+    },
+    {
+      "id": "e5",
+      "start": 153,
+      "end": 161,
+      "label": "COMMODITY",
+      "text": "Assinego",
+      "line_id": "tr_1_tl_6"
+    },
+    {
+      "id": "e6",
+      "start": 294,
+      "end": 300,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_10"
+    },
+    {
+      "id": "e7",
+      "start": 407,
+      "end": 413,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_13"
+    },
+    {
+      "id": "e8",
+      "start": 556,
+      "end": 562,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_17"
+    },
+    {
+      "id": "e9",
+      "start": 645,
+      "end": 651,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_19"
+    },
+    {
+      "id": "e10",
+      "start": 979,
+      "end": 985,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_27"
+    },
+    {
+      "id": "e11",
+      "start": 1174,
+      "end": 1180,
+      "label": "COMMODITY",
+      "text": "Cattle",
+      "line_id": "tr_1_tl_32"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+The Number of Whites. The Number of Whites that Dyed in my times. 1. Joseph Russel. 2. William Burne. Thomas Hughs. 3. George Shallitoe. Peter Peterson. 4. Urban Rony. John Gwartwrite. 5. Andrew Reddal. Thomas Davies. 6. William Polliard. Samuel Hodgley. 7. John Brown. Sold in my time. 8. Richard Sevitor. Thomas Martin. 8. Richard Sevitor. Thomas Barber. 9. James Durham. Free. 10. George French. William Ward. 11. Thomas Woodcock. Richard Barret. Total of Whites 11. Lost at Law. with Fountain.
+

@@ -1,0 +1,1 @@
+in that, which another may, 46 by right, take; when he pleales, to him- felf . thele duties, which will inevitably be ier vied upon us,-and which are now levying upz on are exprefsly laid for the fole purpofe of taking money,"o this is the true definiti- haa vf kue joa 76 being {hilling: duty they lay they duty fays, they levy they {top "mhillings, ing they nothing 08,

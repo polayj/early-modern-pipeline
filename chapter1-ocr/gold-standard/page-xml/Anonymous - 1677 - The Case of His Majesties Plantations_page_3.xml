@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:39</Creator>
+        <Created>2025-10-02T01:41:51.073+02:00</Created>
+        <LastChange>2025-10-24T01:24:23.114+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051268" pageNr="4" tsid="258749109" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=BSZZMMMCEVHIVLXVYYQBKSXW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QVIHUPEZQISQIOUYXJTMXSKH" imageId="87046293" />
+    </Metadata>
+    <Page imageFilename="11168119_0004_104051268.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586533448" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="r_466" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="922,159 1151,159 1151,276 922,276" />
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1002,274 1016,272 1033,283 1073,247 1107,269 1136,258 1134,156 1096,163 1065,194 1055,196 1045,187 1038,194 1000,196" />
+                <Baseline points="940,260 1056,257 1101,253 1140,253" />
+                <TextEquiv>
+                    <Unicode>(3)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_466" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="308,289 1778,265 1776,2950 319,2950" />
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="312,367 1004,332 1661,363 1746,345 1748,272 314,283" />
+                <Baseline points="322,349 364,346 409,340 453,337 498,337 543,337 588,334 632,337 677,334 722,334 767,331 812,331 856,331 901,331 946,331 991,331 1035,331 1080,331 1125,331 1170,331 1215,331 1259,331 1304,331 1349,331 1394,331 1439,331 1483,334 1528,334 1573,337 1618,337 1662,337 1707,337 1752,343" />
+                <TextEquiv>
+                    <Unicode>Planters intended to have Address'd to this Parliament,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="309,421 1508,443 1679,407 1768,441 1768,350 309,365" />
+                <Baseline points="319,417 337,414 382,412 426,412 471,409 516,409 561,409 606,406 650,406 695,403 740,403 785,403 829,403 874,403 919,400 964,400 1009,403 1053,403 1098,400 1143,400 1188,400 1233,400 1277,403 1322,403 1367,403 1412,400 1456,403 1501,403 1546,403 1591,403 1636,403 1680,403 1725,406 1770,406" />
+                <TextEquiv>
+                    <Unicode>for reducing the Book of Rates to the present Value of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:2;} commodity {offset:0; length:6;wikiData:Q11002;}">
+                <Coords points="298,501 358,492 370,506 394,506 419,494 441,501 459,492 506,519 510,443 457,432 446,443 428,432 416,439 405,428 343,434 301,416" />
+                <Baseline points="310,480 334,483 379,480 423,477 468,477 513,474" />
+                <TextEquiv>
+                    <Unicode>Sugars.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="381,608 1753,608 1753,530 381,548" />
+                <Baseline points="391,600 414,600 459,600 504,597 549,597 594,594 638,594 683,594 728,594 773,594 818,594 862,594 907,597 952,594 997,594 1041,594 1086,594 1131,594 1176,594 1221,594 1265,594 1310,594 1355,594 1400,594 1444,594 1489,597 1534,594 1579,594 1624,594 1668,594 1713,594 1758,591" />
+                <TextEquiv>
+                    <Unicode>This low Value of the Commodity causes the Inhabitants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="316,677 1759,684 1759,624 1566,601 1437,646 1287,599 316,617" />
+                <Baseline points="325,674 331,671 376,671 420,671 465,665 510,665 555,665 600,665 644,665 689,665 734,665 779,662 824,662 868,662 913,662 958,662 1003,662 1047,662 1092,662 1137,662 1182,662 1227,662 1271,662 1316,662 1361,665 1406,662 1450,662 1495,662 1540,662 1585,662 1630,662 1674,659 1719,659 1764,662" />
+                <TextEquiv>
+                    <Unicode>of the English Colonies to forsake them, and remove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="309,746 1741,744 1741,682 806,670 733,713 456,672 309,708" />
+                <Baseline points="319,740 355,740 400,737 444,737 489,734 534,734 579,734 623,734 668,734 713,731 758,728 803,728 847,731 892,731 937,731 982,731 1027,731 1071,731 1116,731 1161,731 1206,731 1250,731 1295,731 1340,731 1385,731 1430,731 1474,731 1519,731 1564,731 1609,728 1653,731 1698,731 1743,731" />
+                <TextEquiv>
+                    <Unicode>to other places, whilst the King of France useth all Imaginable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="321,835 1750,809 1750,762 321,768" />
+                <Baseline points="331,809 367,806 412,806 456,803 501,803 546,803 591,800 635,797 680,800 725,800 770,800 815,797 859,797 904,800 949,800 994,800 1038,797 1083,797 1128,797 1173,800 1218,800 1262,800 1307,800 1352,797 1397,800 1442,800 1486,797 1531,800 1576,800 1621,800 1665,800 1710,803 1755,806" />
+                <TextEquiv>
+                    <Unicode>Industry to strengthen and fill his Plantations ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="325,888 1759,889 1759,828 325,831" />
+                <Baseline points="334,874 379,874 423,871 468,868 513,868 558,865 603,868 647,868 692,868 737,868 782,865 826,865 871,865 916,868 961,865 1006,865 1050,865 1095,865 1140,865 1185,865 1230,865 1274,865 1319,865 1364,862 1409,865 1453,862 1498,865 1543,865 1588,865 1633,868 1677,868 1722,871 1764,877" />
+                <TextEquiv>
+                    <Unicode>(some of which are in sight of ours) with Inhabitants,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:8;} place {offset:12; length:7;wikiData:Q45797; country:France;} commodity {offset:44; length:6;wikiData:Q11002;}">
+                <Coords points="312,953 1750,944 1750,902 1601,878 312,882" />
+                <Baseline points="322,943 367,940 412,940 456,940 501,937 546,937 591,937 635,937 680,937 725,937 770,937 815,934 859,934 904,934 949,934 994,934 1038,934 1083,931 1128,931 1173,931 1218,931 1262,931 1307,934 1352,934 1397,931 1442,931 1486,934 1531,934 1576,934 1621,931 1665,934 1710,937 1755,946 1758,943" />
+                <TextEquiv>
+                    <Unicode>having made Dunkirk a Free Port for his own Sugars,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="312,1020 1757,1015 1719,947 312,966" />
+                <Baseline points="322,1006 367,1006 412,1006 456,1006 501,1006 546,1003 591,1006 635,1003 680,1006 725,1003 770,1003 815,1003 859,1003 904,1003 949,1003 994,1003 1038,1003 1083,1003 1128,1003 1173,1003 1218,1003 1262,1000 1307,1003 1352,1000 1397,1003 1442,1003 1486,1000 1531,1000 1576,1000 1621,1000 1665,1000 1710,1006 1755,1006 1761,1006" />
+                <TextEquiv>
+                    <Unicode>where no Customs are paid in or out; by reason of which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:10;}">
+                <Coords points="309,1091 1759,1084 1759,1018 309,1035" />
+                <Baseline points="319,1077 331,1074 376,1077 420,1077 465,1077 510,1074 555,1074 600,1074 644,1071 689,1071 734,1071 779,1071 824,1071 868,1071 913,1071 958,1071 1003,1071 1047,1071 1092,1071 1137,1071 1182,1071 1227,1071 1271,1068 1316,1071 1361,1071 1406,1071 1450,1071 1495,1071 1540,1071 1585,1068 1630,1071 1674,1071 1719,1071 1764,1074" />
+                <TextEquiv>
+                    <Unicode>the Markets of Flanders and Holland, &amp;c. are furnished</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:11;} commodity {offset:12; length:6;commodity:sugar; wikiData:Q11002;}">
+                <Coords points="325,1160 1766,1153 1766,1091 325,1100" />
+                <Baseline points="334,1143 379,1143 423,1140 468,1140 513,1140 558,1140 603,1140 647,1140 692,1143 737,1140 782,1140 826,1140 871,1140 916,1137 961,1137 1006,1140 1050,1140 1095,1140 1140,1137 1185,1137 1230,1137 1274,1140 1319,1140 1364,1137 1409,1137 1453,1143 1498,1140 1543,1140 1588,1137 1633,1137 1677,1140 1722,1140 1767,1143 1770,1143" />
+                <TextEquiv>
+                    <Unicode>with French Sugars at 2 s. 6 d. per Hundred cheaper than</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:12;}">
+                <Coords points="312,1240 1750,1229 1750,1158 312,1163" />
+                <Baseline points="322,1212 367,1212 412,1212 456,1212 501,1212 546,1209 591,1209 635,1209 680,1212 725,1212 770,1209 815,1209 859,1209 904,1209 949,1209 994,1209 1038,1206 1083,1209 1128,1209 1173,1209 1218,1212 1262,1212 1307,1212 1352,1212 1397,1209 1442,1212 1486,1212 1531,1212 1576,1209 1621,1206 1665,1209 1710,1209 1755,1209" />
+                <TextEquiv>
+                    <Unicode>the English can, by reason of the Acts of Trade and Navigation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:13;}">
+                <Coords points="325,1298 350,1296 374,1316 430,1289 445,1296 457,1290 472,1301 483,1296 506,1314 559,1301 557,1256 528,1243 492,1243 481,1234 465,1245 363,1247 343,1234 323,1240" />
+                <Baseline points="334,1277 379,1274 423,1280 468,1280 513,1280 558,1277 564,1277" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:14;}">
+                <Coords points="385,1412 1759,1416 1737,1345 385,1338" />
+                <Baseline points="394,1403 420,1403 465,1403 510,1400 555,1400 600,1403 644,1403 689,1403 734,1400 779,1400 824,1400 868,1400 913,1400 958,1400 1003,1400 1047,1400 1092,1400 1137,1400 1182,1400 1227,1403 1271,1403 1316,1403 1361,1403 1406,1406 1450,1403 1495,1403 1540,1406 1585,1406 1630,1406 1674,1406 1719,1406 1764,1400" />
+                <TextEquiv>
+                    <Unicode>This increase of the strength of the French Plantations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:15;}">
+                <Coords points="312,1492 1655,1499 1757,1485 1759,1437 314,1421" />
+                <Baseline points="322,1471 367,1474 412,1474 456,1474 501,1471 546,1471 591,1471 635,1471 680,1471 725,1471 770,1471 815,1468 859,1468 904,1468 949,1471 994,1468 1038,1471 1083,1471 1128,1471 1173,1471 1218,1471 1262,1471 1307,1471 1352,1471 1397,1471 1442,1471 1486,1471 1531,1471 1576,1471 1621,1474 1665,1471 1710,1471 1755,1468 1761,1471" />
+                <TextEquiv>
+                    <Unicode>and decrease of the English, hath made many of the Planters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:16;}">
+                <Coords points="316,1554 1766,1570 1735,1481 1421,1516 1352,1481 316,1492" />
+                <Baseline points="325,1540 370,1543 414,1540 459,1540 504,1540 549,1540 594,1540 638,1540 683,1540 728,1540 773,1537 818,1534 862,1534 907,1534 952,1537 997,1540 1041,1540 1086,1540 1131,1540 1176,1540 1221,1540 1265,1540 1310,1540 1355,1540 1400,1543 1444,1540 1489,1540 1534,1540 1579,1540 1624,1543 1668,1543 1713,1543 1758,1540 1770,1543" />
+                <TextEquiv>
+                    <Unicode>consider of with-drawing their Stocks, for fear if a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:17;}">
+                <Coords points="330,1619 1334,1617 1610,1655 1599,1555 330,1554" />
+                <Baseline points="340,1612 385,1612 429,1609 474,1612 519,1609 564,1609 609,1609 653,1609 698,1606 743,1609 788,1606 832,1606 877,1606 922,1606 967,1606 1012,1606 1056,1609 1101,1609 1146,1609 1191,1609 1236,1606 1280,1609 1325,1609 1370,1609 1415,1609 1459,1609 1504,1609 1549,1612 1594,1612 1615,1612" />
+                <TextEquiv>
+                    <Unicode>War should happen with France all would be lost.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:18;}">
+                <Coords points="378,1728 592,1766 888,1730 1764,1762 1764,1693 1637,1663 808,1690 459,1646 378,1677" />
+                <Baseline points="388,1728 432,1731 477,1731 522,1728 567,1728 612,1728 656,1728 701,1728 746,1728 791,1728 835,1728 880,1725 925,1728 970,1728 1015,1731 1059,1731 1104,1731 1149,1734 1194,1731 1238,1731 1283,1731 1328,1731 1373,1734 1418,1731 1462,1734 1507,1731 1552,1731 1597,1734 1642,1734 1686,1734 1731,1731 1767,1737" />
+                <TextEquiv>
+                    <Unicode>The English Sugar Trade being apparently decaying</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:19;}">
+                <Coords points="312,1800 621,1833 1766,1810 1766,1761 1623,1744 1454,1788 1298,1744 376,1766 312,1730" />
+                <Baseline points="322,1800 367,1800 412,1800 456,1800 501,1800 546,1800 591,1797 635,1797 680,1794 725,1794 770,1794 815,1794 859,1797 904,1794 949,1794 994,1797 1038,1797 1083,1800 1128,1800 1173,1800 1218,1800 1262,1800 1307,1800 1352,1803 1397,1803 1442,1803 1486,1800 1531,1803 1576,1803 1621,1803 1665,1803 1710,1800 1755,1800 1770,1803" />
+                <TextEquiv>
+                    <Unicode>under the present Impositions upon Sugar, can by no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:20;}">
+                <Coords points="319,1880 1761,1882 1759,1844 1641,1815 318,1828" />
+                <Baseline points="328,1868 373,1868 417,1868 462,1868 507,1865 552,1865 597,1865 641,1865 686,1865 731,1865 776,1862 821,1865 865,1865 910,1862 955,1865 1000,1862 1044,1868 1089,1868 1134,1868 1179,1868 1224,1865 1268,1868 1313,1868 1358,1865 1403,1865 1447,1868 1492,1871 1537,1871 1582,1868 1627,1868 1671,1868 1716,1871 1761,1868 1764,1868" />
+                <TextEquiv>
+                    <Unicode>means bear more and subsist; and it is of great advantage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:21;}">
+                <Coords points="318,1949 1768,1960 1768,1895 1546,1880 318,1889" />
+                <Baseline points="328,1937 373,1937 417,1937 462,1934 507,1937 552,1937 597,1934 641,1934 686,1931 731,1934 776,1934 821,1934 865,1934 910,1934 955,1934 1000,1934 1044,1934 1089,1937 1134,1940 1179,1937 1224,1937 1268,1934 1313,1937 1358,1934 1403,1934 1447,1937 1492,1937 1537,1937 1582,1937 1627,1937 1671,1937 1716,1937 1761,1940 1770,1940" />
+                <TextEquiv>
+                    <Unicode>to France to have our Plantations ruined by more</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:22;} commodity {offset:21; length:6;wikiData:Q11002;}">
+                <Coords points="318,2024 1768,2022 1768,1960 1614,1951 318,1949" />
+                <Baseline points="328,2006 373,2006 417,2003 462,2003 507,2003 552,2003 597,2003 641,2000 686,2003 731,2000 776,2003 821,2003 865,2003 910,2003 955,2003 1000,2003 1044,2003 1089,2006 1134,2006 1179,2006 1224,2006 1268,2006 1313,2003 1358,2003 1403,2006 1447,2006 1492,2003 1537,2006 1582,2006 1627,2006 1671,2006 1716,2006 1761,2009 1773,2012" />
+                <TextEquiv>
+                    <Unicode>Impositions on their Sugars: for should the French gain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:23;}">
+                <Coords points="321,2084 1766,2093 1741,2016 1241,2049 1180,2013 321,2024" />
+                <Baseline points="331,2074 376,2074 420,2074 465,2074 510,2074 555,2071 600,2068 644,2068 689,2068 734,2068 779,2071 824,2071 868,2071 913,2071 958,2071 1003,2074 1047,2074 1092,2074 1137,2074 1182,2071 1227,2071 1271,2074 1316,2074 1361,2071 1406,2071 1450,2071 1495,2071 1540,2074 1585,2074 1630,2074 1674,2074 1719,2074 1764,2077 1770,2080" />
+                <TextEquiv>
+                    <Unicode>the Sugar Trade from the English, England would lose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:24;}">
+                <Coords points="325,2151 1762,2171 1762,2104 1528,2084 325,2084" />
+                <Baseline points="334,2143 379,2143 423,2140 468,2140 513,2137 558,2137 603,2137 647,2137 692,2137 737,2137 782,2137 826,2137 871,2140 916,2140 961,2140 1006,2140 1050,2140 1095,2140 1140,2140 1185,2140 1230,2140 1274,2140 1319,2140 1364,2140 1409,2140 1453,2140 1498,2140 1543,2143 1588,2146 1633,2146 1677,2146 1722,2146 1767,2152 1770,2149" />
+                <TextEquiv>
+                    <Unicode>the Imployment of 400 Sail of Ships and 8000 Seamen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:25;}">
+                <Coords points="321,2222 1768,2227 1768,2171 1094,2145 991,2182 735,2145 321,2178" />
+                <Baseline points="331,2212 376,2212 420,2209 465,2209 510,2206 555,2206 600,2203 644,2206 689,2206 734,2206 779,2206 824,2209 868,2209 913,2206 958,2206 1003,2206 1047,2206 1092,2209 1137,2209 1182,2209 1227,2209 1271,2209 1316,2209 1361,2209 1406,2209 1450,2209 1495,2206 1540,2209 1585,2212 1630,2212 1674,2212 1719,2212 1764,2212 1773,2215" />
+                <TextEquiv>
+                    <Unicode>and France would gain it, which would differ the present</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:26;}">
+                <Coords points="325,2298 1771,2296 1771,2229 325,2223" />
+                <Baseline points="334,2274 379,2277 423,2277 468,2277 513,2274 558,2271 603,2271 647,2271 692,2274 737,2274 782,2274 826,2274 871,2274 916,2274 961,2274 1006,2277 1050,2274 1095,2274 1140,2277 1185,2277 1230,2277 1274,2274 1319,2277 1364,2277 1409,2277 1453,2274 1498,2277 1543,2277 1588,2277 1633,2277 1677,2277 1722,2277 1767,2277 1776,2280" />
+                <TextEquiv>
+                    <Unicode>Ballance of Seamen 16000, besides the loss of a Native</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:27;}">
+                <Coords points="321,2369 1766,2363 1764,2307 1630,2289 755,2285 695,2327 594,2283 319,2289" />
+                <Baseline points="331,2346 376,2346 420,2343 465,2343 510,2343 555,2343 600,2340 644,2343 689,2340 734,2343 779,2343 824,2343 868,2340 913,2343 958,2343 1003,2340 1047,2343 1092,2340 1137,2343 1182,2343 1227,2343 1271,2343 1316,2343 1361,2343 1406,2346 1450,2346 1495,2343 1540,2346 1585,2349 1630,2346 1674,2349 1719,2346 1764,2346 1770,2346" />
+                <TextEquiv>
+                    <Unicode>Commodity, that hath brought so much Wealth to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:28;}">
+                <Coords points="312,2421 1768,2430 1768,2363 312,2367" />
+                <Baseline points="322,2412 367,2415 412,2412 456,2412 501,2409 546,2409 591,2409 635,2409 680,2409 725,2409 770,2412 815,2412 859,2412 904,2412 949,2412 994,2412 1038,2412 1083,2412 1128,2412 1173,2415 1218,2415 1262,2415 1307,2415 1352,2415 1397,2415 1442,2415 1486,2415 1531,2415 1576,2415 1621,2418 1665,2418 1710,2418 1755,2418 1773,2412" />
+                <TextEquiv>
+                    <Unicode>the Kingdom, and would also be the loss of the Trade of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:29;}">
+                <Coords points="321,2496 376,2508 443,2488 490,2512 613,2483 668,2521 750,2481 800,2494 802,2428 751,2454 730,2432 644,2438 619,2418 534,2439 503,2423 448,2448 417,2425 321,2436" />
+                <Baseline points="331,2480 355,2483 400,2480 444,2480 489,2480 534,2477 579,2477 623,2475 668,2480 713,2477 758,2477 803,2477" />
+                <TextEquiv>
+                    <Unicode>Africa for Negro's.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:30;}">
+                <Coords points="378,2621 851,2599 1412,2639 1539,2605 1759,2639 1757,2566 1672,2541 1452,2572 1060,2530 726,2566 376,2541" />
+                <Baseline points="388,2600 432,2603 477,2600 522,2600 567,2597 612,2597 656,2597 701,2600 746,2600 791,2600 835,2600 880,2600 925,2603 970,2603 1015,2603 1059,2603 1104,2606 1149,2606 1194,2606 1238,2606 1283,2606 1328,2606 1373,2606 1418,2606 1462,2606 1507,2606 1552,2606 1597,2606 1642,2609 1686,2609 1731,2612 1764,2615" />
+                <TextEquiv>
+                    <Unicode>It hath been ever the Practice and Policy of Trading</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:31;}">
+                <Coords points="316,2688 1289,2679 1407,2717 1757,2686 1713,2617 1180,2646 316,2608" />
+                <Baseline points="325,2672 370,2669 414,2669 459,2669 504,2672 549,2669 594,2669 638,2666 683,2666 728,2669 773,2669 818,2666 862,2669 907,2669 952,2672 997,2672 1041,2672 1086,2675 1131,2672 1176,2672 1221,2675 1265,2675 1310,2675 1355,2678 1400,2675 1444,2678 1489,2678 1534,2675 1579,2675 1624,2675 1668,2675 1713,2675 1758,2678 1761,2678" />
+                <TextEquiv>
+                    <Unicode>Nations, to set the Publick Taxes on Foreign Commodities</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:32;}">
+                <Coords points="309,2764 479,2784 635,2737 1143,2784 1323,2752 1323,2701 1281,2683 309,2695" />
+                <Baseline points="319,2737 364,2737 409,2737 453,2737 498,2737 543,2737 588,2737 632,2737 677,2737 722,2737 767,2737 812,2737 856,2737 901,2737 946,2737 991,2737 1035,2740 1080,2740 1125,2740 1170,2740 1215,2740 1259,2740 1304,2743 1325,2740" />
+                <TextEquiv>
+                    <Unicode>and not those of their own growth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:33;} person {offset:27; length:8;wikiData:Q44279; firstname:Oliver; dateOfDeath:1658; dateOfBirth:1599; lastname:Cromwell;}">
+                <Coords points="368,2884 1759,2897 1759,2830 1619,2788 1202,2830 368,2799" />
+                <Baseline points="379,2860 423,2863 468,2860 513,2863 558,2860 603,2863 647,2863 692,2863 737,2860 782,2863 826,2863 871,2863 916,2863 961,2863 1006,2863 1050,2866 1095,2863 1140,2866 1185,2869 1230,2869 1274,2869 1319,2869 1364,2869 1409,2869 1453,2869 1498,2869 1543,2869 1588,2869 1633,2869 1677,2869 1722,2869 1764,2866" />
+                <TextEquiv>
+                    <Unicode>In the time of the Usurper Cromwell, when all things</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:34;}">
+                <Coords points="1632,2968 1679,2940 1695,2951 1712,2948 1742,2962 1764,2958 1762,2893 1742,2900 1699,2897 1693,2891 1686,2899 1628,2897" />
+                <Baseline points="1639,2934 1683,2937 1728,2937 1767,2940" />
+                <TextEquiv>
+                    <Unicode>were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

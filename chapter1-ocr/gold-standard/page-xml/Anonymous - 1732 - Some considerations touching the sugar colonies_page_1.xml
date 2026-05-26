@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.32.1:model_id=356425:date=02_10_2025_04:41</Creator>
+        <Created>2025-10-02T01:42:25.919+02:00</Created>
+        <LastChange>2025-10-24T02:24:41.294+02:00</LastChange>
+        <TranskribusMetadata docId="11168119" pageId="104051428" pageNr="33" tsid="258750452" status="GT" userId="284857" imgUrl="https://files.transkribus.eu/Get?id=PYYULBSDOFMTLPTDENQNKWDA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QHENNTBLOXWYLAQNXKVHJBBP" imageId="87046299" />
+    </Metadata>
+    <Page imageFilename="11168119_0033_104051428.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1761586539192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+                <RegionRefIndexed index="1" regionRef="tr_1" />
+                <RegionRefIndexed index="2" regionRef="r_1" />
+                <RegionRefIndexed index="3" regionRef="r_2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1122,50 1430,50 1430,167 1122,167" />
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1185,142 1222,139 1229,147 1332,149 1332,76 1300,76 1287,89 1279,89 1261,71 1248,68 1206,113 1185,115" />
+                <Baseline points="1200,137 1227,137 1254,138 1282,140 1309,140 1337,137" />
+                <TextEquiv>
+                    <Unicode>( 12 )</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="249,214 253,3292 2382,3292 2373,204" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="239,278 2336,267 2336,199 569,236 459,191 239,239" />
+                <Baseline points="253,277 357,269 462,262 566,261 671,259 775,256 880,255 984,253 1089,253 1193,250 1298,250 1402,247 1507,250 1611,249 1716,250 1820,247 1925,249 2029,253 2134,254 2238,255 2343,259" />
+                <TextEquiv>
+                    <Unicode>that this may give us a farther Prospect; not only Sugar, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="246,356 2328,349 2325,296 2113,273 246,309" />
+                <Baseline points="262,355 365,352 468,345 572,341 675,337 779,340 882,338 986,334 1089,334 1193,332 1296,334 1399,333 1503,329 1606,328 1710,328 1813,329 1917,331 2020,328 2124,332 2227,336 2331,337" />
+                <TextEquiv>
+                    <Unicode>Ginger too being, as I have been informed, a very good Commodity</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="241,453 2336,438 2338,349 244,404" />
+                <Baseline points="256,441 360,436 465,432 569,425 674,421 778,420 883,420 987,418 1092,417 1196,415 1301,418 1405,414 1510,412 1614,412 1719,414 1823,410 1928,412 2032,414 2137,415 2241,417 2346,420" />
+                <TextEquiv>
+                    <Unicode>as high as the Levant. And if so, or if there should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="252,537 2336,516 2304,433 254,474" />
+                <Baseline points="265,525 368,519 472,512 576,510 680,507 784,504 888,504 992,502 1096,501 1200,498 1304,501 1407,498 1511,498 1615,495 1719,498 1823,498 1927,501 2031,498 2135,499 2239,503 2343,507" />
+                <TextEquiv>
+                    <Unicode>be found any other Motive to proceed so far, I cannot think</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="252,624 2328,600 2328,548 252,556" />
+                <Baseline points="265,612 368,605 471,599 575,596 678,594 782,588 885,585 989,588 1092,585 1196,585 1299,585 1402,584 1506,580 1609,580 1713,582 1816,582 1920,582 2023,585 2127,585 2230,587 2334,585" />
+                <TextEquiv>
+                    <Unicode>it altogether impossible but that suitable Means and proper Regulations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="257,726 847,671 2338,687 2338,624 257,655" />
+                <Baseline points="271,692 374,689 478,683 582,678 686,677 789,674 893,671 997,671 1101,670 1204,668 1308,669 1412,665 1516,665 1619,665 1723,665 1827,668 1931,666 2034,668 2138,670 2242,670 2346,671" />
+                <TextEquiv>
+                    <Unicode>may be thought on. However, the Advantages that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="246,789 2333,786 2333,710 799,739 650,689 246,742" />
+                <Baseline points="262,779 365,779 469,766 573,762 677,761 781,758 885,755 989,756 1093,755 1197,753 1301,752 1404,752 1508,751 1612,749 1716,749 1820,749 1924,749 2028,749 2132,752 2236,755 2340,758" />
+                <TextEquiv>
+                    <Unicode>may arise from any Trade can never be fully known but by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="254,868 2349,849 2349,786 254,813" />
+                <Baseline points="268,865 372,860 476,850 580,844 684,842 789,841 893,838 997,838 1101,838 1205,835 1310,833 1414,832 1518,831 1622,829 1726,829 1831,829 1935,832 2039,832 2143,836 2247,838 2352,841" />
+                <TextEquiv>
+                    <Unicode>Experience: and this in particular, as it will be among a rich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="257,957 2244,957 2354,936 2357,865 257,886" />
+                <Baseline points="271,946 375,946 480,943 584,934 689,929 793,928 898,925 1002,923 1107,922 1211,921 1316,917 1420,916 1525,916 1629,916 1734,916 1838,919 1943,919 2047,919 2152,922 2256,924 2361,925" />
+                <TextEquiv>
+                    <Unicode>People, plenteous in Money, affords at present as fair a Prospect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="257,1038 280,1048 336,1046 349,1033 364,1046 398,1046 406,1038 440,1059 464,1059 485,1038 498,1038 498,991 477,983 377,983 354,1001 328,978 317,986 294,978 275,993 257,993" />
+                <Baseline points="271,1030 296,1030 322,1030 348,1028 374,1027 400,1027 426,1027 452,1027 478,1027 504,1027" />
+                <TextEquiv>
+                    <Unicode>as any.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="338,1195 2357,1190 2357,1111 338,1119" />
+                <Baseline points="352,1179 452,1174 553,1178 653,1178 754,1176 855,1176 955,1174 1056,1173 1156,1173 1257,1173 1358,1171 1458,1170 1559,1167 1659,1167 1760,1168 1861,1167 1961,1167 2062,1169 2162,1171 2263,1173 2364,1176" />
+                <TextEquiv>
+                    <Unicode>IF then a License for this Spanish Trade should be deemed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="254,1266 2357,1266 2357,1211 254,1235" />
+                <Baseline points="268,1262 372,1259 477,1262 582,1263 687,1263 792,1259 896,1258 1001,1256 1106,1256 1211,1254 1316,1256 1420,1256 1525,1252 1630,1250 1735,1250 1840,1250 1944,1253 2049,1253 2154,1254 2259,1256 2364,1259" />
+                <TextEquiv>
+                    <Unicode>adviseable, as I hope it will, it may be no unprofitable Part to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="257,1347 2346,1363 2349,1292 260,1308" />
+                <Baseline points="271,1346 375,1343 479,1348 583,1346 687,1345 791,1343 895,1343 999,1342 1103,1340 1207,1340 1311,1337 1415,1337 1519,1334 1623,1334 1727,1333 1831,1334 1935,1334 2039,1337 2143,1338 2247,1340 2352,1349" />
+                <TextEquiv>
+                    <Unicode>consider, upon what Terms our Merchants are like to stand,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="267,1426 2354,1434 2354,1363 267,1387" />
+                <Baseline points="283,1424 386,1425 490,1429 594,1427 698,1424 802,1424 906,1421 1010,1424 1114,1421 1218,1421 1322,1420 1425,1421 1529,1416 1633,1418 1737,1417 1841,1415 1945,1418 2049,1421 2153,1421 2257,1421 2361,1427" />
+                <TextEquiv>
+                    <Unicode>with relation to those of France, who do carry on, and will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="260,1518 2349,1533 2349,1465 2210,1434 260,1465" />
+                <Baseline points="274,1510 378,1510 482,1511 586,1513 690,1510 794,1510 898,1507 1002,1509 1106,1507 1210,1507 1314,1504 1418,1502 1522,1501 1626,1501 1730,1501 1834,1499 1938,1501 2042,1505 2146,1506 2250,1507 2355,1513" />
+                <TextEquiv>
+                    <Unicode>still continue the Trade against them. And herein particularly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="262,1604 309,1615 354,1596 417,1615 448,1596 472,1615 695,1604 695,1554 629,1554 611,1536 577,1554 493,1536 451,1552 262,1562" />
+                <Baseline points="277,1594 303,1596 330,1596 356,1595 383,1595 409,1597 436,1595 462,1594 489,1596 515,1597 542,1597 568,1597 595,1597 621,1597 648,1597 674,1597 701,1597" />
+                <TextEquiv>
+                    <Unicode>as to Duties.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="354,1769 2370,1769 2322,1688 2149,1678 1544,1730 354,1706" />
+                <Baseline points="367,1764 467,1764 567,1764 667,1764 768,1761 868,1759 968,1761 1069,1761 1169,1758 1269,1759 1370,1756 1470,1758 1570,1755 1670,1755 1771,1753 1871,1754 1971,1755 2072,1755 2172,1757 2272,1755 2373,1761" />
+                <TextEquiv>
+                    <Unicode>THE Author of the Political State, in that for the Month</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="262,1843 2364,1853 2364,1793 262,1814" />
+                <Baseline points="277,1842 381,1848 486,1849 590,1845 695,1845 800,1843 904,1845 1009,1842 1114,1842 1218,1842 1323,1838 1428,1843 1532,1836 1637,1835 1742,1834 1846,1836 1951,1836 2056,1836 2160,1836 2265,1839 2370,1842" />
+                <TextEquiv>
+                    <Unicode>of April 1731, has this Remark: "Even in exporting Sugars"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="362,1945 2367,1934 2328,1856 1961,1903 1772,1853 362,1874" />
+                <Baseline points="376,1928 475,1928 575,1925 675,1925 775,1922 875,1924 975,1922 1074,1925 1174,1922 1274,1924 1374,1920 1474,1916 1574,1919 1674,1918 1773,1917 1873,1919 1973,1919 2073,1919 2173,1922 2273,1921 2373,1922" />
+                <TextEquiv>
+                    <Unicode>(says he) to our Plantations on the Continent, the French"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="267,1990 453,2045 2362,2021 2362,1958 2191,1937 2110,1987 267,1971" />
+                <Baseline points="283,1988 387,2007 491,2012 595,2012 699,2009 804,2009 908,2009 1012,2009 1116,2009 1220,2009 1325,2009 1429,2006 1533,2006 1637,2003 1741,2003 1846,2003 1950,2006 2054,2006 2158,2003 2262,2004 2367,2009" />
+                <TextEquiv>
+                    <Unicode>Sugar Colonies have a great advantage over ours. For as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="267,2076 2357,2121 2357,2039 2267,2021 267,2050" />
+                <Baseline points="283,2068 387,2089 491,2095 595,2092 699,2093 803,2092 907,2092 1011,2091 1115,2091 1219,2092 1323,2089 1427,2089 1531,2089 1635,2089 1739,2086 1843,2084 1947,2086 2051,2086 2155,2086 2259,2086 2364,2089" />
+                <TextEquiv>
+                    <Unicode>" our Planters pay four and a half per Cent. upon exporting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="275,2165 2343,2204 2346,2131 275,2134" />
+                <Baseline points="289,2161 392,2177 495,2180 598,2182 701,2179 804,2176 907,2176 1011,2173 1114,2173 1217,2175 1320,2170 1423,2173 1526,2173 1629,2170 1733,2170 1836,2170 1939,2170 2042,2170 2145,2170 2248,2172 2352,2167" />
+                <TextEquiv>
+                    <Unicode>" their Sugars from their own Plantations, and the French pay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="280,2252 2367,2270 2309,2191 1853,2176 280,2212" />
+                <Baseline points="295,2239 398,2257 502,2263 606,2263 710,2262 814,2260 918,2260 1022,2258 1126,2259 1230,2257 1334,2257 1437,2257 1541,2254 1645,2254 1749,2251 1853,2251 1957,2251 2061,2252 2165,2252 2269,2254 2373,2260" />
+                <TextEquiv>
+                    <Unicode>" but one per Cent. it's evident that the French may sell their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:23;}">
+                <Coords points="275,2328 472,2377 2362,2351 2286,2270 275,2296" />
+                <Baseline points="289,2325 392,2339 496,2341 600,2340 704,2343 808,2343 912,2340 1016,2341 1120,2340 1224,2340 1328,2340 1431,2336 1535,2334 1639,2337 1743,2333 1847,2331 1951,2334 2055,2335 2159,2335 2263,2337 2367,2337" />
+                <TextEquiv>
+                    <Unicode>" Sugars in our Plantations upon the Continent three and a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="275,2409 527,2461 2357,2422 2315,2362 2134,2398 2063,2351 275,2385" />
+                <Baseline points="289,2403 392,2420 496,2427 599,2424 703,2424 807,2424 910,2424 1014,2424 1117,2423 1221,2421 1325,2421 1428,2418 1532,2418 1635,2415 1739,2415 1843,2417 1946,2418 2050,2416 2153,2418 2257,2418 2361,2412" />
+                <TextEquiv>
+                    <Unicode>" half per Cent. cheaper than our own Colonies can do, granting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="275,2490 789,2550 2370,2516 2320,2435 275,2461" />
+                <Baseline points="289,2489 393,2503 497,2511 601,2507 705,2508 810,2510 914,2507 1018,2507 1122,2504 1226,2504 1331,2504 1435,2499 1539,2498 1643,2501 1747,2498 1852,2498 1956,2499 2060,2498 2164,2501 2268,2500 2373,2501" />
+                <TextEquiv>
+                    <Unicode>" that the prime Cost be equal in both Colonies; which is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="278,2579 744,2624 2336,2579 2336,2530 278,2556" />
+                <Baseline points="292,2573 394,2588 497,2594 599,2591 702,2592 804,2589 907,2588 1009,2589 1112,2591 1214,2588 1317,2588 1420,2585 1522,2584 1625,2582 1727,2584 1830,2583 1932,2582 2035,2582 2137,2582 2240,2580 2343,2564" />
+                <TextEquiv>
+                    <Unicode>" an advantage sufficient to ruin any Trade in the World. *"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="283,2692 1997,2700 2372,2684 2375,2624 286,2613" />
+                <Baseline points="298,2669 402,2679 506,2678 610,2678 714,2675 818,2676 922,2675 1026,2678 1130,2675 1234,2672 1338,2669 1442,2669 1546,2666 1650,2669 1754,2666 1858,2666 1962,2669 2066,2669 2170,2669 2274,2669 2379,2669" />
+                <TextEquiv>
+                    <Unicode>But I must take notice, That the enumerated Duty, which is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="286,2771 2370,2765 2370,2710 2218,2689 286,2708" />
+                <Baseline points="301,2761 404,2761 508,2760 612,2758 716,2758 819,2760 923,2755 1027,2755 1131,2755 1234,2754 1338,2750 1442,2749 1546,2750 1649,2752 1753,2752 1857,2750 1961,2750 2064,2749 2168,2751 2272,2752 2376,2755" />
+                <TextEquiv>
+                    <Unicode>Five Shillings per Hundred on white Sugar, and Eighteen Pence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:29;}">
+                <Coords points="288,2878 2364,2839 2336,2789 2010,2765 288,2799" />
+                <Baseline points="304,2845 407,2842 510,2845 613,2843 717,2839 820,2841 923,2836 1027,2836 1130,2836 1233,2838 1337,2836 1440,2833 1543,2833 1646,2833 1750,2833 1853,2833 1956,2833 2060,2833 2163,2833 2266,2835 2370,2836" />
+                <TextEquiv>
+                    <Unicode>per Hundred upon brown Sugar, is not there included or considered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:30;}">
+                <Coords points="283,2933 2364,2936 2364,2868 283,2886" />
+                <Baseline points="298,2925 401,2922 505,2925 608,2925 712,2925 816,2922 919,2917 1023,2916 1126,2918 1230,2919 1334,2919 1437,2916 1541,2913 1644,2911 1748,2913 1852,2914 1955,2913 2059,2916 2162,2911 2266,2916 2370,2916" />
+                <TextEquiv>
+                    <Unicode>at all, and which is nearest now Ten per Cent. more:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:31;}">
+                <Coords points="294,3020 2370,3014 2317,2933 294,2952" />
+                <Baseline points="307,3009 410,3009 513,3009 617,3009 720,3009 824,3006 927,3004 1031,3003 1134,3003 1238,3001 1341,3000 1444,3000 1548,2998 1651,2997 1755,2997 1858,2997 1962,2997 2065,3000 2169,3000 2272,3000 2376,3003" />
+                <TextEquiv>
+                    <Unicode>So that the present Difference between the French and Us, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:32;}">
+                <Coords points="280,3093 2367,3093 2367,3014 2115,3064 1819,3009 280,3056" />
+                <Baseline points="295,3093 398,3093 502,3093 606,3091 710,3090 814,3090 918,3088 1022,3087 1126,3084 1230,3084 1334,3084 1437,3084 1541,3082 1645,3082 1749,3081 1853,3081 1957,3081 2061,3081 2165,3081 2269,3084 2373,3084" />
+                <TextEquiv>
+                    <Unicode>the Duties of Sugars upon this Trade to North America, instead</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:33;}">
+                <Coords points="288,3185 2375,3182 2377,3106 291,3140" />
+                <Baseline points="304,3176 407,3176 511,3177 615,3179 719,3176 823,3173 927,3173 1031,3173 1135,3170 1239,3170 1343,3170 1446,3170 1550,3167 1654,3167 1758,3170 1862,3170 1966,3167 2070,3167 2174,3167 2278,3167 2382,3170" />
+                <TextEquiv>
+                    <Unicode>of Three and a Half per Cent. is nearest in reality Thirteen and</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:footer;}">
+            <Coords points="1133,3202 1505,3202 1505,3308 1133,3308" />
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="1153,3258 1303,3292 1353,3279 1366,3292 1421,3292 1439,3274 1481,3284 1478,3237 1450,3224 1408,3222 1395,3235 1371,3224 1353,3237 1339,3224 1263,3224 1235,3208 1151,3224" />
+                <Baseline points="1167,3254 1193,3257 1220,3262 1246,3267 1273,3270 1299,3272 1326,3272 1353,3272 1379,3270 1406,3270 1432,3272 1459,3272 1486,3272" />
+                <TextEquiv>
+                    <Unicode>* Page 352.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2325,3303 2400,3303 2400,3369 2325,3369" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2337,3361 2387,3360 2386,3330 2336,3331" />
+                <Baseline points="2337,3361 2387,3360" />
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
