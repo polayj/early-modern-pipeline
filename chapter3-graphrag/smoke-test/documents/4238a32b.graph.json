@@ -1,0 +1,1166 @@
+{
+  "doc_id": "4238a32b_naturalhistoryof00chamuoft_bw",
+  "document_node": "doc__4238a32b_naturalhistoryof00chamuoft_bw",
+  "archive_org_identifier": "naturalhistoryof00chamuoft",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "wd:Q42385",
+      "type": "PRODUCED_BY",
+      "target": "person__dr__stubbs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "TRADED_IN",
+      "target": "commodity__chocolate",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__cacao_nuts",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q59115370",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q8486",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q22062856",
+      "type": "GROWN_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "IMPORTED_TO",
+      "target": "toponym__chocolate",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__james_t__gow",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q22701",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__nieca",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q668",
+      "type": "PRODUCED_IN",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "TRADED_WITH",
+      "target": "wd:Q155",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q46",
+      "type": "IMPORTED_TO",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8486",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q79",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1370",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q1566",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q220",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q19186",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q21",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "TRADED_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q204989",
+      "type": "GROWN_IN",
+      "target": "wd:Q22701",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__mundy",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q766",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q67494",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q96",
+      "type": "GROWN_IN",
+      "target": "wd:Q811",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q137654130",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sultan_mahomet_cafvin",
+      "type": "GOVERNED",
+      "target": "wd:Q794",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "GROWN_IN",
+      "target": "wd:Q96",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q59115370",
+      "type": "EXPORTED_FROM",
+      "target": "toponym__cacao_nuts",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83971",
+      "type": "EXPORTED_FROM",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__mr__hughes",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "PRODUCED_IN",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "GROWN_IN",
+      "target": "wd:Q83971",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q137654130",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q22701",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q45",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__chocolate",
+      "type": "PRODUCED_BY",
+      "target": "commodity__mr__hughes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "GROWN_IN",
+      "target": "toponym__chocolate",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "TRADED_IN",
+      "target": "wd:Q184357",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q668",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q179351",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q84",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q79",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q846686",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__hughes",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q213137",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q185111",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "TRAVELED_TO",
+      "target": "toponym__mr__gage",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q42385",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q766",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q19186",
+      "type": "GROWN_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q204989",
+      "type": "GROWN_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83971",
+      "type": "GROWN_IN",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83971",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q46",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "TRADED_IN",
+      "target": "wd:Q29520",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q22701",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q846686",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q137654130",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q8486",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__chocolate",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "GROWN_IN",
+      "target": "toponym__cacao_nuts",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q31945",
+      "type": "GROWN_IN",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q21",
+      "type": "TRADED_IN",
+      "target": "toponym__chocolate",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1044394",
+      "type": "TRADED_IN",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "TRADED_IN",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "EXPORTED_FROM",
+      "target": "commodity__ambergrase",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q155",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q46",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q96",
+      "type": "TRADED_IN",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q46",
+      "type": "TRADED_IN",
+      "target": "toponym__thee",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q170603",
+      "type": "TRADED_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q96",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q317088",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "NATIVE_OF",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1057828",
+      "type": "CONSUMED_IN",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3520717",
+      "type": "COMMENDED_BY",
+      "target": "person__dr__needham",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__chocolate",
+      "type": "USED_BY",
+      "target": "person__dr__mundy",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3520717",
+      "type": "PRAISED_BY",
+      "target": "person__mr__ray",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7217716",
+      "type": "TREATED_BY",
+      "target": "wd:Q538065",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q42385",
+      "type": "OBSERVED_BY",
+      "target": "person__mr__hughes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q317088",
+      "type": "DISCUSSED_BY",
+      "target": "person__captain_graunt",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__chocolate",
+      "type": "DISCUSSED_BY",
+      "target": "person__dr__stubbs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__firr",
+      "type": "DISCUSSED_BY",
+      "target": "person__mr__ray",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "DISPUTED_BY",
+      "target": "wd:Q79972",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "DISPUTED_BY",
+      "target": "wd:Q67494",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "TESTED_BY",
+      "target": "person__dr__willis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3520717",
+      "type": "WRITTEN_ABOUT_BY",
+      "target": "person__joh__bauhin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "PRAISED_BY",
+      "target": "person__mr__boyl",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__chocolate",
+      "type": "CONSUMED_BY",
+      "target": "person__mr__gage",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "CONSUMED_BY",
+      "target": "wd:Q336653",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q42385",
+      "type": "DISCUSSED_BY",
+      "target": "person__mr__gage",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8486",
+      "type": "DISCUSSED_BY",
+      "target": "person__dr__troutbeck",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q22701",
+      "type": "DISCUSSED_BY",
+      "target": "person__joh__bauhin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "DISCUSSED_BY",
+      "target": "person__dr__willis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__stubbs",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__hughes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__stubbs",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q5076154",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__benjamin_scarffius",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__joh__michael",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__ray",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__needham",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__thee",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q67494",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__hughes",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__grew",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5076154",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__ray",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__elder_tree",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__croon",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q67494",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__martyn_blochwitz",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__firr",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q5076154",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q317088",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__willis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__willis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q1057828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q46",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q1370",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1057828",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__hildersham",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q67494",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q668",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q42385",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "commodity__ambergrase",
+      "label": "Commodity",
+      "name": "Ambergrase",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__cacao_nuts",
+      "label": "Commodity",
+      "name": "Cacao Nuts",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__chocolate",
+      "label": "Commodity",
+      "name": "Chocolate",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__elder_tree",
+      "label": "Commodity",
+      "name": "Elder Tree",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__firr",
+      "label": "Commodity",
+      "name": "Firr",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__hildersham",
+      "label": "Commodity",
+      "name": "Hildersham",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__mr__hughes",
+      "label": "Commodity",
+      "name": "Mr. Hughes",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__nieca",
+      "label": "Commodity",
+      "name": "Nieca",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__thee",
+      "label": "Commodity",
+      "name": "THEE",
+      "wd_label": ""
+    },
+    {
+      "id": "person__benjamin_scarffius",
+      "label": "Person",
+      "name": "Benjamin Scarffius",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captain_graunt",
+      "label": "Person",
+      "name": "Captain Graunt",
+      "wd_label": ""
+    },
+    {
+      "id": "person__chocolate",
+      "label": "Person",
+      "name": "CHOCOLATE",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__croon",
+      "label": "Person",
+      "name": "Dr. Croon",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__grew",
+      "label": "Person",
+      "name": "Dr. Grew",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__mundy",
+      "label": "Person",
+      "name": "Dr. Mundy",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__needham",
+      "label": "Person",
+      "name": "Dr. Needham",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__stubbs",
+      "label": "Person",
+      "name": "Dr. Stubbs",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__troutbeck",
+      "label": "Person",
+      "name": "Dr. Troutbeck",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__willis",
+      "label": "Person",
+      "name": "Dr. Willis",
+      "wd_label": ""
+    },
+    {
+      "id": "person__james_t__gow",
+      "label": "Person",
+      "name": "James T. Gow",
+      "wd_label": ""
+    },
+    {
+      "id": "person__joh__bauhin",
+      "label": "Person",
+      "name": "Joh. Bauhin",
+      "wd_label": ""
+    },
+    {
+      "id": "person__joh__michael",
+      "label": "Person",
+      "name": "Joh. Michael",
+      "wd_label": ""
+    },
+    {
+      "id": "person__martyn_blochwitz",
+      "label": "Person",
+      "name": "Martyn Blochwitz",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__boyl",
+      "label": "Person",
+      "name": "Mr. Boyl",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__gage",
+      "label": "Person",
+      "name": "Mr. Gage",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__hughes",
+      "label": "Person",
+      "name": "Mr. Hughes",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__ray",
+      "label": "Person",
+      "name": "Mr. Ray",
+      "wd_label": ""
+    },
+    {
+      "id": "person__sultan_mahomet_cafvin",
+      "label": "Person",
+      "name": "Sultan Mahomet Cafvin",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__cacao_nuts",
+      "label": "Location",
+      "name": "Cacao Nuts",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__chocolate",
+      "label": "Location",
+      "name": "CHOCOLATE",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__mr__gage",
+      "label": "Location",
+      "name": "Mr. Gage",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__mr__hughes",
+      "label": "Location",
+      "name": "Mr. Hughes",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__thee",
+      "label": "Location",
+      "name": "THEE",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1044394",
+      "label": "Location",
+      "name": "Carolina",
+      "wd_label": "Province of Carolina"
+    },
+    {
+      "id": "wd:Q1057828",
+      "label": "Commodity",
+      "name": "sugar",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1370",
+      "label": "Location",
+      "name": "Virginia",
+      "wd_label": "Virginia"
+    },
+    {
+      "id": "wd:Q137654130",
+      "label": "Person",
+      "name": "Christopher Wilkinson",
+      "wd_label": "Christopher Wilkinson"
+    },
+    {
+      "id": "wd:Q155",
+      "label": "Location",
+      "name": "Brazil",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1566",
+      "label": "Commodity",
+      "name": "Tobacco",
+      "wd_label": "tobacco"
+    },
+    {
+      "id": "wd:Q170603",
+      "label": "Location",
+      "name": "New Spain",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q179351",
+      "label": "Location",
+      "name": "Westminster",
+      "wd_label": "City of Westminster"
+    },
+    {
+      "id": "wd:Q184357",
+      "label": "Commodity",
+      "name": "Almonds",
+      "wd_label": "almond"
+    },
+    {
+      "id": "wd:Q185111",
+      "label": "Location",
+      "name": "Tobago",
+      "wd_label": "Tobago"
+    },
+    {
+      "id": "wd:Q19186",
+      "label": "Organization",
+      "name": "Middlesex",
+      "wd_label": "Middlesex"
+    },
+    {
+      "id": "wd:Q204989",
+      "label": "Location",
+      "name": "St. Christophers",
+      "wd_label": "Saint Kitts"
+    },
+    {
+      "id": "wd:Q21",
+      "label": "Location",
+      "name": "ENGLAND",
+      "wd_label": "England"
+    },
+    {
+      "id": "wd:Q213137",
+      "label": "Location",
+      "name": "East-Indies",
+      "wd_label": "East Indies"
+    },
+    {
+      "id": "wd:Q220",
+      "label": "Location",
+      "name": "Rome",
+      "wd_label": "Rome"
+    },
+    {
+      "id": "wd:Q22062856",
+      "label": "Location",
+      "name": "Terra Nova",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q22701",
+      "label": "Commodity",
+      "name": "Elder",
+      "wd_label": "Sambucus nigra"
+    },
+    {
+      "id": "wd:Q29520",
+      "label": "Location",
+      "name": "China",
+      "wd_label": "China"
+    },
+    {
+      "id": "wd:Q317088",
+      "label": "Commodity",
+      "name": "Negres",
+      "wd_label": "commodity"
+    },
+    {
+      "id": "wd:Q31945",
+      "label": "Location",
+      "name": "Arabie",
+      "wd_label": "Arabian Peninsula"
+    },
+    {
+      "id": "wd:Q336653",
+      "label": "Person",
+      "name": "Alexander de Rhodes",
+      "wd_label": "Alexandre de Rhodes"
+    },
+    {
+      "id": "wd:Q3520717",
+      "label": "Commodity",
+      "name": "Elderberries",
+      "wd_label": "The Elderberries"
+    },
+    {
+      "id": "wd:Q42385",
+      "label": "Commodity",
+      "name": "Cacao",
+      "wd_label": "cacao"
+    },
+    {
+      "id": "wd:Q45",
+      "label": "Location",
+      "name": "Portugal",
+      "wd_label": "Portugal"
+    },
+    {
+      "id": "wd:Q46",
+      "label": "Location",
+      "name": "Europe",
+      "wd_label": "Europe"
+    },
+    {
+      "id": "wd:Q5076154",
+      "label": "Person",
+      "name": "Mr. Boyle",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q538065",
+      "label": "Person",
+      "name": "Prosper Alpinus",
+      "wd_label": "Prospero Alpini"
+    },
+    {
+      "id": "wd:Q59115370",
+      "label": "Location",
+      "name": "Carraca",
+      "wd_label": "Carracas"
+    },
+    {
+      "id": "wd:Q668",
+      "label": "Location",
+      "name": "India",
+      "wd_label": "India"
+    },
+    {
+      "id": "wd:Q669037",
+      "label": "Location",
+      "name": "West Indies",
+      "wd_label": "West Indies"
+    },
+    {
+      "id": "wd:Q67494",
+      "label": "Person",
+      "name": "Simon Pauli",
+      "wd_label": "Simon Paulli"
+    },
+    {
+      "id": "wd:Q7217716",
+      "label": "Commodity",
+      "name": "Rheum",
+      "wd_label": "Rheum"
+    },
+    {
+      "id": "wd:Q766",
+      "label": "Location",
+      "name": "Jamaica",
+      "wd_label": "Jamaica"
+    },
+    {
+      "id": "wd:Q79",
+      "label": "Location",
+      "name": "Egypt",
+      "wd_label": "Egypt"
+    },
+    {
+      "id": "wd:Q794",
+      "label": "Location",
+      "name": "Persia",
+      "wd_label": "Iran"
+    },
+    {
+      "id": "wd:Q79972",
+      "label": "Person",
+      "name": "King JAMES",
+      "wd_label": "James VI and I"
+    },
+    {
+      "id": "wd:Q811",
+      "label": "Location",
+      "name": "Nicaragua",
+      "wd_label": "Nicaragua"
+    },
+    {
+      "id": "wd:Q828",
+      "label": "Location",
+      "name": "America",
+      "wd_label": "Americas"
+    },
+    {
+      "id": "wd:Q83971",
+      "label": "Location",
+      "name": "Tartary",
+      "wd_label": "Tartary"
+    },
+    {
+      "id": "wd:Q84",
+      "label": "Location",
+      "name": "London",
+      "wd_label": "London"
+    },
+    {
+      "id": "wd:Q846686",
+      "label": "Location",
+      "name": "FLEET STREET",
+      "wd_label": "Fleet Street"
+    },
+    {
+      "id": "wd:Q8486",
+      "label": "Commodity",
+      "name": "Coffee",
+      "wd_label": "coffee"
+    },
+    {
+      "id": "wd:Q96",
+      "label": "Location",
+      "name": "Mexico",
+      "wd_label": "Mexico"
+    }
+  ]
+}

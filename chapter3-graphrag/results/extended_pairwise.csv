@@ -1,0 +1,9 @@
+System,Win rate,Wins,Games
+improved_scratchpad,0.876,141,161
+self_rag_rag,0.571,116,203
+graphrag_plus_kg,0.527,107,203
+graphrag_kg_vector,0.512,104,203
+self_rag_graphrag,0.483,98,203
+true_graphrag,0.355,72,203
+rag_only,0.236,48,203
+kg_plus_rag,0.148,30,203

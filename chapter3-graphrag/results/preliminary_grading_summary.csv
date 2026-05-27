@@ -1,0 +1,9 @@
+System,Mean Total,Stdev,n,Groundedness mean,Completeness mean,Accuracy mean,Synthesis mean,Usefulness mean
+improved_scratchpad,17.78,3.03,23,3.65,3.39,3.65,3.74,3.35
+self_rag_rag,15.40,4.41,30,2.93,2.97,3.17,3.40,2.93
+graphrag_kg_vector,14.73,2.29,30,3.10,2.90,2.77,3.03,2.93
+self_rag_graphrag,14.57,3.38,30,2.67,2.87,3.00,3.20,2.83
+graphrag_plus_kg,14.40,2.62,30,2.97,2.73,2.83,3.03,2.83
+true_graphrag,12.90,2.66,30,2.37,2.47,2.80,2.83,2.43
+rag_only,12.10,2.86,30,2.37,2.20,2.70,2.53,2.30
+kg_plus_rag,11.37,2.66,30,2.33,2.03,2.57,2.17,2.27

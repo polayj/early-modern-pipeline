@@ -1,0 +1,445 @@
+[
+  {
+    "question_num": 1,
+    "question": "How was sugar produced on Caribbean plantations?",
+    "tier": 1,
+    "mapping": {
+      "B": "kg_plus_rag",
+      "D": "graphrag_plus_kg",
+      "E": "graphrag_kg_vector",
+      "C": "true_graphrag",
+      "G": "self_rag_graphrag",
+      "A": "rag_only",
+      "F": "self_rag_rag"
+    }
+  },
+  {
+    "question_num": 2,
+    "question": "What commodities did Jamaica export to London?",
+    "tier": 1,
+    "mapping": {
+      "D": "graphrag_plus_kg",
+      "G": "self_rag_graphrag",
+      "C": "true_graphrag",
+      "E": "graphrag_kg_vector",
+      "A": "rag_only",
+      "F": "self_rag_rag",
+      "B": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 3,
+    "question": "What was indigo used for in the colonial Caribbean?",
+    "tier": 1,
+    "mapping": {
+      "D": "graphrag_plus_kg",
+      "C": "true_graphrag",
+      "E": "graphrag_kg_vector",
+      "B": "kg_plus_rag",
+      "F": "self_rag_rag",
+      "G": "self_rag_graphrag",
+      "A": "rag_only"
+    }
+  },
+  {
+    "question_num": 4,
+    "question": "What was the price of sugar in 1720?",
+    "tier": 1,
+    "mapping": {
+      "C": "true_graphrag",
+      "F": "self_rag_rag",
+      "A": "rag_only",
+      "D": "graphrag_plus_kg",
+      "G": "self_rag_graphrag",
+      "B": "kg_plus_rag",
+      "E": "graphrag_kg_vector"
+    }
+  },
+  {
+    "question_num": 5,
+    "question": "How did sugar exports from Jamaica compare between 1700 and 1750?",
+    "tier": 2,
+    "mapping": {
+      "G": "self_rag_graphrag",
+      "D": "graphrag_plus_kg",
+      "F": "self_rag_rag",
+      "B": "kg_plus_rag",
+      "A": "rag_only",
+      "C": "true_graphrag",
+      "E": "graphrag_kg_vector"
+    }
+  },
+  {
+    "question_num": 6,
+    "question": "How did the Caribbean sugar trade evolve from the mid-17th century to the mid-18th century?",
+    "tier": 2,
+    "mapping": {
+      "F": "self_rag_rag",
+      "A": "rag_only",
+      "D": "graphrag_plus_kg",
+      "E": "graphrag_kg_vector",
+      "B": "kg_plus_rag",
+      "G": "self_rag_graphrag",
+      "C": "true_graphrag"
+    }
+  },
+  {
+    "question_num": 7,
+    "question": "How did the economic relationship between the Caribbean colonies and the North American colonies develop over time?",
+    "tier": 2,
+    "mapping": {
+      "E": "graphrag_kg_vector",
+      "F": "self_rag_rag",
+      "B": "kg_plus_rag",
+      "C": "true_graphrag",
+      "G": "self_rag_graphrag",
+      "D": "graphrag_plus_kg",
+      "A": "rag_only"
+    }
+  },
+  {
+    "question_num": 8,
+    "question": "When did Jamaica overtake Barbados as Britain's primary sugar colony?",
+    "tier": 2,
+    "mapping": {
+      "C": "true_graphrag",
+      "G": "self_rag_graphrag",
+      "B": "kg_plus_rag",
+      "H": "improved_scratchpad",
+      "E": "graphrag_kg_vector",
+      "D": "graphrag_plus_kg",
+      "F": "self_rag_rag",
+      "A": "rag_only"
+    }
+  },
+  {
+    "question_num": 9,
+    "question": "Which colony's exports grew fastest between 1696 and 1730?",
+    "tier": 2,
+    "mapping": {
+      "B": "kg_plus_rag",
+      "A": "rag_only",
+      "D": "graphrag_plus_kg",
+      "C": "true_graphrag",
+      "H": "improved_scratchpad",
+      "F": "self_rag_rag",
+      "G": "self_rag_graphrag",
+      "E": "graphrag_kg_vector"
+    }
+  },
+  {
+    "question_num": 10,
+    "question": "Which decade saw the greatest increase in Caribbean cotton exports to London?",
+    "tier": 2,
+    "mapping": {
+      "E": "graphrag_kg_vector",
+      "D": "graphrag_plus_kg",
+      "G": "self_rag_graphrag",
+      "C": "true_graphrag",
+      "H": "improved_scratchpad",
+      "F": "self_rag_rag",
+      "A": "rag_only",
+      "B": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 11,
+    "question": "How did the East India Company's activities intersect with Caribbean commerce?",
+    "tier": 3,
+    "mapping": {
+      "E": "graphrag_kg_vector",
+      "H": "improved_scratchpad",
+      "A": "rag_only",
+      "F": "self_rag_rag",
+      "G": "self_rag_graphrag",
+      "C": "true_graphrag",
+      "D": "graphrag_plus_kg",
+      "B": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 12,
+    "question": "How were Caribbean governors connected to metropolitan commercial interests?",
+    "tier": 3,
+    "mapping": {
+      "G": "self_rag_graphrag",
+      "D": "graphrag_plus_kg",
+      "E": "graphrag_kg_vector",
+      "A": "rag_only",
+      "C": "true_graphrag",
+      "H": "improved_scratchpad",
+      "B": "kg_plus_rag",
+      "F": "self_rag_rag"
+    }
+  },
+  {
+    "question_num": 13,
+    "question": "How were the fortunes of smaller islands like Nevis and Montserrat tied to larger colonies like Jamaica and Barbados?",
+    "tier": 3,
+    "mapping": {
+      "G": "self_rag_graphrag",
+      "A": "rag_only",
+      "E": "graphrag_kg_vector",
+      "C": "true_graphrag",
+      "F": "self_rag_rag",
+      "H": "improved_scratchpad",
+      "B": "kg_plus_rag",
+      "D": "graphrag_plus_kg"
+    }
+  },
+  {
+    "question_num": 14,
+    "question": "What connections existed between absentee plantation owners in London and colonial governance in the Caribbean?",
+    "tier": 3,
+    "mapping": {
+      "D": "graphrag_plus_kg",
+      "C": "true_graphrag",
+      "E": "graphrag_kg_vector",
+      "H": "improved_scratchpad",
+      "B": "kg_plus_rag",
+      "A": "rag_only",
+      "G": "self_rag_graphrag",
+      "F": "self_rag_rag"
+    }
+  },
+  {
+    "question_num": 15,
+    "question": "What institutional networks connected the Caribbean plantation economy to British Parliament?",
+    "tier": 3,
+    "mapping": {
+      "D": "graphrag_plus_kg",
+      "F": "self_rag_rag",
+      "G": "self_rag_graphrag",
+      "C": "true_graphrag",
+      "H": "improved_scratchpad",
+      "B": "kg_plus_rag",
+      "A": "rag_only",
+      "E": "graphrag_kg_vector"
+    }
+  },
+  {
+    "question_num": 16,
+    "question": "What was the relationship between the sugar trade and the provisioning trade from North America?",
+    "tier": 3,
+    "mapping": {
+      "A": "graphrag_plus_kg",
+      "B": "kg_plus_rag",
+      "C": "rag_only",
+      "D": "graphrag_kg_vector",
+      "E": "self_rag_rag",
+      "F": "true_graphrag",
+      "G": "improved_scratchpad",
+      "H": "self_rag_graphrag"
+    }
+  },
+  {
+    "question_num": 17,
+    "question": "Which individuals appear in contexts of both scientific inquiry and colonial exploitation?",
+    "tier": 3,
+    "mapping": {
+      "A": "self_rag_graphrag",
+      "B": "true_graphrag",
+      "C": "self_rag_rag",
+      "D": "graphrag_kg_vector",
+      "E": "graphrag_plus_kg",
+      "F": "improved_scratchpad",
+      "G": "rag_only",
+      "H": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 18,
+    "question": "Which merchant families or firms operated across multiple Caribbean colonies simultaneously?",
+    "tier": 3,
+    "mapping": {
+      "A": "graphrag_plus_kg",
+      "B": "true_graphrag",
+      "C": "self_rag_rag",
+      "D": "improved_scratchpad",
+      "E": "rag_only",
+      "F": "graphrag_kg_vector",
+      "G": "kg_plus_rag",
+      "H": "self_rag_graphrag"
+    }
+  },
+  {
+    "question_num": 19,
+    "question": "How did competition between European empires drive changes in British Caribbean economic policy?",
+    "tier": 4,
+    "mapping": {
+      "E": "graphrag_kg_vector",
+      "H": "improved_scratchpad",
+      "B": "kg_plus_rag",
+      "A": "rag_only",
+      "D": "graphrag_plus_kg",
+      "F": "self_rag_rag",
+      "G": "self_rag_graphrag",
+      "C": "true_graphrag"
+    }
+  },
+  {
+    "question_num": 20,
+    "question": "How did mercantilist thinking shape British policy toward Caribbean colonies, and where did practice diverge from theory?",
+    "tier": 4,
+    "mapping": {
+      "A": "improved_scratchpad",
+      "B": "self_rag_graphrag",
+      "C": "kg_plus_rag",
+      "D": "self_rag_rag",
+      "E": "rag_only",
+      "F": "graphrag_kg_vector",
+      "G": "true_graphrag",
+      "H": "graphrag_plus_kg"
+    }
+  },
+  {
+    "question_num": 21,
+    "question": "How did natural environment and geography shape which colonies produced which commodities?",
+    "tier": 4,
+    "mapping": {
+      "A": "rag_only",
+      "B": "self_rag_rag",
+      "C": "true_graphrag",
+      "D": "improved_scratchpad",
+      "E": "self_rag_graphrag",
+      "F": "graphrag_plus_kg",
+      "G": "graphrag_kg_vector",
+      "H": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 22,
+    "question": "How did the logistics of Atlantic shipping constrain or enable Caribbean trade?",
+    "tier": 4,
+    "mapping": {
+      "A": "improved_scratchpad",
+      "B": "kg_plus_rag",
+      "C": "graphrag_kg_vector",
+      "D": "self_rag_graphrag",
+      "E": "true_graphrag",
+      "F": "graphrag_plus_kg",
+      "G": "rag_only",
+      "H": "self_rag_rag"
+    }
+  },
+  {
+    "question_num": 23,
+    "question": "What economic arguments did contemporaries use to justify or criticize the plantation system?",
+    "tier": 4,
+    "mapping": {
+      "A": "self_rag_rag",
+      "B": "self_rag_graphrag",
+      "C": "kg_plus_rag",
+      "D": "improved_scratchpad",
+      "E": "graphrag_kg_vector",
+      "F": "true_graphrag",
+      "G": "graphrag_plus_kg",
+      "H": "rag_only"
+    }
+  },
+  {
+    "question_num": 24,
+    "question": "What evidence exists for how enslaved people's labour was organized differently across commodities and colonies?",
+    "tier": 4,
+    "mapping": {
+      "A": "graphrag_plus_kg",
+      "B": "self_rag_graphrag",
+      "C": "rag_only",
+      "D": "true_graphrag",
+      "E": "self_rag_rag",
+      "F": "improved_scratchpad",
+      "G": "graphrag_kg_vector",
+      "H": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 25,
+    "question": "What factors explain why some Caribbean commodities (like ginger or indigo) declined while others (like sugar and rum) flourished?",
+    "tier": 4,
+    "mapping": {
+      "A": "rag_only",
+      "B": "self_rag_rag",
+      "C": "graphrag_plus_kg",
+      "D": "graphrag_kg_vector",
+      "E": "improved_scratchpad",
+      "F": "true_graphrag",
+      "G": "self_rag_graphrag",
+      "H": "kg_plus_rag"
+    }
+  },
+  {
+    "question_num": 26,
+    "question": "What role did credit, debt, and metropolitan finance play in sustaining the plantation economy?",
+    "tier": 4,
+    "mapping": {
+      "A": "graphrag_plus_kg",
+      "B": "improved_scratchpad",
+      "C": "graphrag_kg_vector",
+      "D": "rag_only",
+      "E": "self_rag_graphrag",
+      "F": "kg_plus_rag",
+      "G": "true_graphrag",
+      "H": "self_rag_rag"
+    }
+  },
+  {
+    "question_num": 27,
+    "question": "How do the perspectives of colonial administrators differ from those of metropolitan merchants when describing the same trade?",
+    "tier": 5,
+    "mapping": {
+      "B": "kg_plus_rag",
+      "G": "self_rag_graphrag",
+      "A": "rag_only",
+      "D": "graphrag_plus_kg",
+      "F": "self_rag_rag",
+      "E": "graphrag_kg_vector",
+      "H": "improved_scratchpad",
+      "C": "true_graphrag"
+    }
+  },
+  {
+    "question_num": 28,
+    "question": "What can we learn about unofficial or contraband trade from sources that primarily document legal commerce?",
+    "tier": 5,
+    "mapping": {
+      "A": "graphrag_plus_kg",
+      "B": "graphrag_kg_vector",
+      "C": "kg_plus_rag",
+      "D": "improved_scratchpad",
+      "E": "true_graphrag",
+      "F": "self_rag_graphrag",
+      "G": "rag_only",
+      "H": "self_rag_rag"
+    }
+  },
+  {
+    "question_num": 29,
+    "question": "What do minor or unusual commodities (tortoiseshell, lime juice, lignum vitae) reveal about the Caribbean economy that sugar alone does not?",
+    "tier": 5,
+    "mapping": {
+      "A": "graphrag_plus_kg",
+      "B": "self_rag_graphrag",
+      "C": "graphrag_kg_vector",
+      "D": "true_graphrag",
+      "E": "kg_plus_rag",
+      "F": "rag_only",
+      "G": "self_rag_rag",
+      "H": "improved_scratchpad"
+    }
+  },
+  {
+    "question_num": 30,
+    "question": "Where do the quantitative customs records and the narrative sources contradict each other, and what might explain those contradictions?",
+    "tier": 5,
+    "mapping": {
+      "A": "self_rag_graphrag",
+      "B": "true_graphrag",
+      "C": "graphrag_plus_kg",
+      "D": "kg_plus_rag",
+      "E": "self_rag_rag",
+      "F": "graphrag_kg_vector",
+      "G": "rag_only",
+      "H": "improved_scratchpad"
+    }
+  }
+]

@@ -5,7 +5,7 @@ Code, datasets, and evaluation results accompanying the Master's thesis
 
 This repository replaces what would have been a printed appendix. It contains the OCR gold standard, the EarlyModernNER model and its training data, the GraphRAG retrieval pipeline, and reproducible evaluation harnesses for all three chapters.
 
-> **Status**: Pre-defense release (v0.1.0). The full Chapter 3 artifacts (Neo4j graph, ChromaDB index, 20K-corpus OCR outputs, model weights) are being assembled on a separate machine in Phase B and will be deposited on Zenodo after the thesis defense. DOI links below currently read `[DOI pending]` and will be filled in then.
+> **Status**: Pre-defense release (**v0.9.0**), prepared so examiners can cite the supplementary materials by DOI before the defense. Chapter 3's figures, blind-grading results, citation manifest, graph schema, evaluation queries, and smoke test are now in the repository. The large artifacts (Neo4j knowledge graph, ChromaDB index, OCR outputs, EarlyModernNER weights) are packaged as Zenodo deposits; their DOIs are filled into the table below once the deposits are published.
 
 ---
 

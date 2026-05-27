@@ -1,0 +1,1100 @@
+{
+  "doc_id": "e7d32ccb_fullrelationofan00bourrich_bw",
+  "document_node": "doc__e7d32ccb_fullrelationofan00bourrich_bw",
+  "archive_org_identifier": "fullrelationofan00bourrich",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "toponym__scoday",
+      "type": "TRAVELED_TO",
+      "target": "toponym__porta_vella",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__scoday",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q1757376",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1757376",
+      "type": "TRAVELED_TO",
+      "target": "toponym__pinos",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q23442",
+      "type": "TRAVELED_TO",
+      "target": "toponym__porta_vella",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__scoday",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q23442",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q315490",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__saint_john_de_portrizo",
+      "type": "TRAVELED_TO",
+      "target": "toponym__river_della_hatch",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15645384",
+      "type": "GROWN_IN",
+      "target": "wd:Q23442",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__canadoe_wine",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q23442",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q99",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15645384",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q23442",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__gourdanes",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q657461",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q23442",
+      "type": "PRODUCED_IN",
+      "target": "commodity__canadoe_wine",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__porta_vella",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q99",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__edward_h__taylor",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__porta_vella",
+      "type": "HAS_LOCATION",
+      "target": "toponym__gourdanes",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__s__john_decrus",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__hamseroth",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q23442",
+      "type": "HAS_LOCATION",
+      "target": "toponym__river_della_hatch",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__gordeloppa",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pinos",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__trigonies",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q12024",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__grand_canadoes",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__gourdanes",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__hamseroth",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1757376",
+      "type": "TRAVELED_TO",
+      "target": "toponym__scoday",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q36517",
+      "type": "PARTNERED_WITH",
+      "target": "wd:Q315490",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q36517",
+      "type": "LED",
+      "target": "wd:Q315490",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q23442",
+      "type": "PRODUCED",
+      "target": "commodity__canadoe_wine",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43382",
+      "type": "TRAVELED_TO",
+      "target": "toponym__grand_canadoes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76287132",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q43382",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__saint_john_de_portrizo",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q23442",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskerfield",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q43382",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__savoa",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__saint_john_de_portrizo",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__geo__henry_guiney_esq_",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__edward_h__taylor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_stanton",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q7207",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1757376",
+      "type": "SHIPPED_TO",
+      "target": "toponym__porta_vella",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q657461",
+      "type": "SHIPPED_TO",
+      "target": "toponym__gemico",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q804",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q41354",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q23442",
+      "type": "GROWN_IN",
+      "target": "wd:Q1566",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__rotmido",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__gordeloppa",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__porta_vella",
+      "type": "DIED_IN",
+      "target": "wd:Q36517",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1563",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q32852791",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1757376",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__scoday",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1657246",
+      "type": "SHIPPED_TO",
+      "target": "toponym__barbara",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q804",
+      "type": "EXPORTED_FROM",
+      "target": "toponym__meale",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76287132",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q36517",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q804",
+      "type": "IMPORTED_TO",
+      "target": "toponym__linnen-cloth",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__grand_canadoes",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q21053067",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__savoa",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__gordeloppa",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_platt",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q7207",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__a__j__taylor",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_barkley",
+      "type": "TRAVELED_TO",
+      "target": "toponym__grand_canadoes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q23442",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76287132",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q7207",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__barbara",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q43382",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1566",
+      "type": "TRADED_IN",
+      "target": "toponym__gordeloppa",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captain_nicholas_baskersfield",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q1757376",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__portricho",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__saint_john_de_portrizo",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskerfield",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q804",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q804",
+      "type": "TRAVELED_TO",
+      "target": "toponym__scoday",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__cape_s__anthony",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__cape_corent_s",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7207",
+      "type": "EMPLOYED_BY",
+      "target": "person__sir_thomas_baskerfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__saint_john_de_portrizo",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__portricho",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23442",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__river_della_hatch",
+      "type": "HAS_LOCATION",
+      "target": "toponym__gordeloppa",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__mononalla",
+      "type": "HAS_TYPE",
+      "target": "wd:Q23442",
+      "crm_property": "P2",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q315490",
+      "type": "PARTNERED_WITH",
+      "target": "person__sir_thomas_baskerfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskerfield",
+      "type": "PARTNERED_WITH",
+      "target": "wd:Q76287132",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76287132",
+      "type": "PARTNERED_WITH",
+      "target": "person__captaine_stratford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_chichester",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_stanton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_stanton",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_fenton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_stratford",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__master_brut_browne",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskersfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captain_nicholas_baskersfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_christopher",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_power",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q36517",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__sir_thomas_baskersfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_power",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captain_bartley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_boswell",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_chichester",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_nicholas_baskerfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_grinstone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_ruth",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_platt",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_chichester",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_fenton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captain_stanton",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_christopher",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_christopher",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captain_bartley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76287132",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__master_brut_browne",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_barkley",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_ruth",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_platt",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_stanton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_barkley",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_boswell",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_boswell",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_stanton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_nicholas_baskerfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_ruth",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_platt",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_fenton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76287132",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_arnold_baskerfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q36517",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_grinstone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captain_stanton",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captain_bartley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q36517",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__master_brut_browne",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskersfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_christopher",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__master_brut_browne",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__sir_thomas_baskersfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskersfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_power",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__captaine_stratford",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__sir_thomas_baskersfield",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskersfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captain_bartley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__sir_thomas_baskerfield",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__captaine_barkley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "commodity__canadoe_wine",
+      "label": "Commodity",
+      "name": "Canadoe Wine",
+      "wd_label": ""
+    },
+    {
+      "id": "person__a__j__taylor",
+      "label": "Person",
+      "name": "A. J. Taylor",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captain_bartley",
+      "label": "Person",
+      "name": "Captain Bartley",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captain_nicholas_baskersfield",
+      "label": "Person",
+      "name": "Captain Nicholas Baskersfield",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captain_stanton",
+      "label": "Person",
+      "name": "Captain Stanton",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_arnold_baskerfield",
+      "label": "Person",
+      "name": "Captaine Arnold Baskerfield",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_barkley",
+      "label": "Person",
+      "name": "Captaine Barkley",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_boswell",
+      "label": "Person",
+      "name": "Captaine Boswell",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_chichester",
+      "label": "Person",
+      "name": "Captaine Chichester",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_christopher",
+      "label": "Person",
+      "name": "Captaine Christopher",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_fenton",
+      "label": "Person",
+      "name": "Captaine Fenton",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_grinstone",
+      "label": "Person",
+      "name": "Captaine Grinstone",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_nicholas_baskerfield",
+      "label": "Person",
+      "name": "Captaine Nicholas Baskerfield",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_platt",
+      "label": "Person",
+      "name": "Captaine Platt",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_power",
+      "label": "Person",
+      "name": "Captaine Power",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_ruth",
+      "label": "Person",
+      "name": "Captaine Ruth",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_stanton",
+      "label": "Person",
+      "name": "Captaine Stanton",
+      "wd_label": ""
+    },
+    {
+      "id": "person__captaine_stratford",
+      "label": "Person",
+      "name": "Captaine Stratford",
+      "wd_label": ""
+    },
+    {
+      "id": "person__edward_h__taylor",
+      "label": "Person",
+      "name": "Edward H. Taylor",
+      "wd_label": ""
+    },
+    {
+      "id": "person__geo__henry_guiney_esq_",
+      "label": "Person",
+      "name": "Geo. Henry Guiney Esq.",
+      "wd_label": ""
+    },
+    {
+      "id": "person__master_brut_browne",
+      "label": "Person",
+      "name": "Master Brut Browne",
+      "wd_label": ""
+    },
+    {
+      "id": "person__porta_vella",
+      "label": "Person",
+      "name": "Porta Vella",
+      "wd_label": ""
+    },
+    {
+      "id": "person__sir_thomas_baskerfield",
+      "label": "Person",
+      "name": "Sir Thomas Baskerfield",
+      "wd_label": ""
+    },
+    {
+      "id": "person__sir_thomas_baskersfield",
+      "label": "Person",
+      "name": "Sir Thomas Baskersfield",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__barbara",
+      "label": "Location",
+      "name": "Barbara",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__cape_corent_s",
+      "label": "Location",
+      "name": "Cape Corent's",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__cape_s__anthony",
+      "label": "Location",
+      "name": "Cape S. Anthony",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__edward_h__taylor",
+      "label": "Location",
+      "name": "Edward H. Taylor",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__gemico",
+      "label": "Location",
+      "name": "Gemico",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__gordeloppa",
+      "label": "Location",
+      "name": "Gordeloppa",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__gourdanes",
+      "label": "Location",
+      "name": "Gourdanes",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__grand_canadoes",
+      "label": "Location",
+      "name": "Grand Canadoes",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__hamseroth",
+      "label": "Location",
+      "name": "Hamseroth",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__linnen-cloth",
+      "label": "Location",
+      "name": "Linnen-Cloth",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__meale",
+      "label": "Location",
+      "name": "Meale",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__mononalla",
+      "label": "Location",
+      "name": "Mononalla",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__pinos",
+      "label": "Location",
+      "name": "Pinos",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__porta_vella",
+      "label": "Location",
+      "name": "Porta Vella",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__portricho",
+      "label": "Location",
+      "name": "Portricho",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__river_della_hatch",
+      "label": "Location",
+      "name": "River della hatch",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__rotmido",
+      "label": "Location",
+      "name": "Rotmido",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__s__john_decrus",
+      "label": "Location",
+      "name": "S. John Decrus",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__saint_john_de_portrizo",
+      "label": "Location",
+      "name": "Saint John de Portrizo",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__savoa",
+      "label": "Location",
+      "name": "Savoa",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__scoday",
+      "label": "Location",
+      "name": "Scoday",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__trigonies",
+      "label": "Location",
+      "name": "Trigonies",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q12024",
+      "label": "Commodity",
+      "name": "Pines",
+      "wd_label": "Pinus"
+    },
+    {
+      "id": "wd:Q1563",
+      "label": "Location",
+      "name": "Havana",
+      "wd_label": "Havana"
+    },
+    {
+      "id": "wd:Q15645384",
+      "label": "Commodity",
+      "name": "wheat",
+      "wd_label": "wheat"
+    },
+    {
+      "id": "wd:Q1566",
+      "label": "Commodity",
+      "name": "Tobacco",
+      "wd_label": "tobacco"
+    },
+    {
+      "id": "wd:Q1657246",
+      "label": "Location",
+      "name": "New-found-land",
+      "wd_label": "New Found Land"
+    },
+    {
+      "id": "wd:Q1757376",
+      "label": "Location",
+      "name": "Nombre de dios",
+      "wd_label": "Nombre de Dios"
+    },
+    {
+      "id": "wd:Q21053067",
+      "label": "Location",
+      "name": "Weymouth",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q23442",
+      "label": "Location",
+      "name": "Îles",
+      "wd_label": "island"
+    },
+    {
+      "id": "wd:Q315490",
+      "label": "Person",
+      "name": "Sir John Hawkins",
+      "wd_label": "John Hawkins"
+    },
+    {
+      "id": "wd:Q32852791",
+      "label": "Location",
+      "name": "Cape Florida",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q36517",
+      "label": "Person",
+      "name": "Sir Francis Drake",
+      "wd_label": "Francis Drake"
+    },
+    {
+      "id": "wd:Q41354",
+      "label": "Commodity",
+      "name": "Vinegar",
+      "wd_label": "vinegar"
+    },
+    {
+      "id": "wd:Q43382",
+      "label": "Location",
+      "name": "Plymouth",
+      "wd_label": "Plymouth"
+    },
+    {
+      "id": "wd:Q657461",
+      "label": "Location",
+      "name": "Cartagena",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q7207",
+      "label": "Person",
+      "name": "Queen ELIZABETH",
+      "wd_label": "Elizabeth I of England"
+    },
+    {
+      "id": "wd:Q76287132",
+      "label": "Person",
+      "name": "Sir Nicholas Clifford",
+      "wd_label": "Sir Nicholas Clifford"
+    },
+    {
+      "id": "wd:Q804",
+      "label": "Location",
+      "name": "Panama",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q84",
+      "label": "Location",
+      "name": "London",
+      "wd_label": "London"
+    },
+    {
+      "id": "wd:Q99",
+      "label": "Location",
+      "name": "CALIFORNIA",
+      "wd_label": "California"
+    }
+  ]
+}

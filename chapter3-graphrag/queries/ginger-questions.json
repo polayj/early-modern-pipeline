@@ -1,0 +1,10 @@
+{
+  "description": "The 'ginger' commodity case-study questions used in Chapter 3 as a focused qualitative probe. Source: pipeline/06_query/eval_improved.py (GINGER_QUESTIONS).",
+  "questions": [
+    {"id": "G1", "label": "Ginger", "question": "How much ginger did the British Caribbean colonies export between 1696 and 1755, and how did volumes change over time?"},
+    {"id": "G2", "label": "Ginger", "question": "Why was ginger one of the most traded Caribbean commodities by volume, yet it receives little attention in contemporary accounts compared to sugar?"},
+    {"id": "G3", "label": "Ginger", "question": "How was ginger cultivated and processed in the Caribbean, and how did its labour requirements compare to sugar production?"},
+    {"id": "G4", "label": "Ginger", "question": "How did Caribbean ginger compete with East Indian ginger in European markets?"},
+    {"id": "G5", "label": "Ginger", "question": "What explanations do the sources offer for the decline of ginger exports from the Caribbean after the 1730s?"}
+  ]
+}

@@ -1,0 +1,1106 @@
+{
+  "doc_id": "2209b096_americangeography00mors_bw",
+  "document_node": "doc__2209b096_americangeography00mors_bw",
+  "archive_org_identifier": "americangeography00mors",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "toponym__east_and_west_florida",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q49",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q15",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q992311",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q771",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q48",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1428",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1952",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q155",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__castile_del_oro",
+      "type": "FALLS_WITHIN",
+      "target": "wd:2748388",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q81398",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q1890419",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q419",
+      "type": "TRADED_WITH",
+      "target": "wd:Q298",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q298",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q419",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q45",
+      "type": "TRADED_WITH",
+      "target": "wd:Q155",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q45",
+      "type": "TRADED_WITH",
+      "target": "wd:Q29",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1603",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__western_territory",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1456",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1428",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "TRADED_WITH",
+      "target": "wd:Q214102",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q177567",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q650667",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18389",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q1387",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "TRADED_WITH",
+      "target": "wd:Q34",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q779",
+      "type": "TRADED_WITH",
+      "target": "toponym__west_india_islands",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q6583",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1456",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q2334526",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "TRADED_WITH",
+      "target": "wd:Q142",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43382",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q779",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18389",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q1603",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q733",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q142",
+      "type": "TRADED_WITH",
+      "target": "wd:Q34",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "TRADED_WITH",
+      "target": "wd:Q29520",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q658054",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q921283",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q650667",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q177567",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__west_india_islands",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q46",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q60",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q183",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q49042",
+      "type": "TRAVELED_TO",
+      "target": "toponym__west_india_islands",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q658054",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q29",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q46",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q771",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1428",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q298",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q46",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__indiana",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1603",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q45",
+      "type": "TRADED_WITH",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1387",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q49",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1603",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q49",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q28",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q46",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__main",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q16",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q29",
+      "type": "GOVERNED",
+      "target": "wd:Q658054",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q298",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q29",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q102911",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16",
+      "type": "TRADED_WITH",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__east_and_west_florida",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q29",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q155",
+      "type": "HAS_OWNER",
+      "target": "wd:Q45",
+      "crm_property": "P52",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43382",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q36517",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18389",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q38872",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q46",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q13427561",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q15",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q794",
+      "type": "GOVERNED",
+      "target": "wd:Q83971",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83971",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q48",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q501768",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q6583",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q102911",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q183",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q102911",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1686158",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q127430189",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q46",
+      "type": "EXPORTED_FROM",
+      "target": "toponym__west_india_islands",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q45",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q142",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q669037",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q23666",
+      "type": "GOVERNED",
+      "target": "wd:Q60",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__geo_malling_esq_",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__joann_sößther",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q29",
+      "type": "GOVERNED",
+      "target": "wd:Q921283",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q29",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q298",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q142",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q669037",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__main",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q30",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__vermont",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18389",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:2748388",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q29",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__castile_del_oro",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q29",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q419",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q779",
+      "type": "TRADED_WITH",
+      "target": "wd:Q16",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1387",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q43382",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q60",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q102911",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q13427561",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q49042",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q18389",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18389",
+      "type": "TRAVELED_TO",
+      "target": "toponym__western_territory",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q29",
+      "type": "GOVERNED",
+      "target": "wd:Q177567",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q29",
+      "type": "GOVERNED",
+      "target": "toponym__east_and_west_florida",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q34",
+      "type": "OPERATED_IN",
+      "target": "wd:Q669037",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43",
+      "type": "TRADED_WITH",
+      "target": "wd:Q102911",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q60",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q127430189",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q60",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1428",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q46",
+      "type": "TRADED_WITH",
+      "target": "wd:Q34",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q35",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q46",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1387",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q30",
+      "type": "TRADED_WITH",
+      "target": "wd:Q142",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q34",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q46",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q60",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1456",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q29",
+      "type": "GOVERNED",
+      "target": "wd:Q419",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__west_india_islands",
+      "type": "CONTROLLED_BY",
+      "target": "wd:Q142",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q38872",
+      "type": "GOVERNED",
+      "target": "wd:Q36",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7494424",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q1686158",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q183",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q60",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1952",
+      "type": "TRADED_WITH",
+      "target": "wd:Q142",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q298",
+      "type": "FALLS_WITHIN",
+      "target": "wd:2748388",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q155",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q298",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q38",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q29",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q36",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q38",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "person__geo_malling_esq_",
+      "label": "Person",
+      "name": "Geo Malling Esq.",
+      "wd_label": ""
+    },
+    {
+      "id": "person__joann_sößther",
+      "label": "Person",
+      "name": "Joann Sößther",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__castile_del_oro",
+      "label": "Location",
+      "name": "Castile del Oro",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__east_and_west_florida",
+      "label": "Location",
+      "name": "East and West Florida",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__indiana",
+      "label": "Location",
+      "name": "Indiana",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__main",
+      "label": "Location",
+      "name": "Main",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__vermont",
+      "label": "Location",
+      "name": "Vermont",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__west_india_islands",
+      "label": "Location",
+      "name": "West India Islands",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__western_territory",
+      "label": "Location",
+      "name": "WESTERN TERRITORY",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:2748388",
+      "label": "Location",
+      "name": "Terra Firma",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q102911",
+      "label": "Location",
+      "name": "Holland",
+      "wd_label": "Holland"
+    },
+    {
+      "id": "wd:Q115",
+      "label": "Location",
+      "name": "Ethiopia",
+      "wd_label": "Ethiopia"
+    },
+    {
+      "id": "wd:Q127430189",
+      "label": "Location",
+      "name": "ELIZABETH TOWN",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q13427561",
+      "label": "Location",
+      "name": "Negroland",
+      "wd_label": "Negroland"
+    },
+    {
+      "id": "wd:Q1387",
+      "label": "Location",
+      "name": "Rode Island",
+      "wd_label": "Rhode Island"
+    },
+    {
+      "id": "wd:Q142",
+      "label": "Location",
+      "name": "France",
+      "wd_label": "France"
+    },
+    {
+      "id": "wd:Q1428",
+      "label": "Location",
+      "name": "Georgia",
+      "wd_label": "Georgia"
+    },
+    {
+      "id": "wd:Q1456",
+      "label": "Location",
+      "name": "South Carolina",
+      "wd_label": "South Carolina"
+    },
+    {
+      "id": "wd:Q15",
+      "label": "Location",
+      "name": "Africa",
+      "wd_label": "Africa"
+    },
+    {
+      "id": "wd:Q155",
+      "label": "Location",
+      "name": "Brazil",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q16",
+      "label": "Location",
+      "name": "Canada",
+      "wd_label": "Canada"
+    },
+    {
+      "id": "wd:Q1603",
+      "label": "Location",
+      "name": "Kentucky",
+      "wd_label": "Kentucky"
+    },
+    {
+      "id": "wd:Q1686158",
+      "label": "Person",
+      "name": "JEDIDIAH MORSE",
+      "wd_label": "Jedidiah Morse"
+    },
+    {
+      "id": "wd:Q177567",
+      "label": "Location",
+      "name": "Amazonia",
+      "wd_label": "Amazon rainforest"
+    },
+    {
+      "id": "wd:Q18",
+      "label": "Location",
+      "name": "South America",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q183",
+      "label": "Location",
+      "name": "Germany",
+      "wd_label": "Germany"
+    },
+    {
+      "id": "wd:Q18389",
+      "label": "Location",
+      "name": "NEW-ENGLAND",
+      "wd_label": "New England"
+    },
+    {
+      "id": "wd:Q1890419",
+      "label": "Location",
+      "name": "Manilla",
+      "wd_label": "manilla"
+    },
+    {
+      "id": "wd:Q1952",
+      "label": "Location",
+      "name": "Nova Scotia",
+      "wd_label": "Nova Scotia"
+    },
+    {
+      "id": "wd:Q214102",
+      "label": "Location",
+      "name": "Northern States",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q2334526",
+      "label": "Location",
+      "name": "North-Carolina",
+      "wd_label": "Province of North Carolina"
+    },
+    {
+      "id": "wd:Q23666",
+      "label": "Location",
+      "name": "Great Britain",
+      "wd_label": "Great Britain"
+    },
+    {
+      "id": "wd:Q28",
+      "label": "Location",
+      "name": "Hungaria",
+      "wd_label": "Hungary"
+    },
+    {
+      "id": "wd:Q29",
+      "label": "Location",
+      "name": "Spain",
+      "wd_label": "Spain"
+    },
+    {
+      "id": "wd:Q29520",
+      "label": "Location",
+      "name": "China",
+      "wd_label": "China"
+    },
+    {
+      "id": "wd:Q298",
+      "label": "Location",
+      "name": "Chile",
+      "wd_label": "Chile"
+    },
+    {
+      "id": "wd:Q30",
+      "label": "Location",
+      "name": "United States of America",
+      "wd_label": "United States"
+    },
+    {
+      "id": "wd:Q34",
+      "label": "Location",
+      "name": "Sweden",
+      "wd_label": "Sweden"
+    },
+    {
+      "id": "wd:Q35",
+      "label": "Location",
+      "name": "Denmark",
+      "wd_label": "Denmark"
+    },
+    {
+      "id": "wd:Q36",
+      "label": "Location",
+      "name": "Poland",
+      "wd_label": "Poland"
+    },
+    {
+      "id": "wd:Q36517",
+      "label": "Person",
+      "name": "Sir Francis Drake",
+      "wd_label": "Francis Drake"
+    },
+    {
+      "id": "wd:Q38",
+      "label": "Location",
+      "name": "Italy",
+      "wd_label": "Italy"
+    },
+    {
+      "id": "wd:Q38872",
+      "label": "Location",
+      "name": "Prussia",
+      "wd_label": "Prussia"
+    },
+    {
+      "id": "wd:Q419",
+      "label": "Location",
+      "name": "Peru",
+      "wd_label": "Peru"
+    },
+    {
+      "id": "wd:Q43",
+      "label": "Location",
+      "name": "Turkey",
+      "wd_label": "Turkey"
+    },
+    {
+      "id": "wd:Q43382",
+      "label": "Location",
+      "name": "Plymouth",
+      "wd_label": "Plymouth"
+    },
+    {
+      "id": "wd:Q45",
+      "label": "Location",
+      "name": "Portugal",
+      "wd_label": "Portugal"
+    },
+    {
+      "id": "wd:Q46",
+      "label": "Location",
+      "name": "Europe",
+      "wd_label": "Europe"
+    },
+    {
+      "id": "wd:Q48",
+      "label": "Location",
+      "name": "Asia",
+      "wd_label": "Asia"
+    },
+    {
+      "id": "wd:Q49",
+      "label": "Location",
+      "name": "North-American",
+      "wd_label": "North America"
+    },
+    {
+      "id": "wd:Q49042",
+      "label": "Location",
+      "name": "Southern States",
+      "wd_label": "Southern United States"
+    },
+    {
+      "id": "wd:Q501768",
+      "label": "Location",
+      "name": "Barbarie",
+      "wd_label": "Barbary Coast"
+    },
+    {
+      "id": "wd:Q60",
+      "label": "Location",
+      "name": "New York",
+      "wd_label": "New York City"
+    },
+    {
+      "id": "wd:Q650667",
+      "label": "Location",
+      "name": "Guiana",
+      "wd_label": "Guyanas"
+    },
+    {
+      "id": "wd:Q658054",
+      "label": "Location",
+      "name": "Louisiana",
+      "wd_label": "Louisiana"
+    },
+    {
+      "id": "wd:Q6583",
+      "label": "Location",
+      "name": "Zaara",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q669037",
+      "label": "Location",
+      "name": "West Indies",
+      "wd_label": "West Indies"
+    },
+    {
+      "id": "wd:Q733",
+      "label": "Location",
+      "name": "Paraguay",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q7494424",
+      "label": "Person",
+      "name": "SHEPARD KOLLOCK",
+      "wd_label": "Shepard Kollock"
+    },
+    {
+      "id": "wd:Q771",
+      "label": "Location",
+      "name": "Massachusetts",
+      "wd_label": "Massachusetts"
+    },
+    {
+      "id": "wd:Q779",
+      "label": "Location",
+      "name": "STATE OF CONNECTICUT",
+      "wd_label": "Connecticut"
+    },
+    {
+      "id": "wd:Q794",
+      "label": "Location",
+      "name": "Persia",
+      "wd_label": "Iran"
+    },
+    {
+      "id": "wd:Q81398",
+      "label": "Location",
+      "name": "Acapulco",
+      "wd_label": "Acapulco de Juárez"
+    },
+    {
+      "id": "wd:Q83971",
+      "label": "Location",
+      "name": "Tartary",
+      "wd_label": "Tartary"
+    },
+    {
+      "id": "wd:Q921283",
+      "label": "Organization",
+      "name": "Nuevo México",
+      "wd_label": "Santa Fe de Nuevo México"
+    },
+    {
+      "id": "wd:Q992311",
+      "label": "Person",
+      "name": "Charlestown",
+      "wd_label": "Charlestown"
+    }
+  ]
+}

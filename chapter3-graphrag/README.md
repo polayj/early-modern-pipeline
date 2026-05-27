@@ -4,18 +4,20 @@ Materials accompanying Chapter 3 of *Loud Yet Invisible: A Humanist-Designed Pip
 
 The pipeline code in this directory is a **snapshot** of the actively maintained repository at <https://github.com/polayj/emgraphrag>. For the latest development version, see that repo; for the version-of-record for the thesis, use this snapshot.
 
-## Phase A vs Phase B — what's here, what's coming
+## Phase A + B — complete
 
-This directory was assembled in two phases:
+This directory was assembled in two phases, both now complete:
 
-| Phase | What's here | Where |
-|---|---|---|
-| **A — done** | Pipeline code, schema, customs ledgers, README, docker configs | This commit |
-| **B — pending** | Neo4j knowledge-graph dump, ChromaDB index, full OCR outputs for 20K corpus, full NER outputs, evaluation results, smoke-test data, 20K-document citation manifest | Built on the school computer where the data lives; deposited to Zenodo |
+| Phase | What it added |
+|---|---|
+| **A** | Pipeline code, customs ledgers, docker configs, READMEs |
+| **B** | Final figures (3.1–3.11), blind-grading results, the Internet Archive citation manifest (20,333 items), Neo4j schema docs, the evaluation queries, and the 10-document smoke test. Large artifacts (Neo4j graph, ChromaDB index, OCR outputs, model weights) — plus the full per-system LLM answers — are deposited on Zenodo. |
 
-See `../docs/PHASE-B-HANDOFF.md` for the exact build instructions for Phase B.
+The EEBO STC/Wing citation manifest (`corpus-references/eebo-items.csv`) is the
+one piece still pending a consolidated source list; EEBO-derived OCR remains
+withheld regardless. See `../docs/PHASE-B-HANDOFF.md` for the original build brief.
 
-## What's in here (Phase A)
+## What's in here
 
 ```
 chapter3-graphrag/
@@ -36,24 +38,32 @@ chapter3-graphrag/
 ├── docker/
 │   └── unraid/                        # ChromaDB + Neo4j compose files
 ├── customs-ledgers/                   # 57 .xlsx files: British Caribbean commodity imports, 1696-1755
-├── corpus-references/                 # [Phase B] 20K-document citation manifest
-├── schema/                            # [Phase B] Neo4j schema + Cypher migrations
-├── queries/                           # [Phase B] Evaluation queries from the thesis
-├── results/                           # [Phase B] Blind-grading results, per-system comparison
-└── figures/                           # Chapter 3 figures (3.1–3.7)
+├── corpus-references/                 # IA citation manifest (20,333 items); EEBO manifest pending
+├── schema/                            # Neo4j schema (Cypher) + entity-type definitions
+├── queries/                           # Evaluation queries (30 + 5 ginger)
+├── results/                           # Blind-grading results + per-system comparison tables
+├── smoke-test/                        # 10-document end-to-end subset
+└── figures/                           # Chapter 3 figures (3.1–3.11)
 ```
 
-## The 20,000-document corpus
+## The corpus
 
-Per the original emgraphrag README:
+Documents OCR'd and fed into the pipeline (per the OCR job manifest):
 
-| Source | Approximate count |
+| Source | Count |
 |---|---|
-| Internet Archive PDFs | 18,579 |
-| Early English Books Online (EEBO) PDFs | ~100 |
-| British customs import ledgers (xlsx) | 57 files / 43,000+ rows |
+| Internet Archive (OCR'd) | 17,774 |
+| Early English Books Online (EEBO; OCR withheld) | 1,338 |
+| British customs import ledgers (xlsx) | 57 files / 43,770 rows |
 
-**The PDFs themselves are not redistributed in this repository.** A citation manifest (`corpus-references/`) listing every Internet Archive item ID, EEBO STC/Wing number, and customs-ledger reference will be added in Phase B.
+Total documents OCR'd: **19,112** (≈ 19,249 `Document` nodes in the graph).
+Knowledge graph: **218,523 nodes / 691,577 edges**. (A further ~2,559 Internet
+Archive items were downloaded but not carried into the final pipeline; the full
+download registry of 20,333 items is in `corpus-references/archive-org-items.csv`.)
+
+**The PDFs themselves are not redistributed.** `corpus-references/archive-org-items.csv`
+lists the Internet Archive items; `corpus-references/eebo-items.csv` lists the
+1,338 EEBO documents (citation only — their OCR is withheld pending review).
 
 ### Licensing notes
 

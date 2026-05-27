@@ -1,0 +1,992 @@
+{
+  "doc_id": "282ee81a_votesproceedings1751newj_bw",
+  "document_node": "doc__282ee81a_votesproceedings1751newj_bw",
+  "archive_org_identifier": "votesproceedings1751newj",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "wd:Q2335128",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q502424",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "HAS_MEMBER",
+      "target": "toponym__city_of_burlington",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6272552",
+      "type": "GOVERNED",
+      "target": "wd:Q2335128",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q170497",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__hunterdon_and_morris",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q502424",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q23240",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__bergen",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q496900",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__county_of_burlington",
+      "type": "HAS_MEMBER",
+      "target": "person__john_emley",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q2065437",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "HAS_MEMBER",
+      "target": "toponym__salem_and_cumberland",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__somerset",
+      "type": "EMPLOYED_BY",
+      "target": "toponym__andrew_johnston",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__city_of_burlington",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__derick_dye",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2065437",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__city_of_perth-amboy",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q496900",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q23666",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "GOVERNED",
+      "target": "wd:Q6272552",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__salem_and_cumberland",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__city_of_burlington",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "HAS_MEMBER",
+      "target": "toponym__bergen",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__shobal_smith",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__shobal_smith",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q16043511",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_ogden",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__hendrick_fisher",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_ogden",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_ogden",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__hendrick_fisher",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__cornelius_vansvorst",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__hendrick_fisher",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__hendrick_fisher",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q119012164",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "BASED_IN",
+      "target": "wd:Q985592",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_stevens",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__robert_lawrence",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_stevens",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q96089551",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_stevens",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__derick_dye",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_mickle",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q985592",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2335128",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__city_of_burlington",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__county_of_burlington",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__city_of_perth-amboy",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q97102531",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q985592",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q496900",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_stevens",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q97102531",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__john_emley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_stevens",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_hancock",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q119012164",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18672002",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q16043511",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18672002",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q96089551",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8007082",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q16043511",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q496900",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__city_of_burlington",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q18672002",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2335128",
+      "type": "BASED_IN",
+      "target": "wd:Q496900",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q62567483",
+      "type": "GOVERNED",
+      "target": "wd:Q2335128",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q75884724",
+      "type": "VOTED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18672002",
+      "type": "APPOINTED_BY",
+      "target": "wd:Q100987890",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94121541",
+      "type": "REPRESENTED",
+      "target": "person__william_mickle",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94121541",
+      "type": "REPORTED_TO",
+      "target": "person__andrew_johnston",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "VOTED_WITH",
+      "target": "person__derick_dye",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "VOTED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94121541",
+      "type": "VOTED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "VOTED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18672002",
+      "type": "SENT_DELEGATE_TO",
+      "target": "wd:Q502424",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_lawrence",
+      "type": "VOTED_WITH",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q381600",
+      "type": "PAID_TO",
+      "target": "wd:Q8007082",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_mickle",
+      "type": "VOTED_WITH",
+      "target": "wd:Q16043511",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "VOTED_WITH",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_hancock",
+      "type": "VOTED_NAY",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__hendrick_fisher",
+      "type": "VOTED_YEA",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "VOTED_NAY",
+      "target": "wd:Q94121541",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "VOTED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q119012164",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_ogden",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q119012164",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__hendrick_fisher",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__cornelius_vansvorst",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q96089551",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_hancock",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_emley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94121541",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q119012164",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94121541",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_emley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q16043511",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__shobal_smith",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__hendrick_fisher",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q96089551",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q119012164",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q21556630",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q119012164",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_emley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__fisher",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__stevens",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_stevens",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q18672002",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q113809579",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__hendrick_fisher",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_hancock",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q94121541",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16043511",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__robert_ogden",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_hancock",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18672002",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q21556630",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8007082",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_mickle",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q96089551",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_lawrence",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q8007082",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_lawrence",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_mickle",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__robert_lawrence",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q75884724",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18672002",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q8007082",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__derick_dye",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_mickle",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__derick_dye",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_emley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "person__andrew_johnston",
+      "label": "Person",
+      "name": "Andrew Johnston",
+      "wd_label": ""
+    },
+    {
+      "id": "person__charles_read",
+      "label": "Person",
+      "name": "Charles Read",
+      "wd_label": ""
+    },
+    {
+      "id": "person__city_of_perth-amboy",
+      "label": "Person",
+      "name": "City of Perth-Amboy",
+      "wd_label": ""
+    },
+    {
+      "id": "person__cornelius_vansvorst",
+      "label": "Person",
+      "name": "Cornelius Vansvorst",
+      "wd_label": ""
+    },
+    {
+      "id": "person__derick_dye",
+      "label": "Person",
+      "name": "Derick Dye",
+      "wd_label": ""
+    },
+    {
+      "id": "person__hendrick_fisher",
+      "label": "Person",
+      "name": "Hendrick Fisher",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_emley",
+      "label": "Person",
+      "name": "John Emley",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_stevens",
+      "label": "Person",
+      "name": "JOHN STEVENS",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__fisher",
+      "label": "Person",
+      "name": "Mr. Fisher",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__stevens",
+      "label": "Person",
+      "name": "Mr. Stevens",
+      "wd_label": ""
+    },
+    {
+      "id": "person__robert_lawrence",
+      "label": "Person",
+      "name": "Robert Lawrence",
+      "wd_label": ""
+    },
+    {
+      "id": "person__robert_ogden",
+      "label": "Person",
+      "name": "Robert Ogden",
+      "wd_label": ""
+    },
+    {
+      "id": "person__shobal_smith",
+      "label": "Person",
+      "name": "Shobal Smith",
+      "wd_label": ""
+    },
+    {
+      "id": "person__somerset",
+      "label": "Person",
+      "name": "Somerset",
+      "wd_label": ""
+    },
+    {
+      "id": "person__william_hancock",
+      "label": "Person",
+      "name": "William Hancock",
+      "wd_label": ""
+    },
+    {
+      "id": "person__william_mickle",
+      "label": "Person",
+      "name": "William Mickle",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__andrew_johnston",
+      "label": "Location",
+      "name": "Andrew Johnston",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__bergen",
+      "label": "Location",
+      "name": "Bergen",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__city_of_burlington",
+      "label": "Location",
+      "name": "City of Burlington",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__city_of_perth-amboy",
+      "label": "Location",
+      "name": "City of Perth-Amboy",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__county_of_burlington",
+      "label": "Location",
+      "name": "county of Burlington",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__hunterdon_and_morris",
+      "label": "Location",
+      "name": "Hunterdon and Morris",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__salem_and_cumberland",
+      "label": "Location",
+      "name": "Salem and Cumberland",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q100987890",
+      "label": "Person",
+      "name": "James Hude",
+      "wd_label": "James Hude"
+    },
+    {
+      "id": "wd:Q113809579",
+      "label": "Person",
+      "name": "John Johnston",
+      "wd_label": "John Johnston"
+    },
+    {
+      "id": "wd:Q119012164",
+      "label": "Person",
+      "name": "Richard Wood",
+      "wd_label": "Richard Wood"
+    },
+    {
+      "id": "wd:Q16043511",
+      "label": "Person",
+      "name": "James Holmes",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q170497",
+      "label": "Location",
+      "name": "Gloucester",
+      "wd_label": "Gloucester"
+    },
+    {
+      "id": "wd:Q18672002",
+      "label": "Person",
+      "name": "John Low",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q2065437",
+      "label": "Location",
+      "name": "Cape May",
+      "wd_label": "Cape May"
+    },
+    {
+      "id": "wd:Q21556630",
+      "label": "Person",
+      "name": "Joseph Ellis",
+      "wd_label": "Joseph Ellis"
+    },
+    {
+      "id": "wd:Q23240",
+      "label": "Location",
+      "name": "Essex",
+      "wd_label": "Essex"
+    },
+    {
+      "id": "wd:Q2335128",
+      "label": "Location",
+      "name": "New-Jersey",
+      "wd_label": "Province of New Jersey"
+    },
+    {
+      "id": "wd:Q23666",
+      "label": "Location",
+      "name": "Great Britain",
+      "wd_label": "Great Britain"
+    },
+    {
+      "id": "wd:Q381600",
+      "label": "Person",
+      "name": "Samuel Smith",
+      "wd_label": "Samuel Smith"
+    },
+    {
+      "id": "wd:Q496900",
+      "label": "Location",
+      "name": "PHILADELPHIA",
+      "wd_label": "Philadelphia County"
+    },
+    {
+      "id": "wd:Q502424",
+      "label": "Location",
+      "name": "Monmouth",
+      "wd_label": "Monmouth County"
+    },
+    {
+      "id": "wd:Q62567483",
+      "label": "Person",
+      "name": "Richard Partridge",
+      "wd_label": "Richard Partridge"
+    },
+    {
+      "id": "wd:Q6272552",
+      "label": "Person",
+      "name": "Jonathan Belcher",
+      "wd_label": "Jonathan Belcher"
+    },
+    {
+      "id": "wd:Q75884724",
+      "label": "Person",
+      "name": "John Deacon",
+      "wd_label": "John Deacon"
+    },
+    {
+      "id": "wd:Q8007082",
+      "label": "Person",
+      "name": "William Cooke",
+      "wd_label": "William Cooke"
+    },
+    {
+      "id": "wd:Q828",
+      "label": "Location",
+      "name": "America",
+      "wd_label": "Americas"
+    },
+    {
+      "id": "wd:Q94121541",
+      "label": "Person",
+      "name": "Aaron Leaming",
+      "wd_label": "Aaron Leaming"
+    },
+    {
+      "id": "wd:Q94519912",
+      "label": "Person",
+      "name": "Jacob Spicer",
+      "wd_label": "Jacob Spicer"
+    },
+    {
+      "id": "wd:Q96089551",
+      "label": "Person",
+      "name": "Barzillai Newbold",
+      "wd_label": "Barzillai Newbold"
+    },
+    {
+      "id": "wd:Q97102531",
+      "label": "Person",
+      "name": "John Wetherill",
+      "wd_label": "John Wetherill"
+    },
+    {
+      "id": "wd:Q985592",
+      "label": "Location",
+      "name": "Perth-Amboy",
+      "wd_label": "Perth Amboy"
+    }
+  ]
+}

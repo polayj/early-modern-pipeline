@@ -1,0 +1,920 @@
+{
+  "doc_id": "2617efac_morewondersofinv1700cale_bw",
+  "document_node": "doc__2617efac_morewondersofinv1700cale_bw",
+  "archive_org_identifier": "morewondersofinv1700cale",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "person__margaret_rule",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q380719",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__nath__hillar",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q7342693",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q113466887",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6779377",
+      "type": "CONDEMNED_WITH",
+      "target": "person__abigail_hobs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__burroughs",
+      "type": "EXECUTED_WITH",
+      "target": "wd:Q5541048",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__samuel_wardwel",
+      "type": "EXECUTED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113466887",
+      "type": "CONDEMNED_WITH",
+      "target": "person__alice_parker",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q6779377",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "CONDEMNED_WITH",
+      "target": "person__samuel_wardwel",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q103873143",
+      "type": "CONDEMNED_WITH",
+      "target": "person__abigail_hobs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q103873143",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43395838",
+      "type": "CONDEMNED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "CONDEMNED_WITH",
+      "target": "person__mary_bradbery",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "CONDEMNED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115915796",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q246135",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6779377",
+      "type": "CONDEMNED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q7422902",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5541048",
+      "type": "CONDEMNED_WITH",
+      "target": "person__mary_bradbery",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "CONDEMNED_WITH",
+      "target": "person__ann_pudeater",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113466887",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q75413497",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6779377",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q75413497",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7422342",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "CONDEMNED_WITH",
+      "target": "person__alice_parker",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "CONDEMNED_WITH",
+      "target": "person__abigail_falkner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "CONDEMNED_WITH",
+      "target": "person__eliz__how",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__burroughs",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q113466887",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__parris",
+      "type": "DISPUTED_WITH",
+      "target": "person__sir_william_phips",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__parris",
+      "type": "DISPUTED_WITH",
+      "target": "wd:Q7342693",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__ann_pudeater",
+      "type": "CONDEMNED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43395838",
+      "type": "CONDEMNED_WITH",
+      "target": "person__samuel_wardwel",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43395838",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q117821543",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__parris",
+      "type": "DISPUTED_WITH",
+      "target": "person__nath__hillar",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__w__red",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q246135",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__burroughs",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q113466887",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__abigail_falkner",
+      "type": "CONDEMNED_WITH",
+      "target": "wd:Q246135",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5541048",
+      "type": "CONDEMNED_WITH",
+      "target": "person__ann_pudeater",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__ann_pudeater",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113466887",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q75413497",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6779377",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q75413497",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7422342",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__alice_parker",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_falkner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__eliz__how",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_falkner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q103873143",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q117821543",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q246135",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__w__red",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q43395838",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__w__red",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__samuel_wardwel",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_falkner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_hobs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43395838",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q117821543",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q18562314",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__eliz__how",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6779377",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__samuel_wardwel",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6779377",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__samuel_wardwel",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5541048",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_falkner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__ann_pudeater",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__samuel_wardwel",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113466887",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q117821543",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5541048",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7422342",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_hobs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q75413497",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q43395838",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__parris",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__sir_william_phips",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q246135",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q18562314",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__burroughs",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q6779377",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43395838",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113466887",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_hobs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115915796",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7422902",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q76107668",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_hobs",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5541048",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__samuel_wardwel",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115915796",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__eliz__how",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__parris",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7342693",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__ann_pudeater",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q246135",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115915796",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__sus__martin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113466887",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__w__red",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q117821543",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__burroughs",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q682",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__margaret_rule",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q103873143",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7422902",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__ann_foster",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115915796",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3421721",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__martha_carryer",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q6779377",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__eliz__procter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__giles_cary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q43395838",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7422902",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__alice_parker",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7422342",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q75413497",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__sus__martin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__burroughs",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__abigail_falkner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mary_bradbery",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__eliz__how",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "person__abigail_falkner",
+      "label": "Person",
+      "name": "Abigail Falkner",
+      "wd_label": ""
+    },
+    {
+      "id": "person__abigail_hobs",
+      "label": "Person",
+      "name": "Abigail Hobs",
+      "wd_label": ""
+    },
+    {
+      "id": "person__alice_parker",
+      "label": "Person",
+      "name": "Alice Parker",
+      "wd_label": ""
+    },
+    {
+      "id": "person__ann_foster",
+      "label": "Person",
+      "name": "Ann Foster",
+      "wd_label": ""
+    },
+    {
+      "id": "person__ann_pudeater",
+      "label": "Person",
+      "name": "Ann Pudeater",
+      "wd_label": ""
+    },
+    {
+      "id": "person__eliz__how",
+      "label": "Person",
+      "name": "Eliz. How",
+      "wd_label": ""
+    },
+    {
+      "id": "person__eliz__procter",
+      "label": "Person",
+      "name": "Eliz. Procter",
+      "wd_label": ""
+    },
+    {
+      "id": "person__giles_cary",
+      "label": "Person",
+      "name": "Giles Cary",
+      "wd_label": ""
+    },
+    {
+      "id": "person__margaret_rule",
+      "label": "Person",
+      "name": "Margaret Rule",
+      "wd_label": ""
+    },
+    {
+      "id": "person__martha_carryer",
+      "label": "Person",
+      "name": "Martha Carryer",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mary_bradbery",
+      "label": "Person",
+      "name": "Mary Bradbery",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__burroughs",
+      "label": "Person",
+      "name": "Mr. Burroughs",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__parris",
+      "label": "Person",
+      "name": "Mr. Parris",
+      "wd_label": ""
+    },
+    {
+      "id": "person__nath__hillar",
+      "label": "Person",
+      "name": "Nath. Hillar",
+      "wd_label": ""
+    },
+    {
+      "id": "person__samuel_wardwel",
+      "label": "Person",
+      "name": "Samuel Wardwel",
+      "wd_label": ""
+    },
+    {
+      "id": "person__sir_william_phips",
+      "label": "Person",
+      "name": "Sir William Phips",
+      "wd_label": ""
+    },
+    {
+      "id": "person__sus__martin",
+      "label": "Person",
+      "name": "Sus. Martin",
+      "wd_label": ""
+    },
+    {
+      "id": "person__w__red",
+      "label": "Person",
+      "name": "W. Red",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q103873143",
+      "label": "Person",
+      "name": "Martha Cary",
+      "wd_label": "Martha Cary"
+    },
+    {
+      "id": "wd:Q113466887",
+      "label": "Person",
+      "name": "John Willard",
+      "wd_label": "John Willard"
+    },
+    {
+      "id": "wd:Q115915796",
+      "label": "Person",
+      "name": "Margaret Jacobs",
+      "wd_label": "Margaret Foster"
+    },
+    {
+      "id": "wd:Q117821543",
+      "label": "Person",
+      "name": "MARY PARKER",
+      "wd_label": "Mary Parker"
+    },
+    {
+      "id": "wd:Q18562314",
+      "label": "Person",
+      "name": "Rebecca Emes",
+      "wd_label": "Rebecca Emes"
+    },
+    {
+      "id": "wd:Q246135",
+      "label": "Person",
+      "name": "Mary Lacy",
+      "wd_label": "Mary Lacy"
+    },
+    {
+      "id": "wd:Q3421721",
+      "label": "Person",
+      "name": "Rebecca Nurse",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q380719",
+      "label": "Person",
+      "name": "COTTON MATHER",
+      "wd_label": "Cotton Mather"
+    },
+    {
+      "id": "wd:Q43395838",
+      "label": "Person",
+      "name": "Margaret Scot",
+      "wd_label": "Margaret Scot"
+    },
+    {
+      "id": "wd:Q5541048",
+      "label": "Person",
+      "name": "George Jacobs",
+      "wd_label": "George Jacobs, Sr."
+    },
+    {
+      "id": "wd:Q6779377",
+      "label": "Person",
+      "name": "Mary Easty",
+      "wd_label": "Mary Eastey"
+    },
+    {
+      "id": "wd:Q682",
+      "label": "Location",
+      "name": "sulphur",
+      "wd_label": "sulfur"
+    },
+    {
+      "id": "wd:Q7342693",
+      "label": "Person",
+      "name": "Robert Calef",
+      "wd_label": "Robert Calef"
+    },
+    {
+      "id": "wd:Q7422342",
+      "label": "Person",
+      "name": "Sarah Good",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q7422902",
+      "label": "Person",
+      "name": "Sarah Wildes",
+      "wd_label": "Sarah Wildes"
+    },
+    {
+      "id": "wd:Q75413497",
+      "label": "Person",
+      "name": "Dorcas Hore",
+      "wd_label": "Dorcas Hore"
+    },
+    {
+      "id": "wd:Q76107668",
+      "label": "Person",
+      "name": "John Procter",
+      "wd_label": "John Procter"
+    }
+  ]
+}

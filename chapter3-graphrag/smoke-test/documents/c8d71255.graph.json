@@ -1,0 +1,944 @@
+{
+  "doc_id": "c8d71255_abridgementofmin12grea_bw",
+  "document_node": "doc__c8d71255_abridgementofmin12grea_bw",
+  "archive_org_identifier": "abridgementofmin12grea",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "wd:Q15",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q244",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1041",
+      "type": "SHIPPED_TO",
+      "target": "toponym__s__leone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1041",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q130878",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1041",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "TRADED_IN",
+      "target": "wd:Q231458",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1184899",
+      "type": "TRADED_IN",
+      "target": "wd:Q5090",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q24826",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "TRADED_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "GROWN_IN",
+      "target": "wd:Q916",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "GROWN_IN",
+      "target": "wd:Q5090",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__cape_la_hou",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q244",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q15",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__c__mount",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q784",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2986234",
+      "type": "TRADED_BY",
+      "target": "wd:Q1041",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q916",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1041",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q2001267",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2986234",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q24826",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q766",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "TRADED_WITH",
+      "target": "wd:Q107694204",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1041",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q143739",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "TRADED_IN",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5090",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q107694204",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5090",
+      "type": "TRADED_IN",
+      "target": "wd:Q916",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5090",
+      "type": "TRADED_IN",
+      "target": "toponym__c__mount",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2001267",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1034489",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1005",
+      "type": "TRAVELED_TO",
+      "target": "toponym__s__leone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q916",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q827604",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q916",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q784",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "TRADED_IN",
+      "target": "commodity__dying_woods",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q24826",
+      "type": "OPERATED_IN",
+      "target": "wd:Q15",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "TRADED_IN",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3761",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q192415",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2001267",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__wood_coast",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1005",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q143739",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2986234",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__s__leone",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "HAS_LOCATION",
+      "target": "toponym__cape_la_hou",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "TRADED_IN",
+      "target": "wd:Q231458",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q962",
+      "type": "TRADED_IN",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q25224",
+      "type": "TRADED_IN",
+      "target": "wd:Q766",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q82001",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q107694204",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1041",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q669037",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q24826",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q82001",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q24826",
+      "type": "TRADED_WITH",
+      "target": "wd:Q1041",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q5090",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__s__leone",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q12773225",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q669037",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2001267",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q5090",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q24826",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q766",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__s__leone",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q15",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2001267",
+      "type": "GROWN_IN",
+      "target": "wd:Q5090",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q107694204",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q916",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q916",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q2986234",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__cam-wood",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q15",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__richard_miles__esq_",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q207887",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1184899",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q15",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q784",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q2986234",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3761",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q15",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1184899",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q5090",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q784",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q15",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8463",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q2001267",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8463",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "PRODUCED_IN",
+      "target": "commodity__cam-wood",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3761",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__richard_miles__esq_",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q15",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "TRADED_WITH",
+      "target": "wd:Q669037",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q24826",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2986234",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q827604",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__cape_la_hou",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q192415",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1535868",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__s__leone",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q1041",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q15",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q784",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1535868",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q130878",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2986234",
+      "type": "IMPORTED_TO",
+      "target": "toponym__c__mount",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_barnes__esq_",
+      "type": "WORKED_IN",
+      "target": "wd:Q15",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3761",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1535868",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8463",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8463",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q962",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q244",
+      "type": "GROWN_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q962",
+      "type": "GROWN_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q82001",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q2001267",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q766",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q669037",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q244",
+      "type": "IMPORTED_TO",
+      "target": "wd:Q207887",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8463",
+      "type": "IMPORTED_TO",
+      "target": "toponym__north_barbary",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__c__mount",
+      "type": "TRADED_IN",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1184899",
+      "type": "TRADED_IN",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1184899",
+      "type": "EXPORTED_FROM",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q916",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q24826",
+      "type": "SHIPPED_TO",
+      "target": "wd:Q1535868",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2001267",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q82001",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q244",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q11457",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q916",
+      "type": "TRADED_IN",
+      "target": "wd:Q8463",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "commodity__cam-wood",
+      "label": "Commodity",
+      "name": "cam-wood",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__cape_la_hou",
+      "label": "Commodity",
+      "name": "Cape La Hou",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__dying_woods",
+      "label": "Commodity",
+      "name": "dying woods",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_barnes__esq_",
+      "label": "Person",
+      "name": "JOHN BARNES, Esq.",
+      "wd_label": ""
+    },
+    {
+      "id": "person__richard_miles__esq_",
+      "label": "Person",
+      "name": "Richard Miles, Esq.",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__c__mount",
+      "label": "Location",
+      "name": "C. Mount",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__cape_la_hou",
+      "label": "Location",
+      "name": "Cape La Hou",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__north_barbary",
+      "label": "Location",
+      "name": "North Barbary",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__s__leone",
+      "label": "Location",
+      "name": "S. Leone",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__wood_coast",
+      "label": "Location",
+      "name": "Wood Coast",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1005",
+      "label": "Location",
+      "name": "Gambia",
+      "wd_label": "The Gambia"
+    },
+    {
+      "id": "wd:Q1034489",
+      "label": "Person",
+      "name": "Cape Palmas",
+      "wd_label": "Cape Palmas"
+    },
+    {
+      "id": "wd:Q1041",
+      "label": "Location",
+      "name": "Senegal",
+      "wd_label": "Senegal"
+    },
+    {
+      "id": "wd:Q107694204",
+      "label": "Location",
+      "name": "Windward Coast",
+      "wd_label": "Windward Coast"
+    },
+    {
+      "id": "wd:Q11457",
+      "label": "Commodity",
+      "name": "Cotton",
+      "wd_label": "cotton"
+    },
+    {
+      "id": "wd:Q1184899",
+      "label": "Location",
+      "name": "Grain Coast",
+      "wd_label": "Pepper Coast"
+    },
+    {
+      "id": "wd:Q12773225",
+      "label": "Person",
+      "name": "Slave",
+      "wd_label": "slave"
+    },
+    {
+      "id": "wd:Q130878",
+      "label": "Commodity",
+      "name": "gum",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q143739",
+      "label": "Commodity",
+      "name": "Bees Wax",
+      "wd_label": "beeswax"
+    },
+    {
+      "id": "wd:Q15",
+      "label": "Location",
+      "name": "Africa",
+      "wd_label": "Africa"
+    },
+    {
+      "id": "wd:Q1535868",
+      "label": "Location",
+      "name": "Senegal",
+      "wd_label": "Gold Coast"
+    },
+    {
+      "id": "wd:Q192415",
+      "label": "Location",
+      "name": "River Volta",
+      "wd_label": "Volta River"
+    },
+    {
+      "id": "wd:Q2001267",
+      "label": "Location",
+      "name": "Sherbro",
+      "wd_label": "Sherbro Island"
+    },
+    {
+      "id": "wd:Q207887",
+      "label": "Location",
+      "name": "Guinea",
+      "wd_label": "Guinea"
+    },
+    {
+      "id": "wd:Q231458",
+      "label": "Commodity",
+      "name": "palm oil",
+      "wd_label": "palm oil"
+    },
+    {
+      "id": "wd:Q244",
+      "label": "Location",
+      "name": "Barbados",
+      "wd_label": "Barbados"
+    },
+    {
+      "id": "wd:Q24826",
+      "label": "Location",
+      "name": "Liverpool",
+      "wd_label": "Liverpool"
+    },
+    {
+      "id": "wd:Q25224",
+      "label": "Location",
+      "name": "Sterling",
+      "wd_label": "pound sterling"
+    },
+    {
+      "id": "wd:Q2986234",
+      "label": "Commodity",
+      "name": "Negroes",
+      "wd_label": "slave trade"
+    },
+    {
+      "id": "wd:Q3761",
+      "label": "Location",
+      "name": "Accra",
+      "wd_label": "Accra"
+    },
+    {
+      "id": "wd:Q5090",
+      "label": "Commodity",
+      "name": "Rice",
+      "wd_label": "rice"
+    },
+    {
+      "id": "wd:Q669037",
+      "label": "Location",
+      "name": "West Indies",
+      "wd_label": "West Indies"
+    },
+    {
+      "id": "wd:Q766",
+      "label": "Location",
+      "name": "Jamaica",
+      "wd_label": "Jamaica"
+    },
+    {
+      "id": "wd:Q784",
+      "label": "Location",
+      "name": "Dominica",
+      "wd_label": "Dominica"
+    },
+    {
+      "id": "wd:Q82001",
+      "label": "Commodity",
+      "name": "Ivory",
+      "wd_label": "ivory"
+    },
+    {
+      "id": "wd:Q827604",
+      "label": "Location",
+      "name": "TORTOLA",
+      "wd_label": "Tortola"
+    },
+    {
+      "id": "wd:Q8463",
+      "label": "Commodity",
+      "name": "Slaves",
+      "wd_label": "slavery"
+    },
+    {
+      "id": "wd:Q916",
+      "label": "Location",
+      "name": "Angole",
+      "wd_label": "Angola"
+    },
+    {
+      "id": "wd:Q962",
+      "label": "Location",
+      "name": "Benin",
+      "wd_label": "Benin"
+    }
+  ]
+}

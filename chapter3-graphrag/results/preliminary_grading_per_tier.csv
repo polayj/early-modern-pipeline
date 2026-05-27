@@ -1,0 +1,9 @@
+System,T1 Factual mean,T2 Temporal mean,T3 Relational mean,T4 Analytical mean,T5 Interpretive mean,T1 Factual n,T2 Temporal n,T3 Relational n,T4 Analytical n,T5 Interpretive n
+improved_scratchpad,,16.33,17.50,18.25,18.50,0,3,8,8,4
+self_rag_rag,18.75,15.33,14.25,15.12,15.00,4,6,8,8,4
+graphrag_kg_vector,17.00,15.00,14.50,13.38,15.25,4,6,8,8,4
+self_rag_graphrag,18.00,14.17,15.12,12.75,14.25,4,6,8,8,4
+graphrag_plus_kg,16.00,15.67,13.62,14.12,13.00,4,6,8,8,4
+true_graphrag,14.50,14.33,13.50,10.75,12.25,4,6,8,8,4
+rag_only,13.75,12.50,12.00,11.75,10.75,4,6,8,8,4
+kg_plus_rag,13.00,11.33,10.88,11.12,11.25,4,6,8,8,4

@@ -1,0 +1,9 @@
+System,Docs surfaced,% of corpus
+improved_scratchpad,277,1.34
+kg_plus_rag,108,0.52
+rag_only,106,0.51
+self_rag_rag,99,0.48
+self_rag_graphrag,77,0.37
+true_graphrag,53,0.26
+graphrag_kg_vector,50,0.24
+graphrag_plus_kg,22,0.11

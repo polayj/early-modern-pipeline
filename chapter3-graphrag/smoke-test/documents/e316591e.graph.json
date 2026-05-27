@@ -1,0 +1,1028 @@
+{
+  "doc_id": "e316591e_essaysonvenereal00blai_bw",
+  "document_node": "doc__e316591e_essaysonvenereal00blai_bw",
+  "archive_org_identifier": "essaysonvenereal00blai",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "wd:Q3161002",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "PUBLISHED_BY",
+      "target": "toponym__murray_and_highley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "PUBLISHED_BY",
+      "target": "toponym__robinsons__and_symonds",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q4947688",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q116008369",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__s__mittié",
+      "type": "PUBLISHED_BY",
+      "target": "person__robinsons__and_symonds",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6806377",
+      "type": "HAS_OWNER",
+      "target": "wd:Q49123",
+      "crm_property": "P52",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__geach",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q457369",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1156",
+      "type": "TRADED_WITH",
+      "target": "wd:Q24826",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__s__mittié",
+      "type": "PUBLISHED_BY",
+      "target": "person__murray_and_highley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q457369",
+      "type": "PUBLISHED_BY",
+      "target": "person__robinsons__and_symonds",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q7794573",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TRADED_BY",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRADED_BY",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7794573",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__geach",
+      "type": "PUBLISHED_BY",
+      "target": "wd:Q116008369",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2593294",
+      "type": "WORKED_IN",
+      "target": "toponym__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rollo",
+      "type": "WORKED_IN",
+      "target": "organization__woolwich_hospital",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2593294",
+      "type": "WORKED_IN",
+      "target": "toponym__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q21",
+      "type": "WORKED_IN",
+      "target": "toponym__dr__thornton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2593294",
+      "type": "HAS_LOCATION",
+      "target": "toponym__woolwich_hospital",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q116008369",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__cruickshank",
+      "type": "BASED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__thornton",
+      "type": "BASED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "BASED_IN",
+      "target": "wd:Q1156",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TRADED_IN",
+      "target": "wd:Q21",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRADED_BY",
+      "target": "person__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "TRADED_BY",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "TRADED_IN",
+      "target": "wd:Q1156",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRADED_BY",
+      "target": "person__dr__jameson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TRADED_BY",
+      "target": "person__mr__bowles",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rollo",
+      "type": "EMPLOYED_BY",
+      "target": "organization__woolwich_hospital",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "WORKED_IN",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRADED_BY",
+      "target": "person__mr__benjamin_bell",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRADED_BY",
+      "target": "person__mr__baynton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q211891",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q90",
+      "type": "PRODUCED_IN",
+      "target": "toponym__oxygenated_muriate_of_potash",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "PRODUCED_IN",
+      "target": "wd:Q83320",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q84",
+      "type": "BASED_IN",
+      "target": "toponym__murray_and_highley",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q24826",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__dr__irwin",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRADED_BY",
+      "target": "wd:Q3161002",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TRADED_BY",
+      "target": "person__mr__baynton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TRADED_BY",
+      "target": "wd:Q153408",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__oxygenated_muriate_of_potash",
+      "type": "PRODUCED_BY",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__dr__thornton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__oxygenated_muriate_of_potash",
+      "type": "TRADED_BY",
+      "target": "person__mr__cruickshank",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3161002",
+      "type": "CORRESPONDED_WITH",
+      "target": "person__dr__jameson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TRIED_BY",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q3161002",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rollo",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__irwin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7794573",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__simmons",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__ferriar",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rollo",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__cruickshank",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__cruickshank",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7794573",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__rollo",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__sandford",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__geach",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rollo",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q153408",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__irwin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__jameson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__simmons",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__girdlestone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__baynton",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__hammick_jun_",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__geach",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__george_kellie",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__thornton",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__simmons",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__scott",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rutherford",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__george_kellie",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__irwin",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__baynton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__jameson",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__sandford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__wittman",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__cruickshank",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__geach",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__cruickshank",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__baynton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__irwin",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__sandford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__cruickshank",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3161002",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__jameson",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__sandford",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__baynton",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3161002",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__jameson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__bowles",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__benjamin_bell",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q3161002",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__cruickshank",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7794573",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__irwin",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rollo",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__jameson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__rutherford",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__thornton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__dr__jameson",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__dr__rutherford",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__oxygenated_muriate_of_potash",
+      "type": "USED_BY",
+      "target": "organization__woolwich_hospital",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q153408",
+      "type": "RECEIVED_FROM",
+      "target": "wd:Q1156",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TESTED_AT",
+      "target": "organization__woolwich_hospital",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__mr__cruickshank",
+      "type": "OBSERVED_IN",
+      "target": "wd:Q46",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__oxygenated_muriate_of_potash",
+      "type": "USED_IN",
+      "target": "organization__woolwich_hospital",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "USED_IN",
+      "target": "wd:Q21",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "USED_IN",
+      "target": "wd:Q5428",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "USED_IN",
+      "target": "wd:Q213137",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "USED_IN",
+      "target": "wd:Q84",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__oxygenated_muriate_of_potash",
+      "type": "TESTIFIED_BY",
+      "target": "person__dr__girdlestone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q211891",
+      "type": "TESTIFIED_BY",
+      "target": "person__dr__wittman",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TESTIFIED_BY",
+      "target": "wd:Q46",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TESTIFIED_BY",
+      "target": "organization__woolwich_hospital",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "USED_IN",
+      "target": "wd:Q1156",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__oxygenated_pomatum",
+      "type": "USED_IN",
+      "target": "wd:Q174257",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83320",
+      "type": "TESTED_BY",
+      "target": "person__mr__baynton",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "commodity__oxygenated_muriate_of_potash",
+      "label": "Commodity",
+      "name": "oxygenated muriate of potash",
+      "wd_label": ""
+    },
+    {
+      "id": "organization__woolwich_hospital",
+      "label": "Organization",
+      "name": "Woolwich Hospital",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__ferriar",
+      "label": "Person",
+      "name": "Dr. Ferriar",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__geach",
+      "label": "Person",
+      "name": "Dr. Geach",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__girdlestone",
+      "label": "Person",
+      "name": "Dr. Girdlestone",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__irwin",
+      "label": "Person",
+      "name": "Dr. Irwin",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__jameson",
+      "label": "Person",
+      "name": "Dr. Jameson",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__rollo",
+      "label": "Person",
+      "name": "Dr. Rollo",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__rutherford",
+      "label": "Person",
+      "name": "Dr. Rutherford",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__thornton",
+      "label": "Person",
+      "name": "Dr. Thornton",
+      "wd_label": ""
+    },
+    {
+      "id": "person__dr__wittman",
+      "label": "Person",
+      "name": "Dr. Wittman",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__s__mittié",
+      "label": "Person",
+      "name": "J. S. Mittié",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__baynton",
+      "label": "Person",
+      "name": "Mr. BAYNTON",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__benjamin_bell",
+      "label": "Person",
+      "name": "Mr. Benjamin Bell",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__bowles",
+      "label": "Person",
+      "name": "Mr. Bowles",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__cruickshank",
+      "label": "Person",
+      "name": "Mr. Cruickshank",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__george_kellie",
+      "label": "Person",
+      "name": "Mr. George Kellie",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__hammick_jun_",
+      "label": "Person",
+      "name": "Mr. Hammick jun.",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__sandford",
+      "label": "Person",
+      "name": "Mr. Sandford",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__scott",
+      "label": "Person",
+      "name": "Mr. Scott",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__simmons",
+      "label": "Person",
+      "name": "Mr. Simmons",
+      "wd_label": ""
+    },
+    {
+      "id": "person__murray_and_highley",
+      "label": "Person",
+      "name": "MURRAY AND HIGHLEY",
+      "wd_label": ""
+    },
+    {
+      "id": "person__robinsons__and_symonds",
+      "label": "Person",
+      "name": "ROBINSONS, and SYMONDS",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__dr__irwin",
+      "label": "Location",
+      "name": "Dr. Irwin",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__dr__rollo",
+      "label": "Location",
+      "name": "Dr. Rollo",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__dr__thornton",
+      "label": "Location",
+      "name": "Dr. Thornton",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__dr__wittman",
+      "label": "Location",
+      "name": "Dr. Wittman",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__mr__cruickshank",
+      "label": "Location",
+      "name": "Mr. Cruickshank",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__murray_and_highley",
+      "label": "Location",
+      "name": "MURRAY and HIGHLEY",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__oxygenated_muriate_of_potash",
+      "label": "Location",
+      "name": "oxygenated muriate of potash",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__oxygenated_pomatum",
+      "label": "Location",
+      "name": "oxygenated pomatum",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__robinsons__and_symonds",
+      "label": "Location",
+      "name": "ROBINSONS, and SYMONDS",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__woolwich_hospital",
+      "label": "Location",
+      "name": "Woolwich Hospital",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1156",
+      "label": "Location",
+      "name": "Bombay",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q116008369",
+      "label": "Location",
+      "name": "WILLIAM BLAIR",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q153408",
+      "label": "Person",
+      "name": "Sir Joseph Banks",
+      "wd_label": "Joseph Banks"
+    },
+    {
+      "id": "wd:Q174257",
+      "label": "Location",
+      "name": "Normandia",
+      "wd_label": "Beauvais"
+    },
+    {
+      "id": "wd:Q21",
+      "label": "Location",
+      "name": "ENGLAND",
+      "wd_label": "England"
+    },
+    {
+      "id": "wd:Q211891",
+      "label": "Commodity",
+      "name": "nitrous acid",
+      "wd_label": "nitrous acid"
+    },
+    {
+      "id": "wd:Q213137",
+      "label": "Location",
+      "name": "East-Indies",
+      "wd_label": "East Indies"
+    },
+    {
+      "id": "wd:Q24826",
+      "label": "Location",
+      "name": "Liverpool",
+      "wd_label": "Liverpool"
+    },
+    {
+      "id": "wd:Q2593294",
+      "label": "Location",
+      "name": "Woolwich",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q3161002",
+      "label": "Person",
+      "name": "James Currie",
+      "wd_label": "James Currie"
+    },
+    {
+      "id": "wd:Q457369",
+      "label": "Person",
+      "name": "T. JOHNSON",
+      "wd_label": "Sir William Johnson, 1st Baronet"
+    },
+    {
+      "id": "wd:Q46",
+      "label": "Location",
+      "name": "Europe",
+      "wd_label": "Europe"
+    },
+    {
+      "id": "wd:Q49123",
+      "label": "Organization",
+      "name": "HARVARD COLLEGE",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q4947688",
+      "label": "Person",
+      "name": "BOSTON",
+      "wd_label": "Boston"
+    },
+    {
+      "id": "wd:Q5428",
+      "label": "Location",
+      "name": "Siberia",
+      "wd_label": "Siberia"
+    },
+    {
+      "id": "wd:Q6806377",
+      "label": "Organization",
+      "name": "MEDICAL LIBRARY",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q7794573",
+      "label": "Person",
+      "name": "Dr. Trotter",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q83320",
+      "label": "Commodity",
+      "name": "nitric acid",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q84",
+      "label": "Location",
+      "name": "London",
+      "wd_label": "London"
+    },
+    {
+      "id": "wd:Q90",
+      "label": "Location",
+      "name": "Paris",
+      "wd_label": "Paris"
+    }
+  ]
+}

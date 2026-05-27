@@ -1,0 +1,1088 @@
+{
+  "doc_id": "618a65cc_actslawsmajrhode00allerich_bw",
+  "document_node": "doc__618a65cc_actslawsmajrhode00allerich_bw",
+  "archive_org_identifier": "actslawsmajrhode00allerich",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "toponym__narraganset_river",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q828",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_roome",
+      "type": "HAS_MEMBER",
+      "target": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__nauhagaguset",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2079909",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pawcatuck_river",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18389",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "HAS_MEMBER",
+      "target": "person__randal_holden",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q49149",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q2079909",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11791812",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q828",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "HAS_MEMBER",
+      "target": "person__john_nixfor",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pawcatuck_falls",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q2657612",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "HAS_MEMBER",
+      "target": "person__rainborough_williams",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__seconk_river",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q49200",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1241943",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q828",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1468860",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18389",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11791812",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q7252460",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pawcatuck_river",
+      "type": "IDENTIFIED_BY",
+      "target": "toponym__narraganset_river",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__east_greenwich",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q23298",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "BASED_IN",
+      "target": "wd:Q18389",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q81506",
+      "type": "GOVERNED",
+      "target": "wd:Q1387",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "BASED_IN",
+      "target": "wd:Q18389",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pawcatuck_falls",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q126195",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6129366",
+      "type": "HAS_MEMBER",
+      "target": "person__william_field",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "BASED_IN",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "BASED_IN",
+      "target": "wd:Q11791812",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11791812",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q18389",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q311975",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q11791812",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q1468860",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2657612",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1387",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6218742",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q1387",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q884674",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18389",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1468860",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1387",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q122553",
+      "type": "PUBLISHED_BY",
+      "target": "person__nicholas_boone",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "type": "GOVERNED",
+      "target": "wd:Q884674",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q311975",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q49638093",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1387",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1241943",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q122553",
+      "type": "GOVERNED",
+      "target": "wd:Q1387",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pawcatuck_falls",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q49200",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q142",
+      "type": "GOVERNED",
+      "target": "wd:Q7252460",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q951500",
+      "type": "BASED_IN",
+      "target": "wd:Q828",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11791812",
+      "type": "BASED_IN",
+      "target": "toponym__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1387",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q311975",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7252460",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q828",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q1468860",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__nauhagaguset",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q828",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q828",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11791812",
+      "type": "HAS_LOCATION",
+      "target": "toponym__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1468860",
+      "type": "HAS_LOCATION",
+      "target": "toponym__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q884674",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__narraganset-bay",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q11791812",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q18389",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q49638093",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__narraganset-bay",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1387",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__narraganset-bay",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "HAS_LOCATION",
+      "target": "toponym__governour_and_company_of_the_english_colony_of_rhode-island",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__pawcatuck_river",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q828",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q884674",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q11791812",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "type": "HAS_MEMBER",
+      "target": "person__joseph_clarke",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q951500",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q828",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q137370388",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q2578112",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2578112",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q115667651",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2578112",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q8006950",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q115667651",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q16853338",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16853338",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7411513",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16853338",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_wickts",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7411513",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_wicki",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7411513",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_porter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_wicki",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q391591",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q391591",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q110301849",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q391591",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_porter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q110301849",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__gregory_dexter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_field",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q6129366",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_field",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__thomas_harris",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_field",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__richard_tew",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6129366",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__richard_the_petition_yew",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6129366",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__thomas_harris",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6129366",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__rainborough_williams",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__richard_the_petition_yew",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__thomas_harris",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8006950",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q16209940",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16209940",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q298237",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q298237",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_rolfson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_rolfson",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_porter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_porter",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q8005684",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2578112",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q298237",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__thomas_harris",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__richard_tew",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2578112",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q16853338",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__john_wicki",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q110301849",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q110301849",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q6226542",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q110301849",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_porter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8006950",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_rolfson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q16209940",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_porter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q391591",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q6226542",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q2578112",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q8005684",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__joseph_clarke",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7412932",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__randell_holden",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__william_field",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__thomas_harris",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_nixfor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__william_rolfson",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_wickts",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7411513",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q110301849",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q110301849",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q6129366",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7411513",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__gregory_dexter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q108162539",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_porter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "organization__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "label": "Organization",
+      "name": "General Assembly of His Majesties Colony of Rhode-Island",
+      "wd_label": ""
+    },
+    {
+      "id": "organization__governour_and_company_of_the_english_colony_of_rhode-island",
+      "label": "Organization",
+      "name": "GOVERNOUR and Company of the English Colony of RHODE-ISLAND",
+      "wd_label": ""
+    },
+    {
+      "id": "person__gregory_dexter",
+      "label": "Person",
+      "name": "Gregory Dexter",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_nixfor",
+      "label": "Person",
+      "name": "John Nixfor",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_porter",
+      "label": "Person",
+      "name": "John Porter",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_roome",
+      "label": "Person",
+      "name": "John Roome",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_wicki",
+      "label": "Person",
+      "name": "John Wicki",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_wickts",
+      "label": "Person",
+      "name": "John Wickts",
+      "wd_label": ""
+    },
+    {
+      "id": "person__joseph_clarke",
+      "label": "Person",
+      "name": "Joseph Clarke",
+      "wd_label": ""
+    },
+    {
+      "id": "person__nicholas_boone",
+      "label": "Person",
+      "name": "Nicholas Boone",
+      "wd_label": ""
+    },
+    {
+      "id": "person__rainborough_williams",
+      "label": "Person",
+      "name": "Rainborough Williams",
+      "wd_label": ""
+    },
+    {
+      "id": "person__randal_holden",
+      "label": "Person",
+      "name": "Randal Holden",
+      "wd_label": ""
+    },
+    {
+      "id": "person__randell_holden",
+      "label": "Person",
+      "name": "Randell Holden",
+      "wd_label": ""
+    },
+    {
+      "id": "person__richard_tew",
+      "label": "Person",
+      "name": "Richard Tew",
+      "wd_label": ""
+    },
+    {
+      "id": "person__richard_the_petition_yew",
+      "label": "Person",
+      "name": "Richard The Petition Yew",
+      "wd_label": ""
+    },
+    {
+      "id": "person__thomas_harris",
+      "label": "Person",
+      "name": "Thomas Harris",
+      "wd_label": ""
+    },
+    {
+      "id": "person__william_field",
+      "label": "Person",
+      "name": "William Field",
+      "wd_label": ""
+    },
+    {
+      "id": "person__william_rolfson",
+      "label": "Person",
+      "name": "William Rolfson",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__east_greenwich",
+      "label": "Location",
+      "name": "East Greenwich",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__general_assembly_of_his_majesties_colony_of_rhode-island",
+      "label": "Location",
+      "name": "General Assembly of His Majesties Colony of Rhode-Island",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__governour_and_company_of_the_english_colony_of_rhode-island",
+      "label": "Location",
+      "name": "GOVERNOUR and Company of the English Colony of RHODE-ISLAND",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__narraganset-bay",
+      "label": "Location",
+      "name": "Narraganset-Bay",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__narraganset_river",
+      "label": "Location",
+      "name": "Narraganset river",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__nauhagaguset",
+      "label": "Location",
+      "name": "Nauhagaguset",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__pawcatuck_falls",
+      "label": "Location",
+      "name": "Pawcatuck Falls",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__pawcatuck_river",
+      "label": "Location",
+      "name": "Pawcatuck River",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__seconk_river",
+      "label": "Location",
+      "name": "Seconk River",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q108162539",
+      "label": "Person",
+      "name": "JOHN GREEN",
+      "wd_label": "John Green"
+    },
+    {
+      "id": "wd:Q110301849",
+      "label": "Location",
+      "name": "Thomas Olney",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q115667651",
+      "label": "Person",
+      "name": "William Porter",
+      "wd_label": "William Porter"
+    },
+    {
+      "id": "wd:Q11791812",
+      "label": "Person",
+      "name": "Newport",
+      "wd_label": "Newport"
+    },
+    {
+      "id": "wd:Q122553",
+      "label": "Person",
+      "name": "Charles II",
+      "wd_label": "Charles II of England"
+    },
+    {
+      "id": "wd:Q1241943",
+      "label": "Location",
+      "name": "Narraganset",
+      "wd_label": "Narragansett Bay"
+    },
+    {
+      "id": "wd:Q126195",
+      "label": "Location",
+      "name": "New-Plymouth",
+      "wd_label": "Plymouth Colony"
+    },
+    {
+      "id": "wd:Q137370388",
+      "label": "Person",
+      "name": "Benjamin Arnold",
+      "wd_label": "Benjamin Arnold"
+    },
+    {
+      "id": "wd:Q1387",
+      "label": "Location",
+      "name": "Rode Island",
+      "wd_label": "Rhode Island"
+    },
+    {
+      "id": "wd:Q142",
+      "label": "Location",
+      "name": "France",
+      "wd_label": "France"
+    },
+    {
+      "id": "wd:Q1468860",
+      "label": "Location",
+      "name": "Warwick",
+      "wd_label": "Warwick Parish"
+    },
+    {
+      "id": "wd:Q16209940",
+      "label": "Person",
+      "name": "Nicholas Easton",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q16853338",
+      "label": "Person",
+      "name": "John Smith",
+      "wd_label": "John Smith"
+    },
+    {
+      "id": "wd:Q18389",
+      "label": "Location",
+      "name": "NEW-ENGLAND",
+      "wd_label": "New England"
+    },
+    {
+      "id": "wd:Q2079909",
+      "label": "Location",
+      "name": "Massachusetts Colony",
+      "wd_label": "Province of Massachusetts Bay"
+    },
+    {
+      "id": "wd:Q23298",
+      "label": "Location",
+      "name": "Kent",
+      "wd_label": "Kent"
+    },
+    {
+      "id": "wd:Q2578112",
+      "label": "Person",
+      "name": "William Brenton",
+      "wd_label": "William Brenton"
+    },
+    {
+      "id": "wd:Q2657612",
+      "label": "Location",
+      "name": "Pawcatuck",
+      "wd_label": "Pawcatuck"
+    },
+    {
+      "id": "wd:Q298237",
+      "label": "Person",
+      "name": "Benedict Arnold",
+      "wd_label": "Benedict Arnold"
+    },
+    {
+      "id": "wd:Q311975",
+      "label": "Location",
+      "name": "BOSTON",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q391591",
+      "label": "Person",
+      "name": "Roger Williams",
+      "wd_label": "Roger Williams"
+    },
+    {
+      "id": "wd:Q49149",
+      "label": "Location",
+      "name": "Nantucket",
+      "wd_label": "Nantucket"
+    },
+    {
+      "id": "wd:Q49200",
+      "label": "Location",
+      "name": "Pawtucket",
+      "wd_label": "Pawtucket"
+    },
+    {
+      "id": "wd:Q49638093",
+      "label": "Location",
+      "name": "Fishers-Island",
+      "wd_label": "Fishers Island"
+    },
+    {
+      "id": "wd:Q6129366",
+      "label": "Person",
+      "name": "James Barker",
+      "wd_label": "James Barker"
+    },
+    {
+      "id": "wd:Q6218742",
+      "label": "Person",
+      "name": "John Allen",
+      "wd_label": "John Allen"
+    },
+    {
+      "id": "wd:Q6226542",
+      "label": "Person",
+      "name": "John Coggeshall",
+      "wd_label": "John Coggeshall"
+    },
+    {
+      "id": "wd:Q7252460",
+      "label": "Location",
+      "name": "Providence Plantations",
+      "wd_label": "Providence Plantations"
+    },
+    {
+      "id": "wd:Q7411513",
+      "label": "Person",
+      "name": "SAMUEL GORTON",
+      "wd_label": "Samuel Gorton"
+    },
+    {
+      "id": "wd:Q7412932",
+      "label": "Person",
+      "name": "Samuel Wilbore",
+      "wd_label": "Samuel Wilbore"
+    },
+    {
+      "id": "wd:Q8005684",
+      "label": "Person",
+      "name": "William Bolton",
+      "wd_label": "William Bolton"
+    },
+    {
+      "id": "wd:Q8006950",
+      "label": "Person",
+      "name": "William Coddington",
+      "wd_label": "William Coddington"
+    },
+    {
+      "id": "wd:Q81506",
+      "label": "Person",
+      "name": "King Charles I",
+      "wd_label": "Charles I of England"
+    },
+    {
+      "id": "wd:Q828",
+      "label": "Location",
+      "name": "America",
+      "wd_label": "Americas"
+    },
+    {
+      "id": "wd:Q884674",
+      "label": "Location",
+      "name": "Block Island",
+      "wd_label": "Block Island"
+    },
+    {
+      "id": "wd:Q951500",
+      "label": "Location",
+      "name": "Connecticut Colony",
+      "wd_label": "Connecticut Colony"
+    }
+  ]
+}

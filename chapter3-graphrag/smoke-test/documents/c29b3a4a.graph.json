@@ -1,0 +1,1058 @@
+{
+  "doc_id": "c29b3a4a_votesproceedings1754newj_bw",
+  "document_node": "doc__c29b3a4a_votesproceedings1754newj_bw",
+  "archive_org_identifier": "votesproceedings1754newj",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "person__mr__nevill",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q47113982",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__nevill",
+      "type": "CORRESPONDED_WITH",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1408",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5713689",
+      "type": "PARTNERED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94121541",
+      "type": "PARTNERED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__city_of_burlington",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1408",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "IDENTIFIED_BY",
+      "target": "person__mr__read",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5914849",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q11010",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__county_of_burlington",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1408",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q5914849",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q11010",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "EMPLOYED_BY",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1375929",
+      "type": "WORKED_IN",
+      "target": "wd:Q121467353",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__read",
+      "type": "EMPLOYED_BY",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q135494618",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q94121541",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q5713689",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q94519912",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q18160600",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q121467353",
+      "type": "PUBLISHED_BY",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q7412272",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__elizabeth-town",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q47113982",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q47113982",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__elizabeth-town",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7346753",
+      "type": "LED",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7346753",
+      "type": "EMPLOYED_BY",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q7412657",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "EMPLOYED_BY",
+      "target": "wd:Q135494618",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18160600",
+      "type": "EMPLOYED_BY",
+      "target": "person__charles_read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q985592",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q113809579",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q170497",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__mr__ladd",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q7412272",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q108430551",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q108430551",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q19186",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q97102531",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q156990",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q18160600",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18379222",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__john_hogland",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q6272552",
+      "type": "GOVERNED",
+      "target": "wd:Q1408",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q985592",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__general_assembly",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "HAS_MEMBER",
+      "target": "toponym__mr__ladd",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__morris___sussex",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q137370503",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__elizabeth-town",
+      "type": "PUBLISHED_IN",
+      "target": "wd:Q121467353",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q502451",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q1408",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__city_of_burlington",
+      "type": "HAS_MEMBER",
+      "target": "person__henry_paxfon",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__salem_and_cumberland",
+      "type": "HAS_MEMBER",
+      "target": "wd:Q94519912",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__city_of_burlington",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__richard_bradbury",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q19186",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q18160600",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18379222",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q97102531",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__bergen",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q18160600",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1421939",
+      "type": "GOVERNED",
+      "target": "wd:Q1408",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__elizabeth-town",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q985592",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly",
+      "type": "CORRESPONDED_WITH",
+      "target": "wd:Q11010",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "IDENTIFIED_BY",
+      "target": "person__mr__nevill",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q19186",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__mr__ladd",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q170497",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__mr__clement",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q18379222",
+      "type": "HAS_RESIDENCE",
+      "target": "toponym__charles_read",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__bergen",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q108430551",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "organization__general_assembly",
+      "type": "HAS_MEMBER",
+      "target": "person__charles_read",
+      "crm_property": "P107i",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1408",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q97102531",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q170497",
+      "type": "HAS_RESIDENCE",
+      "target": "wd:Q5713689",
+      "crm_property": "P74",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q985592",
+      "type": "TRADED_WITH",
+      "target": "toponym__city_of_burlington",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1375929",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q19186",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "PARTNERED_WITH",
+      "target": "wd:Q113809579",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "PARTNERED_WITH",
+      "target": "person__charles_read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "PARTNERED_WITH",
+      "target": "wd:Q108430551",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__elizabeth-town",
+      "type": "HAS_LOCATION",
+      "target": "wd:Q1408",
+      "crm_property": "P53",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q47113982",
+      "type": "SPEAKING_TO",
+      "target": "organization__general_assembly",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q113809579",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q97102531",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q5713689",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__charles_read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q113809579",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q5713689",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q97102531",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__charles_read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q100987890",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5713689",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__charles_read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q8010812",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q137370503",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q135494618",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q100987890",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__read",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q21166118",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__read",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__ladd",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q135012458",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q18160600",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__jacob_dehart",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5713689",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__john_hogland",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5713689",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q94519912",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q5713689",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q135012458",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412657",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q135494618",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q108430551",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q75933717",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__hude",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412657",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q94121541",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q135494618",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__george_vreelandt",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__rinear_vangeson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7346753",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q18160600",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q21166118",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__clement",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q21166118",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__ladd",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q97102531",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q5713689",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q245774",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__read",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__read",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q47113982",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__nevill",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q47113982",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mr__nevill",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mr__clement",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q7412272",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q94121541",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q7412657",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__charles_read",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q135494618",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "organization__general_assembly",
+      "label": "Organization",
+      "name": "General Assembly",
+      "wd_label": ""
+    },
+    {
+      "id": "person__bergen",
+      "label": "Person",
+      "name": "Bergen",
+      "wd_label": ""
+    },
+    {
+      "id": "person__charles_read",
+      "label": "Person",
+      "name": "Charles Read",
+      "wd_label": ""
+    },
+    {
+      "id": "person__city_of_burlington",
+      "label": "Person",
+      "name": "City of Burlington",
+      "wd_label": ""
+    },
+    {
+      "id": "person__elizabeth-town",
+      "label": "Person",
+      "name": "Elizabeth-Town",
+      "wd_label": ""
+    },
+    {
+      "id": "person__george_vreelandt",
+      "label": "Person",
+      "name": "George Vreelandt",
+      "wd_label": ""
+    },
+    {
+      "id": "person__henry_paxfon",
+      "label": "Person",
+      "name": "Henry Paxfon",
+      "wd_label": ""
+    },
+    {
+      "id": "person__jacob_dehart",
+      "label": "Person",
+      "name": "Jacob Dehart",
+      "wd_label": ""
+    },
+    {
+      "id": "person__john_hogland",
+      "label": "Person",
+      "name": "John Hogland",
+      "wd_label": ""
+    },
+    {
+      "id": "person__morris___sussex",
+      "label": "Person",
+      "name": "Morris & Sussex",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__clement",
+      "label": "Person",
+      "name": "Mr. Clement",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__hude",
+      "label": "Person",
+      "name": "Mr. Hude",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__ladd",
+      "label": "Person",
+      "name": "Mr. Ladd",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__nevill",
+      "label": "Person",
+      "name": "Mr. Nevill",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mr__read",
+      "label": "Person",
+      "name": "Mr. Read",
+      "wd_label": ""
+    },
+    {
+      "id": "person__rinear_vangeson",
+      "label": "Person",
+      "name": "Rinear Vangeson",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__charles_read",
+      "label": "Location",
+      "name": "Charles Read",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__city_of_burlington",
+      "label": "Location",
+      "name": "City of Burlington",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__county_of_burlington",
+      "label": "Location",
+      "name": "county of Burlington",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__elizabeth-town",
+      "label": "Location",
+      "name": "Elizabeth-Town",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__general_assembly",
+      "label": "Location",
+      "name": "General Assembly",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__john_hogland",
+      "label": "Location",
+      "name": "John Hogland",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__mr__clement",
+      "label": "Location",
+      "name": "Mr. Clement",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__mr__ladd",
+      "label": "Location",
+      "name": "Mr. Ladd",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__richard_bradbury",
+      "label": "Location",
+      "name": "Richard Bradbury",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__salem_and_cumberland",
+      "label": "Location",
+      "name": "Salem and Cumberland",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q100987890",
+      "label": "Person",
+      "name": "James Hude",
+      "wd_label": "James Hude"
+    },
+    {
+      "id": "wd:Q108430551",
+      "label": "Person",
+      "name": "John Ladd",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q11010",
+      "label": "Organization",
+      "name": "British Parliament",
+      "wd_label": "Parliament of the United Kingdom"
+    },
+    {
+      "id": "wd:Q113809579",
+      "label": "Person",
+      "name": "John Johnston",
+      "wd_label": "John Johnston"
+    },
+    {
+      "id": "wd:Q121467353",
+      "label": "Person",
+      "name": "James Parker",
+      "wd_label": "James Parker"
+    },
+    {
+      "id": "wd:Q135012458",
+      "label": "Person",
+      "name": "Joseph Yard",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q135494618",
+      "label": "Person",
+      "name": "Andrew Johnston",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q137370503",
+      "label": "Person",
+      "name": "Ebenezer Miller",
+      "wd_label": "Ebenezer Miller"
+    },
+    {
+      "id": "wd:Q1375929",
+      "label": "Location",
+      "name": "Woodbridge",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1408",
+      "label": "Location",
+      "name": "New Jersey",
+      "wd_label": "New Jersey"
+    },
+    {
+      "id": "wd:Q1421939",
+      "label": "Location",
+      "name": "James's",
+      "wd_label": "Saint James Parish"
+    },
+    {
+      "id": "wd:Q156990",
+      "label": "Location",
+      "name": "Monmouth",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q170497",
+      "label": "Location",
+      "name": "Gloucester",
+      "wd_label": "Gloucester"
+    },
+    {
+      "id": "wd:Q18160600",
+      "label": "Person",
+      "name": "James Holmes",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q18379222",
+      "label": "Location",
+      "name": "SOMERSET",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q19186",
+      "label": "Organization",
+      "name": "Middlesex",
+      "wd_label": "Middlesex"
+    },
+    {
+      "id": "wd:Q21166118",
+      "label": "Person",
+      "name": "Edw. Lawrence",
+      "wd_label": "Sir Edward Lawrence, 1st Baronet"
+    },
+    {
+      "id": "wd:Q245774",
+      "label": "Person",
+      "name": "John Stevens",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q47113982",
+      "label": "Person",
+      "name": "J. BELCHER",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q502451",
+      "label": "Location",
+      "name": "County of Hunterdon",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q5713689",
+      "label": "Person",
+      "name": "Hendrick Fisher",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q5914849",
+      "label": "Organization",
+      "name": "House of Commons",
+      "wd_label": "House of Commons of England"
+    },
+    {
+      "id": "wd:Q6272552",
+      "label": "Person",
+      "name": "Jonathan Belcher",
+      "wd_label": "Jonathan Belcher"
+    },
+    {
+      "id": "wd:Q7346753",
+      "label": "Person",
+      "name": "Robert Lawrence",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q7412272",
+      "label": "Person",
+      "name": "Samuel Nevill",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q7412657",
+      "label": "Person",
+      "name": "Samuel Smith",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q75933717",
+      "label": "Person",
+      "name": "Samuel Clement",
+      "wd_label": "Samuel Clement"
+    },
+    {
+      "id": "wd:Q8010812",
+      "label": "Person",
+      "name": "William Hancock",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q94121541",
+      "label": "Person",
+      "name": "Aaron Leaming",
+      "wd_label": "Aaron Leaming"
+    },
+    {
+      "id": "wd:Q94519912",
+      "label": "Person",
+      "name": "Jacob Spicer",
+      "wd_label": "Jacob Spicer"
+    },
+    {
+      "id": "wd:Q97102531",
+      "label": "Person",
+      "name": "John Wetherill",
+      "wd_label": "John Wetherill"
+    },
+    {
+      "id": "wd:Q985592",
+      "label": "Location",
+      "name": "Perth-Amboy",
+      "wd_label": "Perth Amboy"
+    }
+  ]
+}

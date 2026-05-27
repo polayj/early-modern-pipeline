@@ -1,0 +1,1100 @@
+{
+  "doc_id": "e4e2b27c_dissertatiodege00meri_bw",
+  "document_node": "doc__e4e2b27c_dissertatiodege00meri_bw",
+  "archive_org_identifier": "dissertatiodege00meri",
+  "n_edges_total": 100,
+  "edges": [
+    {
+      "source": "person__p__meller",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__vlieger",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__hahn",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q503",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__s__huyler",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__guajave",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__nelson",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__citronier",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__muyter",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q353817",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__mistress_bloom",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__figuier_d_amerique",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__p__bleyer",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q42385",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__hübner",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__slaaperjes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__mather",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__vigne_d_amérique",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__hager",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__guajava_alba_dulcis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__g__f__klotz",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__jasmin_des_indes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__cocoboue",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__muyter",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q38645",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__ricinus_d_amérique",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__nelson",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q503",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__buper",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q353817",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__mather",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__ricinus_d_amérique",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__a__schopf",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__arbre_de_gomme-guille",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__s__huyler",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__figuier_d_amerique",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__metier",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q11185",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__guajava_alba_dulcis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q136370609",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q136777877",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__hübner",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q353817",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__maber",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q12330939",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q136370609",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__zoute_boomer-boom",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__hager",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__p__meller",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__arbre_de_gomme-guille",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__s__huyer",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q38645",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__mather",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__guajave",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__g__hübner",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q1235813",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__burger",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__mayer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__mather",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__roget",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q136370609",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q42385",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__g__hübner",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__vigne_d_amérique",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__meyer",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__slaaperjes",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__metier",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__guajava_alba_dulcis",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__m_s__merian",
+      "type": "ASSOCIATED_WITH",
+      "target": "commodity__guajave",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q10817602",
+      "type": "PRODUCED_BY",
+      "target": "person__m_s__merian",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__cocoboue",
+      "type": "PRODUCED_BY",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__arbre_de_gomme-guille",
+      "type": "PRODUCED_BY",
+      "target": "person__f__nelson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__citronier",
+      "type": "PRODUCED_BY",
+      "target": "person__f__mather",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q353817",
+      "type": "PRODUCED_BY",
+      "target": "person__j__a__schopf",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__althea",
+      "type": "PRODUCED_BY",
+      "target": "person__j__buper",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__ricinus_d_amérique",
+      "type": "PRODUCED_BY",
+      "target": "person__f__hübner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11185",
+      "type": "PRODUCED_BY",
+      "target": "person__p__bleyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__zoute_boomer-boom",
+      "type": "PRODUCED_BY",
+      "target": "person__j__duyter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83124",
+      "type": "PRODUCED_BY",
+      "target": "person__j__r__taylor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__guajave",
+      "type": "PRODUCED_BY",
+      "target": "person__s__malbor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__slaaperjes",
+      "type": "PRODUCED_BY",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "toponym__surinamenfem",
+      "type": "FALLS_WITHIN",
+      "target": "wd:Q828",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q1442692",
+      "type": "WORKED_IN",
+      "target": "toponym__noribergae",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q38645",
+      "type": "PRODUCED_BY",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q770",
+      "type": "TRAVELED_TO",
+      "target": "wd:Q31",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q10817602",
+      "type": "PRODUCED_BY",
+      "target": "person__g__f__klotz",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__zoute_boomer-boom",
+      "type": "PRODUCED_BY",
+      "target": "person__p__bleyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__althea",
+      "type": "GROWN_IN",
+      "target": "wd:Q730",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__ricinus_d_amérique",
+      "type": "PRODUCED_BY",
+      "target": "wd:Q1235813",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__zoute_boomer-boom",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__mettner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q10817602",
+      "type": "GROWN_IN",
+      "target": "wd:Q730",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__g__milne",
+      "type": "ASSOCIATED_WITH",
+      "target": "wd:Q136370609",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__citronier",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__a__schopf",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__figuier_d_amerique",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__buper",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__jasmin_des_indes",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__mayer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__cocoboue",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__s__malbor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__guajava_alba_dulcis",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__duyter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__vigne_d_amérique",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__arbre_de_gomme-guille",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__muyter",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q12330939",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__mettner",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__mather",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__luc_rouin",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__s__huyer",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__roget",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__vlieger",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83124",
+      "type": "GROWN_IN",
+      "target": "wd:Q730",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__s__malbor",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__nelson",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__burger",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__roget",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q11185",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__maber",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__wijnga-bouvier",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__mayer",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__hager",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__f__metius",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__g__hübner",
+      "crm_property": "P1",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q668",
+      "type": "BASED_IN",
+      "target": "wd:Q106",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q42385",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__mettner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__luc_rouin",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__nelson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__duyter",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__p__bleyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__d__balthazari_scott",
+      "type": "BASED_IN",
+      "target": "wd:Q106",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q38645",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__s__malbor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__arbre_de_gomme-guille",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__althea",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__hübner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__ricinus_d_amérique",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__mistress_bloom",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q136777877",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__mettner",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__j__a__schopf",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__wijnga-bouvier",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__metier",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "person__g__f__klotz",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__hahn",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__citronier",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__mayer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q136777877",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__hager",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q83124",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__m_s__merian",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q828",
+      "type": "FALLS_WITHIN",
+      "target": "toponym__occidentali",
+      "crm_property": "P89",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q10817602",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__r__taylor",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "wd:Q503",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__j__meyer",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__guajave",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__f__nelson",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    },
+    {
+      "source": "commodity__citronier",
+      "type": "ASSOCIATED_WITH",
+      "target": "person__s__huyler",
+      "crm_property": "",
+      "source_tag": "ocr_llm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "commodity__althea",
+      "label": "Commodity",
+      "name": "Althea",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__arbre_de_gomme-guille",
+      "label": "Commodity",
+      "name": "Arbre de gomme-guille",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__citronier",
+      "label": "Commodity",
+      "name": "Citronier",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__cocoboue",
+      "label": "Commodity",
+      "name": "Cocoboue",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__figuier_d_amerique",
+      "label": "Commodity",
+      "name": "figuier d'Amerique",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__guajava_alba_dulcis",
+      "label": "Commodity",
+      "name": "guajava alba dulcis",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__guajave",
+      "label": "Commodity",
+      "name": "guajave",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__jasmin_des_indes",
+      "label": "Commodity",
+      "name": "Jasmin des Indes",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__ricinus_d_amérique",
+      "label": "Commodity",
+      "name": "Ricinus d'Amérique",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__slaaperjes",
+      "label": "Commodity",
+      "name": "Slaaperjes",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__vigne_d_amérique",
+      "label": "Commodity",
+      "name": "Vigne d'Amérique",
+      "wd_label": ""
+    },
+    {
+      "id": "commodity__zoute_boomer-boom",
+      "label": "Commodity",
+      "name": "Zoute Boomer-Boom",
+      "wd_label": ""
+    },
+    {
+      "id": "person__d__balthazari_scott",
+      "label": "Person",
+      "name": "D. BALTHAZARI SCOTT",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__burger",
+      "label": "Person",
+      "name": "F. Burger",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__hahn",
+      "label": "Person",
+      "name": "F. Hahn",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__hübner",
+      "label": "Person",
+      "name": "F. Hübner",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__mather",
+      "label": "Person",
+      "name": "F. Mather",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__metius",
+      "label": "Person",
+      "name": "F. Metius",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__mettner",
+      "label": "Person",
+      "name": "F. Mettner",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__nelson",
+      "label": "Person",
+      "name": "F. Nelson",
+      "wd_label": ""
+    },
+    {
+      "id": "person__f__roget",
+      "label": "Person",
+      "name": "F. Roget",
+      "wd_label": ""
+    },
+    {
+      "id": "person__g__f__klotz",
+      "label": "Person",
+      "name": "G. F. Klotz",
+      "wd_label": ""
+    },
+    {
+      "id": "person__g__hübner",
+      "label": "Person",
+      "name": "G. Hübner",
+      "wd_label": ""
+    },
+    {
+      "id": "person__g__milne",
+      "label": "Person",
+      "name": "G. Milne",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__a__schopf",
+      "label": "Person",
+      "name": "J. A. Schopf",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__buper",
+      "label": "Person",
+      "name": "J. Buper",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__duyter",
+      "label": "Person",
+      "name": "J. Duyter",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__hager",
+      "label": "Person",
+      "name": "J. Hager",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__maber",
+      "label": "Person",
+      "name": "J. Maber",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__mayer",
+      "label": "Person",
+      "name": "J. Mayer",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__metier",
+      "label": "Person",
+      "name": "J. Metier",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__meyer",
+      "label": "Person",
+      "name": "J. Meyer",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__muyter",
+      "label": "Person",
+      "name": "J. Muyter",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__r__taylor",
+      "label": "Person",
+      "name": "J. R. Taylor",
+      "wd_label": ""
+    },
+    {
+      "id": "person__j__vlieger",
+      "label": "Person",
+      "name": "J. Vlieger",
+      "wd_label": ""
+    },
+    {
+      "id": "person__luc_rouin",
+      "label": "Person",
+      "name": "Luc Rouin",
+      "wd_label": ""
+    },
+    {
+      "id": "person__m_s__merian",
+      "label": "Person",
+      "name": "M.S. Merian",
+      "wd_label": ""
+    },
+    {
+      "id": "person__mistress_bloom",
+      "label": "Person",
+      "name": "Mistress Bloom",
+      "wd_label": ""
+    },
+    {
+      "id": "person__p__bleyer",
+      "label": "Person",
+      "name": "P. Bleyer",
+      "wd_label": ""
+    },
+    {
+      "id": "person__p__meller",
+      "label": "Person",
+      "name": "P. Meller",
+      "wd_label": ""
+    },
+    {
+      "id": "person__s__huyer",
+      "label": "Person",
+      "name": "S. Huyer",
+      "wd_label": ""
+    },
+    {
+      "id": "person__s__huyler",
+      "label": "Person",
+      "name": "S. Huyler",
+      "wd_label": ""
+    },
+    {
+      "id": "person__s__malbor",
+      "label": "Person",
+      "name": "S. Malbor",
+      "wd_label": ""
+    },
+    {
+      "id": "person__wijnga-bouvier",
+      "label": "Person",
+      "name": "Wijnga-Bouvier",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__noribergae",
+      "label": "Location",
+      "name": "Noribergae",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__occidentali",
+      "label": "Location",
+      "name": "Occidentali",
+      "wd_label": ""
+    },
+    {
+      "id": "toponym__surinamenfem",
+      "label": "Location",
+      "name": "Surinamenfem",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q106",
+      "label": "Location",
+      "name": "Amstelodamensi",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q10817602",
+      "label": "Location",
+      "name": "Ananas",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q11185",
+      "label": "Commodity",
+      "name": "herrings",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q12330939",
+      "label": "Commodity",
+      "name": "Papaya",
+      "wd_label": "papaya"
+    },
+    {
+      "id": "wd:Q1235813",
+      "label": "Person",
+      "name": "J. SOWERBY",
+      "wd_label": "James Sowerby"
+    },
+    {
+      "id": "wd:Q136370609",
+      "label": "Person",
+      "name": "J. Metcalf",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q136777877",
+      "label": "Location",
+      "name": "guayare",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q1442692",
+      "label": "Location",
+      "name": "Francofurti",
+      "wd_label": ""
+    },
+    {
+      "id": "wd:Q31",
+      "label": "Location",
+      "name": "Belgiam",
+      "wd_label": "Belgium"
+    },
+    {
+      "id": "wd:Q353817",
+      "label": "Commodity",
+      "name": "Pomelo",
+      "wd_label": "pomelo"
+    },
+    {
+      "id": "wd:Q38645",
+      "label": "Commodity",
+      "name": "Melon d'Eau",
+      "wd_label": "watermelon"
+    },
+    {
+      "id": "wd:Q42385",
+      "label": "Commodity",
+      "name": "Cacao",
+      "wd_label": "cacao"
+    },
+    {
+      "id": "wd:Q503",
+      "label": "Commodity",
+      "name": "Platano",
+      "wd_label": "banana"
+    },
+    {
+      "id": "wd:Q668",
+      "label": "Location",
+      "name": "India",
+      "wd_label": "India"
+    },
+    {
+      "id": "wd:Q730",
+      "label": "Location",
+      "name": "Surinam",
+      "wd_label": "Suriname"
+    },
+    {
+      "id": "wd:Q770",
+      "label": "Location",
+      "name": "Frisia",
+      "wd_label": "Friesland"
+    },
+    {
+      "id": "wd:Q828",
+      "label": "Location",
+      "name": "America",
+      "wd_label": "Americas"
+    },
+    {
+      "id": "wd:Q83124",
+      "label": "Commodity",
+      "name": "Cassava",
+      "wd_label": "cassava"
+    }
+  ]
+}
