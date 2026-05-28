@@ -65,7 +65,7 @@ Large artifacts that don't belong in a Git repository are deposited on Zenodo wi
 | Knowledge graph + evaluation | Graph CSVs (218,523 nodes / 691,577 edges) + chunk text & metadata for the vector collections + per-system LLM answers + smoke subset | [10.5281/zenodo.20420920](https://doi.org/10.5281/zenodo.20420920) |
 | NER training corpus | Author annotations + synthetic data (third-party corpora cited, not redistributed) | [10.5281/zenodo.20420664](https://doi.org/10.5281/zenodo.20420664) |
 | Customs ledger dataset | Normalized 43,770-row CSV (transcribed from TNA CUST 3) | [10.5281/zenodo.20420893](https://doi.org/10.5281/zenodo.20420893) |
-| Repository snapshot (v0.9.0) | This GitHub repo at the v0.9.0 tag, via the Zenodo–GitHub integration | `[DOI pending — minted on tag push]` |
+| Repository snapshot | This GitHub repo, archived via the Zenodo–GitHub integration | [10.5281/zenodo.20421805](https://doi.org/10.5281/zenodo.20421805) |
 
 Concept DOIs always resolve to the latest version of each deposit (v0.9.0 pre-defense, v1.0.0 post-defense). Each version also has its own version DOI.
 

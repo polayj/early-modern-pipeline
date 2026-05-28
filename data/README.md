@@ -81,9 +81,12 @@ Transcribed by the author from **TNA CUST 3** (The National Archives, Kew).
 ## Repository snapshot
 
 The repository itself is also archived on Zenodo via the GitHub → Zenodo
-integration. The v0.9.0 repo-level DOI is minted when the `v0.9.0` tag is
-processed; it'll be added to this list once available. A v1.0.0 release will
-follow post-defense.
+integration.
+
+- Concept DOI: [10.5281/zenodo.20421805](https://doi.org/10.5281/zenodo.20421805)
+- v0.9.0 DOI: [10.5281/zenodo.20421806](https://doi.org/10.5281/zenodo.20421806)
+
+A v1.0.0 release will follow post-defense.
 
 ## Citing this data
 

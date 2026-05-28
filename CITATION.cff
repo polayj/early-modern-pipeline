@@ -43,6 +43,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.20420920
     description: Knowledge graph, vector index, and evaluation outputs (concept DOI)
+  - type: doi
+    value: 10.5281/zenodo.20421805
+    description: Repository snapshot (concept DOI; v0.9.0 minted via GitHub-Zenodo)
 preferred-citation:
   type: thesis
   title: "Loud Yet Invisible: A Humanist-Designed Pipeline for Unlocking the Early Modern Archive"
