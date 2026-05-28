@@ -58,15 +58,16 @@ Each chapter is independently runnable from its own README.
 
 Large artifacts that don't belong in a Git repository are deposited on Zenodo with permanent DOIs. Each has its own README and license.
 
-| Deposit | Contents | DOI |
+| Deposit | Contents | DOI (concept) |
 |---|---|---|
-| EarlyModernNER weights | DoRA + full-fine-tune adapters | `[DOI pending]` |
-| OCR outputs (20K corpus) | Plain-text transcriptions, Internet Archive sources | `[DOI pending]` |
-| Knowledge graph dump | Neo4j export + ChromaDB index | `[DOI pending]` |
-| NER training corpus | Annotated training data (your work) | `[DOI pending]` |
-| Customs ledger dataset | 43K-row trade data, normalized | `[DOI pending]` |
+| EarlyModernNER weights | 4 entity-type LoRA adapters (Qwen3-4B base) | [10.5281/zenodo.20420895](https://doi.org/10.5281/zenodo.20420895) |
+| OCR outputs | olmOCR-2 plain-text transcriptions, 15,799 Internet Archive documents | [10.5281/zenodo.20420918](https://doi.org/10.5281/zenodo.20420918) |
+| Knowledge graph + evaluation | Graph CSVs (218,523 nodes / 691,577 edges) + chunk text & metadata for the vector collections + per-system LLM answers + smoke subset | [10.5281/zenodo.20420920](https://doi.org/10.5281/zenodo.20420920) |
+| NER training corpus | Author annotations + synthetic data (third-party corpora cited, not redistributed) | [10.5281/zenodo.20420664](https://doi.org/10.5281/zenodo.20420664) |
+| Customs ledger dataset | Normalized 43,770-row CSV (transcribed from TNA CUST 3) | [10.5281/zenodo.20420893](https://doi.org/10.5281/zenodo.20420893) |
+| Repository snapshot (v0.9.0) | This GitHub repo at the v0.9.0 tag, via the Zenodo–GitHub integration | `[DOI pending — minted on tag push]` |
 
-The repository itself will be released on Zenodo as a versioned snapshot (GitHub → Zenodo integration), yielding a repo-level DOI for v1.0.0 post-defense.
+Concept DOIs always resolve to the latest version of each deposit (v0.9.0 pre-defense, v1.0.0 post-defense). Each version also has its own version DOI.
 
 ## Provenance and licensing — at a glance
 

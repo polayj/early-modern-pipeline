@@ -25,8 +25,24 @@ keywords:
   - historical text
 license: MIT
 license-url: "https://github.com/polayj/early-modern-pipeline/blob/main/LICENSE"
-version: "0.1.0-pre-defense"
-date-released: "2026-05-26"
+version: "0.9.0"
+date-released: "2026-05-27"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20420664
+    description: EarlyModernNER training corpus (concept DOI)
+  - type: doi
+    value: 10.5281/zenodo.20420893
+    description: Normalized British customs import ledgers, 1696-1755 (concept DOI)
+  - type: doi
+    value: 10.5281/zenodo.20420895
+    description: EarlyModernNER LoRA adapter weights (concept DOI)
+  - type: doi
+    value: 10.5281/zenodo.20420918
+    description: OCR transcriptions, Internet Archive corpus (concept DOI)
+  - type: doi
+    value: 10.5281/zenodo.20420920
+    description: Knowledge graph, vector index, and evaluation outputs (concept DOI)
 preferred-citation:
   type: thesis
   title: "Loud Yet Invisible: A Humanist-Designed Pipeline for Unlocking the Early Modern Archive"
