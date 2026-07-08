@@ -63,23 +63,28 @@ fi
 rm -f "$SENTINEL"
 mkdir -p "$PROJECT_DIR/output"
 
-# ── Trap: write sentinel and clean up on exit ─────────────────────────────────
+# ── Trap: write sentinel and clean up on any exit ─────────────────────────────
+# EXIT covers Ctrl-C, kill, and OCR failures under `set -e` alike — without it
+# a failed OCR run would leave the background NER watcher polling forever.
 NER_PID=""
 cleanup() {
     echo ""
-    echo "Interrupted — writing sentinel so NER can finish draining..."
+    echo "Writing sentinel so NER can finish draining..."
     touch "$SENTINEL"
     if [ -n "$NER_PID" ] && kill -0 "$NER_PID" 2>/dev/null; then
         wait "$NER_PID" || true
     fi
+    NER_PID=""
 }
-trap cleanup INT TERM
+trap cleanup EXIT INT TERM
 
 # ── Start NER in watch mode (background) ─────────────────────────────────────
 echo ""
 echo "Starting NER in watch mode (GPU)..."
 python3 "$PROJECT_DIR/pipeline/03_ner/run_ner.py" \
     --watch \
+    --input "$PROJECT_DIR/output/ocr_md" \
+    --output "$PROJECT_DIR/output/ner_output" \
     --done-sentinel "$SENTINEL" \
     --poll-interval "$POLL_INTERVAL" \
     --chunk-size "$CHUNK_SIZE" \

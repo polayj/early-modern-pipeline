@@ -362,7 +362,9 @@ def main():
                     print("Sentinel found, queue empty — done.")
                     break
 
-    Path("output/ner_complete.sentinel").write_text(
+    # Anchor to the output dir's parent so the location tracks --output
+    # (default: output/ner_complete.sentinel)
+    (output_dir.parent / "ner_complete.sentinel").write_text(
         f"NER complete. {len(processed_stems)} docs, {total_entities} entities.\n"
     )
 

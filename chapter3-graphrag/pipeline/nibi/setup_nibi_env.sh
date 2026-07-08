@@ -16,7 +16,9 @@ set -euo pipefail
 PROJECT_DIR=~/projects/def-jic823/Jacob-Projects/emgraphrag
 VENV_PATH="$PROJECT_DIR/venv"
 HF_HOME="$PROJECT_DIR/.cache/huggingface"
-OCR_MODEL="allenai/olmOCR-7B-0225-preview"
+# MUST match the default in process_ocr.sh — the SLURM job runs with
+# HF_HUB_OFFLINE=1 and can only load what this script pre-downloaded.
+OCR_MODEL="${OCR_MODEL:-allenai/olmOCR-2-7B-1025}"
 
 echo "========================================================"
 echo "emgraphrag environment setup — Nibi"
@@ -103,8 +105,8 @@ export HF_HOME="$HF_HOME"
 if [ -z "${HF_TOKEN:-}" ]; then
     echo ""
     echo "ERROR: HF_TOKEN is not set."
-    echo "  allenai/olmOCR-7B-0225-preview is a gated model."
-    echo "  1. Accept the license at: https://huggingface.co/allenai/olmOCR-7B-0225-preview"
+    echo "  $OCR_MODEL is a gated model."
+    echo "  1. Accept the license at: https://huggingface.co/$OCR_MODEL"
     echo "  2. Create a token at:     https://huggingface.co/settings/tokens"
     echo "  3. Re-run with:           HF_TOKEN=hf_xxxx bash pipeline/nibi/setup_nibi_env.sh"
     exit 1

@@ -16,7 +16,7 @@
 #   cd ~/projects/def-jic823/Jacob-Projects/emgraphrag
 #   sbatch pipeline/nibi/submit_ner.slurm
 # Or as a dependency (see submit_pipeline.sh):
-#   sbatch --dependency=afterok:<ocr_job_id> pipeline/nibi/submit_ner.slurm
+#   sbatch --dependency=afterany:<ocr_job_id> pipeline/nibi/submit_ner.slurm
 
 set -euo pipefail
 

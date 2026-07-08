@@ -312,8 +312,8 @@ def main():
 
                 if sentinel.exists() and not new_files:
                     print("\nNER sentinel found and queue empty — entity linking complete.")
-                    # Write our own sentinel
-                    Path("output/entity_linking_complete.sentinel").write_text(
+                    # Write our own sentinel next to the output dir
+                    (output_dir.parent / "entity_linking_complete.sentinel").write_text(
                         f"Entity linking complete. {len(processed_stems)} docs processed.\n"
                     )
                     break

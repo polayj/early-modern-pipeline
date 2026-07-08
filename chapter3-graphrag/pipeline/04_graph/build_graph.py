@@ -88,7 +88,9 @@ def load_archive_org_metadata(ocr_docs_dir: Path) -> dict[str, dict]:
         except Exception:
             continue
 
-        safe_id = re.sub(r"[^\w\-.]", "_", doc_title)
+        # Same sanitization rule as the OCR stage (02_ocr/run_ocr.sh,
+        # nibi/process_ocr.sh) so doc_ids line up with NER output stems
+        safe_id = re.sub(r"[^A-Za-z0-9_.-]", "_", doc_title)
         doc_id = f"archive_org__{safe_id}"
 
         # Archive.org metadata fields vary; try common keys
@@ -141,7 +143,7 @@ def load_eebo_metadata(ocr_docs_dir: Path) -> dict[str, dict]:
 
     for pdf in eebo_dir.glob("*.pdf"):
         stem = pdf.stem
-        safe_base = re.sub(r"[^\w\-.]", "_", stem)
+        safe_base = re.sub(r"[^A-Za-z0-9_.-]", "_", stem)
         doc_id = f"EEBO__{safe_base}"
 
         # Parse 'Author - Year - Title' pattern

@@ -27,6 +27,10 @@
 
 set -euo pipefail
 
+# Byte-wise character ranges in the sanitization globs below (locale-dependent
+# ranges like a-z can otherwise match accented characters)
+export LC_ALL=C
+
 # ── Resolve paths ─────────────────────────────────────────────────────────────
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="${PROJECT_DIR:-$(cd "$SCRIPT_DIR/../.." && pwd)}"
@@ -85,8 +89,10 @@ if [ -d "$INPUT_ARCHIVE" ]; then
 
         [ -z "$pdf" ] && continue
 
-        # Sanitize doc_id for filesystem use
-        safe_id="$(echo "$doc_id" | tr '/' '_' | tr ' ' '_' | tr -cd '[:alnum:]_\-.')"
+        # Sanitize doc_id for filesystem use.
+        # MUST match the extractor below (replace, not delete) or the
+        # resume-skip check never matches and docs are re-OCR'd every run.
+        safe_id="${doc_id//[^a-zA-Z0-9_.-]/_}"
         output_key="archive_org__${safe_id}"
         output_md="$MD_DIR/${output_key}.md"
 
@@ -105,7 +111,7 @@ fi
 if [ -d "$INPUT_EEBO" ]; then
     while IFS= read -r -d '' pdf; do
         base="$(basename "${pdf%.*}")"
-        safe_base="$(echo "$base" | tr '/' '_' | tr ' ' '_' | tr -cd '[:alnum:]_\-.')"
+        safe_base="${base//[^a-zA-Z0-9_.-]/_}"
         output_key="EEBO__${safe_base}"
         output_md="$MD_DIR/${output_key}.md"
 
@@ -206,15 +212,15 @@ for line in open(jsonl_file, encoding='utf-8', errors='replace'):
             doc_id = parts[idx + 1] if idx + 1 < len(parts) else os.path.splitext(parts[-1])[0]
         except ValueError:
             doc_id = os.path.splitext(os.path.basename(source))[0]
-        safe_id = re.sub(r'[^\w\-.]', '_', doc_id)
+        safe_id = re.sub(r'[^A-Za-z0-9_.-]', '_', doc_id)
         output_key = f'archive_org__{safe_id}'
     elif '/EEBO/' in norm:
         base = os.path.splitext(os.path.basename(source))[0]
-        safe_base = re.sub(r'[^\w\-.]', '_', base)
+        safe_base = re.sub(r'[^A-Za-z0-9_.-]', '_', base)
         output_key = f'EEBO__{safe_base}'
     else:
         base = os.path.splitext(os.path.basename(source))[0]
-        safe_base = re.sub(r'[^\w\-.]', '_', base)
+        safe_base = re.sub(r'[^A-Za-z0-9_.-]', '_', base)
         output_key = safe_base
 
     md_path = os.path.join(md_dir, output_key + '.md')

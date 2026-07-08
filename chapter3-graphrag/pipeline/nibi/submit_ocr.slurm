@@ -10,7 +10,7 @@
 
 # submit_ocr.slurm — OCR job for Nibi (H100, x86_64)
 #
-# Submits a 48-hour OCR job. Resume-safe: already-processed PDFs are skipped.
+# Submits an 8-hour OCR job. Resume-safe: already-processed PDFs are skipped.
 # Submit from the project root:
 #   cd ~/projects/def-jic823/Jacob-Projects/emgraphrag
 #   sbatch pipeline/nibi/submit_ocr.slurm

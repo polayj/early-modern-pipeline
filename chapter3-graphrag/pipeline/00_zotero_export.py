@@ -30,11 +30,13 @@ Options:
     --collection    Zotero collection name to export (personal library)
     --list-collections  Print all collections and groups and exit
     --dry-run       Show what would be copied without copying
-    --no-rename     Keep Zotero's existing filenames (default behaviour;
-                    use --rename to regenerate from metadata instead)
+    --rename        Regenerate filenames from metadata (default: keep
+                    Zotero's existing filenames)
 """
 
 import argparse
+import atexit
+import os
 import re
 import shutil
 import sqlite3
@@ -58,6 +60,7 @@ def open_db(zotero_dir: Path) -> sqlite3.Connection:
     tmp = tempfile.NamedTemporaryFile(suffix=".sqlite", delete=False)
     tmp.close()
     shutil.copy2(db_path, tmp.name)
+    atexit.register(os.unlink, tmp.name)
     conn = sqlite3.connect(tmp.name)
     conn.row_factory = sqlite3.Row
     return conn

@@ -8,8 +8,11 @@
 #
 # What it does:
 #   Submits 3 rounds of OCR → NER as a dependency chain.
-#   Each OCR job runs for up to 48 h, processing ~7,000 PDFs.
-#   Each NER job runs after the preceding OCR job finishes successfully.
+#   Each OCR job runs for up to 8 h (NER up to 24 h) and is EXPECTED to
+#   hit its walltime before the corpus is done — that's why there are
+#   3 rounds. Dependencies therefore use afterany (not afterok): a job
+#   killed at walltime is not 'ok', and afterok would leave the rest of
+#   the chain stuck as DependencyNeverSatisfied.
 #   All steps are resume-safe — already-processed files are skipped.
 #
 #   ocr1 → ner1 → ocr2 → ner2 → ocr3 → ner3
@@ -34,21 +37,21 @@ echo ""
 ocr1=$(sbatch --parsable "$OCR_SLURM")
 echo "OCR round 1 submitted: job $ocr1"
 
-ner1=$(sbatch --parsable --dependency=afterok:$ocr1 "$NER_SLURM")
+ner1=$(sbatch --parsable --dependency=afterany:$ocr1 "$NER_SLURM")
 echo "NER round 1 submitted: job $ner1  (depends on $ocr1)"
 
 # ── Round 2 ───────────────────────────────────────────────────────────────────
-ocr2=$(sbatch --parsable --dependency=afterok:$ner1 "$OCR_SLURM")
+ocr2=$(sbatch --parsable --dependency=afterany:$ner1 "$OCR_SLURM")
 echo "OCR round 2 submitted: job $ocr2  (depends on $ner1)"
 
-ner2=$(sbatch --parsable --dependency=afterok:$ocr2 "$NER_SLURM")
+ner2=$(sbatch --parsable --dependency=afterany:$ocr2 "$NER_SLURM")
 echo "NER round 2 submitted: job $ner2  (depends on $ocr2)"
 
 # ── Round 3 ───────────────────────────────────────────────────────────────────
-ocr3=$(sbatch --parsable --dependency=afterok:$ner2 "$OCR_SLURM")
+ocr3=$(sbatch --parsable --dependency=afterany:$ner2 "$OCR_SLURM")
 echo "OCR round 3 submitted: job $ocr3  (depends on $ner2)"
 
-ner3=$(sbatch --parsable --dependency=afterok:$ocr3 "$NER_SLURM")
+ner3=$(sbatch --parsable --dependency=afterany:$ocr3 "$NER_SLURM")
 echo "NER round 3 submitted: job $ner3  (depends on $ocr3)"
 
 echo ""

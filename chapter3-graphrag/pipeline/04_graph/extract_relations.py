@@ -600,12 +600,15 @@ def main():
                 relation_counts[r["relation"]] = relation_counts.get(r["relation"], 0) + 1
                 total_relations += 1
 
-            if relations_path.stat().st_size > 0:
-                rel_f.flush()
+            rel_f.flush()
             uncl_f.flush()
 
             processed_docs.add(doc_id)
             proc_f.write(doc_id + "\n")
+            # Flush together with the relations: if this lags behind, a crash
+            # re-processes docs whose relations were already appended,
+            # duplicating them on resume.
+            proc_f.flush()
 
         # ── Watch mode: keep polling ──────────────────────────────────────
         if args.watch:
@@ -655,7 +658,7 @@ def main():
 
                 if sentinel.exists() and not new_docs:
                     print("\nUpstream sentinel found and queue empty — relation extraction complete.")
-                    Path("output/relations_complete.sentinel").write_text(
+                    (output_dir.parent / "relations_complete.sentinel").write_text(
                         f"Relation extraction complete. {len(processed_docs)} docs processed.\n"
                     )
                     break

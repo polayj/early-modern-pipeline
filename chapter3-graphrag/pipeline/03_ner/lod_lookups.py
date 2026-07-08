@@ -239,10 +239,11 @@ def lookup_entity(
     if cached is not None:
         return cached
 
+    # No LLM configured: return unlinked but do NOT cache — otherwise a run
+    # started before the LLM was set up permanently poisons the cache and
+    # later runs never retry these entities.
     if not llm_model or not llm_url:
-        result = _no_model_result()
-        cache.put(normalized_text, entity_type, "resolved", result)
-        return result
+        return _no_model_result()
 
     system_msg = (
         "You are a historical entity linking specialist for Early Modern British Caribbean "
@@ -325,11 +326,13 @@ def lookup_entity(
                 "content": tool_result[:3000],
             })
 
-    # Fell through without a submit — mark as unlinked
+    # Fell through without a submit (max rounds, or the LLM call failed).
+    # Return unlinked but do NOT cache: this path includes transient failures
+    # (LLM down, network error), and caching them under "resolved" would make
+    # them permanent. Genuine no-match verdicts DO get cached above, via
+    # submit_result with an empty QID.
     print(f"    [{normalized_text}] DONE: → unlinked [max rounds reached]", flush=True)
-    result = _no_model_result()
-    cache.put(normalized_text, entity_type, "resolved", result)
-    return result
+    return _no_model_result()
 
 
 def _process_submit(args: dict) -> dict:

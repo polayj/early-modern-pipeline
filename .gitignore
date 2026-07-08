@@ -72,3 +72,12 @@ temp/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Pipeline outputs and machine-local configs (chapter 3)
+output/
+atom_config.yaml
+lightrag_config.yaml
+ocr_workspace/
+
+# Local corpus staging (PDFs are never committed; EEBO PDFs are licensed)
+ocr_docs/

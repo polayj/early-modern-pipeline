@@ -23,6 +23,11 @@
 
 set -euo pipefail
 
+# Byte-wise character ranges in the sanitization globs below (locale-dependent
+# ranges like a-z can otherwise match accented characters). The bash and
+# embedded-Python sanitizers MUST agree or resume-skipping breaks.
+export LC_ALL=C
+
 PROJECT_DIR="${PROJECT_DIR:-$HOME/projects/def-jic823/Jacob-Projects/emgraphrag}"
 INPUT_DIR="${INPUT_DIR:-$PROJECT_DIR/ocr_docs/unprocessed}"
 OUTPUT_DIR="${OUTPUT_DIR:-$PROJECT_DIR/output/ocr_md}"
@@ -59,12 +64,12 @@ if [ -d "$archive_dir" ]; then
         while IFS= read -r -d '' f; do
             pdf_path="$f"
             break
-        done < <(find "$subdir" -maxdepth 1 -name "*.pdf" -print0 2>/dev/null)
+        done < <(find "$subdir" -maxdepth 1 \( -name "*.pdf" -o -name "*.PDF" \) -print0 2>/dev/null)
 
         [ -z "$pdf_path" ] && continue
 
         # Sanitize output name
-        safe_id="${doc_title//[^a-zA-Z0-9_\-.]/_}"
+        safe_id="${doc_title//[^a-zA-Z0-9_.-]/_}"
         out_name="archive_org__${safe_id}"
         out_path="$OUTPUT_DIR/${out_name}.md"
 
@@ -83,7 +88,7 @@ if [ -d "$eebo_dir" ]; then
     while IFS= read -r -d '' pdf_path; do
         basename_noext="$(basename "${pdf_path%.pdf}")"
         basename_noext="${basename_noext%.PDF}"
-        safe_base="${basename_noext//[^a-zA-Z0-9_\-.]/_}"
+        safe_base="${basename_noext//[^a-zA-Z0-9_.-]/_}"
         out_name="EEBO__${safe_base}"
         out_path="$OUTPUT_DIR/${out_name}.md"
 
@@ -166,11 +171,11 @@ for line in open(jsonl_path, encoding='utf-8', errors='replace'):
     # Reconstruct the output name from the original path
     if '/archive_org/' in src_pdf_path:
         doc_title = os.path.basename(os.path.dirname(src_pdf_path))
-        safe_id = re.sub(r'[^\w\-.]', '_', doc_title)
+        safe_id = re.sub(r'[^A-Za-z0-9_.-]', '_', doc_title)
         out_name = f'archive_org__{safe_id}'
     else:
         stem = os.path.splitext(src_basename)[0]
-        safe_base = re.sub(r'[^\w\-.]', '_', stem)
+        safe_base = re.sub(r'[^A-Za-z0-9_.-]', '_', stem)
         out_name = f'EEBO__{safe_base}'
 
     out_path = os.path.join(out_dir, out_name + '.md')
