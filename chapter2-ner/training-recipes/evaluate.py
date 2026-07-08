@@ -1,7 +1,7 @@
 """Evaluate ensemble model against the main gold standard.
 
 This script:
-1. Loads gold standard documents from Z:/NER/gold
+1. Loads gold standard documents (default: chapter2-ner/gold-standard/reviewed)
 2. Compares predictions using text-based matching
 3. Reports precision, recall, F1 for all entity types
 """
@@ -11,14 +11,22 @@ import sys
 from pathlib import Path
 from collections import Counter
 
+# Chapter root (chapter2-ner/), computed from this script's location so the
+# defaults work regardless of the current working directory.
+REPO_CH2 = Path(__file__).resolve().parents[1]
+
+# Fallback so the sibling earlymodernner package is importable without installation
+sys.path.append(str(REPO_CH2 / "earlymodernner"))
+
 from earlymodernner.constants import ENTITY_TYPES
 from earlymodernner.metrics import _precision_recall_f1
 from earlymodernner.normalization import normalize_entity_text
 
 
-DEFAULT_GOLD_DIR = Path(__file__).parent / "eval_sets" / "gold_standard"
-OUTPUT_DIR = Path("evaluation_results")
-OUTPUT_DIR.mkdir(exist_ok=True)
+# Reviewed gold standard (100 documents), archived in this repository.
+DEFAULT_GOLD_DIR = REPO_CH2 / "gold-standard" / "reviewed"
+OUTPUT_DIR = REPO_CH2 / "results" / "earlymodernner-eval"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def load_gold_standard(gold_dir=None):
@@ -101,11 +109,16 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
         remaining_fp = pred_entities - gold_entities
         remaining_fn = gold_entities - pred_entities
 
-        # Step 2: Partial matches (substring relationships)
+        # Step 2: Partial matches (substring relationships), one-to-one:
+        # each gold entity can absolve at most one prediction, otherwise two
+        # predictions overlapping the same gold entity both become TPs and
+        # precision/recall are inflated.
         matched_fp = set()
         matched_fn = set()
-        for pred_item in remaining_fp:
-            for gold_item in remaining_fn:
+        for pred_item in sorted(remaining_fp):
+            for gold_item in sorted(remaining_fn):
+                if gold_item in matched_fn:
+                    continue
                 # Prediction is substring of gold, or gold is substring of prediction
                 if pred_item in gold_item or gold_item in pred_item:
                     matched_fp.add(pred_item)
@@ -144,7 +157,7 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
 def main():
     parser = argparse.ArgumentParser(description="Evaluate on gold standard")
     parser.add_argument("--predictions", required=True, help="Predictions JSONL file")
-    parser.add_argument("--gold-dir", type=Path, default=DEFAULT_GOLD_DIR, help="Gold standard directory (default: dev/eval_sets/gold_standard)")
+    parser.add_argument("--gold-dir", type=Path, default=DEFAULT_GOLD_DIR, help=f"Gold standard directory (default: {DEFAULT_GOLD_DIR})")
     parser.add_argument("--entity-type", default=None, help="Entity type to evaluate (default: all)")
     parser.add_argument("--show-errors", type=int, default=20, help="Number of errors to show per type")
     args = parser.parse_args()
@@ -162,7 +175,13 @@ def main():
     # Load gold
     gold_dir = args.gold_dir
     print(f"\nLoading gold standard from {gold_dir}...")
+    if not gold_dir.is_dir():
+        sys.exit(f"ERROR: gold standard directory does not exist: {gold_dir}\n"
+                 "Pass a valid directory with --gold-dir.")
     gold_docs = load_gold_standard(gold_dir)
+    if not gold_docs:
+        sys.exit(f"ERROR: no gold standard JSON documents found in: {gold_dir}\n"
+                 "Refusing to report all-zero metrics; pass a valid directory with --gold-dir.")
     print(f"  Loaded {len(gold_docs)} documents")
 
     # Count gold entities by type

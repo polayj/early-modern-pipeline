@@ -16,19 +16,30 @@ For each entity-type-specific model, we:
 """
 import json
 import random
+import sys
 from pathlib import Path
 from collections import defaultdict
 import shutil
 
+# Script/chapter roots, computed from this file's location so paths do not
+# depend on the current working directory.
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_CH2 = SCRIPT_DIR.parent
+
+# Fallback so the sibling earlymodernner package is importable without installation
+sys.path.append(str(REPO_CH2 / "earlymodernner"))
+
 from earlymodernner.constants import ENTITY_TYPES, SYSTEM_PROMPTS
 
 # Paths
-GOLD_TRAINING_DIR = Path("data/training")
-HIPE_CONVERTED_DIR = Path("data/hipe2022/converted")
-OUTPUT_DIR = Path("data/ensemble_training")
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+# NOTE: the training inputs below (gold chat-format training data and the
+# converted HIPE-2022 data) were NOT archived in this repository. Place your
+# copies at these paths before running; the script fails fast otherwise.
+GOLD_TRAINING_DIR = SCRIPT_DIR / "data" / "training"            # unarchived
+HIPE_CONVERTED_DIR = SCRIPT_DIR / "data" / "hipe2022" / "converted"  # unarchived
+OUTPUT_DIR = SCRIPT_DIR / "data" / "ensemble_training"
 
-CONFIG_OUTPUT_DIR = Path("earlymodernner/config")
+CONFIG_OUTPUT_DIR = SCRIPT_DIR / "config"
 
 def get_system_prompt(entity_type):
     """Get system prompt for single-entity-type extraction.
@@ -125,11 +136,22 @@ def main():
     print("\nLoading existing gold training data...")
     gold_chat = load_existing_gold()
     print(f"  Gold chat examples: {len(gold_chat)}")
+    if not gold_chat:
+        sys.exit(f"ERROR: no gold training data found at: {GOLD_TRAINING_DIR / 'train_chat.jsonl'}\n"
+                 "This training input was not archived in this repository; "
+                 "place your copy at that path (or edit GOLD_TRAINING_DIR).")
 
     # Load HIPE data
     print("\nLoading HIPE-2022 data...")
     hipe_docs = load_hipe_data()
     print(f"  HIPE documents: {len(hipe_docs)}")
+    if not hipe_docs:
+        sys.exit(f"ERROR: no converted HIPE-2022 data found in: {HIPE_CONVERTED_DIR}\n"
+                 "This training input was not archived in this repository; "
+                 "place hipe2022_english_train.jsonl (and optionally "
+                 "hipe2022_english_dev.jsonl) there, or edit HIPE_CONVERTED_DIR.")
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     # Extract text/entities from gold chat format
     print("\nExtracting from chat format...")
@@ -314,6 +336,8 @@ report_to:
   - "none"
 """
 
+    CONFIG_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
     for entity_type in ENTITY_TYPES:
         config_content = base_config.format(
             entity_type=entity_type,
@@ -347,7 +371,7 @@ report_to:
     print("\nNext steps:")
     print("1. Train each specialized model:")
     for entity_type in ENTITY_TYPES:
-        print(f"   python train_lora.py --config earlymodernner/config/ensemble_{entity_type.lower()}.yaml")
+        print(f"   python train_lora.py --config {CONFIG_OUTPUT_DIR / f'ensemble_{entity_type.lower()}.yaml'}")
     print("\n2. Run ensemble inference with ensemble_inference.py (to be created)")
 
 

@@ -13,7 +13,7 @@ Output structure:
 - output/comparison/ - Side-by-side comparisons and statistics
 
 Usage:
-    python batch_process_ner.py --input_dir "Z:/Corpus/Corpus_Gold/page" --file_ext .xml
+    python batch_process_ner.py --input_dir "../../chapter1-ocr/gold-standard/page-xml" --file_ext .xml
 """
 
 import os

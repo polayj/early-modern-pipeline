@@ -8,6 +8,10 @@ from pathlib import Path
 from typing import Dict, List, Tuple, Set
 from collections import defaultdict, Counter
 
+# Chapter root (chapter2-ner/), computed from this script's location so the
+# defaults work regardless of the current working directory.
+REPO_CH2 = Path(__file__).resolve().parents[1]
+
 
 class NERMetrics:
     def __init__(self):
@@ -89,18 +93,27 @@ def partial_match(gold_entity, pred_entity):
 
 
 def calculate_metrics_for_doc(gold_entities, pred_entities, match_type='exact'):
-    """Calculate TP, FP, FN for a single document"""
+    """Calculate TP, FP, FN for a single document.
+
+    Matching is greedy one-to-one: each gold entity can match at most one
+    prediction and vice versa. Many-to-many matching let duplicate or
+    overlapping spurious predictions ride along unpenalized (2 preds on 1
+    gold entity scored P=1.0, R=1.0).
+    """
     match_fn = exact_match if match_type == 'exact' else partial_match
 
     matched_gold = set()
     matched_pred = set()
 
-    # Find matches
+    # Find matches (greedy one-to-one)
     for i, gold_ent in enumerate(gold_entities):
         for j, pred_ent in enumerate(pred_entities):
+            if j in matched_pred:
+                continue
             if match_fn(gold_ent, pred_ent):
                 matched_gold.add(i)
                 matched_pred.add(j)
+                break
 
     tp = len(matched_gold)  # Gold entities that were found
     fp = len(pred_entities) - len(matched_pred)  # Predicted but not in gold
@@ -235,6 +248,10 @@ def compare_models(gold_dir, model_files):
 
     # Load gold standard
     gold_data = load_gold_standards(gold_dir)
+    if not gold_data:
+        raise SystemExit(
+            f"ERROR: gold standard directory is missing or contains no JSON files: {gold_dir}"
+        )
     print(f"\nLoaded {len(gold_data)} gold standard documents")
 
     # Count entities in gold
@@ -253,6 +270,9 @@ def compare_models(gold_dir, model_files):
     results = []
 
     for model_name, model_file in model_files.items():
+        if not Path(model_file).exists():
+            print(f"\nWARNING: skipping {model_name}: predictions file not found: {model_file}")
+            continue
         pred_data = load_predictions(model_file)
 
         # Evaluate with exact match
@@ -264,6 +284,12 @@ def compare_models(gold_dir, model_files):
         result_partial = evaluate_model(gold_data, pred_data, model_name, 'partial')
         if result_partial:
             results.append(result_partial)
+
+    if not results:
+        print("\nERROR: no model prediction files could be evaluated; nothing to report or save.")
+        print("       (The per-model prediction files were not archived in this repository;")
+        print("        place them at the paths listed above or edit MODEL_FILES.)")
+        return results
 
     # Summary comparison
     print(f"\n{'='*70}")
@@ -282,7 +308,8 @@ def compare_models(gold_dir, model_files):
               f"{result['overall']['f1']:>10.3f}")
 
     # Save results
-    output_file = Path(gold_dir).parent / "evaluation_results.json"
+    output_file = REPO_CH2 / "results" / "evaluation_results.json"
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2)
 
@@ -292,14 +319,20 @@ def compare_models(gold_dir, model_files):
 
 
 if __name__ == "__main__":
-    GOLD_DIR = r"Z:\NER\gold"
+    # Gold standard annotations with span offsets (archived in this repository).
+    GOLD_DIR = REPO_CH2 / "gold-standard" / "annotations"
 
+    # NOTE: the per-model prediction files below were NOT archived in this
+    # repository. To re-run the comparison, place your prediction files at
+    # these paths (or edit the mapping). Missing files are skipped with a
+    # warning rather than evaluated.
+    PREDICTIONS_DIR = REPO_CH2 / "results" / "predictions"
     MODEL_FILES = {
-        "spaCy-lg": r"Z:\NER\spaCy\results_20251205_135827.json",
-        "deepseek-r1": r"Z:\NER\deepseek\results_20251203_145333.json",
-        "gemma2": r"Z:\NER\gemma2\results_20251203_152052.json",
-        "mistral": r"Z:\NER\mistral\results_20251203_144203.json",
-        "GLiNER": r"Z:\NER\gliNER\results_20251208_143935.json"
+        "spaCy-lg": PREDICTIONS_DIR / "spaCy" / "results_20251205_135827.json",       # unarchived
+        "deepseek-r1": PREDICTIONS_DIR / "deepseek" / "results_20251203_145333.json", # unarchived
+        "gemma2": PREDICTIONS_DIR / "gemma2" / "results_20251203_152052.json",        # unarchived
+        "mistral": PREDICTIONS_DIR / "mistral" / "results_20251203_144203.json",      # unarchived
+        "GLiNER": PREDICTIONS_DIR / "gliNER" / "results_20251208_143935.json"         # unarchived
     }
 
     results = compare_models(GOLD_DIR, MODEL_FILES)

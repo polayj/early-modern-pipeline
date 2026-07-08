@@ -8,6 +8,13 @@ import spacy
 import xml.etree.ElementTree as ET
 import json
 import time
+from pathlib import Path
+
+# Repository layout: chapter2-ner/evaluation/ -> repo root is two levels up.
+# The test PAGE-XML files ship with the repo under chapter1-ocr/.
+REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_CH2 = REPO_ROOT / "chapter2-ner"
+PAGE_XML_DIR = REPO_ROOT / "chapter1-ocr" / "gold-standard" / "page-xml"
 
 spacy.prefer_gpu()
 def extract_text_from_page_xml(filepath):
@@ -87,19 +94,24 @@ models_config = [
     }
 ]
 
-# Test files
+# Test files (archived in this repository under chapter1-ocr/gold-standard/page-xml/)
 test_files = [
     {
-        "path": "Z:/Corpus/Corpus_Gold/page/Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml",
+        "path": str(PAGE_XML_DIR / "Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml"),
         "type": "political_narrative",
         "manual_entities": 56
     },
     {
-        "path": "Z:/Corpus/Corpus_Gold/page/Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml",
+        "path": str(PAGE_XML_DIR / "Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml"),
         "type": "recipe",
         "expected_commodities": True
     }
 ]
+
+missing_test_files = [t["path"] for t in test_files if not Path(t["path"]).exists()]
+if missing_test_files:
+    raise SystemExit("ERROR: test PAGE-XML file(s) not found:\n  " +
+                     "\n  ".join(missing_test_files))
 
 results = []
 
@@ -224,7 +236,8 @@ for model_config in models_config:
         })
 
 # Save results
-output_file = "Z:/NER/final_ner_comparison.json"
+output_file = REPO_CH2 / "results" / "final_ner_comparison.json"
+output_file.parent.mkdir(parents=True, exist_ok=True)
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(results, f, indent=2, ensure_ascii=False)
 

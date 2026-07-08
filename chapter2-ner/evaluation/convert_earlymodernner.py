@@ -8,8 +8,13 @@ import json
 import re
 from pathlib import Path
 
-INPUT = Path("/mnt/z/NER/earlymodernner/_archive/testresults.jsonl")
-OUTPUT_DIR = Path("/mnt/z/NER/earlymodernner_4cat")
+# Chapter root (chapter2-ner/)
+REPO_CH2 = Path(__file__).resolve().parents[1]
+
+# NOTE: the raw earlymodernner JSONL results were NOT archived in this
+# repository. Place your copy at the INPUT path below or edit it.
+INPUT = REPO_CH2 / "earlymodernner" / "_archive" / "testresults.jsonl"  # unarchived
+OUTPUT_DIR = REPO_CH2 / "results" / "predictions" / "earlymodernner_4cat"
 OUTPUT = OUTPUT_DIR / "results_4cat_single_converted.json"
 
 
@@ -38,6 +43,12 @@ def find_entity_offsets(text: str, entity_text: str, used_positions: set):
 
 
 def convert():
+    if not INPUT.exists():
+        raise SystemExit(
+            f"ERROR: input file not found: {INPUT}\n"
+            "The raw earlymodernner JSONL results were not archived in this "
+            "repository; place your copy at that path or edit INPUT."
+        )
     docs = []
     with open(INPUT, 'r', encoding='utf-8') as f:
         for line in f:
@@ -66,7 +77,7 @@ def convert():
             }
             docs.append(doc_out)
 
-    OUTPUT_DIR.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         json.dump(docs, f, indent=2)
 

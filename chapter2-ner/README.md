@@ -101,6 +101,16 @@ python evaluate_ner.py \
   --gold ../gold-standard/reviewed/
 ```
 
+> **Note on re-runs vs. thesis numbers:** two scoring corrections were applied
+> after the thesis evaluation runs: (1) the per-label Strict/Partial F1
+> breakdown in `evaluate_ner_extended.py` now uses the same per-document
+> deduplication as the overall metrics (it previously deduplicated
+> corpus-wide, so per-label counts didn't sum to the totals); (2) partial
+> matching is now one-to-one — two predictions overlapping the same gold
+> entity no longer both count as true positives. Re-runs will therefore
+> differ slightly from the archived result JSONs in `results/`, which
+> preserve the thesis-era values.
+
 ## Training recipes
 
 `training-recipes/` contains everything you'd need to retrain EarlyModernNER:

@@ -30,6 +30,10 @@ from collections import defaultdict, Counter
 
 LABELS = ['COMMODITY', 'TOPONYM', 'PERSON', 'ORGANIZATION']
 
+# Chapter root (chapter2-ner/), computed from this script's location so the
+# defaults work regardless of the current working directory.
+REPO_CH2 = Path(__file__).resolve().parents[1]
+
 
 # ---------------------------------------------------------------------------
 # Data Loading
@@ -226,13 +230,16 @@ def _prf(tp: int, fp: int, fn: int) -> Dict[str, float]:
 
 def compute_semeval_metrics(all_pairs: List[dict],
                             total_gold: int,
-                            total_pred: int,
-                            gold_flat: List[dict],
-                            pred_flat: List[dict]) -> Dict[str, Any]:
+                            total_pred: int) -> Dict[str, Any]:
     """Compute Strict F1 and Partial F1.
 
     - Strict F1: only 'strict' matches count as TP
     - Partial F1: 'strict' + 'partial' matches count as TP
+
+    The per-label breakdown is derived from the same per-document pairs as
+    the overall numbers (each gold/pred entity appears in exactly one pair),
+    so per-label gold/pred counts sum to the overall totals and both rows use
+    the same per-document deduplication.
     """
     cat_counts = Counter(p['category'] for p in all_pairs)
     n_strict = cat_counts.get('strict', 0)
@@ -248,27 +255,16 @@ def compute_semeval_metrics(all_pairs: List[dict],
     tp_p = n_strict + n_partial
     results['partial'] = _prf(tp_p, total_pred - tp_p, total_gold - tp_p)
 
-    # Per-label breakdown
+    # Per-label breakdown from the same pairs
     per_label = {}
     for label in LABELS:
-        label_gold = set()
-        label_pred = set()
-        for e in gold_flat:
-            lbl = e.get('label', e.get('type', ''))
-            if lbl == label:
-                label_gold.add((normalize_text(e.get('text', '')), lbl))
-        for e in pred_flat:
-            lbl = e.get('label', e.get('type', ''))
-            if lbl == label:
-                label_pred.add((normalize_text(e.get('text', '')), lbl))
-
-        label_pairs = _match_entities_text(label_gold, label_pred)
-        lc = Counter(p['category'] for p in label_pairs)
-        n_g = len(label_gold)
-        n_p = len(label_pred)
-
-        tp_strict = lc.get('strict', 0)
-        tp_partial_label = lc.get('strict', 0) + lc.get('partial', 0)
+        n_g = sum(1 for p in all_pairs if p['gold'] and p['gold']['label'] == label)
+        n_p = sum(1 for p in all_pairs if p['pred'] and p['pred']['label'] == label)
+        tp_strict = sum(1 for p in all_pairs
+                        if p['category'] == 'strict' and p['gold']['label'] == label)
+        tp_partial_label = tp_strict + sum(
+            1 for p in all_pairs
+            if p['category'] == 'partial' and p['gold']['label'] == label)
 
         per_label[label] = {
             'strict': _prf(tp_strict, n_p - tp_strict, n_g - tp_strict),
@@ -494,8 +490,7 @@ def evaluate_model_extended(gold_data: Dict[str, dict],
         all_pairs.extend(doc_pairs)
 
     # 1. Strict & Partial F1
-    semeval = compute_semeval_metrics(all_pairs, total_gold_dedup, total_pred_dedup,
-                                      gold_flat, pred_flat)
+    semeval = compute_semeval_metrics(all_pairs, total_gold_dedup, total_pred_dedup)
 
     # 2. Confusion matrix
     confusion = compute_confusion_matrix(all_pairs)
@@ -631,7 +626,14 @@ def _serialise_for_json(obj):
 # ---------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    GOLD_DIR = r'/mnt/z/NER/gold_reviewed'
+    # Reviewed gold standard (4 entity types), archived in this repository.
+    GOLD_DIR = REPO_CH2 / 'gold-standard' / 'reviewed'
+
+    # NOTE: the per-model prediction outputs referenced below were NOT
+    # archived in this repository. To re-run the evaluation, place your
+    # prediction files under results/predictions/ at the paths listed (or
+    # edit the mappings). Missing entries are skipped with a warning.
+    PREDICTIONS_DIR = REPO_CH2 / 'results' / 'predictions'
 
     # ------------------------------------------------------------------
     # Auto-discover latest result files from run_all_ner.py output dirs
@@ -644,65 +646,80 @@ if __name__ == '__main__':
         files = sorted(d.glob(pattern), key=lambda p: p.stat().st_mtime)
         return str(files[-1]) if files else None
 
-    # Static / legacy results (original 2-category runs)
+    # Static / legacy results (original 2-category runs) -- all unarchived
     MODEL_FILES_LEGACY = {
-        'spaCy-lg (2cat)':     r'/mnt/z/NER/spaCy/results_20251205_135827.json',
-        'deepseek-r1 (2cat)':  r'/mnt/z/NER/deepseek/results_20251208_190219.json',
-        'gemma2 (2cat)':       r'/mnt/z/NER/gemma2/results_20251203_152052.json',
-        'mistral (2cat)':      r'/mnt/z/NER/mistral/results_20251203_144203.json',
-        'GLiNER (2cat)':       r'/mnt/z/NER/gliNER/results_20251208_143935.json',
+        'spaCy-lg (2cat)':     str(PREDICTIONS_DIR / 'spaCy' / 'results_20251205_135827.json'),      # unarchived
+        'deepseek-r1 (2cat)':  str(PREDICTIONS_DIR / 'deepseek' / 'results_20251208_190219.json'),   # unarchived
+        'gemma2 (2cat)':       str(PREDICTIONS_DIR / 'gemma2' / 'results_20251203_152052.json'),     # unarchived
+        'mistral (2cat)':      str(PREDICTIONS_DIR / 'mistral' / 'results_20251203_144203.json'),    # unarchived
+        'GLiNER (2cat)':       str(PREDICTIONS_DIR / 'gliNER' / 'results_20251208_143935.json'),     # unarchived
     }
 
     # MacBERTh -- existing fine-tuned results (already has all 4 categories)
     MODEL_FILES_STATIC = {
-        'MacBERTh':     r'/mnt/z/NER/macberth_gold_eval/macberth_gold_results_20251210_170140_fixed.json',
+        'MacBERTh':     str(PREDICTIONS_DIR / 'macberth_gold_eval' / 'macberth_gold_results_20251210_170140_fixed.json'),  # unarchived
     }
 
-    # New 4-category single-pass results (auto-discovered)
+    # New 4-category single-pass results (auto-discovered) -- all unarchived
     MODEL_DIRS_4CAT = {
-        'spaCy-lg':       '/mnt/z/NER/spaCy_4cat',
-        'GLiNER':         '/mnt/z/NER/gliNER_4cat',
-        'gemma2':         '/mnt/z/NER/gemma2_4cat',
-        'mistral':        '/mnt/z/NER/mistral_4cat',
-        'deepseek-r1':    '/mnt/z/NER/deepseek_4cat',
-        'Stanford NER':   '/mnt/z/NER/stanford_4cat',
-        'GATE ANNIE':     '/mnt/z/NER/gate_4cat',
-        'Flair NLP':      '/mnt/z/NER/flair_4cat',
-        'BERT-large':     '/mnt/z/NER/deberta_4cat',
-        'mBERT':          '/mnt/z/NER/mbert_4cat',
-        'GoLLIE':         '/mnt/z/NER/gollie_4cat',
-        'earlymodernner': '/mnt/z/NER/earlymodernner_4cat',
-        'Gemini Pro':     '/mnt/z/NER/gemini_pro_4cat',
-        'Qwen3-4B':      '/mnt/z/NER/qwen3_4cat',
-        'hmBERT':         '/mnt/z/NER/hmbert_4cat',
+        'spaCy-lg':       str(PREDICTIONS_DIR / 'spaCy_4cat'),          # unarchived
+        'GLiNER':         str(PREDICTIONS_DIR / 'gliNER_4cat'),         # unarchived
+        'gemma2':         str(PREDICTIONS_DIR / 'gemma2_4cat'),         # unarchived
+        'mistral':        str(PREDICTIONS_DIR / 'mistral_4cat'),        # unarchived
+        'deepseek-r1':    str(PREDICTIONS_DIR / 'deepseek_4cat'),       # unarchived
+        'Stanford NER':   str(PREDICTIONS_DIR / 'stanford_4cat'),       # unarchived
+        'GATE ANNIE':     str(PREDICTIONS_DIR / 'gate_4cat'),           # unarchived
+        'Flair NLP':      str(PREDICTIONS_DIR / 'flair_4cat'),          # unarchived
+        'BERT-large':     str(PREDICTIONS_DIR / 'deberta_4cat'),        # unarchived
+        'mBERT':          str(PREDICTIONS_DIR / 'mbert_4cat'),          # unarchived
+        'GoLLIE':         str(PREDICTIONS_DIR / 'gollie_4cat'),         # unarchived
+        'earlymodernner': str(PREDICTIONS_DIR / 'earlymodernner_4cat'), # unarchived
+        'Gemini Pro':     str(PREDICTIONS_DIR / 'gemini_pro_4cat'),     # unarchived
+        'Qwen3-4B':       str(PREDICTIONS_DIR / 'qwen3_4cat'),          # unarchived
+        'hmBERT':         str(PREDICTIONS_DIR / 'hmbert_4cat'),         # unarchived
     }
 
-    # Ensemble results (auto-discovered)
+    # Ensemble results (auto-discovered) -- all unarchived
     MODEL_DIRS_ENSEMBLE = {
-        'gemma2 (ens)':     '/mnt/z/NER/gemma2_4cat_ensemble',
-        'mistral (ens)':    '/mnt/z/NER/mistral_4cat_ensemble',
-        'deepseek-r1 (ens)':'/mnt/z/NER/deepseek_4cat_ensemble',
-        'GoLLIE (ens)':     '/mnt/z/NER/gollie_4cat_ensemble',
-        'Gemini Pro (ens)': '/mnt/z/NER/gemini_pro_4cat_ensemble',
-        'Qwen3-4B (ens)':   '/mnt/z/NER/qwen3_4cat_ensemble',
+        'gemma2 (ens)':     str(PREDICTIONS_DIR / 'gemma2_4cat_ensemble'),      # unarchived
+        'mistral (ens)':    str(PREDICTIONS_DIR / 'mistral_4cat_ensemble'),     # unarchived
+        'deepseek-r1 (ens)':str(PREDICTIONS_DIR / 'deepseek_4cat_ensemble'),    # unarchived
+        'GoLLIE (ens)':     str(PREDICTIONS_DIR / 'gollie_4cat_ensemble'),      # unarchived
+        'Gemini Pro (ens)': str(PREDICTIONS_DIR / 'gemini_pro_4cat_ensemble'),  # unarchived
+        'Qwen3-4B (ens)':   str(PREDICTIONS_DIR / 'qwen3_4cat_ensemble'),       # unarchived
     }
 
     # Build MODEL_FILES from all sources
-    MODEL_FILES = dict(MODEL_FILES_STATIC)
+    MODEL_FILES = {}
+
+    for name, path in MODEL_FILES_STATIC.items():
+        if Path(path).exists():
+            MODEL_FILES[name] = path
+        else:
+            print(f"  [WARN] Skipping {name}: predictions file not found: {path} "
+                  f"(not archived in this repository)")
 
     for name, directory in MODEL_DIRS_4CAT.items():
         path = _latest_result(directory)
         if path:
             MODEL_FILES[name] = path
+        else:
+            print(f"  [WARN] Skipping {name}: no result files in {directory} "
+                  f"(not archived in this repository)")
 
     for name, directory in MODEL_DIRS_ENSEMBLE.items():
         path = _latest_result(directory)
         if path:
             MODEL_FILES[name] = path
+        else:
+            print(f"  [WARN] Skipping {name}: no result files in {directory} "
+                  f"(not archived in this repository)")
 
     if not MODEL_FILES:
         print("  [ERROR] No model result files found!")
-        print("  Run: python run_all_ner.py --models spacy gliner flair deberta mbert")
+        print(f"  The per-model prediction outputs were not archived in this repository.")
+        print(f"  Place prediction files under: {PREDICTIONS_DIR}")
+        print("  (e.g. re-run: python run_all_ner.py --models spacy gliner flair deberta mbert)")
         sys.exit(1)
 
     print(f"\n  Found {len(MODEL_FILES)} model result files:")
@@ -715,6 +732,9 @@ if __name__ == '__main__':
 
     # Load gold standard
     gold_data = load_gold_standards(GOLD_DIR)
+    if not gold_data:
+        print(f"  [ERROR] Gold standard directory is missing or contains no JSON files: {GOLD_DIR}")
+        sys.exit(1)
     print(f"\n  Loaded {len(gold_data)} gold standard documents")
 
     # Count gold entities
@@ -739,7 +759,8 @@ if __name__ == '__main__':
         print_comparison_table(all_results)
 
     # Save JSON
-    output_file = Path(GOLD_DIR).parent / 'extended_evaluation_results.json'
+    output_file = REPO_CH2 / 'results' / 'extended_evaluation_results.json'
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(_serialise_for_json(all_results), f, indent=2, ensure_ascii=False)
 
