@@ -170,12 +170,14 @@ def enrich_single_doc(
         if enrichment["linked"]:
             linked_count += 1
 
-    # Write per-doc file
-    with open(out_path, "w", encoding="utf-8") as f:
+    # Write per-doc file atomically (extract_relations.py can watch this dir)
+    tmp_path = out_path.with_suffix(".jsonl.tmp")
+    with open(tmp_path, "w", encoding="utf-8") as f:
         for ent in enriched_entities:
             line = json.dumps(ent, ensure_ascii=False)
             f.write(line + "\n")
             agg_file.write(line + "\n")
+    tmp_path.replace(out_path)
 
     return len(enriched_entities), linked_count
 

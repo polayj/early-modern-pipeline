@@ -296,7 +296,10 @@ def find_close_pairs(
         etype = e.get("entity_type", "UNKNOWN")
         if not name:
             continue
-        pattern = re.compile(re.escape(name), re.IGNORECASE)
+        # Word-bounded: without this, short entities match inside longer
+        # words ("Ash" inside "Washington") and create spurious pairs.
+        # Lookarounds rather than \b so names ending in punctuation still match.
+        pattern = re.compile(r"(?<!\w)" + re.escape(name) + r"(?!\w)", re.IGNORECASE)
         positions = [(m.start(), m.end()) for m in pattern.finditer(text)]
         if positions:
             pos_index[name] = (positions, etype, e.get("authority_uri"))

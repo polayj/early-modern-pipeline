@@ -222,9 +222,12 @@ def process_file(md_path, per_doc_dir, chunk_size, model, tokenizer):
             })
             claimed.add(key)
 
-    with open(per_doc_path, "w", encoding="utf-8") as f:
+    # Atomic write: link_entities.py watches this directory
+    tmp_path = per_doc_path.with_suffix(".jsonl.tmp")
+    with open(tmp_path, "w", encoding="utf-8") as f:
         for e in deduped:
             f.write(json.dumps(e, ensure_ascii=False) + "\n")
+    tmp_path.replace(per_doc_path)
 
     del text
     gc.collect()

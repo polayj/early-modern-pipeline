@@ -179,7 +179,7 @@ def main() -> None:
     print(f"  Already embedded: {len(existing)} doc IDs")
     print(f"  To process: {len(docs_to_process)}")
 
-    if not docs_to_process:
+    if not docs_to_process and not args.watch:
         print("Nothing to do.")
         return
 
@@ -242,22 +242,29 @@ def main() -> None:
         print(f"\nWatch mode: polling every {args.poll_interval}s for new docs...")
         print("  (Press Ctrl+C to stop manually)\n")
 
+        # Track embedded doc IDs locally: re-reading every document and
+        # re-fetching all collection metadata each poll is O(corpus) per tick
+        known_ids = existing | {d["doc_id"] for d in docs_to_process}
+
         while True:
             time.sleep(args.poll_interval)
 
-            # Reload docs and check for new ones
-            all_docs = load_documents(input_dirs, limit=0)
-            # Refresh existing IDs from collection
-            try:
-                results = collection.get(include=["metadatas"])
-                existing = set()
-                for meta in results["metadatas"]:
-                    if meta and "doc_id" in meta:
-                        existing.add(meta["doc_id"])
-            except Exception:
-                pass
-
-            new_docs = [d for d in all_docs if d["doc_id"] not in existing]
+            # Only read files we haven't embedded yet
+            new_docs = []
+            for d in input_dirs:
+                if not d.exists():
+                    continue
+                for md_path in sorted(d.glob("*.md")):
+                    if md_path.stem in known_ids:
+                        continue
+                    text = md_path.read_text(encoding="utf-8", errors="replace").strip()
+                    if not text:
+                        continue
+                    new_docs.append({
+                        "doc_id": md_path.stem,
+                        "text":   text,
+                        "source": d.name,
+                    })
 
             if new_docs:
                 print(f"  {len(new_docs)} new doc(s) found — embedding...")
@@ -297,6 +304,8 @@ def main() -> None:
                         processed_docs += len(batch)
                         print(f"    Embedded {len(batch_texts)} chunks from "
                               f"{len(batch)} docs (total: {collection.count()})")
+
+                known_ids.update(d["doc_id"] for d in new_docs)
 
             if sentinel.exists() and not new_docs:
                 print("\nOCR sentinel found and queue empty — embedding complete.")

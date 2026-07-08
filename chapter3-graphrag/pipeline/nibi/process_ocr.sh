@@ -178,9 +178,12 @@ for line in open(jsonl_path, encoding='utf-8', errors='replace'):
         safe_base = re.sub(r'[^A-Za-z0-9_.-]', '_', stem)
         out_name = f'EEBO__{safe_base}'
 
+    # Atomic write so downstream watchers never see a half-written file
     out_path = os.path.join(out_dir, out_name + '.md')
-    with open(out_path, 'w', encoding='utf-8') as f:
+    tmp_path = out_path + '.tmp'
+    with open(tmp_path, 'w', encoding='utf-8') as f:
         f.write(text)
+    os.replace(tmp_path, out_path)
     print(f'  OK: {out_name}')
 PYEOF
         done

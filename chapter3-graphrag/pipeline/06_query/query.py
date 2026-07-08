@@ -113,6 +113,10 @@ def query_graph(question: str, cfg: dict) -> str:
             graph=graph,
             verbose=False,
             return_intermediate_steps=False,
+            # Required by langchain-neo4j (LLM-generated Cypher runs against
+            # the DB); without it the constructor raises and graph mode
+            # silently degrades to "[Graph query error: ...]".
+            allow_dangerous_requests=True,
         )
         result = chain.invoke({"query": question})
         return result.get("result", str(result))

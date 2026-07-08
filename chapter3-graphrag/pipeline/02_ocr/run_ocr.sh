@@ -223,9 +223,13 @@ for line in open(jsonl_file, encoding='utf-8', errors='replace'):
         safe_base = re.sub(r'[^A-Za-z0-9_.-]', '_', base)
         output_key = safe_base
 
+    # Write atomically: the NER watcher polls this directory and must never
+    # see a half-written file
     md_path = os.path.join(md_dir, output_key + '.md')
-    with open(md_path, 'w', encoding='utf-8') as f:
+    tmp_path = md_path + '.tmp'
+    with open(tmp_path, 'w', encoding='utf-8') as f:
         f.write(text)
+    os.replace(tmp_path, md_path)
     print(f'  OK: {output_key}')
     ok += 1
 
