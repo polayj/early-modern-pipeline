@@ -1,1 +1,13 @@
+# Evaluation pipeline (evaluation/ + tables-eval/)
 numpy>=1.21.0
+pandas>=2.0
+nltk>=3.8                 # BLEU + English word list (hallucination detection)
+
+# Visualization scripts (create_*_visualizations.py, generate_*_materials.py)
+matplotlib>=3.7
+seaborn>=0.13
+
+# tables-eval only. NOTE: this is the rapidfuzz-based 'Levenshtein' package —
+# the legacy 'python-Levenshtein' raises TypeError on the list inputs used in
+# evaluate_table_performance.py.
+Levenshtein>=0.23

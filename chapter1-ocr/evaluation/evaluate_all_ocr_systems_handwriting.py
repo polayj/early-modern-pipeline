@@ -3,13 +3,13 @@
 Batch OCR Evaluation - Handwriting Documents
 
 Runs ocr_evaluation.py against the handwriting gold standard (.md files in
-Z:\\handwriting_eval) for all OCR systems that have already been run on those
-documents.
+the handwriting-eval directory) for all OCR systems that have already been
+run on those documents.
 
-OCR outputs should be placed in:
-    Z:\\handwriting_eval\\ocr_outputs\\<SystemName>\\md\\
-
-Run Z:\\handwriting_eval\\run_handwriting_ocr.py first to produce those outputs.
+NOTE: The handwriting evaluation data was not archived in this repository.
+To re-run this evaluation, place the gold standard .md files in
+chapter1-ocr/gold-standard/handwriting-eval/ and the OCR outputs in
+chapter1-ocr/gold-standard/handwriting-eval/ocr_outputs/<SystemName>/md/
 """
 
 import subprocess
@@ -21,11 +21,19 @@ from datetime import datetime
 # CONFIGURATION
 # ============================================================================
 
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
+# Placeholder: the handwriting evaluation data was NOT archived in this repo.
+# Place the handwriting gold-standard .md files (and per-system OCR outputs
+# under ocr_outputs/<SystemName>/) here to re-run this evaluation.
+HANDWRITING_DIR = REPO_CH1 / "gold-standard" / "handwriting-eval"
+
 # Gold standard: .md files alongside the handwriting PDFs
-GOLD_STANDARD_DIR = r"Z:\handwriting_eval"
+GOLD_STANDARD_DIR = str(HANDWRITING_DIR)
 
 # Where timestamped results will be saved
-OUTPUT_DIR = r"Z:\OCR Evaluation\results\handwriting"
+OUTPUT_DIR = str(REPO_CH1 / "results" / "handwriting")
 
 # Gold standard files are .md (not .xml)
 GOLD_FORMAT = "md"
@@ -42,23 +50,27 @@ STRIP_MARKDOWN_HEADERS = False
 # Comment out systems whose outputs don't exist yet.
 # ============================================================================
 
+# Handwriting OCR outputs were not archived in this repo; these are the
+# expected locations if the data is restored (see note above).
+OCR_OUTPUTS_DIR = HANDWRITING_DIR / "ocr_outputs"
+
 OCR_SYSTEMS = [
-    ("Tesseract",        r"Z:\handwriting_eval\ocr_outputs\Tesseract\md"),
-    ("Tesseract-Legacy", r"Z:\handwriting_eval\ocr_outputs\Tesseract-Legacy\md"),
-    ("EasyOCR",          r"Z:\handwriting_eval\ocr_outputs\EasyOCR\md"),
-    ("Kraken",           r"Z:\handwriting_eval\ocr_outputs\Kraken\md"),
-    ("Gemini",           r"Z:\handwriting_eval\ocr_outputs\Gemini"),
-    ("MinerU",           r"Z:\handwriting_eval\ocr_outputs\MinerU\md"),
-    ("OlmOCRv1",         r"Z:\handwriting_eval\ocr_outputs\OlmOCRv1\md"),
-    ("OlmOCRv2",         r"Z:\handwriting_eval\ocr_outputs\OlmOCRv2\md"),
-    ("Transkribus",      r"Z:\handwriting_eval\ocr_outputs\Transkribus"),
-    ("DeepSeek",         r"Z:\handwriting_eval\ocr_outputs\DeepSeek\md"),
-    ("Chandra-1",        r"Z:\handwriting_eval\ocr_outputs\Chandra-1\md"),
-    ("LightOn",          r"Z:\handwriting_eval\ocr_outputs\LightOn\md"),
-    ("Chandra-2",        r"Z:\handwriting_eval\ocr_outputs\Chandra-2\md"),
+    ("Tesseract",        str(OCR_OUTPUTS_DIR / "Tesseract" / "md")),
+    ("Tesseract-Legacy", str(OCR_OUTPUTS_DIR / "Tesseract-Legacy" / "md")),
+    ("EasyOCR",          str(OCR_OUTPUTS_DIR / "EasyOCR" / "md")),
+    ("Kraken",           str(OCR_OUTPUTS_DIR / "Kraken" / "md")),
+    ("Gemini",           str(OCR_OUTPUTS_DIR / "Gemini")),
+    ("MinerU",           str(OCR_OUTPUTS_DIR / "MinerU" / "md")),
+    ("OlmOCRv1",         str(OCR_OUTPUTS_DIR / "OlmOCRv1" / "md")),
+    ("OlmOCRv2",         str(OCR_OUTPUTS_DIR / "OlmOCRv2" / "md")),
+    ("Transkribus",      str(OCR_OUTPUTS_DIR / "Transkribus")),
+    ("DeepSeek",         str(OCR_OUTPUTS_DIR / "DeepSeek" / "md")),
+    ("Chandra-1",        str(OCR_OUTPUTS_DIR / "Chandra-1" / "md")),
+    ("LightOn",          str(OCR_OUTPUTS_DIR / "LightOn" / "md")),
+    ("Chandra-2",        str(OCR_OUTPUTS_DIR / "Chandra-2" / "md")),
 
     # Add new systems below:
-    # ("NewSystem", r"Z:\handwriting_eval\ocr_outputs\NewSystem\md"),
+    # ("NewSystem", str(OCR_OUTPUTS_DIR / "NewSystem" / "md")),
 ]
 
 # ============================================================================
@@ -78,6 +90,8 @@ def main():
 
     if not check_directory_exists(GOLD_STANDARD_DIR):
         print(f"ERROR: Gold standard directory not found: {GOLD_STANDARD_DIR}")
+        print("The handwriting evaluation data was not archived in this repository.")
+        print("Place the handwriting gold-standard .md files there to re-run.")
         sys.exit(1)
 
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -110,7 +124,7 @@ def main():
 
     if not available_systems:
         print("ERROR: No OCR output directories with .md files found.")
-        print("Run Z:\\handwriting_eval\\run_handwriting_ocr.py first.")
+        print(f"Expected OCR outputs under: {OCR_OUTPUTS_DIR}")
         sys.exit(1)
 
     try:

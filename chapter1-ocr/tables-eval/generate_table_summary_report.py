@@ -4,6 +4,7 @@ Generate summary report and book materials for table evaluation
 """
 
 import pandas as pd
+import sys
 from pathlib import Path
 from datetime import datetime
 
@@ -186,7 +187,10 @@ def generate_narrative_statistics(summary_df, detailed_df, output_dir):
 
 def main():
     """Generate all book materials"""
-    results_dir = Path(r'Z:\Tables\results')
+    # Results ship alongside this script in chapter1-ocr/tables-eval/results/
+    results_dir = Path(__file__).resolve().parent / 'results'
+    if not results_dir.is_dir():
+        sys.exit(f"ERROR: Results directory not found: {results_dir}")
 
     print("=" * 80)
     print("GENERATING TABLE EVALUATION BOOK MATERIALS")
@@ -198,8 +202,7 @@ def main():
     detailed_files = sorted(list(results_dir.glob('table_evaluation_detailed_*.csv')), reverse=True)
 
     if not summary_files:
-        print("ERROR: No evaluation results found!")
-        return
+        sys.exit(f"ERROR: No evaluation results (table_evaluation_summary_*.csv) found in {results_dir}")
 
     summary_df = pd.read_csv(summary_files[0])
     detailed_df = pd.read_csv(detailed_files[0])

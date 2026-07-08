@@ -7,7 +7,13 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import json
+import sys
 from datetime import datetime
+
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+DEFAULT_RESULTS_DIR = REPO_CH1 / "results" / "full-runs"
+GOLD_STANDARD_DIR = REPO_CH1 / "gold-standard" / "page-xml"
 
 
 def load_latest_results(results_dir: Path):
@@ -304,7 +310,7 @@ def generate_reproducibility_docs(summary_df, latest_dir, output_dir):
             'evaluation_dir': str(latest_dir),
             'num_systems_evaluated': len(summary_df),
             'num_documents_per_system': 100,
-            'gold_standard_location': 'Z:/Corpus/Corpus_Gold/page'
+            'gold_standard_location': str(GOLD_STANDARD_DIR)
         },
         'evaluation_parameters': {
             'similarity_threshold': 0.6,
@@ -378,7 +384,7 @@ All book chapter materials have been generated and exported to:
 
 For methods section:
 - Evaluation parameters: See reproducibility_documentation.json
-- Gold standard: Z:/Corpus/Corpus_Gold/page (PAGE XML format)
+- Gold standard: {GOLD_STANDARD_DIR} (PAGE XML format)
 
 For results section:
 - Use LaTeX tables from ocr_latex_tables.tex
@@ -397,7 +403,9 @@ End of Report
 
 def main():
     """Generate all book chapter materials"""
-    results_dir = Path(r'Z:\OCR Evaluation\results')
+    results_dir = DEFAULT_RESULTS_DIR
+    if not results_dir.is_dir():
+        sys.exit(f"ERROR: Results directory not found: {results_dir}")
 
     print("="*80)
     print("GENERATING OCR BOOK CHAPTER MATERIALS")

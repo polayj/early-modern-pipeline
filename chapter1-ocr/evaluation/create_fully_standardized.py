@@ -7,7 +7,7 @@ Standardization:
 - Convert to lowercase
 - Strip leading/trailing whitespace
 
-Output: /mnt/z/standardized/
+Output: chapter1-ocr/results/standardized/
   - Gold_Standard/
   - OlmOCRv2/
   - OlmOCRv1/
@@ -22,16 +22,22 @@ Output: /mnt/z/standardized/
 """
 
 import re
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
 # Source directories
-GOLD_STANDARD_DIR = Path("Z:/Corpus/Corpus_Gold/page")
-EXISTING_STANDARDIZED_DIR = Path("Z:/OCR Evaluation/standardized")
+GOLD_STANDARD_DIR = REPO_CH1 / "gold-standard" / "page-xml"
+EXISTING_STANDARDIZED_DIR = REPO_CH1 / "gold-standard" / "per-system-outputs"
 
 # Output directory
-OUTPUT_DIR = Path("Z:/standardized")
+OUTPUT_DIR = REPO_CH1 / "results" / "standardized"
 
+# NOTE: "Tesseract-v3.02" and "Chandra-Home" outputs were not archived in this
+# repo; those systems are skipped (with a message) unless the data is restored.
 OCR_SYSTEMS = [
     "OlmOCRv2", "OlmOCRv1", "Tesseract", "Tesseract-Legacy", "Tesseract-v3.02",
     "EasyOCR", "Kraken", "MinerU", "DeepSeek", "Gemini", "Transkribus", "Chandra-Home",
@@ -167,6 +173,12 @@ def main():
     print("  - Single space between words")
     print("  - Strip leading/trailing whitespace")
 
+    # Fail fast if the input directories are missing
+    if not GOLD_STANDARD_DIR.exists():
+        sys.exit(f"ERROR: Gold standard directory not found: {GOLD_STANDARD_DIR}")
+    if not EXISTING_STANDARDIZED_DIR.exists():
+        sys.exit(f"ERROR: Per-system OCR outputs directory not found: {EXISTING_STANDARDIZED_DIR}")
+
     # Create output directory
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -188,7 +200,7 @@ def main():
 
     print(f"\nAll files saved to: {OUTPUT_DIR}")
     print("\nFolder structure:")
-    print("  Z:/standardized/")
+    print(f"  {OUTPUT_DIR}/")
     print("    Gold_Standard/")
     for system in OCR_SYSTEMS:
         print(f"    {system}/")

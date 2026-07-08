@@ -5,15 +5,21 @@ Categorizes ALL errors to support valid percentage claims.
 """
 
 import re
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 import difflib
 from collections import defaultdict
 
-GOLD_DIR = Path("/mnt/z/Corpus/Corpus_Gold/page")
-STANDARDIZED_DIR = Path("/mnt/z/OCR Evaluation/standardized")
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
+GOLD_DIR = REPO_CH1 / "gold-standard" / "page-xml"
+STANDARDIZED_DIR = REPO_CH1 / "gold-standard" / "per-system-outputs"
 TARGET_WORDS = 5000
 
+# NOTE: "Chandra-Home" outputs were not archived in this repo; that system is
+# skipped (with a message) unless the data is restored.
 OCR_SYSTEMS = [
     "OlmOCRv2", "OlmOCRv1", "Tesseract", "EasyOCR", "Kraken",
     "MinerU", "DeepSeek", "Gemini", "Transkribus", "Chandra-Home"
@@ -173,6 +179,7 @@ def analyze_system(system_name):
     """Analyze one OCR system."""
     ocr_dir = STANDARDIZED_DIR / system_name
     if not ocr_dir.exists():
+        print(f"  Skipping - directory not found: {ocr_dir}")
         return None
 
     gold_files = sorted(GOLD_DIR.glob("*.xml"))
@@ -230,6 +237,9 @@ def main():
     print("=" * 80)
     print("COMPREHENSIVE OCR ERROR ANALYSIS")
     print("=" * 80)
+
+    if not GOLD_DIR.is_dir():
+        sys.exit(f"ERROR: Gold standard directory not found: {GOLD_DIR}")
 
     results = {}
 

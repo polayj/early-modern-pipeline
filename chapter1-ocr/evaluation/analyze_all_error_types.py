@@ -15,14 +15,18 @@ This allows us to say "X% of all OCR errors were [category]" with confidence.
 
 import os
 import re
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from collections import Counter, defaultdict
 import difflib
 
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
 # Paths
-GOLD_STANDARD_DIR = r"/mnt/z/Corpus/Corpus_Gold/page"
-STANDARDIZED_DIR = r"/mnt/z/OCR Evaluation/standardized"
+GOLD_STANDARD_DIR = str(REPO_CH1 / "gold-standard" / "page-xml")
+STANDARDIZED_DIR = str(REPO_CH1 / "gold-standard" / "per-system-outputs")
 
 OCR_SYSTEMS = {
     "OlmOCRv2": f"{STANDARDIZED_DIR}/OlmOCRv2",
@@ -34,7 +38,7 @@ OCR_SYSTEMS = {
     "DeepSeek": f"{STANDARDIZED_DIR}/DeepSeek",
     "Gemini": f"{STANDARDIZED_DIR}/Gemini",
     "Transkribus": f"{STANDARDIZED_DIR}/Transkribus",
-    "Chandra-Home": f"{STANDARDIZED_DIR}/Chandra-Home",
+    "Chandra-Home": f"{STANDARDIZED_DIR}/Chandra-Home",  # not archived in this repo (skipped with a message)
 }
 
 TARGET_WORDS = 5000
@@ -255,6 +259,8 @@ def find_matching_ocr_file(gold_filename, ocr_dir):
 def analyze_corpus(target_words=5000):
     """Analyze corpus and categorize all errors."""
     gold_path = Path(GOLD_STANDARD_DIR)
+    if not gold_path.is_dir():
+        sys.exit(f"ERROR: Gold standard directory not found: {gold_path}")
     gold_files = sorted(gold_path.glob("*.xml"))
 
     all_results = {}

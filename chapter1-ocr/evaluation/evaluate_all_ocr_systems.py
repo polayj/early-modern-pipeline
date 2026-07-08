@@ -15,12 +15,18 @@ from datetime import datetime
 # CONFIGURATION - Edit this section to customize your evaluation
 # ============================================================================
 
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
+# Archived per-system OCR outputs (standardized) shipped with this repository
+PER_SYSTEM_DIR = REPO_CH1 / "gold-standard" / "per-system-outputs"
+
 # Path to your gold standard XML files
-GOLD_STANDARD_DIR = r"Z:\Corpus\Corpus_Gold\page"
+GOLD_STANDARD_DIR = str(REPO_CH1 / "gold-standard" / "page-xml")
 
 # Directory where timestamped results will be saved
 # Results will be saved to: OUTPUT_DIR/evaluation_YYYYMMDD_HHMMSS/
-OUTPUT_DIR = r"Z:\OCR Evaluation\results"
+OUTPUT_DIR = str(REPO_CH1 / "results" / "full-runs")
 
 # Strip markdown headers (lines starting with #) from OCR outputs
 # Set to True if some OCR systems include titles while others don't
@@ -32,7 +38,8 @@ STRIP_MARKDOWN_HEADERS = False
 USE_STANDARDIZED = True
 
 # Path to standardized files (only used if USE_STANDARDIZED = True)
-STANDARDIZED_DIR = r"Z:\standardized"
+# The archived per-system outputs in this repo are the standardized versions.
+STANDARDIZED_DIR = str(PER_SYSTEM_DIR)
 
 # ============================================================================
 # OCR SYSTEMS CONFIGURATION
@@ -40,36 +47,36 @@ STANDARDIZED_DIR = r"Z:\standardized"
 # Add or remove OCR systems here. Each entry is a tuple: (name, path_to_md_files)
 #
 # To add a new OCR system:
-#   1. Add a new line: ("SystemName", r"Z:\Path\To\System\md"),
+#   1. Add a new line: ("SystemName", str(PER_SYSTEM_DIR / "SystemName")),
 #
 # To temporarily disable an OCR system:
 #   - Add # at the start of the line to comment it out
-#   - Example: # ("Tesseract", r"Z:\Tesseract\completed\md"),
+#   - Example: # ("Tesseract", str(PER_SYSTEM_DIR / "Tesseract")),
 #
 # To permanently remove an OCR system:
 #   - Delete the entire line
 # ============================================================================
 
 OCR_SYSTEMS = [
-    # Active OCR Systems (edit paths as needed for your setup)
-    ("Tesseract", r"Z:\Tesseract\completed\md"),
-    ("Tesseract-Legacy", r"Z:\Tesseract\output_legacy\md"),
-    #("Tesseract-v3.02", r"Z:\Tesseract\tesseract_v3.02\output\md"),
-    ("EasyOCR", r"Z:\EasyOCR\completed\md"),
-    ("Kraken", r"Z:\Kraken\completed\md"),
-    ("Gemini", r"Z:\Gemini\completed"),
-    ("MinerU", r"Z:\MinerU\md"),
-    ("OlmOCRv1", r"Z:\OlmOCR\complete\md"),
-    ("OlmOCRv2", r"Z:\OlmOCR\complete_v2\md"),
-    #("OlmOCR-Ensemble", r"Z:\OlmOCR\ensemble\md"),
-    ("Transkribus", r"Z:\Transkribus Raw\Print"),
-    ("DeepSeek", r"Z:\DeepSeek\DeepSeek-OCR\complete\md"),
-    ("Chandra-1", r"Z:\Chandra\complete\md"),
-    ("LightOn", r"Z:\LightOn\outputs\md"),
-    ("Chandra-2", r"Z:\Chandra\complete_chandra2\md"),
+    # Active OCR Systems (archived standardized outputs shipped with the repo)
+    ("Tesseract", str(PER_SYSTEM_DIR / "Tesseract")),
+    ("Tesseract-Legacy", str(PER_SYSTEM_DIR / "Tesseract-Legacy")),
+    #("Tesseract-v3.02", str(PER_SYSTEM_DIR / "Tesseract-v3.02")),  # outputs not archived in this repo
+    ("EasyOCR", str(PER_SYSTEM_DIR / "EasyOCR")),
+    ("Kraken", str(PER_SYSTEM_DIR / "Kraken")),
+    ("Gemini", str(PER_SYSTEM_DIR / "Gemini")),
+    ("MinerU", str(PER_SYSTEM_DIR / "MinerU")),
+    ("OlmOCRv1", str(PER_SYSTEM_DIR / "OlmOCRv1")),
+    ("OlmOCRv2", str(PER_SYSTEM_DIR / "OlmOCRv2")),
+    #("OlmOCR-Ensemble", str(PER_SYSTEM_DIR / "OlmOCR-Ensemble")),  # outputs not archived in this repo
+    ("Transkribus", str(PER_SYSTEM_DIR / "Transkribus")),
+    ("DeepSeek", str(PER_SYSTEM_DIR / "DeepSeek")),
+    ("Chandra-1", str(PER_SYSTEM_DIR / "Chandra-1")),
+    ("LightOn", str(PER_SYSTEM_DIR / "LightOn")),
+    ("Chandra-2", str(PER_SYSTEM_DIR / "Chandra-2")),
 
     # Add new OCR systems below this line:
-    # ("NewSystem", r"Z:\NewSystem\completed\md"),
+    # ("NewSystem", str(PER_SYSTEM_DIR / "NewSystem")),
 ]
 
 # ============================================================================

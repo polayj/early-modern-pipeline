@@ -8,27 +8,33 @@ rather than character misrecognition.
 
 import os
 import re
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from collections import Counter
 import difflib
 
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
 # Paths - adjust as needed
-GOLD_STANDARD_DIR = r"/mnt/z/Corpus/Corpus_Gold/page"
+GOLD_STANDARD_DIR = str(REPO_CH1 / "gold-standard" / "page-xml")
 
 # Use standardized versions (no Chandra available in standardized)
 USE_STANDARDIZED = True
-STANDARDIZED_DIR = r"/mnt/z/OCR Evaluation/standardized"
+STANDARDIZED_DIR = str(REPO_CH1 / "gold-standard" / "per-system-outputs")
 
+# NOTE: The raw (unstandardized) OCR outputs were not archived in this repo;
+# these entries point at the archived standardized per-system outputs instead.
 OCR_DIRS = {
-    "OlmOCRv2": r"/mnt/z/OlmOCR/complete_v2/md",
-    "OlmOCRv1": r"/mnt/z/OlmOCR/complete/md",
-    "Tesseract": r"/mnt/z/Tesseract/completed/md",
-    "EasyOCR": r"/mnt/z/EasyOCR/completed/md",
-    "Kraken": r"/mnt/z/Kraken/completed/md",
-    "MinerU": r"/mnt/z/MinerU/md",
-    "DeepSeek": r"/mnt/z/DeepSeek/DeepSeek-OCR/complete/md",
-    "Gemini": r"/mnt/z/Gemini/completed",
+    "OlmOCRv2": f"{STANDARDIZED_DIR}/OlmOCRv2",
+    "OlmOCRv1": f"{STANDARDIZED_DIR}/OlmOCRv1",
+    "Tesseract": f"{STANDARDIZED_DIR}/Tesseract",
+    "EasyOCR": f"{STANDARDIZED_DIR}/EasyOCR",
+    "Kraken": f"{STANDARDIZED_DIR}/Kraken",
+    "MinerU": f"{STANDARDIZED_DIR}/MinerU",
+    "DeepSeek": f"{STANDARDIZED_DIR}/DeepSeek",
+    "Gemini": f"{STANDARDIZED_DIR}/Gemini",
 }
 
 # Standardized paths (used if USE_STANDARDIZED=True)
@@ -213,11 +219,15 @@ def find_matching_ocr_file(gold_filename, ocr_dir):
 def analyze_corpus_subset(target_words=5000):
     """Analyze a subset of the corpus up to target_words."""
     gold_path = Path(GOLD_STANDARD_DIR)
+    if not gold_path.is_dir():
+        sys.exit(f"ERROR: Gold standard directory not found: {gold_path}")
     gold_files = sorted(gold_path.glob("*.xml"))
 
     results_by_system = {}
 
     for ocr_system, ocr_dir in OCR_DIRS.items():
+        if not Path(ocr_dir).is_dir():
+            sys.exit(f"ERROR: OCR output directory not found for {ocr_system}: {ocr_dir}")
         print(f"\nAnalyzing {ocr_system}...")
 
         total_words = 0

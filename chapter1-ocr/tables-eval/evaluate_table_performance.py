@@ -7,6 +7,7 @@ standardized table outputs against gold standard transcriptions.
 """
 
 import re
+import sys
 from pathlib import Path
 from typing import Dict, List, Tuple
 import pandas as pd
@@ -158,10 +159,12 @@ def main():
     print("=" * 80)
     print()
 
-    # Setup paths
-    tables_dir = Path(r"Z:\Tables")
+    # Setup paths (data ships alongside this script in chapter1-ocr/tables-eval/)
+    tables_dir = Path(__file__).resolve().parent
     gold_dir = tables_dir / "goldstandard"
     output_dir = tables_dir / "results"
+    if not gold_dir.is_dir():
+        sys.exit(f"ERROR: Gold standard directory not found: {gold_dir}")
     output_dir.mkdir(exist_ok=True)
 
     # OCR systems to evaluate (excluding Chandra which has no .md files)

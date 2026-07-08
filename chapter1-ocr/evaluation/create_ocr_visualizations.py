@@ -8,6 +8,11 @@ import seaborn as sns
 from pathlib import Path
 import numpy as np
 import argparse
+import sys
+
+# Repo-relative default: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+DEFAULT_RESULTS_DIR = REPO_CH1 / "results" / "full-runs"
 
 # Set style
 plt.style.use('seaborn-v0_8-darkgrid')
@@ -293,9 +298,13 @@ def main():
     parser = argparse.ArgumentParser(description='Create visualizations from OCR evaluation results')
     parser.add_argument('--folder', '-f', type=str, default=None,
                         help='Specific evaluation folder to visualize (e.g., "evaluation_20250112_143025"). If not specified, uses the latest.')
+    parser.add_argument('--results-dir', type=str, default=str(DEFAULT_RESULTS_DIR),
+                        help=f'Directory containing evaluation_* result folders (default: {DEFAULT_RESULTS_DIR})')
     args = parser.parse_args()
 
-    results_dir = Path(r'Z:\OCR Evaluation\results')
+    results_dir = Path(args.results_dir)
+    if not results_dir.is_dir():
+        sys.exit(f"ERROR: Results directory not found: {results_dir}")
 
     print("="*80)
     print("CREATING OCR EVALUATION VISUALIZATIONS")

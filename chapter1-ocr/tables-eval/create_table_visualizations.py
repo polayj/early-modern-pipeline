@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
 import numpy as np
+import sys
 
 # Set style
 plt.style.use('seaborn-v0_8-darkgrid')
@@ -223,7 +224,10 @@ def create_error_type_distribution(summary_df, output_dir):
 
 def main():
     """Generate all table visualizations"""
-    results_dir = Path(r'Z:\Tables\results')
+    # Results ship alongside this script in chapter1-ocr/tables-eval/results/
+    results_dir = Path(__file__).resolve().parent / 'results'
+    if not results_dir.is_dir():
+        sys.exit(f"ERROR: Results directory not found: {results_dir}")
 
     print("=" * 80)
     print("CREATING TABLE EVALUATION VISUALIZATIONS")

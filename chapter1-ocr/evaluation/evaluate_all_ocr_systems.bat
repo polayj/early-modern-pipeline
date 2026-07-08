@@ -7,7 +7,7 @@ echo BATCH OCR EVALUATION
 echo ================================================================================
 echo.
 
-cd /d "Z:\OCR Evaluation"
+cd /d "%~dp0"
 
 python evaluate_all_ocr_systems.py
 

@@ -90,7 +90,7 @@ def process_ocr_system(system_name: str, source_dir: Path, output_base_dir: Path
     Args:
         system_name: Name of the OCR system (e.g., "Tesseract")
         source_dir: Source directory with original files
-        output_base_dir: Base output directory (e.g., "Z:\OCR Evaluation\standardized")
+        output_base_dir: Base output directory (e.g., the "standardized" folder next to this script)
         pattern: File pattern to match (e.g., "*.md")
 
     Returns:
@@ -137,7 +137,7 @@ Examples:
   python standardize_text.py
 
   # Specify custom output directory
-  python standardize_text.py --output "Z:\\OCR Evaluation\\standardized_v2"
+  python standardize_text.py --output "standardized_v2"
 
   # Use different file pattern
   python standardize_text.py --pattern "*.txt"

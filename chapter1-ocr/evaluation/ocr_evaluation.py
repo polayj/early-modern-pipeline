@@ -152,14 +152,22 @@ def calculate_hallucination_rate(reference: str, hypothesis: str) -> Tuple[float
     if not hyp_words:
         return 0.0, 0, 0
 
-    # Create set of reference words for fast lookup
+    def clean(word: str) -> str:
+        return ''.join(c for c in word if c.isalnum()).lower()
+
+    # Compare punctuation-stripped tokens on BOTH sides: gold "fox." vs OCR
+    # "fox" is punctuation divergence, not a hallucinated word. Comparing raw
+    # tokens against the reference set inflated hallucination rates for every
+    # system, since adjacent-punctuation differences are among the most common
+    # OCR variations.
     ref_word_set = set(ref_words)
+    ref_word_set_cleaned = {clean(w) for w in ref_words}
 
     # Get English dictionary
     english_words = get_english_words()
 
     # Find words in hypothesis that:
-    # 1. Do NOT appear in reference text
+    # 1. Do NOT appear in reference text (ignoring adjacent punctuation)
     # 2. ARE valid English words (hallucinations)
     hallucinated_words = []
 
@@ -168,12 +176,14 @@ def calculate_hallucination_rate(reference: str, hypothesis: str) -> Tuple[float
         if word in ref_word_set:
             continue
 
-        # Remove punctuation for dictionary check
-        word_cleaned = ''.join(c for c in word if c.isalnum())
+        # Remove punctuation for dictionary + reference checks
+        word_cleaned = clean(word)
+        if word_cleaned in ref_word_set_cleaned:
+            continue
 
         # Check if it's a real English word
         # We check both the word itself and cleaned version
-        if word_cleaned and (word.lower() in english_words or word_cleaned.lower() in english_words):
+        if word_cleaned and (word.lower() in english_words or word_cleaned in english_words):
             hallucinated_words.append(word)
 
     total_hallucinated = len(hallucinated_words)
@@ -423,7 +433,10 @@ def calculate_significant_word_accuracy(reference: str, hypothesis: str) -> Tupl
     distance, _, _, _ = levenshtein_distance_detailed(ref_significant, hyp_significant)
     total_significant = len(ref_significant)
 
-    accuracy = 1.0 - (distance / total_significant) if total_significant > 0 else 1.0
+    # Clamp at 0: distance includes insertions from the hypothesis, so verbose
+    # systems can exceed the reference-word denominator. Matches the clamping
+    # convention in tables-eval/evaluate_table_performance.py.
+    accuracy = max(0.0, 1.0 - (distance / total_significant)) if total_significant > 0 else 1.0
 
     return accuracy, total_significant, distance
 
@@ -469,7 +482,8 @@ def calculate_capitalized_word_accuracy(reference_original: str, hypothesis_orig
     distance, _, _, _ = levenshtein_distance_detailed(ref_cap_lower, hyp_cap_lower)
     total_capitalized = len(ref_capitalized)
 
-    accuracy = 1.0 - (distance / total_capitalized) if total_capitalized > 0 else 1.0
+    # Clamp at 0 (see calculate_significant_word_accuracy)
+    accuracy = max(0.0, 1.0 - (distance / total_capitalized)) if total_capitalized > 0 else 1.0
 
     return accuracy, total_capitalized, distance
 
@@ -506,7 +520,8 @@ def calculate_number_group_accuracy(reference: str, hypothesis: str) -> Tuple[fl
     distance, _, _, _ = levenshtein_distance_detailed(ref_numbers, hyp_numbers)
     total_numbers = len(ref_numbers)
 
-    accuracy = 1.0 - (distance / total_numbers) if total_numbers > 0 else 1.0
+    # Clamp at 0 (see calculate_significant_word_accuracy)
+    accuracy = max(0.0, 1.0 - (distance / total_numbers)) if total_numbers > 0 else 1.0
 
     return accuracy, total_numbers, distance
 

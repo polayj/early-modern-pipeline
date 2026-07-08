@@ -5,6 +5,8 @@ Handles both hyphenated (Im- porter) and non-hyphenated (sur prise) splits.
 """
 
 import re
+import shutil
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import List, Tuple, Set
@@ -67,10 +69,13 @@ def load_dictionary() -> Set[str]:
         except FileNotFoundError:
             continue
 
-    # Fallback: Empty set with warning
-    print("WARNING: No dictionary found. Install PyEnchant (pip install pyenchant) or NLTK (pip install nltk)")
-    print("Proceeding without dictionary validation - all merges will be applied!")
-    return set()
+    # No dictionary means is_valid_word() would accept every merge candidate,
+    # silently corrupting the gold standard — abort instead of proceeding.
+    print("ERROR: No dictionary found. Install PyEnchant (pip install pyenchant),")
+    print("  NLTK (pip install nltk), or a system word list (/usr/share/dict/words).")
+    print("  Refusing to run without dictionary validation: every candidate merge")
+    print("  would be applied, corrupting the gold standard.")
+    sys.exit(1)
 
 
 def is_valid_word(word: str, dictionary: Set[str]) -> bool:
@@ -184,8 +189,12 @@ def fix_hyphenation_in_file(xml_path: Path, dictionary: Set[str], dry_run: bool 
                                 'line2': next_text[:50] + '...' if len(next_text) > 50 else next_text
                             })
 
-    # Save the modified XML
+    # Save the modified XML (keep a one-time backup — this rewrites the
+    # gold standard in place)
     if fixes_made > 0 and not dry_run:
+        backup_path = xml_path.with_suffix(xml_path.suffix + '.bak')
+        if not backup_path.exists():
+            shutil.copy2(xml_path, backup_path)
         try:
             tree.write(str(xml_path), encoding='UTF-8', xml_declaration=True, method='xml')
         except Exception as e:

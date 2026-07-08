@@ -2,6 +2,7 @@
 """Quick script to standardize only Tesseract v3.02 outputs."""
 
 import re
+import sys
 from pathlib import Path
 
 def fully_standardize(text):
@@ -28,9 +29,19 @@ def extract_text_from_md(md_path):
         print(f"  Error reading {md_path.name}: {e}")
         return ""
 
+# Repo-relative defaults: chapter1-ocr/ is the parent of this script's directory
+REPO_CH1 = Path(__file__).resolve().parents[1]
+
 # Source and output directories
-SOURCE_DIR = Path("Z:/Tesseract/tesseract_v3.02/output/md")
-OUTPUT_DIR = Path("Z:/standardized/Tesseract-v3.02")
+# NOTE: Tesseract v3.02 raw outputs were not archived in this repo; place them
+# in this placeholder directory to re-run this script.
+SOURCE_DIR = REPO_CH1 / "gold-standard" / "per-system-outputs" / "Tesseract-v3.02"
+OUTPUT_DIR = REPO_CH1 / "results" / "standardized" / "Tesseract-v3.02"
+
+if not SOURCE_DIR.exists():
+    sys.exit(f"ERROR: Source directory not found: {SOURCE_DIR}\n"
+             "Tesseract v3.02 outputs were not archived in this repository.")
+
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 print("Processing Tesseract-v3.02...")

@@ -63,6 +63,15 @@ The metrics computed match those in the thesis:
 - **HR** (Hallucination Rate)
 - Character-level quality score
 
+> **Note on re-runs vs. thesis numbers:** two metric corrections were applied
+> after the thesis evaluation runs: (1) hallucination detection now compares
+> punctuation-stripped tokens on both sides, so gold `fox.` vs OCR `fox` no
+> longer counts as a hallucinated word (thesis-era HR values are slightly
+> inflated for all systems); (2) the word-accuracy metrics are clamped at 0
+> instead of going negative for highly verbose systems. Re-runs will therefore
+> differ slightly from the archived CSVs in `results/`, which preserve the
+> thesis-era values.
+
 ## Notes on running the OCR systems themselves
 
 This repository does *not* re-run the OCR systems on the source images — it evaluates their outputs against the gold standard. To regenerate the per-system outputs you would need to install each system separately (see each system's documentation linked in `evaluation/README_OCR_EVALUATION.md`). The transformer-based systems require GPU.
