@@ -37,8 +37,9 @@ from transformers import (
     TrainerCallback,
 )
 
-# Add project root to path for imports
-sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+# Add the package directory (chapter2-ner/earlymodernner) to the path so the
+# earlymodernner package is importable without a pip install
+sys.path.insert(0, str(Path(__file__).parent.parent / "earlymodernner"))
 
 from earlymodernner.pipeline import extract_entities_from_text
 from earlymodernner.metrics import compute_unique_entity_f1

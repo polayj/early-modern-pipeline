@@ -198,7 +198,7 @@ def main():
                         help="LLM API base URL — OpenAI-compatible (vLLM, Ollama, etc). "
                              "Default: $LLM_URL or $OLLAMA_HOST or localhost:8000")
     parser.add_argument("--llm-model", default="",
-                        help="Model name (default: auto-detect from config, or Qwen/Qwen3.5-35B-A3B)")
+                        help="Model name (default: Qwen/Qwen3.5-35B-A3B)")
     parser.add_argument("--limit", type=int, default=0,
                         help="Process only first N per-doc files (0 = all)")
     parser.add_argument("--watch", action="store_true",
@@ -233,17 +233,7 @@ def main():
         print("NOTE: No GeoNames username provided. Place lookups will use Wikidata only.")
         print("  Register free at geonames.org, then use --geonames-user USERNAME\n")
 
-    # Auto-detect LLM model
-    llm_model = args.llm_model
-    if not llm_model:
-        config_path = Path("lightrag_config.yaml")
-        if config_path.exists():
-            for line in config_path.read_text().splitlines():
-                if "llm_model" in line and ":" in line:
-                    llm_model = line.split(":", 1)[1].strip().strip('"').strip("'")
-                    break
-        if not llm_model:
-            llm_model = "Qwen/Qwen3.5-35B-A3B"
+    llm_model = args.llm_model or "Qwen/Qwen3.5-35B-A3B"
 
     print(f"NER dir:       {ner_dir}")
     print(f"Output dir:    {output_dir}")

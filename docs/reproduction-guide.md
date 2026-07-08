@@ -16,7 +16,7 @@ How to re-run the work in this repository, end to end. For chapter-specific inst
 
 - Python 3.11+
 - For GPU work: CUDA 12.1+ and a GPU with ≥24GB VRAM (the EarlyModernNER adapters were trained on RTX 4090; inference works on smaller cards)
-- For Chapter 3: Docker (for Neo4j and ChromaDB) and Ollama (for local LLM serving in the LightRAG path)
+- For Chapter 3: Docker (for Neo4j and ChromaDB) and Ollama (for local LLM serving)
 
 ## Step 1 — Clone
 
@@ -78,7 +78,8 @@ docker compose -f docker/unraid/chromadb.compose.yml up -d
 
 # 2. Option A: load the prebuilt knowledge graph (fast)
 unzip <zenodo-knowledge-graph.zip> -d /tmp/kg
-# (see Zenodo deposit README for cypher-shell load command)
+# copy nodes.csv + edges.csv into Neo4j's import dir, then:
+python pipeline/04_graph/load_neo4j.py --wipe
 
 # 2. Option B: rebuild from OCR + NER outputs (slow, GPU required)
 bash pipeline/run_pipeline.sh

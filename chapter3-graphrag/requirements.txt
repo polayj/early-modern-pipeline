@@ -10,19 +10,15 @@ earlymodernner
 SPARQLWrapper>=2.0              # SPARQL endpoint queries (Wikidata, Getty AAT)
 rdflib>=7.0                     # RDF/Turtle serialization (LINCS export)
 
-# Step 4 — Temporal KG extraction (school computer)
-itext2kg                        # ATOM graph builder
-langchain
-langchain-ollama                # ChatOllama (Qwen3 via local Ollama)
-langchain-huggingface           # HuggingFaceEmbeddings (Qwen3-Embedding-8B)
-langchain-neo4j                 # Neo4jGraph + GraphCypherQAChain
-langchain-core
+# Step 4 — Knowledge graph (school computer)
 sentence-transformers>=3.0      # backend for Qwen3-Embedding-8B
-neo4j                           # Python driver for Neo4j bolt protocol
+neo4j                           # Python driver for Neo4j bolt protocol (load_neo4j.py)
 pyyaml                          # config file parsing
 
 # Step 5 — Vector embeddings (school computer)
 chromadb                        # vector store (server mode on Unraid or local)
 
 # Step 6 — Query (any machine)
-langchain-chroma                # LangChain ↔ ChromaDB integration
+langchain-ollama                # ChatOllama (Qwen3 via local Ollama)
+langchain-neo4j                 # Neo4jGraph + GraphCypherQAChain
+langchain-core

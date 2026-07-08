@@ -456,9 +456,8 @@ def main():
                         help="Directory of OCR markdown files (default: output/ocr_md)")
     parser.add_argument("--output", default="output/relations_output",
                         help="Output directory (default: output/relations_output)")
-    parser.add_argument("--model", default="",
-                        help="Model name (default: read from lightrag_config.yaml, "
-                             "fallback Qwen/Qwen3.5-35B-A3B)")
+    parser.add_argument("--model", default="Qwen/Qwen3.5-35B-A3B",
+                        help="Model name (default: Qwen/Qwen3.5-35B-A3B)")
     parser.add_argument("--llm-url",
                         default=os.environ.get("LLM_URL",
                             os.environ.get("OLLAMA_URL",
@@ -493,17 +492,7 @@ def main():
         print(f"Using enriched (entity-linked) NER from: {ner_dir}")
         print(f"  Authority URIs will be included in relation output.")
 
-    # ── Resolve model name ──────────────────────────────────────────────────
     model = args.model
-    if not model:
-        config_path = Path("lightrag_config.yaml")
-        if config_path.exists():
-            for line in config_path.read_text().splitlines():
-                if "llm_model" in line and ":" in line:
-                    model = line.split(":", 1)[1].strip().strip('"').strip("'")
-                    break
-    if not model:
-        model = "Qwen/Qwen3.5-35B-A3B"
     sentinel = Path(args.done_sentinel)
 
     print(f"Model:         {model}")

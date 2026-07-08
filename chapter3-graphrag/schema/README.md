@@ -11,7 +11,11 @@ The Neo4j knowledge-graph schema for the Chapter 3 GraphRAG system.
 
 - **218,523 nodes** / **691,577 edges**
 - Built by `pipeline/04_graph/build_graph_final.py` and loaded with
-  `pipeline/04_graph/load_neo4j.py`
+  `pipeline/04_graph/load_neo4j.py`. **Note:** the original
+  `build_graph_final.py` (the Wikidata-enriched successor to
+  `build_graph.py`) was not archived with the repo and is pending
+  recovery; the in-repo `load_neo4j.py` is a faithful reconstruction of
+  the loader from the procedure documented in `schema.cypher`.
 - Exported as `nodes.csv` + `edges.csv`. `edges.csv` is ~112 MB, so the full
   export is **not** in this repo — it ships in the Zenodo **knowledge-graph
   deposit** along with the ChromaDB vector index and the 10-document

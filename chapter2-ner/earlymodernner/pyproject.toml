@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "earlymodernner"
-version = "0.2.1"
+dynamic = ["version"]
 description = "Named Entity Recognition for Early Modern English documents (1500-1800)"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -53,12 +53,10 @@ Repository = "https://github.com/polayj/earlymodernner"
 earlymodernner = "earlymodernner.__main__:main"
 
 [tool.setuptools]
-packages = ["earlymodernner", "dev"]
+packages = ["earlymodernner"]
 
-[tool.setuptools.package-data]
-dev = [
-    "config/*.yaml",
-]
+[tool.setuptools.dynamic]
+version = {attr = "earlymodernner.version.VERSION"}
 
 [tool.setuptools.exclude-package-data]
 "*" = ["_archive", "_archive/**"]

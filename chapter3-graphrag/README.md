@@ -31,7 +31,6 @@ chapter3-graphrag/
 │   ├── 03_ner/                        # NER + entity linking + LOD lookups
 │   ├── 04_graph/                      # Graph construction
 │   ├── 05_embed/                      # Vector embeddings
-│   ├── 05_lightrag/                   # LightRAG ingest + query
 │   ├── 06_query/                      # Query interfaces
 │   ├── nibi/                          # SLURM scripts for the U of S 'nibi' cluster
 │   └── run_pipeline.sh
@@ -80,11 +79,10 @@ Step 02 — OCR PDFs                       (Phase B; GPU on school computer)
 Step 03 — NER over OCR text              (Phase B; uses EarlyModernNER from Chapter 2)
 Step 04 — Build knowledge graph          (Phase B)
    ├── extract_relations.py
-   ├── build_graph.py                    → Neo4j (218K nodes, 692K edges per thesis)
-   └── import_records_to_docs.py
+   ├── build_graph.py                    → nodes/edges CSVs
+   └── load_neo4j.py                     → Neo4j (218K nodes, 692K edges per thesis)
 Step 05 — Vector embeddings              (Phase B)
    └── generate_embeddings.py            → ChromaDB index
-Step 05b — LightRAG ingest               (Phase B; alternative retrieval path)
 Step 06 — Query                          (Phase B)
    └── Improved Scratchpad retrieval
 ```
